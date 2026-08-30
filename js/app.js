@@ -989,10 +989,17 @@
       var src = nSource(item);
       var cat = classifyNews(text);
       var tagLabels = { policy: "政策", international: "国际", society: "社会", economy: "经济", tech: "科技", hot: "热点" };
+      /* 日期标签优先级：条目自带发布时间 > 标题里的「X月X日」> 来源语义。
+         内置按月模板没有具体日期，标所属月份，不能笼统标「今日」误导。 */
       var dateLabel = (function () {
+        if (item && typeof item === "object" && item.pubDate) {
+          var pd = new Date(item.pubDate);
+          if (!isNaN(pd.getTime())) return (pd.getMonth() + 1) + "/" + pd.getDate();
+        }
         var m = text.match(/(\d{1,2})月(\d{1,2})日?/);
         if (m) return m[1] + "/" + m[2];
-        return "今日";
+        if (newsSrc() === "ai") return "今日";
+        return (newsArchiveMonth > 0 ? newsArchiveMonth : (new Date().getMonth() + 1)) + "月";
       })();
       var fav = isNewsFav(text);
       var exams = examTags(text);
@@ -1269,8 +1276,10 @@
     /* 时政：搜索 / 收藏切换 / 按月归档 */
     (function initNewsArchive() {
       var sel = document.getElementById("newsArchive"); if (!sel) return;
+      /* 12 个月是全年备考重点提纲（考公时政有强月份规律），不是「已发生月份的存档」 */
+      sel.title = "内置要点按月份梳理全年备考重点，可提前预习后续月份的高频考点";
       for (var m = 1; m <= 12; m++) {
-        var o = document.createElement("option"); o.value = m; o.textContent = m + "月时政要点"; sel.appendChild(o);
+        var o = document.createElement("option"); o.value = m; o.textContent = m + "月 · 备考重点"; sel.appendChild(o);
       }
     })();
     syncNewsSrcUI(); /* 恢复上次选择的时政来源 */
