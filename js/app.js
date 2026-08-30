@@ -1384,7 +1384,7 @@
         navigator.serviceWorker.ready.then(function (reg) {
           reg.showNotification("⏱ 考公工作台 · 计时中", {
             tag: "kaogong-timer", renotify: false,
-            body: body, icon: "icon-192.png", badge: "icon-192.png",
+            body: body,
             data: { page: "timer" },
             actions: [{ action: "pause", title: "暂停计时" }]
           });
@@ -2344,7 +2344,7 @@
         var body = "该学习啦！";
         if (due > 0) body += "今日有 " + due + " 题待复习。";
         if (Notification.permission === "granted") {
-          new Notification("考公工作台提醒", { body: body, icon: "icon-192.png", badge: "icon-192.png" });
+          new Notification("考公工作台提醒", { body: body });
         }
         cfg.lastNotified = today;
         save("reminder", cfg);
@@ -2435,13 +2435,13 @@
       var changed = false;
       cfg.items.forEach(function (m) {
         if (m.date === today && m.time === hm && m.notified !== today) {
-          try { new Notification("模考提醒", { body: "今天的模考「" + m.name + "」" + (m.time || "") + " 开始，加油！", icon: "icon-192.png", badge: "icon-192.png" }); } catch (e) {}
+          try { new Notification("模考提醒", { body: "今天的模考「" + m.name + "」" + (m.time || "") + " 开始，加油！" }); } catch (e) {}
           m.notified = today; changed = true;
         }
         if (m.remindDayBefore !== false) {
           var tm = new Date(m.date + "T00:00:00"); var y = new Date(); y.setHours(0, 0, 0, 0); var diff = Math.round((tm - y) / 86400000);
           if (diff === 1 && hm === "20:00" && m.notified !== "pre-" + today) {
-            try { new Notification("模考提醒", { body: "明天「" + m.name + "」" + (m.time || "") + " 开考，记得准备准考证和文具", icon: "icon-192.png", badge: "icon-192.png" }); } catch (e) {}
+            try { new Notification("模考提醒", { body: "明天「" + m.name + "」" + (m.time || "") + " 开考，记得准备准考证和文具" }); } catch (e) {}
             m.notified = "pre-" + today; changed = true;
           }
         }
@@ -2471,7 +2471,7 @@
     if (mockTestBtn) mockTestBtn.addEventListener("click", function () {
       if (typeof Notification === "undefined") { toast("此浏览器不支持通知"); return; }
       if (Notification.permission !== "granted") { toast("请先开启通知权限"); refreshMockPermUi(); return; }
-      try { new Notification("模考提醒测试", { body: "这是一条测试通知，到点会收到模考提醒", icon: "icon-192.png", badge: "icon-192.png" }); } catch (e) {}
+      try { new Notification("模考提醒测试", { body: "这是一条测试通知，到点会收到模考提醒" }); } catch (e) {}
     });
     setInterval(checkMockReminder, 60000);
     checkMockReminder();
