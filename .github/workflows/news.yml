@@ -11,11 +11,13 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: 检出仓库
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: 配置 Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
+          # v5 起会按 package.json 自动缓存依赖；本项目零依赖，显式关闭避免无谓的缓存查找
+          package-manager-cache: false
       - name: 聚合时政数据
         run: node scripts/aggregate-news.js
       - name: 提交 news-data.json
