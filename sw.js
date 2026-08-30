@@ -4,7 +4,7 @@
 //   1. 将下方 CACHE_VERSION 递增（如 v32 改为 v33），让旧缓存失效
 //   2. 若新增了需要离线可用的静态资源（如新图片），加入 PRECACHE_ASSETS
 //   3. 部署后浏览器会自动安装新版本并提示「已更新到最新版本，刷新页面生效」
-const CACHE_VERSION = 'v38';
+const CACHE_VERSION = 'v39';
 const CACHE_NAME = 'kaogong-' + CACHE_VERSION;
 
 // Core assets to precache
