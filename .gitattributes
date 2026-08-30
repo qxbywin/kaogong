@@ -1,0 +1,7 @@
+# 统一按 LF 存库：静态资源交给 GitHub Pages / Actions 时避免换行符差异
+* text=auto eol=lf
+
+# 二进制资源，不做任何换行转换
+*.png binary
+*.jpg binary
+*.ico binary

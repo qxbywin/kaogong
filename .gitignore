@@ -1,0 +1,14 @@
+# 废弃/临时产物（早期 PWA 调试遗留，非应用所需）
+app-full.html
+download.html
+scan.html
+qrcode.png
+icon-192.jpg
+icon-512.jpg
+icon.jpg
+小艾的考公工作台.html
+
+# 系统/依赖
+.DS_Store
+node_modules/
+*.log

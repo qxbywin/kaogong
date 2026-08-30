@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="考公工作台" />
+  <meta name="theme-color" content="#3f4a44" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png" />
+  <link rel="manifest" href="manifest.json" />
+  <title>考公工作台</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="splash" style="position:fixed;inset:0;background:linear-gradient(168deg,#3f4a44 0%,#2e3833 100%);display:flex;align-items:center;justify-content:center;z-index:9999;transition:opacity .4s;font-family:'Songti SC','STSong','Source Han Serif SC','Noto Serif SC','SimSun',serif;">
+    <div style="text-align:center;color:#e9e2d3;">
+      <svg width="58" height="58" viewBox="0 0 64 64" fill="none" stroke="#e9e2d3" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:14px;opacity:.92;"><rect x="10" y="8" width="44" height="48" rx="3"/><path d="M10 18h44"/><path d="M20 30h24M20 38h24M20 46h14"/><circle cx="32" cy="13" r="1.6" fill="#e9e2d3" stroke="none"/></svg>
+      <div style="font-size:24px;font-weight:700;letter-spacing:4px;">考公工作台</div>
+      <div style="margin:10px auto 0;width:52px;height:3px;border-top:1px solid rgba(233,205,158,.6);border-bottom:1px solid rgba(233,205,158,.6);"></div>
+      <div style="margin-top:20px;width:34px;height:34px;border:3px solid rgba(233,226,211,.25);border-top-color:#c78f6a;border-radius:50%;animation:spin 0.8s linear infinite;margin-left:auto;margin-right:auto;"></div>
+    </div>
+  </div>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-date" id="sidebarDate">加载中…</div>
+      <div class="profile">
+        <img class="avatar" id="avatar" alt="头像" title="点击更换头像"
+          src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23efe7d8'/><circle cx='50' cy='40' r='18' fill='%236d6558'/><path d='M24 84c0-15 12-25 26-25s26 10 26 25z' fill='%236d6558'/></svg>" />
+        <input type="file" id="avatarInput" accept="image/*" hidden />
+        <div class="sidebar-title">考公工作台</div>
+      </div>
+      <nav class="menu" id="menu">
+        <div class="menu-item" data-page="overview"><span class="menu-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg></span><span class="menu-label">学习概览</span></div>
+        <div class="menu-group">
+          <div class="menu-item has-sub" data-page="module-overview"><span class="menu-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></span><span class="menu-label">模块学习</span><span class="arrow">›</span></div>
+          <div class="submenu">
+            <div class="submenu-item" data-page="timer"><svg class="sm-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/></svg> 科目计时器</div>
+            <div class="submenu-item" data-page="memo"><svg class="sm-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M9 13h6M9 17h6"/></svg> 知识备忘录</div>
+            <div class="submenu-item" data-page="mistakes"><svg class="sm-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg> 分模块错题本</div>
+          </div>
+        </div>
+        <div class="menu-group">
+          <div class="menu-item has-sub" data-page="review-overview"><span class="menu-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg></span><span class="menu-label">复盘总结</span><span class="arrow">›</span></div>
+          <div class="submenu">
+            <div class="submenu-item" data-page="review"><svg class="sm-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg> 每日学习复盘</div>
+            <div class="submenu-item" data-page="review-history"><svg class="sm-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l3 2"/></svg> 复盘历史总览</div>
+          </div>
+        </div>
+        <div class="menu-group">
+          <div class="menu-item has-sub" data-page="analysis-overview"><span class="menu-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M9 15v2M12 12v5M15 14v3"/></svg></span><span class="menu-label">套卷分析</span><span class="arrow">›</span></div>
+          <div class="submenu"><div class="submenu-item" data-page="analysis"><svg class="sm-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10M12 20V4M6 20v-6"/></svg> 试卷专项分析</div><div class="submenu-item" data-page="mock"><svg class="sm-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg> 模考提醒</div></div>
+        </div>
+        <div class="menu-item" data-page="insights"><span class="menu-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M18 17V9M13 17V5M8 17v-3"/></svg></span><span class="menu-label">数据洞察</span></div>
+        <div class="menu-item" data-page="news"><span class="menu-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg></span><span class="menu-label">时政热点</span></div>
+        <div class="menu-item" data-page="essay"><span class="menu-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"/><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"/><path d="M2 2l7.586 7.586"/><circle cx="11" cy="11" r="2"/></svg></span><span class="menu-label">申论素材</span></div>
+      </nav>
+    </aside>
+    <div class="overlay" id="overlay"></div>
+
+    <main class="main">
+      <header class="topbar">
+        <button class="collapse-btn" id="collapseBtn" aria-label="收起侧边栏" title="收起/展开侧边栏">«</button>
+        <button class="hamburger" id="hamburger" aria-label="菜单">☰</button>
+        <div class="breadcrumb" id="breadcrumb"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>学习概览</div>
+        <div class="topbar-actions">
+          <button id="themeToggle" title="切换暗色模式" style="background:none;border:none;font-size:18px;cursor:pointer;padding:4px 8px;color:var(--text-strong);display:inline-flex;align-items:center;justify-content:center;">
+            <svg class="ico-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:19px;height:19px;display:none;"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+            <svg class="ico-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:19px;height:19px;"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          </button>
+          <button id="reminderBtn" title="学习提醒" style="background:none;border:none;font-size:18px;cursor:pointer;padding:4px 8px;color:var(--text-strong);display:inline-flex;align-items:center;justify-content:center;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:19px;height:19px;"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+          </button>
+          <button id="dataBtn" title="数据管理" style="background:none;border:none;font-size:18px;cursor:pointer;padding:4px 8px;color:var(--text-strong);display:inline-flex;align-items:center;justify-content:center;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:19px;height:19px;"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
+          </button>
+        </div>
+      </header>
+
+      <div class="content">
+        <!-- 模块学习概览 -->
+        <section class="page" id="page-module-overview">
+          <h1 class="page-title">模块学习概览</h1>
+          <p class="page-sub">各科目学习进度 · 快速进入专项练习</p>
+          <div id="moduleOverviewGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;"></div>
+          <div style="margin-top:20px;display:flex;gap:10px;flex-wrap:wrap;">
+            <button class="btn btn-primary" onclick="window._goModulePage('timer')"><svg style="width:15px;height:15px;vertical-align:-2px;margin-right:5px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/></svg>科目计时器</button>
+            <button class="btn" onclick="window._goModulePage('memo')"><svg style="width:15px;height:15px;vertical-align:-2px;margin-right:5px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M9 13h6M9 17h6"/></svg>知识备忘录</button>
+            <button class="btn" onclick="window._goModulePage('mistakes')"><svg style="width:15px;height:15px;vertical-align:-2px;margin-right:5px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>分模块错题本</button>
+          </div>
+        </section>
+        <!-- 复盘总结概览 -->
+        <section class="page" id="page-review-overview">
+          <h1 class="page-title">复盘总结概览</h1>
+          <p class="page-sub">近期学习回顾 · 待复习提醒 · 趋势一览</p>
+          <div id="reviewOverviewContent"></div>
+          <div style="margin-top:20px;">
+            <button class="btn btn-primary" onclick="window._goModulePage('review')"><svg style="width:15px;height:15px;vertical-align:-2px;margin-right:5px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>每日学习复盘</button>
+          </div>
+        </section>
+        <!-- 套卷分析概览 -->
+        <section class="page" id="page-analysis-overview">
+          <h1 class="page-title">套卷分析概览</h1>
+          <p class="page-sub">近期试卷成绩 · 模块正确率趋势</p>
+          <div id="analysisOverviewContent"></div>
+          <div style="margin-top:20px;">
+            <button class="btn btn-primary" onclick="window._goModulePage('analysis')"><svg style="width:15px;height:15px;vertical-align:-2px;margin-right:5px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10M12 20V4M6 20v-6"/></svg>试卷专项分析</button>
+          </div>
+        </section>
+        <!-- 学习概览 -->
+        <section class="page active" id="page-overview">
+          <h1 class="page-title">学习概览</h1>
+          <p class="page-sub">今日数据一览 · 自动从计时器同步</p>
+          <div class="checkin-bar" id="checkinBar">
+            <div class="checkin-info">
+              <span class="checkin-fire"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22V5"/><path d="M12 11l5-3M12 11l-5-3"/><path d="M12 17l5-3M12 17l-5-3"/></svg></span>
+              <span class="checkin-streak" id="checkinStreak">连续学习 <b id="streakNum">0</b> 天</span>
+            </div>
+            <div style="display:flex;gap:8px;align-items:center;">
+              <button class="checkin-btn" id="checkinBtn">今日打卡</button>
+              <button class="checkin-btn checkin-btn-ghost" id="quickBackupBtn" title="导出 JSON 备份"><svg style="width:15px;height:15px;vertical-align:-2px;margin-right:5px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>备份</button>
+            </div>
+          </div>
+          <div class="backup-tip" id="backupTip" style="display:none;">数据已积累 <b id="backupTipCount">0</b> 条，建议导出备份防丢失<button class="btn btn-line btn-sm" id="backupTipBtn">立即备份</button></div>
+          <div class="quote-card">
+            <div class="qmark">"</div>
+            <div><div class="qtext" id="quoteText">—</div><div class="qsub" id="quoteSub">今日励志语录</div></div>
+          </div>
+          <div class="grid section-gap" id="statGrid"></div>
+          <div class="reminder-card" id="reminderCard">
+            <div class="reminder-title"><svg style="width:15px;height:15px;vertical-align:-2px;margin-right:5px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>今天要处理</div>
+            <div class="reminder-list" id="reminderList"></div>
+          </div>
+
+          <h3 style="margin:16px 0 0;font-size:15px;"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2h10M7 22h10"/><path d="M8 2v4l4 5 4-5V2"/><path d="M8 22v-4l4-5 4 5v4"/></svg>考试倒计时</h3>
+          <div class="countdowns" id="countdownList"></div>
+
+          <div class="study-stats">
+            <div class="study-head"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/></svg><h3>学习时长统计</h3></div>
+            <div class="study-tabs" id="studyTabs">
+              <button type="button" class="study-tab active" data-range="week"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18"/></svg>近一周</button>
+              <button type="button" class="study-tab" data-range="month"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18"/></svg>近一月</button>
+              <button type="button" class="study-tab" data-range="year"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18"/></svg>近一年</button>
+            </div>
+            <div class="study-summary" id="studySummary"></div>
+          </div>
+          <div class="chart-pie-row">
+            <div class="chart-card">
+              <h3><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21.2 15.9A10 10 0 1 1 8 2.8"/><path d="M22 12A10 10 0 0 0 12 2v10z"/></svg>今日科目占比 <span class="hint">点击饼块看明细</span></h3>
+              <div class="pie-wrap"><div id="pieChart"></div><div class="pie-legend" id="pieLegend"></div></div>
+            </div>
+          </div>
+          <div class="chart-line-row">
+            <div class="chart-card"><h3><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 15l4-5 3 3 5-7"/></svg>近 7 日学习时长 <span class="hint">小时</span></h3><div id="weekChart"></div></div>
+            <div class="chart-card"><h3><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 15l4-5 3 3 5-7"/></svg>本月每日学习时长 <span class="hint">小时</span></h3><div id="monthChart"></div></div>
+          </div>
+        </section>
+
+        <!-- 科目计时器 -->
+        <section class="page" id="page-timer">
+          <h1 class="page-title">科目计时器</h1>
+          <p class="page-sub">一个计时器搞定：选科目点「开始」，学习中想分段就先点选其他科目、再点「记一段」切段；结束后统一计入学习时长</p>
+          <div class="card timer-panel">
+            <div class="timer-subject-now">当前科目：<b id="timerSubjectName">政治理论</b></div>
+            <div class="timer-clock" id="timerClock">00:00:00</div>
+            <div class="timer-segnow">本段 <b id="timerSeg">00:00</b> · 已记 <b id="timerSegN">0</b> 段</div>
+            <div class="timer-nextsub" id="timerNextSub"></div>
+            <div class="timer-modes">
+              <div class="seg active" id="segCount" data-mode="count"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2h10M7 22h10"/><path d="M8 2v4l4 5 4-5V2"/><path d="M8 22v-4l4-5 4 5v4"/></svg>正计时</div>
+              <div class="seg" id="segPomo" data-mode="pomo"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v3M12 19v3M6.5 4h11M7.5 20h9"/><circle cx="12" cy="12" r="6.5"/><path d="M12 8.5v3.5l2.2 1.6"/></svg>番茄钟</div>
+            </div>
+            <div class="timer-types" id="timerTypes"></div>
+            <div class="timer-type-hint" id="timerTypeHint">学习类型：听课</div>
+            <div class="pomo-input" id="pomoInput">时长 <input type="number" id="pomoMin" value="25" min="1" max="120" /> 分钟</div>
+            <div class="timer-btns">
+              <button class="btn btn-primary" id="btnStart">开始</button>
+              <button class="btn" id="btnMark" disabled>记一段 ›</button>
+              <button class="btn btn-line" id="btnFinish">结束并保存</button>
+              <button class="btn btn-ghost" id="btnReset">重置</button>
+            </div>
+            <div class="timer-resume" id="timerResume"></div>
+            <div class="type-breakdown" id="typeBreakdown"></div>
+          </div>
+          <div id="segmentRoot"></div>
+          <h3 style="margin:22px 0 0;font-size:15px;">选择科目（学习中先点选下一科目，再点「记一段」切段）</h3>
+          <div class="subject-list" id="subjectList"></div>
+        </section>
+
+        <!-- 知识备忘录 -->
+        <section class="page" id="page-memo">
+          <h1 class="page-title">知识备忘录</h1>
+          <p class="page-sub">按模块存放行测、申论素材笔记</p>
+          <div class="tabs" id="memoTabs"></div>
+          <div class="add-bar"><button class="btn btn-primary btn-sm" id="addNoteBtn">+ 新建笔记</button></div>
+          <div id="noteList"></div>
+          <div class="pager" id="notePager"></div>
+        </section>
+
+        <!-- 分模块错题本（重点优化） -->
+        <section class="page" id="page-mistakes">
+          <h1 class="page-title">分模块错题本</h1>
+          <p class="page-sub">录入错题、选择错因、整理正确思路，按模块归类</p>
+          <div class="card" style="margin-bottom:16px;">
+            <h3 style="margin-bottom:12px;"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>录入错题</h3>
+            <div class="form-row"><label>所属模块</label><select id="mkModule" class="mini"></select></div>
+            <div style="display:flex;gap:12px;flex-wrap:wrap;">
+              <div class="form-row" style="flex:1;min-width:120px;margin-bottom:14px;"><label>日期</label><input type="date" id="mkDate" class="mini" /></div>
+              <div class="form-row" style="flex:1;min-width:120px;margin-bottom:14px;"><label>难度</label><select id="mkDifficulty" class="mini"><option value="1">● 简单</option><option value="2">●● 中等</option><option value="3">●●● 困难</option></select></div>
+            </div>
+            <div class="form-row"><label>题目 / 错点</label><textarea id="mkQuestion" placeholder="题目描述或易错点"></textarea></div>
+            <div class="mk-img-row">
+              <button type="button" class="btn btn-line btn-sm" id="mkImgBtn"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="M21 16l-5-5-9 9"/></svg>导入题目图片</button>
+              <input type="file" id="mkImage" accept="image/*" style="display:none;" />
+              <div id="mkImgPreview" class="mk-img-preview" style="display:none;">
+                <img id="mkImgThumb" alt="题目图片" />
+                <button type="button" class="mk-img-del" id="mkImgDel" title="移除图片">×</button>
+              </div>
+            </div>
+            <div class="form-row">
+              <label>错误原因</label>
+              <select id="mkReason">
+                <option value="知识点盲区">知识点盲区</option>
+                <option value="审题粗心失误">审题粗心失误</option>
+                <option value="公式/方法遗忘">公式/方法遗忘</option>
+                <option value="干扰选项混淆">干扰选项混淆</option>
+                <option value="时间不足未做完">时间不足未做完</option>
+                <option value="计算失误">计算失误</option>
+                <option value="思路逻辑偏差">思路逻辑偏差</option>
+                <option value="语感/素材积累不足">语感/素材积累不足</option>
+                <option value="其他">其他</option>
+              </select>
+              <input type="text" id="mkReasonOther" placeholder="请填写自定义错误原因" style="display:none;margin-top:8px;" />
+            </div>
+            <div class="form-row"><label>正确思路</label><textarea id="mkCorrect" placeholder="正确的解题方法"></textarea></div>
+            <div class="mk-img-row">
+              <button type="button" class="btn btn-line btn-sm" id="mkCorrectImgBtn"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="M21 16l-5-5-9 9"/></svg>导入思路图片</button>
+              <input type="file" id="mkCorrectImage" accept="image/*" style="display:none;" />
+              <div id="mkCorrectImgPreview" class="mk-img-preview" style="display:none;">
+                <img id="mkCorrectImgThumb" alt="思路图片" />
+                <button type="button" class="mk-img-del" id="mkCorrectImgDel" title="移除图片">×</button>
+              </div>
+            </div>
+            <button class="btn btn-primary" id="mkSave">保存错题</button>
+            <button class="btn btn-line" id="mkCancel" style="display:none;margin-left:8px;">取消</button>
+          </div>
+          <div class="card">
+            <div class="form-row" style="display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap;">
+              <label style="margin:0;white-space:nowrap;">按模块</label>
+              <select id="mkFilter" class="mini"></select>
+              <label style="margin:0 0 0 6px;white-space:nowrap;">掌握度</label>
+              <select id="mkMasFilter" class="mini"><option value="">全部</option><option value="review">需复习</option><option value="mastered">已掌握</option></select>
+              <label style="margin:0 0 0 6px;white-space:nowrap;">难度</label>
+              <select id="mkDiffFilter" class="mini"><option value="">全部</option><option value="1">简单</option><option value="2">中等</option><option value="3">困难</option></select>
+              <label style="margin:0 0 0 6px;white-space:nowrap;">复习</label>
+              <select id="mkRevFilter" class="mini"><option value="">全部</option><option value="due">待复习</option><option value="fav">已收藏</option></select>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px;">
+              <button class="btn btn-line btn-sm" id="mkBatchBtn"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 12.5l3 3 5-6"/></svg>批量导出</button>
+              <span id="mkBatchInfo" style="font-size:12px;color:var(--text-soft);"></span>
+            </div>
+            <div class="reason-legend" id="reasonLegend"></div>
+            <div id="mistakeList"></div>
+            <div class="pager" id="mkPager"></div>
+          </div>
+          <div class="card" id="mkBatchBar" style="display:none;position:sticky;bottom:8px;">
+            <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+              <label style="display:flex;align-items:center;gap:6px;font-size:13px;font-weight:600;"><input type="checkbox" id="mkSelectAll" /> 全选本页</label>
+              <button class="btn btn-primary btn-sm" id="mkExportSel">导出选中 JSON</button>
+              <button class="btn btn-line btn-sm" id="mkExportAll">导出全部</button>
+              <button class="btn btn-ghost btn-sm" id="mkBatchCancel">取消</button>
+              <span id="mkSelCount" style="font-size:12px;color:var(--text-soft);"></span>
+            </div>
+          </div>
+        </section>
+
+        <!-- 每日学习复盘 -->
+        <section class="page" id="page-review">
+          <h1 class="page-title">每日学习复盘</h1>
+          <p class="page-sub">记录学习问题，制定后续改进计划</p>
+          <div class="card" style="margin-bottom:16px;">
+            <div class="form-row"><label>日期</label><input type="date" id="rvDate" class="mini" /></div>
+            <div class="form-row"><label>复盘标签</label><select id="rvTag" class="mini"></select></div>
+            <div class="form-row">
+              <label>今日学习问题 <span class="charcount" id="rvProblemsCount">0 / 500</span></label>
+              <textarea id="rvProblems" maxlength="500" placeholder="记录做题卡点、薄弱模块、学习效率问题"></textarea>
+            </div>
+            <div class="form-row">
+              <label>后续改进计划 <span class="charcount" id="rvPlanCount">0 / 500</span></label>
+              <textarea id="rvPlan" maxlength="500" placeholder="规划刷题安排、复习调整方案"></textarea>
+            </div>
+            <p class="page-sub" style="margin-top:-4px;">同一天仅保存一条复盘，再次保存将更新当日记录</p>
+            <button class="btn btn-primary" id="rvSave">保存复盘</button>
+            <button class="btn btn-line" id="rvCancel" style="display:none;margin-left:8px;">取消</button>
+          </div>
+          <div class="card" style="margin-bottom:16px;">
+            <h3 style="margin-bottom:4px;"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18"/></svg>复习计划 <span class="hint">艾宾浩斯遗忘曲线</span></h3>
+            <p class="ebb-tip">根据记忆规律，一道错题建议在学后的第 1 / 2 / 4 / 7 / 15 / 30 天复习。已标记「已掌握」的不再提醒。</p>
+            <div id="ebbDue" class="ebb-due"></div>
+            <div id="ebbList"></div>
+          </div>
+          <div class="card" style="margin-bottom:16px;">
+            <h3 style="margin-bottom:4px;"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22V5"/><path d="M12 11l5-3M12 11l-5-3"/><path d="M12 17l5-3M12 17l-5-3"/></svg>错误数热力图 <span class="hint">近 12 周每日错题</span></h3>
+            <p class="page-sub" style="margin-bottom:10px;">颜色越深，当天录入的错题越多</p>
+            <div class="heat-wrap"><div id="heatMap"></div></div>
+            <div class="heat-legend"><span>少</span><span class="hl hl-0"></span><span class="hl hl-1"></span><span class="hl hl-2"></span><span class="hl hl-3"></span><span class="hl hl-4"></span><span>多</span></div>
+          </div>
+          <div class="card">
+            <div class="form-row" style="display:flex;align-items:center;gap:10px;margin-bottom:12px;">
+              <label style="margin:0;white-space:nowrap;">按标签筛选</label>
+              <select id="rvFilter" class="mini"></select>
+            </div>
+            <div id="reviewList"></div>
+          </div>
+        </section>
+
+        <!-- 复盘历史总览 -->
+        <section class="page" id="page-review-history">
+          <h1 class="page-title">复盘历史总览</h1>
+          <p class="page-sub">按日期区间与标签检索全部复盘 · 统计标签频次</p>
+          <div class="card" style="margin-bottom:16px;">
+            <div class="form-row" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+              <div style="flex:1;min-width:130px;"><label>开始日期</label><input type="date" id="rhStart" class="mini" /></div>
+              <div style="flex:1;min-width:130px;"><label>结束日期</label><input type="date" id="rhEnd" class="mini" /></div>
+              <div style="flex:1;min-width:130px;"><label>复盘标签</label><select id="rhTag" class="mini"></select></div>
+            </div>
+            <div id="rhStats" class="rh-stats"></div>
+          </div>
+          <div class="card">
+            <div id="rhList"></div>
+          </div>
+        </section>
+
+        <!-- 试卷专项分析 -->
+        <section class="page" id="page-analysis">
+          <h1 class="page-title">试卷专项分析</h1>
+          <p class="page-sub">录入套卷答题情况，统计各模块总题量与答对数，标记薄弱模块</p>
+          <div class="card" style="margin-bottom:16px;">
+            <div class="form-row"><label>试卷名称</label><input type="text" id="ppName" placeholder="如：2025国考地市级行测" /></div>
+            <div style="display:flex;gap:12px;flex-wrap:wrap;">
+              <div class="form-row" style="flex:1;min-width:120px;margin-bottom:14px;"><label>日期</label><input type="date" id="ppDate" /></div>
+              <div class="form-row" style="flex:1;min-width:120px;margin-bottom:14px;"><label>做题时长（分钟）</label><input type="number" id="ppDuration" min="0" placeholder="120" /></div>
+              <div class="form-row" style="flex:1;min-width:120px;margin-bottom:14px;"><label>分数</label><input type="number" id="ppScore" min="0" placeholder="0" /></div>
+              <div class="form-row" style="flex:1;min-width:120px;margin-bottom:14px;"><label>试卷类型</label><select id="ppType" class="mini"><option value="国考">国考</option><option value="省考">省考</option></select></div>
+            </div>
+            <div class="paper-row head"><span>模块</span><span>总题量</span><span>答对数</span><span>时间(分)</span></div>
+            <div id="ppRows"></div>
+            <div class="form-row" style="margin-top:6px;">
+              <label>试卷备注 <span class="charcount" id="ppNoteCount">0 / 500</span></label>
+              <textarea id="ppNote" maxlength="500" placeholder="记录错题、遗忘的知识点，便于试卷总结"></textarea>
+            </div>
+            <button class="btn btn-primary" id="ppSave" style="margin-top:8px;">保存试卷分析</button>
+          </div>
+          <div class="card" style="margin-bottom:16px;">
+            <div class="form-row" style="display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap;">
+              <label style="margin:0;white-space:nowrap;">按类型</label>
+              <select id="ppTypeFilter" class="mini"><option value="">全部</option><option value="国考">国考</option><option value="省考">省考</option></select>
+            </div>
+            <h3 style="margin-bottom:6px;"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 15l4-5 3 3 5-7"/></svg>成绩趋势</h3>
+            <p class="page-sub" style="margin-bottom:10px;">按时间顺序展示各套试卷的正确率 / 分数变化</p>
+            <div style="display:flex;gap:8px;margin-bottom:8px;">
+              <button type="button" class="btn btn-ghost btn-sm trend-btn active" data-metric="rate">正确率</button>
+              <button type="button" class="btn btn-ghost btn-sm trend-btn" data-metric="score">分数</button>
+            </div>
+            <div id="trendChart"></div>
+          </div>
+          <div class="card" style="margin-bottom:16px;">
+            <h3 style="margin-bottom:6px;"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.4"/></svg>薄弱模块汇总 <span class="hint">跨全部套卷</span></h3>
+            <p class="page-sub" style="margin-bottom:10px;">按各模块累计正确率排序，越靠前越薄弱（红=正确率&lt;60%）</p>
+            <div id="weakSummary"></div>
+          </div>
+          <div id="paperList"></div>
+          <div class="pager" id="ppPager"></div>
+        </section>
+
+        <!-- 模考提醒 -->
+        <section class="page" id="page-mock">
+          <h1 class="page-title">模考提醒</h1>
+          <p class="page-sub">记录模考安排，到点自动提醒，考前一天也不放过</p>
+          <div class="card" style="margin-bottom:16px;">
+            <div class="form-row"><label>模考名称</label><input type="text" id="mkName" placeholder="如：2026国考模考（粉笔）" /></div>
+            <div style="display:flex;gap:12px;flex-wrap:wrap;">
+              <div class="form-row" style="flex:1;min-width:120px;margin-bottom:14px;"><label>日期</label><input type="date" id="mkExamDate" class="mini" /></div>
+              <div class="form-row" style="flex:1;min-width:120px;margin-bottom:14px;"><label>时间</label><input type="time" id="mkExamTime" class="mini" value="09:00" /></div>
+            </div>
+            <div class="form-row"><label>备注</label><input type="text" id="mkExamNote" placeholder="考场 / 科目 / 注意事项" /></div>
+            <label style="display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink);margin-bottom:12px;"><input type="checkbox" id="mkExamRemind" checked /> 考前一天 20:00 提醒</label>
+            <button class="btn btn-primary" id="mkExamSave">添加模考</button>
+          </div>
+          <div class="card">
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;flex-wrap:wrap;gap:8px;">
+              <h3 style="margin:0;"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18"/></svg>模考安排</h3>
+              <div style="display:flex;align-items:center;gap:10px;">
+                <label style="display:flex;align-items:center;gap:6px;font-size:13px;color:var(--ink);"><input type="checkbox" id="mockNotifOn" checked /> 启用通知</label>
+                <button class="btn btn-line btn-sm" id="mockPermBtn" style="display:none;"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg>开启通知</button>
+                <button class="btn btn-ghost btn-sm" id="mockTestBtn"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3.5 7l8.5 6 8.5-6"/></svg>测试</button>
+              </div>
+            </div>
+            <div id="mockList"></div>
+          </div>
+        </section>
+
+        <!-- 申论素材库 -->
+        <section class="page" id="page-essay">
+          <h1 class="page-title">申论素材库</h1>
+          <p class="page-sub">按主题归类政策理论与金句，随时调用背诵</p>
+          <div class="card" style="margin-bottom:16px;">
+            <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
+              <div class="tabs" id="essayTabs" style="flex:1;margin-bottom:0;"></div>
+              <input type="search" id="essaySearch" class="mini" placeholder="搜索素材…" style="flex:0 0 160px;" />
+              <button class="btn btn-primary btn-sm" id="addEssayBtn">+ 新增素材</button>
+            </div>
+          </div>
+          <div id="essayList"></div>
+        </section>
+
+        <!-- 每日时政热点 -->
+        <section class="page" id="page-news">
+          <h1 class="page-title">每日时政热点</h1>
+          <p class="page-sub">两种来源随手切换：内置要点（离线可用）· AI 生成（需配置接口）</p>
+          <div class="card" style="margin-top:14px;">
+          <div class="news-src-row">
+            <span class="news-src-label">来源</span>
+            <div class="news-src-switch" id="newsSrcSwitch" role="group" aria-label="时政来源切换">
+              <button type="button" class="nsrc-btn active" data-src="builtin"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18H6z"/><path d="M9 8h6M9 12h6M9 16h4"/></svg>内置要点</button>
+              <button type="button" class="nsrc-btn" data-src="ai"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.8 4.7L18.5 9.5 13.8 11.3 12 16l-1.8-4.7L5.5 9.5l4.7-1.8z"/><path d="M18.5 15.5l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/></svg>AI 生成</button>
+            </div>
+            <span class="news-src-hint" id="newsSrcHint">内置要点 · 免联网兜底</span>
+          </div>
+          <div class="news-toolbar">
+            <input type="search" id="newsSearch" class="mini" placeholder="搜索热点…" />
+            <button class="btn btn-ghost btn-sm" id="newsFavToggle"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z"/></svg>我的收藏</button>
+            <select id="newsArchive" class="mini"><option value="">按月归档</option></select>
+          </div>
+          <div id="newsBox" class="news-box"></div>
+          <div class="pager" id="newsPager"></div>
+          <div class="news-foot">
+              <button class="btn btn-ghost btn-sm" id="newsRefresh"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>刷新</button>
+              <button class="btn btn-line btn-sm" id="newsSettings"><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3"/><path d="M1 14h6M9 8h6M17 16h6"/></svg>设置</button>
+              <span class="news-updated" id="newsUpdated"></span>
+            </div>
+            <div id="newsSettingsPanel" style="display:none;margin-top:12px;border-top:1px solid var(--border);padding-top:12px;">
+              <p class="news-tip" id="aiModeTip" style="margin-top:0;">当前模式：<b>内置时政要点</b>（免费·无需配置·开箱即用）。配置后可用 AI 每日自动生成。</p>
+              <div class="form-row"><label>预设服务商</label>
+                <select id="aiPreset">
+                  <option value="custom">自定义</option>
+                  <option value="doubao">豆包 / 火山方舟</option>
+                  <option value="deepseek">DeepSeek</option>
+                  <option value="kimi">Kimi / 月之暗面</option>
+                  <option value="zhipu">智谱 GLM</option>
+                  <option value="opencodego">OpenCode Go</option>
+                </select>
+              </div>
+              <div class="form-row"><label>API 地址</label><input type="text" id="aiEndpoint" placeholder="https://ark.cn-beijing.volces.com/api/v3/chat/completions" /></div>
+              <div class="form-row"><label>API Key</label><input type="password" id="aiKey" placeholder="AKLT... 或 sk-..." /></div>
+              <div class="form-row"><label>模型</label><input type="text" id="aiModel" placeholder="ep-xxxxxx" /></div>
+              <p class="news-tip" id="aiTip">密钥仅保存在本机浏览器，不会上传到任何服务器；需使用支持浏览器跨域（CORS）的接口。豆包请填写火山方舟的「推理接入点 ID」（ep- 开头）作为模型名。</p>
+              <button class="btn btn-primary btn-sm" id="aiSave">保存设置</button>
+            </div>
+          </div>
+        </section>
+
+        <!-- 数据洞察 -->
+        <section class="page" id="page-insights">
+          <h1 class="page-title">数据洞察</h1>
+          <p class="page-sub">从错题与复盘中看见规律 · 全部图表零依赖手绘 SVG</p>
+          <div class="grid section-gap" id="insightStats"></div>
+          <div class="charts-grid">
+            <div class="chart-card"><h3><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3.8"/><path d="M12 3a9 9 0 0 1 8.9 10.6"/></svg>错题掌握度</h3><div class="pie-wrap"><div id="donutMastery"></div><div class="pie-legend" id="donutMasteryLegend"></div></div></div>
+            <div class="chart-card"><h3><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 17v-5M12 17V8M17 17v-8"/></svg>各模块错题数</h3><div id="barModule" class="bar-chart"></div></div>
+            <div class="chart-card"><h3><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 15l4-5 3 3 5-7"/></svg>近 30 天每日错题数</h3><div id="lineErrTrend"></div></div>
+            <div class="chart-card"><h3><svg class="gi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.4"/></svg>错因分布</h3><div id="barReason" class="bar-chart"></div></div>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <div class="overlay-bg" id="modalRoot">
+    <div class="modal">
+      <div class="modal-head"><h3 id="modalTitle">标题</h3><button class="modal-close" id="modalClose">×</button></div>
+      <div class="modal-body" id="modalBody"></div>
+      <div class="modal-foot" id="modalFoot"></div>
+    </div>
+  </div>
+  <div class="toast" id="toast"></div>
+
+<script src="js/app.js"></script>
+
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("sw.js").then(function(reg) {
+        reg.addEventListener("updatefound", function() {
+          var newWorker = reg.installing;
+          if (newWorker) {
+            newWorker.addEventListener("statechange", function() {
+              if (newWorker.state === "installed" && navigator.serviceWorker.controller) {
+                if (typeof toast === "function") toast("已更新到最新版本，刷新页面生效");
+              }
+            });
+          }
+        });
+      }).catch(function(e) {});
+    }
+  </script>
+
+</body>
+</html>

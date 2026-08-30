@@ -1,0 +1,28 @@
+name: 时政聚合
+on:
+  schedule:
+    - cron: '23 * * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+      - name: 配置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: 聚合时政数据
+        run: node scripts/aggregate-news.js
+      - name: 提交 news-data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news-data.json
+          git diff --cached --quiet || git commit -m "chore(news): 自动聚合时政数据 $(date +'%Y-%m-%d %H:%M')"
+          git push
+
