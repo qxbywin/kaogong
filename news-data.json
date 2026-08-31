@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
-  "time": "15:11",
-  "generatedAt": "2026-08-31T15:11:20.954Z",
+  "time": "20:52",
+  "generatedAt": "2026-08-31T20:52:37.462Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -116,16 +116,6 @@
       ]
     },
     {
-      "title": "第三届“兴智杯”全国人工智能创新应用大赛启动",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687537.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "高校开学季“科技迎新”",
       "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%BC%80%E5%AD%A6%E5%AD%A3%E2%80%9C%E7%A7%91%E6%8A%80%E8%BF%8E%E6%96%B0%E2%80%9D",
       "source": "百度热搜",
@@ -136,8 +126,8 @@
       ]
     },
     {
-      "title": "江苏省委常委、组织部部长刘建洋被查",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E5%B8%B8%E5%A7%94%E3%80%81%E7%BB%84%E7%BB%87%E9%83%A8%E9%83%A8%E9%95%BF%E5%88%98%E5%BB%BA%E6%B4%8B%E8%A2%AB%E6%9F%A5",
+      "title": "中国羽毛球协会副主席夏煊泽被查",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5",
       "source": "百度热搜",
       "cat": "hot",
       "score": 1,
@@ -156,20 +146,10 @@
       ]
     },
     {
-      "title": "我的新能源车为何难进自家车位",
-      "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BA%E4%BD%95%E9%9A%BE%E8%BF%9B%E8%87%AA%E5%AE%B6%E8%BD%A6%E4%BD%8D",
+      "title": "江苏省委常委、组织部部长刘建洋被查",
+      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E5%B8%B8%E5%A7%94%E3%80%81%E7%BB%84%E7%BB%87%E9%83%A8%E9%83%A8%E9%95%BF%E5%88%98%E5%BB%BA%E6%B4%8B%E8%A2%AB%E6%9F%A5",
       "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部：应尊重尼泊尔政府作出的决定",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%BA%94%E5%B0%8A%E9%87%8D%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%94%BF%E5%BA%9C%E4%BD%9C%E5%87%BA%E7%9A%84%E5%86%B3%E5%AE%9A",
-      "source": "百度热搜",
-      "cat": "international",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -181,6 +161,26 @@
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中华人民共和国和吉尔吉斯共和国永久睦邻友好合作条约",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687578.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
