@@ -1,53 +1,53 @@
 {
   "date": "2026-08-31",
-  "time": "00:40",
-  "generatedAt": "2026-08-31T00:40:02.214Z",
+  "time": "07:05",
+  "generatedAt": "2026-08-31T07:05:26.636Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "县域消费，不是“把城市的东西搬过来”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10686999.shtml",
+      "title": "涉新能源、智能驾驶等运行安全 市场监管总局修订发布强制性国家标准",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687209.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
+      "cat": "policy",
+      "score": 3,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "订单排到年底！这一千亿级“冷”市场，“热”起来了",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10686998.shtml",
+      "title": "海信旗下纳真科技通过港交所上市聆讯 AI产业再布新局",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687210.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10686991.shtml",
+      "title": "中国官方：以共建“一带一路”国家为重点深化特殊教育交流合作",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-31/10687208.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "从赛场惊艳到产业深耕 中国机器人加速领跑全球",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10686987.shtml",
-      "source": "中国新闻网",
+      "title": "燃油车主置换新能源 汽车市场咋变了",
+      "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%B8%BB%E7%BD%AE%E6%8D%A2%E6%96%B0%E8%83%BD%E6%BA%90+%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E5%92%8B%E5%8F%98%E4%BA%86",
+      "source": "百度热搜",
       "cat": "economy",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "别被AI的“自信”带偏了",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-31/10686982.shtml",
+      "title": "绿色电力计量人工智能创新应用大赛在广州启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687207.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -56,8 +56,8 @@
       ]
     },
     {
-      "title": "AI客服“转人工”难？“新国标”来了",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686980.shtml",
+      "title": "松应科技连续完成A轮、A1轮数亿元融资",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687214.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,8 +66,18 @@
       ]
     },
     {
-      "title": "受美行政令影响谷歌地图调整安大略湖标注，特朗普发图展示“美国湖”",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10686974.shtml",
+      "title": "好评中国·“经”彩开局｜外资加速涌入中国高技术产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687203.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国贸促会：今年前7个月受理涉共建“一带一路”国家仲裁案件289件",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-31/10687190.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,8 +86,8 @@
       ]
     },
     {
-      "title": "美国大峡谷国家公园突发山洪 超20人失联",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10686971.shtml",
+      "title": "中国贸促会：前7个月已审批赴共建“一带一路”国家出展项目976项",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687193.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -86,28 +96,18 @@
       ]
     },
     {
-      "title": "习近平抵达比什凯克出席上合峰会",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E6%AF%94%E4%BB%80%E5%87%AF%E5%85%8B%E5%87%BA%E5%B8%AD%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A",
-      "source": "百度热搜",
-      "cat": "international",
+      "title": "中央气象台继续发布暴雨黄色预警",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687099.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "医疗防疫分队前往救援一线",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E9%98%B2%E7%96%AB%E5%88%86%E9%98%9F%E5%89%8D%E5%BE%80%E6%95%91%E6%8F%B4%E4%B8%80%E7%BA%BF",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "9月新规来了：涉及公积金、AI客服",
-      "url": "https://www.baidu.com/s?wd=9%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%9A%E6%B6%89%E5%8F%8A%E5%85%AC%E7%A7%AF%E9%87%91%E3%80%81AI%E5%AE%A2%E6%9C%8D",
+      "title": "AI电视剧登陆湖南卫视黄金档",
+      "url": "https://www.baidu.com/s?wd=AI%E7%94%B5%E8%A7%86%E5%89%A7%E7%99%BB%E9%99%86%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E9%BB%84%E9%87%91%E6%A1%A3",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -116,8 +116,18 @@
       ]
     },
     {
-      "title": "超强厄尔尼诺正在冲击世界经济",
-      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%AD%A3%E5%9C%A8%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E",
+      "title": "费大厨开到美国 辣椒炒肉210元一份",
+      "url": "https://www.baidu.com/s?wd=%E8%B4%B9%E5%A4%A7%E5%8E%A8%E5%BC%80%E5%88%B0%E7%BE%8E%E5%9B%BD+%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89210%E5%85%83%E4%B8%80%E4%BB%BD",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "7000亿足疗市场跑不出一家上市龙头",
+      "url": "https://www.baidu.com/s?wd=7000%E4%BA%BF%E8%B6%B3%E7%96%97%E5%B8%82%E5%9C%BA%E8%B7%91%E4%B8%8D%E5%87%BA%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E9%BE%99%E5%A4%B4",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -126,18 +136,18 @@
       ]
     },
     {
-      "title": "官方通报“妇女带两名残疾人乞讨”",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A6%87%E5%A5%B3%E5%B8%A6%E4%B8%A4%E5%90%8D%E6%AE%8B%E7%96%BE%E4%BA%BA%E4%B9%9E%E8%AE%A8%E2%80%9D",
+      "title": "美国“明抢”委内瑞拉油田",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%98%8E%E6%8A%A2%E2%80%9D%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%B2%B9%E7%94%B0",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "开辟新的泄洪通道、转移群众8000人 云南磨憨洪涝灾害最新救援进展",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687004.shtml",
+      "title": "高位远程冰崩链式灾害为何难预测？",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687226.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "9月起，这些新规将影响你我生活！",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687003.shtml",
+      "title": "扎帕罗夫总统为习近平举行欢迎仪式",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-31/1202666.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "线上“气氛组”为何在线下成了“社恐人”",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-31/10687001.shtml",
+      "title": "海南发现14处烈士墓葬 两具遗骨具备DNA鉴定条件",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687221.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "危化品码头违规垂钓何以禁而不绝",
-      "url": "https://www.chinanews.com.cn/fz/2026/08-31/10687000.shtml",
+      "title": "中国驻尼泊尔大使馆提醒中国公民进行“海外公民登记”",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-31/10687217.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "美大峡谷国家公园突发山洪，至少15人失联",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10686995.shtml",
+      "title": "车辆外廓尺寸国标发布 智能车辆放宽局部凸出尺寸限制",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687097.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "国产大模型与算力平台“双向奔赴” 带来哪些新机遇？",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10686994.shtml",
+      "title": "花200元当主演，横店拯救“竖店”",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687220.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "台风“班朗”将逐渐变性为温带气旋 “艾涛”停止编号",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686988.shtml",
+      "title": "从“有什么吃什么”到“馋什么买什么”    拼多多“包邮进村”给老乡的果盆添点“外地鲜”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687215.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "警惕“成功学”带偏孩子的阅读",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-31/10686986.shtml",
+      "title": "G4京港澳高速临岳扩容项目即将启动半幅封闭施工",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687218.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "“沙德尔”残余涡旋可能发展为热带低压或编号台风",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686985.shtml",
+      "title": "广东多举措应对强降雨 目前全省水情平稳",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687216.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "暴雨黄色预警：江苏安徽等9省区部分地区有大暴雨 局地特大暴雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686983.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "今起三天北京晴天持续 早晚凉意渐起注意添衣",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686981.shtml",
+      "title": "当机器人开始触摸世界",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687213.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
