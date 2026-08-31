@@ -1,13 +1,53 @@
 {
-  "date": "2026-08-30",
-  "time": "21:55",
-  "generatedAt": "2026-08-30T21:55:39.954Z",
+  "date": "2026-08-31",
+  "time": "00:40",
+  "generatedAt": "2026-08-31T00:40:02.214Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "沪港协同创新再深化 香港大学张江基地二期正式启用",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686954.shtml",
+      "title": "县域消费，不是“把城市的东西搬过来”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10686999.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "订单排到年底！这一千亿级“冷”市场，“热”起来了",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10686998.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10686991.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从赛场惊艳到产业深耕 中国机器人加速领跑全球",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10686987.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "别被AI的“自信”带偏了",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-31/10686982.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -16,30 +56,30 @@
       ]
     },
     {
-      "title": "中国援圭亚那医疗队探秘亚马孙传统医药：17小时雨林“寻百草”",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686942.shtml",
+      "title": "AI客服“转人工”难？“新国标”来了",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686980.shtml",
       "source": "中国新闻网",
-      "cat": "society",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "重庆市忠县人大常委会党组原书记、主任雷亚平接受审查调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686939.shtml",
+      "title": "受美行政令影响谷歌地图调整安大略湖标注，特朗普发图展示“美国湖”",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10686974.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "裕固族民歌唱响国图 拉开人口较少民族口头传统典藏计划2026年度活动大幕",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-30/10686931.shtml",
+      "title": "美国大峡谷国家公园突发山洪 超20人失联",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10686971.shtml",
       "source": "中国新闻网",
-      "cat": "society",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -66,20 +106,20 @@
       ]
     },
     {
-      "title": "超强厄尔尼诺正在冲击世界经济",
-      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%AD%A3%E5%9C%A8%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E",
+      "title": "9月新规来了：涉及公积金、AI客服",
+      "url": "https://www.baidu.com/s?wd=9%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%9A%E6%B6%89%E5%8F%8A%E5%85%AC%E7%A7%AF%E9%87%91%E3%80%81AI%E5%AE%A2%E6%9C%8D",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中央纪委副书记孙新阳当选新职",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%AD%99%E6%96%B0%E9%98%B3%E5%BD%93%E9%80%89%E6%96%B0%E8%81%8C",
+      "title": "超强厄尔尼诺正在冲击世界经济",
+      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%AD%A3%E5%9C%A8%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E",
       "source": "百度热搜",
-      "cat": "policy",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -96,8 +136,8 @@
       ]
     },
     {
-      "title": "弘扬“上海精神” 凝聚“上合力量”",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686965.shtml",
+      "title": "开辟新的泄洪通道、转移群众8000人 云南磨憨洪涝灾害最新救援进展",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687004.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +146,8 @@
       ]
     },
     {
-      "title": "RUN GIRLS女子跑在顺义奥林匹克水上公园开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686964.shtml",
+      "title": "9月起，这些新规将影响你我生活！",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687003.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +156,8 @@
       ]
     },
     {
-      "title": "拾光纪·总统夫妇热情迎接！吉尔吉斯斯坦高规格欢迎习主席抵达",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686963.shtml",
+      "title": "线上“气氛组”为何在线下成了“社恐人”",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-31/10687001.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +166,8 @@
       ]
     },
     {
-      "title": "联播+｜一方有难 八方支援",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686962.shtml",
+      "title": "危化品码头违规垂钓何以禁而不绝",
+      "url": "https://www.chinanews.com.cn/fz/2026/08-31/10687000.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +176,8 @@
       ]
     },
     {
-      "title": "吉隆受灾核心区淤泥超一米 消防救援力量711人、13犬不间断拉网式搜寻",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686961.shtml",
+      "title": "美大峡谷国家公园突发山洪，至少15人失联",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10686995.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "习近平同吉尔吉斯斯坦总统小范围晤谈",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686960.shtml",
+      "title": "国产大模型与算力平台“双向奔赴” 带来哪些新机遇？",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10686994.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "中国女排2:3惜败泰国队 获亚锦赛亚军",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686959.shtml",
+      "title": "台风“班朗”将逐渐变性为温带气旋 “艾涛”停止编号",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686988.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "尼泊尔泥石流灾害中取得联系的中方人员已安全转移",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686957.shtml",
+      "title": "警惕“成功学”带偏孩子的阅读",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-31/10686986.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "西藏吉隆口岸通信信号抢通 信号可送达核心救援现场",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686956.shtml",
+      "title": "“沙德尔”残余涡旋可能发展为热带低压或编号台风",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686985.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "直击西藏吉隆口岸抢险救灾：技术护航水陆空救援力量挺进核心区",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-30/news1067100.shtml",
+      "title": "暴雨黄色预警：江苏安徽等9省区部分地区有大暴雨 局地特大暴雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686983.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,48 +236,8 @@
       ]
     },
     {
-      "title": "（文化中国行）中式书香“碰撞”西方魔幻 江西婺源奇幻图书馆走红",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-30/10686953.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏吉隆因山体滑坡形成的新堰塞湖已自然过流、基本排空",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686952.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "塞浦路斯发生客轮倾覆事故致6人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686951.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "年轻人为什么不爱当班主任了？",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686950.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东西问·知味东方｜一碗浆面条，为何让“赛考斯”念念不忘？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-30/10686946.shtml",
+      "title": "今起三天北京晴天持续 早晚凉意渐起注意添衣",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686981.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
