@@ -1,45 +1,65 @@
 {
-  "date": "2026-08-31",
-  "time": "20:52",
-  "generatedAt": "2026-08-31T20:52:37.462Z",
+  "date": "2026-09-01",
+  "time": "00:40",
+  "generatedAt": "2026-09-01T00:40:32.507Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "“张雪机车”香港交付 香港立法会议员何君尧：“绝对好嘢”",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-31/10687576.shtml",
+      "title": "（近观中国）中吉签署永久睦邻友好合作条约 惠及双边辐射中亚",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687605.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "以政治学创新赋能中国式现代化 首届政治学前沿论坛在京举办",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687572.shtml",
+      "title": "特朗普判“伊朗已死”，内塔尼亚胡自曝：为让美伊对抗，我在美国电视出镜近1000小时，阿拉格奇痛斥“双面人”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687609.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "APAI亚太人工智能青少年科技创新大赛开放报名",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687553.shtml",
+      "title": "巴西金融市场下调今年通胀和经济增长预期",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687590.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "第38届中共党史党建学位点会议暨推进中共党史党建学科高质量发展学术研讨会在北京召开",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687567.shtml",
+      "title": "国家统计局有关负责同志解读知识产权产品投资",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687604.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "德国8月通胀率升至2.9%",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687589.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "深入推进基础教育高质量发展（深入学习贯彻习近平新时代中国特色社会主义思想）",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-01/10687603.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -47,7 +67,7 @@
     },
     {
       "title": "习近平会见俄罗斯总统普京",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687564.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-01/1202719.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,38 +76,8 @@
       ]
     },
     {
-      "title": "长三角持续深化协同创新（活力中国调研行）",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687566.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "科技助力田管 推动粮食稳产增收",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687565.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "事业单位招聘存在“高分断层”情况？吉林白城通报",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687517.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "事业单位"
-      ]
-    },
-    {
-      "title": "新华图讯丨习近平会见俄罗斯总统普京",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687559.shtml",
+      "title": "美国大峡谷国家公园山洪已致2人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687588.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,18 +86,8 @@
       ]
     },
     {
-      "title": "十五五·同心聚力自贸港：“以科技创新赋能海南高质量发展”",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687507.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“友谊之桥”培训项目助力柬埔寨新能源汽车技术人才培养",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687548.shtml",
+      "title": "AI时代 家校协同如何赋能大学生成长",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-01/10687585.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -126,8 +106,18 @@
       ]
     },
     {
-      "title": "中国羽毛球协会副主席夏煊泽被查",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A4%8F%E7%85%8A%E6%B3%BD%E8%A2%AB%E6%9F%A5",
+      "title": "江苏省委：坚决拥护党中央决定",
+      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "女子被踢845个群被迫离职 当地通报",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B8%A2845%E4%B8%AA%E7%BE%A4%E8%A2%AB%E8%BF%AB%E7%A6%BB%E8%81%8C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
       "source": "百度热搜",
       "cat": "hot",
       "score": 1,
@@ -136,38 +126,8 @@
       ]
     },
     {
-      "title": "多岗位笔试出现高分断层 白城通报",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%B2%97%E4%BD%8D%E7%AC%94%E8%AF%95%E5%87%BA%E7%8E%B0%E9%AB%98%E5%88%86%E6%96%AD%E5%B1%82+%E7%99%BD%E5%9F%8E%E9%80%9A%E6%8A%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "国考"
-      ]
-    },
-    {
-      "title": "江苏省委常委、组织部部长刘建洋被查",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E5%B8%B8%E5%A7%94%E3%80%81%E7%BB%84%E7%BB%87%E9%83%A8%E9%83%A8%E9%95%BF%E5%88%98%E5%BB%BA%E6%B4%8B%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "华为上半年收入4678亿元",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%85%A54678%E4%BA%BF%E5%85%83",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
+      "title": "北方多地昼夜温差加大 华东华南需警惕降雨叠加致灾",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687625.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "中华人民共和国和吉尔吉斯共和国永久睦邻友好合作条约",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687578.shtml",
+      "title": "时政Vlog丨在比什凯克和谐宫见证中吉合作",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687624.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "（乡村行·看振兴）定远张桥：从“水泥”路到海外“商路”",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687577.shtml",
+      "title": "玛纳斯：中吉人民共同拥有的文化瑰宝",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687623.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "广州市无管中心建设标准化培训基地启动",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687574.shtml",
+      "title": "“沙德尔”再度加强为台风 江南华南等地有强降雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687618.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "十五五·同心聚力自贸港：“迫切需要国有基金进一步发挥资本引擎作用”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687561.shtml",
+      "title": "塞尔维亚球星德约科维奇将参加2026中国网球公开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-01/10687615.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "25年踏浪前行，上合组织缘何吸引力倍增？巴学者：离不开“中国引擎”",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-31/10687569.shtml",
+      "title": "新一轮找矿行动成果+1 我国铜金矿勘查再获重大突破",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687614.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "路通山海近 心合情谊长路通山海近 心合情谊长",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-31/10687568.shtml",
+      "title": "赶制钢筋石笼填筑路基 通往吉隆口岸216国道正加紧抢修",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687613.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "习近平会见乌兹别克斯坦总统米尔济约耶夫",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687555.shtml",
+      "title": "“赛考斯”中国“种树”，种下什么？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687611.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "这个开学季，海外采购文具偏爱哪些“中国造”？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687602.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "胆囊里的“小石头”，别拖成大麻烦",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-01/10687601.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "开学日北京晴天为主最高气温30℃ 早晚时段凉意在线需添衣",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687600.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "直播：直击开学第一天",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-01/10687599.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
