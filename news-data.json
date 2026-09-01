@@ -1,53 +1,13 @@
 {
   "date": "2026-09-01",
-  "time": "11:48",
-  "generatedAt": "2026-09-01T11:48:08.117Z",
+  "time": "16:45",
+  "generatedAt": "2026-09-01T16:45:12.657Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "第三届“筑梦飞扬”香港青少年实习就业计划结业",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-01/10688072.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普首次公开表态：美国正重新审视马岛主权立场",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10688157.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国迎来开学季   智能环保文具走俏",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688094.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026俄罗斯电影节（黑河站）启幕 光影架起中俄民心相通桥",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688135.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平出席“上海合作组织+”会议并发表重要讲话",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-01/1202799.shtml",
+      "title": "英国加速警务改革打击性暴力犯罪",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10688345.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -56,8 +16,8 @@
       ]
     },
     {
-      "title": "南京建邺试点智能机器人送学 科技赋能开学第一课",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-01/10688098.shtml",
+      "title": "阿曼、约旦科技及管理人员在沪系统研修AI赋能绿色转型",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688332.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,49 +26,19 @@
       ]
     },
     {
-      "title": "习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688121.shtml",
+      "title": "海南慈善事业向上向善 “十五五” 推动出台《海南省慈善条例》",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688329.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "统战聚力盘活闲置地 江西共青城走出乡村振兴新路",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-01/10688069.shtml",
+      "title": "第三个InnoHK创新香港研发平台启动 聚焦可持续发展等领域",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-01/10688326.shtml",
       "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平出席2026年上合峰会",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD2026%E5%B9%B4%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄罗斯警告日本和美国",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%E5%92%8C%E7%BE%8E%E5%9B%BD",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI色情短剧黑链曝光 4万月薪招编剧",
-      "url": "https://www.baidu.com/s?wd=AI%E8%89%B2%E6%83%85%E7%9F%AD%E5%89%A7%E9%BB%91%E9%93%BE%E6%9B%9D%E5%85%89+4%E4%B8%87%E6%9C%88%E8%96%AA%E6%8B%9B%E7%BC%96%E5%89%A7",
-      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -116,19 +46,19 @@
       ]
     },
     {
-      "title": "砸杨瀚森球迷已被批评教育",
-      "url": "https://www.baidu.com/s?wd=%E7%A0%B8%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%90%83%E8%BF%B7%E5%B7%B2%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2",
-      "source": "百度热搜",
-      "cat": "society",
+      "title": "中国科技馆推出脑科学主题展 全景呈现脑研究、脑健康和类脑技术",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688325.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "英伟达宣布史上最大海外直接投资",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AE%A3%E5%B8%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%B5%B7%E5%A4%96%E7%9B%B4%E6%8E%A5%E6%8A%95%E8%B5%84",
-      "source": "百度热搜",
+      "title": "面对面心贴心 浙江市场监管部门倾听多元主体发展诉求",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688322.shtml",
+      "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -136,18 +66,68 @@
       ]
     },
     {
-      "title": "外交部回应“普京谈中俄免签制度”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E6%99%AE%E4%BA%AC%E8%B0%88%E4%B8%AD%E4%BF%84%E5%85%8D%E7%AD%BE%E5%88%B6%E5%BA%A6%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
+      "title": "听企声解民忧 浙江启动2026年市场监管服务月活动",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688323.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "杭州一社区食堂为外卖骑手提供8000份免费午餐",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688107.shtml",
+      "title": "中央社会主义学院2026年秋季学期开学典礼在北京举行",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-01/10688318.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "APEC嘉宾参访广州 中国人工智能产品受青睐",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688315.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "开局起步“十五五”：海口发力现代服务业与开放型经济",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688314.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第32次亚太经合组织（APEC）中小企业部长会议参访活动在穗开展",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-01/10688321.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平出席“上海合作组织+”会议",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E2%80%9C%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%2B%E2%80%9D%E4%BC%9A%E8%AE%AE",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平抵达开罗，开始对埃及进行国事访问",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688346.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +136,8 @@
       ]
     },
     {
-      "title": "习近平：上海合作组织应该勇担历史责任，主动引领历史航向",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688156.shtml",
+      "title": "2026中国羽毛球大师赛开赛 中国混双组合首轮晋级",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-01/10688342.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +146,8 @@
       ]
     },
     {
-      "title": "中国速度攀岩系列赛长沙站举行 采用四赛道竞速",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-01/10688152.shtml",
+      "title": "上海合作组织成员国元首理事会关于加强核安全与核安保多边伙伴关系的宣言",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688344.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +156,8 @@
       ]
     },
     {
-      "title": "福马“小三通”暑运升温  2027年预计新增船舶",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688064.shtml",
+      "title": "上海合作组织成员国元首理事会关于加强对受紧急情况影响的国家援助响应能力的声明",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688343.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "新疆吉木乃口岸：55万枝鲜切花“保鲜”出境",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688093.shtml",
+      "title": "推动上海合作组织发展的中国行动成果清单",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688341.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "山东日照：黄渤海休渔期结束 千帆竞发争“鲜”出海",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-01/10688151.shtml",
+      "title": "海南：高风险地中海贫血基因携带家庭符合申请条件平均可获6万至10万元救助",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688327.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "暑运期间大连空港累计验放出入境旅客22万余人次  超八成外籍旅客享免签",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688109.shtml",
+      "title": "图纸“纠偏”记 杭州检察机关专项监督无障碍设计",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688331.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "距吉隆口岸仅剩700米 中国安能全力抢通G216国道",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688149.shtml",
+      "title": "暑运期间中国民航累计运送旅客超1.5亿人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688337.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "记者手记：在尼罗河畔，感受文明交响",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688142.shtml",
+      "title": "河北鸡泽万亩椒田“红”似火  嘉年华里品“热辣”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688328.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "中国三部门发文引导汽车企业规范境外竞争行为",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688130.shtml",
+      "title": "上海合作组织二十五周年比什凯克宣言",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688336.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习言道｜习近平再谈上合“初心”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688334.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上合组织秘书长：25年来，开启区域合作新模式",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688335.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
