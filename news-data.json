@@ -1,10 +1,30 @@
 {
   "date": "2026-09-01",
-  "time": "16:45",
-  "generatedAt": "2026-09-01T16:45:12.657Z",
+  "time": "19:58",
+  "generatedAt": "2026-09-01T19:58:44.485Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "习近平抵达埃及开罗国际机场发表书面讲话",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688354.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外媒关注2026年上合组织峰会：凸显“上海精神”持久意义",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688352.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "英国加速警务改革打击性暴力犯罪",
       "url": "https://www.chinanews.com.cn/gj/2026/09-01/10688345.shtml",
@@ -56,71 +76,81 @@
       ]
     },
     {
-      "title": "面对面心贴心 浙江市场监管部门倾听多元主体发展诉求",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688322.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "听企声解民忧 浙江启动2026年市场监管服务月活动",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688323.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中央社会主义学院2026年秋季学期开学典礼在北京举行",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-01/10688318.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "APEC嘉宾参访广州 中国人工智能产品受青睐",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688315.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "开局起步“十五五”：海口发力现代服务业与开放型经济",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688314.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第32次亚太经合组织（APEC）中小企业部长会议参访活动在穗开展",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-01/10688321.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "习近平出席“上海合作组织+”会议",
       "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E2%80%9C%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%2B%E2%80%9D%E4%BC%9A%E8%AE%AE",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "砸杨瀚森球迷已被批评教育",
+      "url": "https://www.baidu.com/s?wd=%E7%A0%B8%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%90%83%E8%BF%B7%E5%B7%B2%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "216国道抢通作业推进至吉隆口岸泥石流灾害核心区",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688357.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "曼谷汉字艺术节助推中泰文化交流",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688356.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平抵达开罗对埃及进行国事访问",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688355.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“我将无我、不负人民”的世界回响",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688353.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“赛考斯”挥别中国",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688351.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新华图讯｜习近平抵达埃及首都开罗",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688348.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -208,36 +238,6 @@
     {
       "title": "河北鸡泽万亩椒田“红”似火  嘉年华里品“热辣”",
       "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688328.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海合作组织二十五周年比什凯克宣言",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688336.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习言道｜习近平再谈上合“初心”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688334.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上合组织秘书长：25年来，开启区域合作新模式",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688335.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
