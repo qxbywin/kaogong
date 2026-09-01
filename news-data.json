@@ -1,10 +1,20 @@
 {
   "date": "2026-09-01",
-  "time": "19:58",
-  "generatedAt": "2026-09-01T19:58:44.485Z",
+  "time": "22:39",
+  "generatedAt": "2026-09-01T22:39:19.522Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "扎哈罗娃：在日部署“堤丰”导弹系统“不可接受”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688361.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "习近平抵达埃及开罗国际机场发表书面讲话",
       "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688354.shtml",
@@ -56,26 +66,6 @@
       ]
     },
     {
-      "title": "第三个InnoHK创新香港研发平台启动 聚焦可持续发展等领域",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-01/10688326.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国科技馆推出脑科学主题展 全景呈现脑研究、脑健康和类脑技术",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688325.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "习近平出席“上海合作组织+”会议",
       "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E2%80%9C%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%2B%E2%80%9D%E4%BC%9A%E8%AE%AE",
       "source": "百度热搜",
@@ -91,6 +81,36 @@
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688360.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美众议院通过临时拨款法案 以避免政府“停摆”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688359.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "手机号能否继承？绑定内容能否擅自处置？姐弟诉到法院→",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688358.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -218,26 +238,6 @@
     {
       "title": "图纸“纠偏”记 杭州检察机关专项监督无障碍设计",
       "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688331.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "暑运期间中国民航累计运送旅客超1.5亿人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688337.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河北鸡泽万亩椒田“红”似火  嘉年华里品“热辣”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688328.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
