@@ -2724,40 +2724,14 @@
         });
       }
 
-      /* ---- 三、滑动指示器：选项切换时朱砂滑块平滑横移 ---- */
-      var SLIDE_GROUPS = [".news-src-switch", ".study-tabs", ".timer-modes"];
-      function syncSlideInd(group) {
-        if (!group) return;
-        var act = group.querySelector(".active");
-        var ind = group.querySelector(".slide-ind");
-        if (!act || !act.offsetWidth) { if (ind) ind.classList.remove("ready"); return; }
-        if (!ind) {
-          group.classList.add("slide-track");
-          ind = document.createElement("span");
-          ind.className = "slide-ind";
-          group.insertBefore(ind, group.firstChild);
-        }
-        ind.style.width = act.offsetWidth + "px";
-        ind.style.transform = "translateX(" + (act.offsetLeft - group.offsetLeft) + "px)";
-        ind.classList.add("ready");
-      }
-      function syncAllSlides() {
-        SLIDE_GROUPS.forEach(function (sel) {
-          Array.prototype.forEach.call(document.querySelectorAll(sel), function (g) { syncSlideInd(g); });
-        });
-      }
-      if (!reduce) {
-        SLIDE_GROUPS.forEach(function (sel) {
-          document.addEventListener("click", function (e) {
-            var g = e.target && e.target.closest ? e.target.closest(sel) : null;
-            if (!g) return;
-            setTimeout(function () { syncSlideInd(g); }, 0);
-          });
-        });
-        window.addEventListener("resize", syncAllSlides);
-      }
+      /* ---- 三、（已移除）滑动指示器
+         曾给 .news-src-switch / .study-tabs / .timer-modes 注入朱砂滑块，两处硬伤：
+           1. .slide-track > * 与 .slide-ind 特异性相同却定义在后，把滑块的
+              position:absolute 覆盖成 relative，滑块变成 flex 项占空间 → 按钮错位
+           2. 这些组件自身的 .active 已带朱砂渐变背景，滑块属重复叠加且被不透明背景遮挡
+         切换反馈交由「墨滴涟漪」承担，不再保留此模块。 ---- */
 
-      /* ---- 四、页面入场：内容块次第展开 + 数字滚动 + 滑块归位 ---- */
+      /* ---- 四、页面入场：内容块次第展开 + 数字滚动 ---- */
       var _prevGo = goPage;
       goPage = function (id) {
         _prevGo(id);
@@ -2774,7 +2748,6 @@
           }
         }
         countUpAll(page);
-        requestAnimationFrame(syncAllSlides);
       };
       window.goPage = goPage;
 
@@ -2798,7 +2771,7 @@
         });
       }
 
-      requestAnimationFrame(function () { countUpAll(document); syncAllSlides(); });
+      requestAnimationFrame(function () { countUpAll(document); });
     })();
 
     /* 暴露给调试 / 外部调用 */

@@ -865,18 +865,12 @@
       60%, 100% { transform: translateX(100%); }
     }
 
-    /* 七、滑动指示器：选项切换时朱砂滑块平滑横移 */
-    .slide-track { position: relative; }
-    .slide-ind {
-      position: absolute; top: 3px; bottom: 3px; left: 0; width: 0;
-      border-radius: 999px; pointer-events: none; z-index: 0;
-      background: linear-gradient(135deg, var(--accent) 0%, var(--accent-strong) 100%);
-      box-shadow: 0 2px 8px rgba(141, 55, 40, 0.26);
-      transition: transform 0.34s var(--ease-ink), width 0.34s var(--ease-ink), opacity 0.2s ease;
-      opacity: 0;
-    }
-    .slide-ind.ready { opacity: 1; }
-    .slide-track > * { position: relative; z-index: 1; }
+    /* 七、（已移除）滑动指示器
+       曾给 .news-src-switch / .study-tabs / .timer-modes 加朱砂滑块，但两处硬伤：
+         1. .slide-track > * 与 .slide-ind 特异性相同却定义在后，
+            把滑块的 position:absolute 覆盖成 relative，滑块变成 flex 项占空间 → 按钮错位
+         2. 这些组件的 .active 自身已有朱砂渐变背景，滑块属重复叠加，且被不透明背景遮挡
+       切换反馈交由「墨滴涟漪」承担，此处不再保留相关样式。 */
 
     /* 八、页面切换：内容块如卷轴次第展开 */
     @keyframes inkRise {
