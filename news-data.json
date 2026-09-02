@@ -1,33 +1,13 @@
 {
   "date": "2026-09-02",
-  "time": "05:55",
-  "generatedAt": "2026-09-02T05:55:43.665Z",
+  "time": "11:28",
+  "generatedAt": "2026-09-02T11:28:55.374Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "以供给创新培育体验式消费",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688632.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国台办：台商台企在大陆长期投资和依法合规经营无需顾虑",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688650.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "普京：俄美情报部门接触从未中断",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688643.shtml",
+      "title": "第十届平遥国际电影展公布“迁徙计划”推荐名单",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688961.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,18 +16,18 @@
       ]
     },
     {
-      "title": "海外侨胞关注2026年上合组织峰会：汇聚合作之力 完善全球治理",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688636.shtml",
+      "title": "（经济观察）光伏装机首超煤电  中国能源转型进入“下半场”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688962.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "着力打通科技加速向生产力转化通道",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-02/10688637.shtml",
+      "title": "青春之力敲击传承新篇  国家级非遗“金钱板”在川外守正创新20年",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688959.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -56,8 +36,8 @@
       ]
     },
     {
-      "title": "国家安全生产应急救援队伍持续监测现场次生灾害120小时，采集2700组数据",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688619.shtml",
+      "title": "第十五届中国知识产权年会即将举办 设置两场人工智能专题论坛",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688955.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,39 +46,19 @@
       ]
     },
     {
-      "title": "普京硬核回应俄日关系恶化",
-      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%A1%AC%E6%A0%B8%E5%9B%9E%E5%BA%94%E4%BF%84%E6%97%A5%E5%85%B3%E7%B3%BB%E6%81%B6%E5%8C%96",
-      "source": "百度热搜",
-      "cat": "international",
+      "title": "追光哈密：百万千瓦新能源基地这样“储存阳光”",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202941.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "泰国调整免签政策 中使馆发文提醒",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E8%B0%83%E6%95%B4%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%8F%91%E6%96%87%E6%8F%90%E9%86%92",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "校服改革应把选择权交给家长学生",
-      "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E6%9C%8D%E6%94%B9%E9%9D%A9%E5%BA%94%E6%8A%8A%E9%80%89%E6%8B%A9%E6%9D%83%E4%BA%A4%E7%BB%99%E5%AE%B6%E9%95%BF%E5%AD%A6%E7%94%9F",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多个10万亿级消费新赛道要来了",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA10%E4%B8%87%E4%BA%BF%E7%BA%A7%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B5%9B%E9%81%93%E8%A6%81%E6%9D%A5%E4%BA%86",
-      "source": "百度热搜",
+      "title": "东北亚及海外重点市场跨境合作暨采购对接会在沈阳举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688951.shtml",
+      "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -106,8 +66,38 @@
       ]
     },
     {
-      "title": "秘鲁宣布与伊朗断绝外交关系",
-      "url": "https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%96%AD%E7%BB%9D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB",
+      "title": "盘活闲置资源创新治理模式 湖南江华壮乡村寨蝶变提质",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688916.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆锚定创新强市绿色赛道 打造长江生态科研“强磁场”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688908.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台劳动部门负责人将赴南京参加APEC会议  国台办指“立场是一贯的”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688912.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国地勤暴力损坏中国飞机？国航回应",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9C%B0%E5%8B%A4%E6%9A%B4%E5%8A%9B%E6%8D%9F%E5%9D%8F%E4%B8%AD%E5%9B%BD%E9%A3%9E%E6%9C%BA%EF%BC%9F%E5%9B%BD%E8%88%AA%E5%9B%9E%E5%BA%94",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -116,8 +106,8 @@
       ]
     },
     {
-      "title": "美国银行副总裁在时报广场被刺身亡",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%89%AF%E6%80%BB%E8%A3%81%E5%9C%A8%E6%97%B6%E6%8A%A5%E5%B9%BF%E5%9C%BA%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
+      "title": "俄罗斯人拿人民币在黑河夜市疯狂扫货",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E6%8B%BF%E4%BA%BA%E6%B0%91%E5%B8%81%E5%9C%A8%E9%BB%91%E6%B2%B3%E5%A4%9C%E5%B8%82%E7%96%AF%E7%8B%82%E6%89%AB%E8%B4%A7",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -126,8 +116,38 @@
       ]
     },
     {
-      "title": "丽江：以文旅为桥 以外事为脉 向世界讲好中华民族共同体故事",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-02/10688651.shtml",
+      "title": "中方对G20会议未发表公报深表遗憾",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%AF%B9G20%E4%BC%9A%E8%AE%AE%E6%9C%AA%E5%8F%91%E8%A1%A8%E5%85%AC%E6%8A%A5%E6%B7%B1%E8%A1%A8%E9%81%97%E6%86%BE",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄罗斯无人机能力大增",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%83%BD%E5%8A%9B%E5%A4%A7%E5%A2%9E",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "海上漂了272天的美国水兵登陆了",
+      "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E4%B8%8A%E6%BC%82%E4%BA%86272%E5%A4%A9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%B0%B4%E5%85%B5%E7%99%BB%E9%99%86%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从“卖场”变“磁场” 线上阅读时代实体书店破局新路",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688975.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +156,8 @@
       ]
     },
     {
-      "title": "当前天气条件对秋粮收获有哪些影响？国家气象中心回应",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688645.shtml",
+      "title": "“雪域风情进社区”活动走进北京通州、石景山",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688974.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +166,8 @@
       ]
     },
     {
-      "title": "秋季我国长江流域及以南大部分地区降水以偏多为主",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688642.shtml",
+      "title": "安徽淮南一液化气储配站起火？官方回应：火已扑灭，无人员伤亡",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688973.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "国台办：积极支持两岸文化交流 欢迎台湾艺人来大陆发展",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688647.shtml",
+      "title": "受持续强降雨影响 福建多地相继发布紧急停课通知",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688970.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "国台办：民进党当局编织的信息茧房必将被事实戳破",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688640.shtml",
+      "title": "云南艺术家以篆刻让“滇批”与爨书“握手”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688968.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "查理·柯克谋杀案嫌疑人作无罪答辩，法官允许检方寻求死刑",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688625.shtml",
+      "title": "十五五·同心聚力自贸港：一位院士的三个期待",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-02/10688960.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "九三学社保定市委赴中国科学院与“两弹一星”纪念馆 开展参观见学活动",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-02/10688644.shtml",
+      "title": "新华图讯｜习近平同埃及总统塞西会谈",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688967.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "一米一米挺进，没有捷径但绝不退缩(现场评论)",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-02/10688639.shtml",
+      "title": "国台办回应台各界就吉隆泥石流灾害表达关心等近期两岸热点",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688935.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "这个“一眼看不懂工作内容”的新职业，能“火”多久？",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688635.shtml",
+      "title": "视频丨西藏吉隆受灾核心区搭起救灾帐篷 人员经陆路进入开展搜救",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688958.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "为全球南方国家共同发展树立新标杆",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-02/10688634.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国第二批援尼紧急援助物资雨中运抵加德满都",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202903.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "江苏省苏州市昆山市气象台发布强对流黄色预警信号",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688627.shtml",
+      "title": "广东首个残疾人体育艺术训练中心项目计划明年7月交付",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688948.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
