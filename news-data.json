@@ -1,13 +1,43 @@
 {
-  "date": "2026-08-30",
-  "time": "15:20",
-  "generatedAt": "2026-08-30T15:20:49.747Z",
+  "date": "2026-09-02",
+  "time": "01:05",
+  "generatedAt": "2026-09-02T01:05:50.168Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "沪港协同创新再深化 香港大学张江基地二期正式启用",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686954.shtml",
+      "title": "促进民营经济高质量发展丨解难题、送政策，看民营企业如何轻装出海",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688386.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "大国外交最前线丨从一条大河出发 在开罗寻找两个文明古国的对话密码",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688378.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "政策密集出台 京沪深楼市成交齐增",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688407.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "427万辆新能源车因门把手隐患被召回 莫让“科技感”凌驾于安全红线之上",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688401.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -16,8 +46,18 @@
       ]
     },
     {
-      "title": "中国援圭亚那医疗队探秘亚马孙传统医药：17小时雨林“寻百草”",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686942.shtml",
+      "title": "暑运出行变迁 藏着中国消费的鲜活底气",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688398.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "养老监护缺失，谁来“兜底”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688391.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -26,28 +66,18 @@
       ]
     },
     {
-      "title": "重庆市忠县人大常委会党组原书记、主任雷亚平接受审查调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686939.shtml",
+      "title": "AI与人工客服流转规则有“标”可依",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-02/10688387.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "裕固族民歌唱响国图 拉开人口较少民族口头传统典藏计划2026年度活动大幕",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-30/10686931.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "比什凯克国立大学孔院院长：海外中文教育从兴趣走向需求",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-30/10686935.shtml",
+      "title": "博物馆的“距今”为何年年不变？碳-14测年基准揭秘",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688385.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -56,18 +86,8 @@
       ]
     },
     {
-      "title": "当职业教育进入“智能时代” 浙江如何重塑技能人才？",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686933.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-30/1202635.shtml",
+      "title": "德国指认俄涉莱比锡机场袭击并宣布反制措施",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,9 +96,9 @@
       ]
     },
     {
-      "title": "习近平抵达比什凯克出席上合峰会",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E6%AF%94%E4%BB%80%E5%87%AF%E5%85%8B%E5%87%BA%E5%B8%AD%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A",
-      "source": "百度热搜",
+      "title": "“开学第一课”：俄宇航员与学生定下五年中文之约",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688372.shtml",
+      "source": "中国新闻网",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -86,18 +106,8 @@
       ]
     },
     {
-      "title": "医疗防疫分队前往救援一线",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E9%98%B2%E7%96%AB%E5%88%86%E9%98%9F%E5%89%8D%E5%BE%80%E6%95%91%E6%8F%B4%E4%B8%80%E7%BA%BF",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中央纪委副书记孙新阳当选新职",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%AD%99%E6%96%B0%E9%98%B3%E5%BD%93%E9%80%89%E6%96%B0%E8%81%8C",
+      "title": "习近平出席“上海合作组织+”会议",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E2%80%9C%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%2B%E2%80%9D%E4%BC%9A%E8%AE%AE",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
@@ -106,8 +116,28 @@
       ]
     },
     {
-      "title": "超强厄尔尼诺正在冲击世界经济",
-      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%AD%A3%E5%9C%A8%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E",
+      "title": "美国银行副总裁在时报广场被刺身亡",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%89%AF%E6%80%BB%E8%A3%81%E5%9C%A8%E6%97%B6%E6%8A%A5%E5%B9%BF%E5%9C%BA%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "秘鲁宣布与伊朗断绝外交关系",
+      "url": "https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%96%AD%E7%BB%9D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多个10万亿级消费新赛道要来了",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA10%E4%B8%87%E4%BA%BF%E7%BA%A7%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B5%9B%E9%81%93%E8%A6%81%E6%9D%A5%E4%BA%86",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -116,28 +146,8 @@
       ]
     },
     {
-      "title": "新能源二手车升温：到店3天就卖出",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%8C%E6%89%8B%E8%BD%A6%E5%8D%87%E6%B8%A9%EF%BC%9A%E5%88%B0%E5%BA%973%E5%A4%A9%E5%B0%B1%E5%8D%96%E5%87%BA",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "官方通报“妇女带两名残疾人乞讨”",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A6%87%E5%A5%B3%E5%B8%A6%E4%B8%A4%E5%90%8D%E6%AE%8B%E7%96%BE%E4%BA%BA%E4%B9%9E%E8%AE%A8%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国女排2:3惜败泰国队 获亚锦赛亚军",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686959.shtml",
+      "title": "习近平抵达埃及首都开罗",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202853.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "尼泊尔泥石流灾害中取得联系的中方人员已安全转移",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686957.shtml",
+      "title": "特努斯正式担任苹果公司CEO",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688375.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "西藏吉隆口岸通信信号抢通 信号可送达核心救援现场",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686956.shtml",
+      "title": "习语丨“这是一个英雄辈出的时代，你们这个年纪正当其时”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688411.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "直击西藏吉隆口岸抢险救灾：技术护航水陆空救援力量挺进核心区",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-30/news1067100.shtml",
+      "title": "“沙德尔”向东偏北方向移动 江南华南等地有强降雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688400.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "（文化中国行）中式书香“碰撞”西方魔幻 江西婺源奇幻图书馆走红",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-30/10686953.shtml",
+      "title": "吉总统：中国是最亲密的朋友和最可靠的伙伴",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688376.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "西藏吉隆因山体滑坡形成的新堰塞湖已自然过流、基本排空",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686952.shtml",
+      "title": "近镜头｜习近平主席即将到访 埃及期待中国贵宾",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688377.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "塞浦路斯发生客轮倾覆事故致6人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686951.shtml",
+      "title": "全国小学、初中已全部完成新教材替换，这些学科改动大→",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10688409.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "年轻人为什么不爱当班主任了？",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686950.shtml",
+      "title": "国家基本药物目录上新！家门口能开到的药将持续扩容",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-02/10688402.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "东西问·知味东方｜一碗浆面条，为何让“赛考斯”念念不忘？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-30/10686946.shtml",
+      "title": "【融居岁月长】新疆女孩一口地道河南话“出圈”：俺们在固始感到心里暖和",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/09-02/news1067416.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "2026年穗港澳台青少年棒球联谊赛在广州南沙举办",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-30/10686948.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河北工业企业兴起直播热 产品“云上”销全球",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686947.shtml",
+      "title": "未成年人独自出行如何“各解各题”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688396.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
