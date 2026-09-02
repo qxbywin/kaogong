@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-01",
-  "time": "22:39",
-  "generatedAt": "2026-09-01T22:39:19.522Z",
+  "date": "2026-09-02",
+  "time": "01:05",
+  "generatedAt": "2026-09-02T01:05:50.168Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "扎哈罗娃：在日部署“堤丰”导弹系统“不可接受”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688361.shtml",
+      "title": "促进民营经济高质量发展丨解难题、送政策，看民营企业如何轻装出海",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688386.shtml",
       "source": "中国新闻网",
       "cat": "policy",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "习近平抵达埃及开罗国际机场发表书面讲话",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688354.shtml",
+      "title": "大国外交最前线丨从一条大河出发 在开罗寻找两个文明古国的对话密码",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688378.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -26,18 +26,8 @@
       ]
     },
     {
-      "title": "外媒关注2026年上合组织峰会：凸显“上海精神”持久意义",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688352.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "英国加速警务改革打击性暴力犯罪",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-01/10688345.shtml",
+      "title": "政策密集出台 京沪深楼市成交齐增",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688407.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -46,8 +36,8 @@
       ]
     },
     {
-      "title": "阿曼、约旦科技及管理人员在沪系统研修AI赋能绿色转型",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688332.shtml",
+      "title": "427万辆新能源车因门把手隐患被召回 莫让“科技感”凌驾于安全红线之上",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688401.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -56,10 +46,60 @@
       ]
     },
     {
-      "title": "海南慈善事业向上向善 “十五五” 推动出台《海南省慈善条例》",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688329.shtml",
+      "title": "暑运出行变迁 藏着中国消费的鲜活底气",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688398.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "养老监护缺失，谁来“兜底”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688391.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI与人工客服流转规则有“标”可依",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-02/10688387.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "博物馆的“距今”为何年年不变？碳-14测年基准揭秘",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688385.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "德国指认俄涉莱比锡机场袭击并宣布反制措施",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“开学第一课”：俄宇航员与学生定下五年中文之约",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688372.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -76,18 +116,38 @@
       ]
     },
     {
-      "title": "砸杨瀚森球迷已被批评教育",
-      "url": "https://www.baidu.com/s?wd=%E7%A0%B8%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%90%83%E8%BF%B7%E5%B7%B2%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2",
+      "title": "美国银行副总裁在时报广场被刺身亡",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%89%AF%E6%80%BB%E8%A3%81%E5%9C%A8%E6%97%B6%E6%8A%A5%E5%B9%BF%E5%9C%BA%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
       "source": "百度热搜",
-      "cat": "society",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688360.shtml",
+      "title": "秘鲁宣布与伊朗断绝外交关系",
+      "url": "https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%96%AD%E7%BB%9D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多个10万亿级消费新赛道要来了",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA10%E4%B8%87%E4%BA%BF%E7%BA%A7%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B5%9B%E9%81%93%E8%A6%81%E6%9D%A5%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平抵达埃及首都开罗",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202853.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +156,8 @@
       ]
     },
     {
-      "title": "美众议院通过临时拨款法案 以避免政府“停摆”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688359.shtml",
+      "title": "特努斯正式担任苹果公司CEO",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688375.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +166,8 @@
       ]
     },
     {
-      "title": "手机号能否继承？绑定内容能否擅自处置？姐弟诉到法院→",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688358.shtml",
+      "title": "习语丨“这是一个英雄辈出的时代，你们这个年纪正当其时”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688411.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +176,8 @@
       ]
     },
     {
-      "title": "216国道抢通作业推进至吉隆口岸泥石流灾害核心区",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688357.shtml",
+      "title": "“沙德尔”向东偏北方向移动 江南华南等地有强降雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688400.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +186,8 @@
       ]
     },
     {
-      "title": "曼谷汉字艺术节助推中泰文化交流",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10688356.shtml",
+      "title": "吉总统：中国是最亲密的朋友和最可靠的伙伴",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688376.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +196,8 @@
       ]
     },
     {
-      "title": "习近平抵达开罗对埃及进行国事访问",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688355.shtml",
+      "title": "近镜头｜习近平主席即将到访 埃及期待中国贵宾",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688377.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +206,8 @@
       ]
     },
     {
-      "title": "“我将无我、不负人民”的世界回响",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688353.shtml",
+      "title": "全国小学、初中已全部完成新教材替换，这些学科改动大→",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10688409.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +216,8 @@
       ]
     },
     {
-      "title": "“赛考斯”挥别中国",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688351.shtml",
+      "title": "国家基本药物目录上新！家门口能开到的药将持续扩容",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-02/10688402.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +226,8 @@
       ]
     },
     {
-      "title": "新华图讯｜习近平抵达埃及首都开罗",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688348.shtml",
+      "title": "【融居岁月长】新疆女孩一口地道河南话“出圈”：俺们在固始感到心里暖和",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/09-02/news1067416.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,68 +236,8 @@
       ]
     },
     {
-      "title": "习近平抵达开罗，开始对埃及进行国事访问",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688346.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中国羽毛球大师赛开赛 中国混双组合首轮晋级",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-01/10688342.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海合作组织成员国元首理事会关于加强核安全与核安保多边伙伴关系的宣言",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688344.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海合作组织成员国元首理事会关于加强对受紧急情况影响的国家援助响应能力的声明",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688343.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "推动上海合作组织发展的中国行动成果清单",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688341.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海南：高风险地中海贫血基因携带家庭符合申请条件平均可获6万至10万元救助",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688327.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "图纸“纠偏”记 杭州检察机关专项监督无障碍设计",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688331.shtml",
+      "title": "未成年人独自出行如何“各解各题”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688396.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
