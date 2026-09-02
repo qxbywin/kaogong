@@ -2654,6 +2654,153 @@
     var splashEl = document.getElementById("splash");
     if (splashEl) { splashEl.style.opacity = "0"; setTimeout(function() { splashEl.remove(); }, 400); }
 
+    /* ============================================================
+       古风动效系统：墨滴涟漪 / 数字滚动 / 滑动指示器 / 入场 / 主题扩散
+       纯原生实现、零外部依赖，自动尊重 prefers-reduced-motion
+       ============================================================ */
+    (function initInkMotion() {
+      var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+      /* ---- 一、墨滴涟漪：点击处晕开一圈朱砂，如墨滴落宣纸 ---- */
+      if (!reduce) {
+        var RIPPLE_SEL = ".btn, .menu-item, .submenu-item, .nsrc-btn, .study-tab, .type-seg, .seg, .tab, .checkin-btn, .collapse-btn, .hamburger, .link-chip, .pager button";
+        document.addEventListener("pointerdown", function (e) {
+          var host = e.target && e.target.closest ? e.target.closest(RIPPLE_SEL) : null;
+          if (!host || host.disabled) return;
+          host.classList.add("ink-ripple-host");
+          if (getComputedStyle(host).position === "static") host.style.position = "relative";
+          var r = host.getBoundingClientRect();
+          var size = Math.max(r.width, r.height) * 2.2;
+          var ink = document.createElement("span");
+          ink.className = "ink-ripple";
+          ink.style.width = size + "px";
+          ink.style.height = size + "px";
+          ink.style.left = (e.clientX - r.left - size / 2) + "px";
+          ink.style.top = (e.clientY - r.top - size / 2) + "px";
+          host.appendChild(ink);
+          setTimeout(function () { if (ink.parentNode) ink.parentNode.removeChild(ink); }, 660);
+        }, { passive: true });
+      }
+
+      /* ---- 二、数字滚动（count-up）：统计数字平滑递增 ---- */
+      var cvStore = {};
+      function pathKey(el) {
+        var path = [], cur = el;
+        while (cur && cur.parentElement && cur !== document.body && path.length < 6) {
+          path.unshift(Array.prototype.indexOf.call(cur.parentElement.children, cur));
+          cur = cur.parentElement;
+        }
+        return (window._currentPage || "") + "|" + path.join(".");
+      }
+      function animateNumber(el, from, to, suffix, dur) {
+        var t0 = 0;
+        el.classList.add("counting");
+        function step(t) {
+          if (!t0) t0 = t;
+          var p = Math.min(1, (t - t0) / dur);
+          var e = 1 - Math.pow(1 - p, 3);
+          var v = from + (to - from) * e;
+          el.textContent = (to % 1 === 0 ? Math.round(v) : v.toFixed(1)) + suffix;
+          if (p < 1) requestAnimationFrame(step);
+          else { el.textContent = to + suffix; el.classList.remove("counting"); }
+        }
+        requestAnimationFrame(step);
+      }
+      function countUpAll(root) {
+        if (reduce) return;
+        var els = (root || document).querySelectorAll(".stat-card .num, .ss-num, .insight-stat .is-num");
+        Array.prototype.forEach.call(els, function (el) {
+          var txt = (el.textContent || "").trim();
+          var m = txt.match(/-?\d+(\.\d+)?/);
+          if (!m) return;
+          var to = parseFloat(m[0]);
+          if (!isFinite(to)) return;
+          var suffix = txt.slice(m.index + m[0].length);
+          var key = pathKey(el);
+          var from = cvStore[key];
+          cvStore[key] = to;
+          if (typeof from !== "number" || from === to) return;
+          animateNumber(el, from, to, suffix, 520);
+        });
+      }
+
+      /* ---- 三、滑动指示器：选项切换时朱砂滑块平滑横移 ---- */
+      var SLIDE_GROUPS = [".news-src-switch", ".study-tabs", ".timer-modes"];
+      function syncSlideInd(group) {
+        if (!group) return;
+        var act = group.querySelector(".active");
+        var ind = group.querySelector(".slide-ind");
+        if (!act || !act.offsetWidth) { if (ind) ind.classList.remove("ready"); return; }
+        if (!ind) {
+          group.classList.add("slide-track");
+          ind = document.createElement("span");
+          ind.className = "slide-ind";
+          group.insertBefore(ind, group.firstChild);
+        }
+        ind.style.width = act.offsetWidth + "px";
+        ind.style.transform = "translateX(" + (act.offsetLeft - group.offsetLeft) + "px)";
+        ind.classList.add("ready");
+      }
+      function syncAllSlides() {
+        SLIDE_GROUPS.forEach(function (sel) {
+          Array.prototype.forEach.call(document.querySelectorAll(sel), function (g) { syncSlideInd(g); });
+        });
+      }
+      if (!reduce) {
+        SLIDE_GROUPS.forEach(function (sel) {
+          document.addEventListener("click", function (e) {
+            var g = e.target && e.target.closest ? e.target.closest(sel) : null;
+            if (!g) return;
+            setTimeout(function () { syncSlideInd(g); }, 0);
+          });
+        });
+        window.addEventListener("resize", syncAllSlides);
+      }
+
+      /* ---- 四、页面入场：内容块次第展开 + 数字滚动 + 滑块归位 ---- */
+      var _prevGo = goPage;
+      goPage = function (id) {
+        _prevGo(id);
+        var page = document.querySelector(".page.active");
+        if (page && !reduce) {
+          var kids = page.children, i, n = 0;
+          for (i = 0; i < kids.length && n < 8; i++) {
+            var el = kids[i];
+            el.classList.remove("ink-enter");
+            void el.offsetWidth;
+            el.style.animationDelay = (n * 0.05).toFixed(2) + "s";
+            el.classList.add("ink-enter");
+            n++;
+          }
+        }
+        countUpAll(page);
+        requestAnimationFrame(syncAllSlides);
+      };
+      window.goPage = goPage;
+
+      /* ---- 五、主题切换：自按钮处圆形扩散（支持 View Transition 的浏览器） ---- */
+      var themeBtn = document.getElementById("themeToggle");
+      if (themeBtn && document.startViewTransition && !reduce) {
+        themeBtn.removeEventListener("click", toggleTheme);
+        themeBtn.addEventListener("click", function () {
+          var r = themeBtn.getBoundingClientRect();
+          var x = r.left + r.width / 2, y = r.top + r.height / 2;
+          var endR = Math.hypot(Math.max(x, window.innerWidth - x), Math.max(y, window.innerHeight - y));
+          var vt = document.startViewTransition(function () { toggleTheme(); });
+          if (vt && vt.ready) {
+            vt.ready.then(function () {
+              document.documentElement.animate(
+                { clipPath: ["circle(0px at " + x + "px " + y + "px)", "circle(" + endR + "px at " + x + "px " + y + "px)"] },
+                { duration: 520, easing: "cubic-bezier(0.22,0.61,0.36,1)", pseudoElement: "::view-transition-new(root)" }
+              );
+            }).catch(function () {});
+          }
+        });
+      }
+
+      requestAnimationFrame(function () { countUpAll(document); syncAllSlides(); });
+    })();
+
     /* 暴露给调试 / 外部调用 */
     window.goPage = goPage; window.todayKey = todayKey;
   })();

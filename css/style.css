@@ -748,3 +748,149 @@
     /* 小图标按钮热区扩展（视觉不变，点击区域 ≥44px） */
     .mk-star, .modal-close, .cd-edit { position: relative; }
     .mk-star::before, .modal-close::before, .cd-edit::before { content: ""; position: absolute; inset: -9px; }
+
+    /* ============================================================
+       古风动效系统
+       灵感取自 uiverse.io 的 hover / ripple / slider / loader 组件，
+       按「宣纸 · 水墨 · 朱砂」调性重做，遵循四条约束：
+         1. 缓动一律柔和曲线，禁用 bounce 类活泼曲线
+         2. 位移 ≤ 4px、缩放 ≤ 1.04，克制不喧宾夺主
+         3. 时长 160ms（即时反馈）~ 620ms（墨滴晕开）
+         4. 全部自动受 prefers-reduced-motion 约束
+       ============================================================ */
+    :root {
+      --ease-ink: cubic-bezier(0.22, 0.61, 0.36, 1);    /* 墨滴晕开：疾出缓收 */
+      --ease-scroll: cubic-bezier(0.34, 0.06, 0.18, 1); /* 卷轴展开 */
+      --dur-fast: 0.16s;
+      --dur-mid: 0.28s;
+      --dur-slow: 0.62s;
+    }
+
+    /* 一、墨滴涟漪：点击处晕开一圈朱砂，如墨滴落宣纸 */
+    .ink-ripple-host { position: relative; overflow: hidden; }
+    .ink-ripple {
+      position: absolute; border-radius: 50%; pointer-events: none; z-index: 0;
+      transform: scale(0); opacity: 0.6;
+      background: radial-gradient(circle,
+        rgba(160, 58, 46, 0.30) 0%,
+        rgba(160, 58, 46, 0.14) 52%,
+        rgba(160, 58, 46, 0) 72%);
+      animation: inkSpread var(--dur-slow) var(--ease-ink) forwards;
+    }
+    [data-theme="dark"] .ink-ripple {
+      background: radial-gradient(circle,
+        rgba(212, 120, 92, 0.34) 0%,
+        rgba(212, 120, 92, 0.14) 52%,
+        rgba(212, 120, 92, 0) 72%);
+    }
+    @keyframes inkSpread {
+      0%   { transform: scale(0); opacity: 0.60; }
+      70%  { opacity: 0.22; }
+      100% { transform: scale(1); opacity: 0; }
+    }
+
+    /* 二、卡片悬浮微抬：宣纸轻扬 + 卷轴内框被"点亮" */
+    .card, .stat-card, .chart-card, .insight-stat, .quote-card, .reminder-card, .ss-card {
+      transition: transform var(--dur-mid) var(--ease-ink),
+                  box-shadow var(--dur-mid) var(--ease-ink),
+                  border-color var(--dur-mid) var(--ease-ink);
+    }
+    .card:hover, .stat-card:hover, .chart-card:hover, .insight-stat:hover,
+    .quote-card:hover, .reminder-card:hover, .ss-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 26px rgba(92, 74, 52, 0.16);
+    }
+    [data-theme="dark"] .card:hover, [data-theme="dark"] .stat-card:hover,
+    [data-theme="dark"] .chart-card:hover, [data-theme="dark"] .insight-stat:hover,
+    [data-theme="dark"] .quote-card:hover, [data-theme="dark"] .reminder-card:hover,
+    [data-theme="dark"] .ss-card:hover {
+      box-shadow: 0 12px 26px rgba(0, 0, 0, 0.42);
+    }
+    .card:hover::before, .stat-card:hover::before, .chart-card:hover::before,
+    .insight-stat:hover::before, .quote-card:hover::before, .reminder-card:hover::before {
+      border-color: rgba(160, 130, 88, 0.44);
+    }
+    [data-theme="dark"] .card:hover::before, [data-theme="dark"] .stat-card:hover::before,
+    [data-theme="dark"] .chart-card:hover::before, [data-theme="dark"] .insight-stat:hover::before,
+    [data-theme="dark"] .quote-card:hover::before, [data-theme="dark"] .reminder-card:hover::before {
+      border-color: rgba(212, 180, 120, 0.30);
+    }
+
+    /* 三、主按钮墨色渐染：hover 时朱砂由左向右缓缓洇过 */
+    .btn-primary {
+      background-image: linear-gradient(115deg, var(--accent) 0%, #b8503c 50%, var(--accent) 100%);
+      background-size: 220% 100%;
+      background-position: 0% 50%;
+      transition: background-position 0.52s var(--ease-ink), transform var(--dur-fast) ease;
+    }
+    .btn-primary:hover { background-position: 100% 50%; opacity: 1; }
+
+    /* 四、Toast 卷轴展开：由中间向两侧徐徐铺开 */
+    .toast {
+      transform: translateX(-50%) scaleX(0.76) translateY(14px);
+      opacity: 0;
+      transform-origin: center;
+      transition: opacity var(--dur-mid) var(--ease-scroll),
+                  transform 0.40s var(--ease-scroll);
+    }
+    .toast.show { opacity: 1; transform: translateX(-50%) scaleX(1) translateY(0); }
+
+    /* 五、水墨骨架屏：加载时一道柔光掠过宣纸 */
+    .ink-skeleton { position: relative; overflow: hidden; background: var(--field-bg); border-radius: 8px; }
+    .ink-skeleton::after {
+      content: ""; position: absolute; inset: 0;
+      background: linear-gradient(100deg, transparent 24%, rgba(255, 255, 255, 0.62) 46%, transparent 68%);
+      transform: translateX(-100%);
+      animation: inkShimmer 1.5s var(--ease-ink) infinite;
+    }
+    [data-theme="dark"] .ink-skeleton::after {
+      background: linear-gradient(100deg, transparent 24%, rgba(255, 255, 255, 0.10) 46%, transparent 68%);
+    }
+    @keyframes inkShimmer { to { transform: translateX(100%); } }
+
+    /* 六、进度条流光：墨线之上掠过一线微光 */
+    .bar-fill, .tb-fill, .weak-fill, .rh-stat-bar i { position: relative; overflow: hidden; }
+    .bar-fill::after, .tb-fill::after, .weak-fill::after, .rh-stat-bar i::after {
+      content: ""; position: absolute; inset: 0;
+      background: linear-gradient(100deg, transparent 28%, rgba(255, 255, 255, 0.45) 50%, transparent 72%);
+      transform: translateX(-100%);
+      animation: inkFlow 2.6s var(--ease-ink) infinite;
+    }
+    [data-theme="dark"] .bar-fill::after, [data-theme="dark"] .tb-fill::after,
+    [data-theme="dark"] .weak-fill::after, [data-theme="dark"] .rh-stat-bar i::after {
+      background: linear-gradient(100deg, transparent 28%, rgba(255, 255, 255, 0.12) 50%, transparent 72%);
+    }
+    @keyframes inkFlow {
+      0%        { transform: translateX(-100%); }
+      60%, 100% { transform: translateX(100%); }
+    }
+
+    /* 七、滑动指示器：选项切换时朱砂滑块平滑横移 */
+    .slide-track { position: relative; }
+    .slide-ind {
+      position: absolute; top: 3px; bottom: 3px; left: 0; width: 0;
+      border-radius: 999px; pointer-events: none; z-index: 0;
+      background: linear-gradient(135deg, var(--accent) 0%, var(--accent-strong) 100%);
+      box-shadow: 0 2px 8px rgba(141, 55, 40, 0.26);
+      transition: transform 0.34s var(--ease-ink), width 0.34s var(--ease-ink), opacity 0.2s ease;
+      opacity: 0;
+    }
+    .slide-ind.ready { opacity: 1; }
+    .slide-track > * { position: relative; z-index: 1; }
+
+    /* 八、页面切换：内容块如卷轴次第展开 */
+    @keyframes inkRise {
+      from { opacity: 0; transform: translateY(10px); }
+      to   { opacity: 1; transform: none; }
+    }
+    .ink-enter { animation: inkRise 0.44s var(--ease-ink) backwards; }
+
+    /* 九、主题切换圆形扩散（支持 View Transition 的浏览器） */
+    ::view-transition-old(root), ::view-transition-new(root) {
+      animation: none; mix-blend-mode: normal;
+    }
+    ::view-transition-old(root) { z-index: 1; }
+    ::view-transition-new(root) { z-index: 999; }
+
+    /* 十、数字滚动时的等宽对齐，避免抖动 */
+    .counting { font-variant-numeric: tabular-nums; }
