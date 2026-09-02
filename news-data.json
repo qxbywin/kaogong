@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
-  "time": "19:52",
-  "generatedAt": "2026-09-02T19:52:02.870Z",
+  "time": "22:42",
+  "generatedAt": "2026-09-02T22:42:01.814Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -26,11 +26,11 @@
       ]
     },
     {
-      "title": "2026“人工智能+金融”创新应用大赛决赛在南宁举行",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-02/10689137.shtml",
+      "title": "用AI美化房源，营销边界如何划定？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689167.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -111,6 +111,36 @@
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "海上漂了272天的美国水兵登陆了",
+      "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E4%B8%8A%E6%BC%82%E4%BA%86272%E5%A4%A9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%B0%B4%E5%85%B5%E7%99%BB%E9%99%86%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "普京回应俄新一轮动员传言",
+      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E4%BF%84%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8A%A8%E5%91%98%E4%BC%A0%E8%A8%80",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国政府推出“重塑英国”新政框架",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689166.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -208,36 +238,6 @@
     {
       "title": "从1.4亿人“全球购”看中国机遇2.0",
       "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689153.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中印尼双本币交易前7个月达388.72亿美元",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10689150.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "新学期，新变化——各地多措并举护航学生成长",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10689151.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "天津出台方案推进交旅融合 到2028年培育超40个特色产品",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689146.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
