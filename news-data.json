@@ -1,33 +1,23 @@
 {
   "date": "2026-09-03",
-  "time": "11:25",
-  "generatedAt": "2026-09-03T11:25:51.421Z",
+  "time": "16:32",
+  "generatedAt": "2026-09-03T16:32:48.246Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "（投资中国）天纳克全球创新中心在江苏昆山启用",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689728.shtml",
+      "title": "2026中国航空金融（东疆）国际论坛天津举行 国际参与度创新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689951.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "international",
+      "score": 3,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "商务部：坚决反对美方以涉伊朗为由制裁中国企业和公民",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689723.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "事业单位"
-      ]
-    },
-    {
-      "title": "SIAL西雅国际食品展广州开幕  构建亚太双向开放合作平台",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-03/10689699.shtml",
+      "title": "2026京西国际山地户外季包含六大赛事",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689971.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,8 +26,38 @@
       ]
     },
     {
-      "title": "2026第十七届东莞台博会启幕  台湾农渔产品拓大陆市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689760.shtml",
+      "title": "西藏吉隆泥石流灾害核心区见闻：科技助力搜寻，护航救援",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689970.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI短剧刷来刷去都是同一张脸 是技术难题还是创作取舍？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689966.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国青年孔子故里感悟儒家文化",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-03/10689962.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "银川出台工业转型升级实施意见 加快构建现代化产业体系",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689952.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,8 +66,8 @@
       ]
     },
     {
-      "title": "（投资中国）全球主要航空发动机租赁企业罗罗在天津设新主体",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689759.shtml",
+      "title": "台企在江西：传统制造业智能化改造 鞋产品畅销海外市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689947.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -56,8 +76,48 @@
       ]
     },
     {
-      "title": "台风“沙德尔”致福州闽侯内涝 直击排涝抢险现场",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-03/10689774.shtml",
+      "title": "流感疫苗市场变天了",
+      "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97%E5%B8%82%E5%9C%BA%E5%8F%98%E5%A4%A9%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI短剧“千人一面”",
+      "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%8D%83%E4%BA%BA%E4%B8%80%E9%9D%A2%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "男子被贷款15年 签字指纹全是假的",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E8%B4%B7%E6%AC%BE15%E5%B9%B4+%E7%AD%BE%E5%AD%97%E6%8C%87%E7%BA%B9%E5%85%A8%E6%98%AF%E5%81%87%E7%9A%84",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "小团队做了台AI对讲机 3天众筹1000%",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%9B%A2%E9%98%9F%E5%81%9A%E4%BA%86%E5%8F%B0AI%E5%AF%B9%E8%AE%B2%E6%9C%BA+3%E5%A4%A9%E4%BC%97%E7%AD%B91000%25",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10689974.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -66,8 +126,8 @@
       ]
     },
     {
-      "title": "普京：乌克兰问题仍存在解决机会",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689773.shtml",
+      "title": "中国羽毛球大师赛：男单世界第一乔纳坦爆冷出局",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689973.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +136,8 @@
       ]
     },
     {
-      "title": "“敌敌畏消杀事件”涉及投毒吗？律师解读丨法律顾问在身边",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/09-03/news1067655.shtml",
+      "title": "粤东持续强降雨 韩江发生2026年第1号洪水",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689972.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +146,8 @@
       ]
     },
     {
-      "title": "安徽省总工会原党组书记、副主席徐发成被“双开”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689766.shtml",
+      "title": "每一分钟仿佛都长得不止60秒(记者手记)",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689969.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +156,18 @@
       ]
     },
     {
-      "title": "京剧武旦经典折子戏在京上演 巾帼英姿艺绽群芳",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-03/10689765.shtml",
+      "title": "史前甘肃人群为何形成独特遗传演化和社会结构？古基因组研究揭示",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689968.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "【讲习所·中国与世界】习近平以4点主张推动上合组织实现更高质量发展",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689967.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +176,8 @@
       ]
     },
     {
-      "title": "今年以来广州白云机场口岸埃及籍入出境人员同比增长13.5%",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689763.shtml",
+      "title": "南孔文化旅游季启幕 浙江衢州探索传统文化新表达",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689965.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +186,8 @@
       ]
     },
     {
-      "title": "耳垂有折痕，说明患有心血管疾病？丨中新真探",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689764.shtml",
+      "title": "京宁慈善协作再结硕果：“大爱正心·善行宁夏”公益活动在银川温情启幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689964.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +196,8 @@
       ]
     },
     {
-      "title": "“沙德尔”停编后“复活”  赣江流域遭持续性强降雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689757.shtml",
+      "title": "韩国光州双年展主办方顽固坚持错误做法 中方已提出严正交涉",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689961.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +206,8 @@
       ]
     },
     {
-      "title": "21支国内外顶尖车队汇聚申城  2026环上海·新城自行车赛将开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689746.shtml",
+      "title": "【活力中国调研行】北纬45°黑土地跑出年轻态养生主食",
+      "url": "http://www.chinanews.com.cn/cj/shipin/cns-d/2026/09-03/news1067687.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +216,8 @@
       ]
     },
     {
-      "title": "重庆连续11年开展“中华慈善日”活动 累计举牌捐赠47.16亿元",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689733.shtml",
+      "title": "（长征胜利90周年）一场持续到深夜的座谈会：老区问“难”，新阶层答“策”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689960.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +226,8 @@
       ]
     },
     {
-      "title": "石太铁路开展秋季集中修施工 护航晋煤外运通道",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689734.shtml",
+      "title": "浙江义乌的外籍版“邻里互助”：用志愿时长兑换中文课",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689958.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,78 +236,8 @@
       ]
     },
     {
-      "title": "全国防震减灾技术技能大赛甘肃赛区开赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-03/10689761.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "科尔沁沙地里的绿色希望",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689731.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“十五五”启航，浙江民企如何向“新”图强？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689753.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "台风“沙德尔”持续影响粤东 潮州海事部门风汛同防",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689738.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "哈工程成立我国首个乏燃料后处理与先进材料研究院",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689722.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "报告称50岁以上游客成中国9月错峰游主力",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689691.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第1视点｜文明交流书写中埃友好篇章",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689762.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "千余件青少年书画佳作绘就“我心中的云南”",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-03/10689713.shtml",
+      "title": "（活力中国调研行）“快餐式”杂粮走俏 中国黑土地农产品端上全球餐桌",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689957.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
