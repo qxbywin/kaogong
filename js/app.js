@@ -744,8 +744,12 @@
       }
       var up = document.getElementById("newsUpdated"); if (up) up.textContent = newsFavMode ? ("我的收藏 · " + items.length + " 条") : (newsArchiveMonth > 0 ? ("按月归档 · " + newsArchiveMonth + "月") : "");
     }
+    /* 用户正处于「按月归档」或「我的收藏」视图：列表由用户显式选择决定，
+       后台抓取结果不得覆盖，也不能改状态栏，否则选中的月份会被悄悄冲掉。 */
+    function newsViewLocked() { return newsArchiveMonth > 0 || newsFavMode; }
     /* 内置按月时政要点：开箱即用、零联网、永远可用（B 方案默认） */
     function paintBuiltinNews() {
+      if (newsViewLocked()) return;
       newsItems = getMonthlyNews(); newsArchiveMonth = 0; newsFavMode = false; newsPage = 1;
       renderNewsList();
       var up = document.getElementById("newsUpdated"); if (up) up.textContent = "内置要点 · 按月整理";
@@ -845,6 +849,7 @@
           var items = j.items.map(function (it) { return { title: it.title, url: it.url || "", source: it.source || "" }; });
           var data = { date: j.date, time: j.time, source_summary: j.source_summary, items: items };
           save("aggregated_news", data); newsGen++; paintNews(data);
+          if (newsViewLocked()) { cb(true); return; } /* 归档/收藏视图：状态栏保持「按月归档 · N月」 */
           var up = document.getElementById("newsUpdated"); if (up) up.textContent = "来源: " + (j.source_summary || "多源聚合") + " · " + (j.time || "");
           cb(true);
         }).catch(function () { cb(false); });
@@ -882,7 +887,8 @@
     function fetchRSSNews() {
       var sources = RSS_SOURCES.slice();
       function tryNext() {
-        if (!sources.length) { paintBuiltinNews(); toast("实时要闻抓取失败，已显示内置要点"); return; }
+        /* 抓不到就保持现状：归档/收藏视图下既不该重绘，也不该弹「已显示内置要点」 */
+        if (!sources.length) { if (newsViewLocked()) return; paintBuiltinNews(); toast("实时要闻抓取失败，已显示内置要点"); return; }
         var src = sources.shift();
         src.fetch().then(function (raw) {
           var fresh = raw.filter(function (it) { return isFresh(it.pubDate, 14); });
@@ -897,6 +903,7 @@
           if (relevant.length >= 3) {
             var data = { date: todayKey(), time: new Date().toLocaleTimeString("zh-CN", { hour: "2-digit", minute: "2-digit" }), items: relevant.slice(0, 8), source: src.name, fresh: true };
             save("rss_news", data); newsGen++; paintNews(data);
+            if (newsViewLocked()) return; /* 归档/收藏视图：状态栏不被抓取结果改写 */
             var updated = document.getElementById("newsUpdated"); if (updated) updated.textContent = "来源: " + src.name + " · 聚焦公考考点 · " + data.time;
             return;
           }
@@ -1169,6 +1176,8 @@
       });
     }
     function paintNews(data) {
+      /* 归档/收藏视图锁定中：只把新数据留在后台，用户切回默认视图时自然生效 */
+      if (newsViewLocked()) { if (data && data.items && data.items.length) newsItems = data.items; return; }
       if (!data || !data.items || !data.items.length) {
         newsItems = [];
         var box = document.getElementById("newsBox"); if (box) box.innerHTML = '<div class="news-empty">今日暂无内容</div>';
