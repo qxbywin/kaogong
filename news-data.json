@@ -1,13 +1,13 @@
 {
   "date": "2026-09-05",
-  "time": "10:44",
-  "generatedAt": "2026-09-05T10:44:26.746Z",
+  "time": "13:54",
+  "generatedAt": "2026-09-05T13:54:49.657Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "亚太，不做美国AI的韭菜",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691027.shtml",
+      "title": "王帆：从新能源外交看全球变局与山西使命",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691100.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,58 +16,8 @@
       ]
     },
     {
-      "title": "2026年“一带一路”国际攀岩挑战赛在沪开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10691003.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄媒：美国总统特使乘坐的专机在莫斯科降落",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10691028.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "斯里兰卡学者：期盼中斯深化绿色能源与AI合作",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691026.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国家发改委安排2000万元支持江西暴雨洪涝灾后应急恢复",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691016.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第九届杭州国际日开幕",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690999.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赣州南康：一场“无中生有”的产业接力",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691014.shtml",
+      "title": "CFA协会中国区总经理：中国绿色金融人才需求现三大结构性转变",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691121.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -76,8 +26,18 @@
       ]
     },
     {
-      "title": "中国创新文旅玩法“圈粉”海外游客",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691011.shtml",
+      "title": "2026中国环东湖国际桨板公开赛在武汉举行",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691088.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "首届北京汽车博物馆伙伴大会启幕 布局建设汽车文化科技园",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691119.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -86,8 +46,28 @@
       ]
     },
     {
-      "title": "上海吴淞口国际邮轮港迎“双船同靠”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690975.shtml",
+      "title": "开局之年看中国·日新江淮丨量子科技如何从实验室飞向“寻常百姓家”？",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691124.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“能源技术创新发展论坛”太原举办 院士共议绿色转型新路径",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691092.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "武汉首迎国际桨板公开赛 中外选手逐浪东湖",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10691099.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,18 +76,28 @@
       ]
     },
     {
-      "title": "广州龙狮击败美国俄亥俄职业篮球队",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10690968.shtml",
+      "title": "以科技赋能“芯”优势",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691113.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "OpenAI官宣将自研人形机器人",
-      "url": "https://www.baidu.com/s?wd=OpenAI%E5%AE%98%E5%AE%A3%E5%B0%86%E8%87%AA%E7%A0%94%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
+      "title": "一集花1万元、一个镜头试四五十次，这部爆火AI短剧是怎么做出来的？",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691104.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "DeepSeek被曝将采购16万颗华为芯片",
+      "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E5%B0%86%E9%87%87%E8%B4%AD16%E4%B8%87%E9%A2%97%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -116,38 +106,8 @@
       ]
     },
     {
-      "title": "兰州榆中通报莴笋收购环节染色",
-      "url": "https://www.baidu.com/s?wd=%E5%85%B0%E5%B7%9E%E6%A6%86%E4%B8%AD%E9%80%9A%E6%8A%A5%E8%8E%B4%E7%AC%8B%E6%94%B6%E8%B4%AD%E7%8E%AF%E8%8A%82%E6%9F%93%E8%89%B2",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "联合国都在鼓励 唯独美国“唱反调”",
-      "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E9%83%BD%E5%9C%A8%E9%BC%93%E5%8A%B1+%E5%94%AF%E7%8B%AC%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%94%B1%E5%8F%8D%E8%B0%83%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“你不够美” 美妆企业还在教育用户",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BD%A0%E4%B8%8D%E5%A4%9F%E7%BE%8E%E2%80%9D+%E7%BE%8E%E5%A6%86%E4%BC%81%E4%B8%9A%E8%BF%98%E5%9C%A8%E6%95%99%E8%82%B2%E7%94%A8%E6%88%B7",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "杭州提升入境便利性 今年前8个月入境外籍旅客超30万人次",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691005.shtml",
+      "title": "亚太媒体高端论坛在广东深圳举办",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-05/1203274.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +116,8 @@
       ]
     },
     {
-      "title": "救援一线党旗红",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691029.shtml",
+      "title": "西藏吉隆泥石流灾害发生第11天 抢险搜救工作不间断",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691130.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +126,8 @@
       ]
     },
     {
-      "title": "柬埔寨媒体人帅速比：希望中国技术更多走进柬埔寨",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691025.shtml",
+      "title": "一图了解《构建更加繁荣的亚太共同体》智库报告",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691135.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "青春华章丨烟雨徽州遇皖韵",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691023.shtml",
+      "title": "新华社国家高端智库发布亚太共同体智库报告",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691134.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "中外代表共议亚太合作：经贸相连也要心意相通",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691020.shtml",
+      "title": "中国红十字会总会向福建调拨救灾物资",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691133.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "“外眼”看中国超级工程：持续释放红利  为亚太提供借鉴",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691019.shtml",
+      "title": "逾800盏灯笼点亮香港湾仔利东街 营造中秋温馨氛围",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691131.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "中美研究中心专家：中国的跨越式发展让世界看到另一种可能",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691022.shtml",
+      "title": "【讲习所·美美与共】习近平：中埃要各美其美 做文明交流的榜样",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691132.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "亚太媒体高端论坛在深圳举办  李书磊出席开幕式并发表主旨演讲",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691018.shtml",
+      "title": "青春华章丨原来你是这样的合肥",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691128.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "木耳出山，“金米”满川",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691021.shtml",
+      "title": "亚太媒体高端论坛在深圳举办",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691127.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "青春华章丨从大科学装置看“夸父”逐日",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-05/1203244.shtml",
+      "title": "第十四届世界体育舞蹈大赛在成都开赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691126.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全面从严治党，必须牵住责任制这个“牛鼻子”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691129.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "时政微观察丨“给孩子们讲好故事”，这封贺信饱含深情和期望",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691125.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "海外华校教师走进秦始皇兵马俑",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691122.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "菲律宾副总统莎拉·杜特尔特缴纳保释金 法院解除逮捕令",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10691111.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
