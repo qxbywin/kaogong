@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-04",
-  "time": "22:24",
-  "generatedAt": "2026-09-04T22:24:46.850Z",
+  "date": "2026-09-05",
+  "time": "01:05",
+  "generatedAt": "2026-09-05T01:05:38.895Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,26 @@
       "source": "中国新闻网",
       "cat": "international",
       "score": 3,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国8月非农就业增加16.2万 失业率4.1%",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年柏林国际消费电子展开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
@@ -26,6 +46,76 @@
       ]
     },
     {
+      "title": "初心不改 虽远不怠——习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690759.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央气象台继续发布台风蓝色预警",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690757.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国建筑业持续收缩拖累经济复苏",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "女篮世界杯开打 中国队小组赛首战不敌美国队",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10690748.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国改革党高层人员陷政治献金丑闻",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690742.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "绿色合作持续转型 外商投资企业“对话山西”",
       "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690735.shtml",
       "source": "中国新闻网",
@@ -36,58 +126,8 @@
       ]
     },
     {
-      "title": "5年建500家零碳工厂！中国工厂正在加速变绿",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690727.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多方在广州签约共建烧伤跨境医疗服务枢纽",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690711.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "四川省首批医药健康科技创新企业联合专项启动",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690710.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "养老服务领域两项强制性国家标准发布",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690689.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "今年的东博会、峰会有哪些不同",
       "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%8D%9A%E4%BC%9A%E3%80%81%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国女篮61比94美国女篮",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE61%E6%AF%9494%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -106,20 +146,20 @@
       ]
     },
     {
-      "title": "中方通报中国公民在菲被羁押离世事件",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BE%81%E6%8A%BC%E7%A6%BB%E4%B8%96%E4%BA%8B%E4%BB%B6",
+      "title": "微信发布最新公告：集体下架",
+      "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E5%85%AC%E5%91%8A%EF%BC%9A%E9%9B%86%E4%BD%93%E4%B8%8B%E6%9E%B6",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "OpenAI总裁宣布AGI到来",
-      "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
+      "title": "中方通报中国公民在菲被羁押离世事件",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E8%A2%AB%E7%BE%81%E6%8A%BC%E7%A6%BB%E4%B8%96%E4%BA%8B%E4%BB%B6",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -136,8 +176,18 @@
       ]
     },
     {
-      "title": "解放军将派出兵力赴俄参加实兵演习",
-      "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B0%86%E6%B4%BE%E5%87%BA%E5%85%B5%E5%8A%9B%E8%B5%B4%E4%BF%84%E5%8F%82%E5%8A%A0%E5%AE%9E%E5%85%B5%E6%BC%94%E4%B9%A0",
+      "title": "教育部：将规范涉师争议投诉处理程序",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B0%86%E8%A7%84%E8%8C%83%E6%B6%89%E5%B8%88%E4%BA%89%E8%AE%AE%E6%8A%95%E8%AF%89%E5%A4%84%E7%90%86%E7%A8%8B%E5%BA%8F",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本请求俄拆纪念碑菊花纹章遭拒",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AF%B7%E6%B1%82%E4%BF%84%E6%8B%86%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E9%81%AD%E6%8B%92",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -146,48 +196,8 @@
       ]
     },
     {
-      "title": "微信发布最新公告：集体下架",
-      "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E5%85%AC%E5%91%8A%EF%BC%9A%E9%9B%86%E4%BD%93%E4%B8%8B%E6%9E%B6",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部回应太平洋岛国批评",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E6%89%B9%E8%AF%84",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "江西宜春原市长谭赣明被查",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E5%AE%9C%E6%98%A5%E5%8E%9F%E5%B8%82%E9%95%BF%E8%B0%AD%E8%B5%A3%E6%98%8E%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "武汉通报幼儿园269万招标项目被投诉",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD269%E4%B8%87%E6%8B%9B%E6%A0%87%E9%A1%B9%E7%9B%AE%E8%A2%AB%E6%8A%95%E8%AF%89",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "乌国家安全局遭袭 美总统特使访问计划“可能有变”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690741.shtml",
+      "title": "民政部：西藏吉隆泥石流灾害慈善捐赠超过6.6亿元",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690764.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "记者手记：吉隆口岸的迷彩守护",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690740.shtml",
+      "title": "“买一赠一”要缴纳增值税吗？专家解读",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690763.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "专家：白露养生重在顺应天时 核心在于“润”“敛”",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-04/10690739.shtml",
+      "title": "写在亚太媒体高端论坛开幕之际",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690760.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "祥鹏航空乌鲁木齐&#x21cc;和田&#x21cc;阿里航线顺利首航 畅通疆藏联动空中廊道",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690737.shtml",
+      "title": "猪奶为何成不了人类饮品？",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-05/10690758.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "直击福建莆田抢险：救援清淤不松懈 安置保障暖民心",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690731.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中新健康｜腰围莫名变粗、腹胀不消？当心是卵巢癌早期信号",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-04/10690729.shtml",
+      "title": "“遗产家园·美美与共”中柬文化遗产交流展在金边举行",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-05/10690750.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
