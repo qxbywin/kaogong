@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
-  "time": "21:21",
-  "generatedAt": "2026-09-05T21:21:17.223Z",
+  "time": "23:01",
+  "generatedAt": "2026-09-05T23:01:14.578Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -21,6 +21,16 @@
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "普京会见美国总统特使威特科夫",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691227.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -126,6 +136,16 @@
       ]
     },
     {
+      "title": "美伊互袭油轮 伊朗军方称或对美进行更大规模打击",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691228.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
       "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691226.shtml",
       "source": "中国新闻网",
@@ -218,26 +238,6 @@
     {
       "title": "美食文旅节目《寻味山海》走进宁夏中宁 探寻山河交汇之地的甘美",
       "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691205.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026京西古道100越野赛在北京门头沟开跑",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10691195.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "19国“Z世代”青年走进成都了解美丽中国生态故事",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691193.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
