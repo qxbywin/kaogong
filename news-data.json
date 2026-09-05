@@ -1,13 +1,13 @@
 {
   "date": "2026-09-05",
-  "time": "13:54",
-  "generatedAt": "2026-09-05T13:54:49.657Z",
+  "time": "16:52",
+  "generatedAt": "2026-09-05T16:52:17.667Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "王帆：从新能源外交看全球变局与山西使命",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691100.shtml",
+      "title": "中外专家共议地热脱碳：国际合作是发展关键",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691218.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,18 +16,48 @@
       ]
     },
     {
-      "title": "CFA协会中国区总经理：中国绿色金融人才需求现三大结构性转变",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691121.shtml",
+      "title": "国际地热论坛：中外专家山西共议地热赋能低碳未来",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691204.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“天宫课堂·港澳专场”将开讲 神舟二十三号航天员乘组与学生“天地对话”",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691221.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "2026中国环东湖国际桨板公开赛在武汉举行",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691088.shtml",
+      "title": "柬埔寨首届华文教育研讨会在金边举行 直面华校办学痛点",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-06/10691219.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“未卜之境”双展亮相北京798艺术区 理解正在发生的AI艺术",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691203.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中外青年以艺术对话  “金陵·记忆”国际研习营在南京收官",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691202.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,8 +66,8 @@
       ]
     },
     {
-      "title": "首届北京汽车博物馆伙伴大会启幕 布局建设汽车文化科技园",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691119.shtml",
+      "title": "旅博会观察：科技为文旅提速，人文给生活留白",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691197.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -46,8 +76,8 @@
       ]
     },
     {
-      "title": "开局之年看中国·日新江淮丨量子科技如何从实验室飞向“寻常百姓家”？",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691124.shtml",
+      "title": "走进行业一线 北京中学生探索AI奥秘",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691196.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -56,18 +86,8 @@
       ]
     },
     {
-      "title": "“能源技术创新发展论坛”太原举办 院士共议绿色转型新路径",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691092.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "武汉首迎国际桨板公开赛 中外选手逐浪东湖",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10691099.shtml",
+      "title": "2026当代国际戏剧节暨“剧荟北京”艺术季开幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691187.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,28 +96,18 @@
       ]
     },
     {
-      "title": "以科技赋能“芯”优势",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691113.shtml",
+      "title": "香港特区立法会议员访京考察运输政策 冀有助精准建言",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-05/10691184.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "一集花1万元、一个镜头试四五十次，这部爆火AI短剧是怎么做出来的？",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691104.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "DeepSeek被曝将采购16万颗华为芯片",
-      "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E5%B0%86%E9%87%87%E8%B4%AD16%E4%B8%87%E9%A2%97%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87",
+      "title": "新能源汽车动力电池将迎“退役潮”",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E5%B0%86%E8%BF%8E%E2%80%9C%E9%80%80%E5%BD%B9%E6%BD%AE%E2%80%9D",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -106,8 +116,8 @@
       ]
     },
     {
-      "title": "亚太媒体高端论坛在广东深圳举办",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-05/1203274.shtml",
+      "title": "乒乓球德甲第四轮：樊振东独得两分帮助球队四轮全胜",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691225.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +126,8 @@
       ]
     },
     {
-      "title": "西藏吉隆泥石流灾害发生第11天 抢险搜救工作不间断",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691130.shtml",
+      "title": "世界超级摩托车锦标赛法国站：“张雪机车”获第一回合季军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691224.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +136,8 @@
       ]
     },
     {
-      "title": "一图了解《构建更加繁荣的亚太共同体》智库报告",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691135.shtml",
+      "title": "中国羽毛球大师赛：中国香港男单提前锁定冠亚军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691223.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +146,8 @@
       ]
     },
     {
-      "title": "新华社国家高端智库发布亚太共同体智库报告",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691134.shtml",
+      "title": "台湾鲜果“朝摘夕至” 岛内文旦柚登陆南京",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691222.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "中国红十字会总会向福建调拨救灾物资",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691133.shtml",
+      "title": "厦门口岸多措并举助力第二十六届投洽会旅客便捷通关",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691220.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "逾800盏灯笼点亮香港湾仔利东街 营造中秋温馨氛围",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691131.shtml",
+      "title": "创意点亮乡土 八校学子建筑与艺术装置作品亮相北京“营造大集”",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691214.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "【讲习所·美美与共】习近平：中埃要各美其美 做文明交流的榜样",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691132.shtml",
+      "title": "打通产销链路 福建平和举办蜜柚购销·招商引资大会",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691210.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "青春华章丨原来你是这样的合肥",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691128.shtml",
+      "title": "纪念贾植芳诞辰110周年 近百件实物在沪集中亮相",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691206.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "亚太媒体高端论坛在深圳举办",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691127.shtml",
+      "title": "美食文旅节目《寻味山海》走进宁夏中宁 探寻山河交汇之地的甘美",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691205.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "第十四届世界体育舞蹈大赛在成都开赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691126.shtml",
+      "title": "2026京西古道100越野赛在北京门头沟开跑",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-05/10691195.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "全面从严治党，必须牵住责任制这个“牛鼻子”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691129.shtml",
+      "title": "19国“Z世代”青年走进成都了解美丽中国生态故事",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691193.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "时政微观察丨“给孩子们讲好故事”，这封贺信饱含深情和期望",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691125.shtml",
+      "title": "美军称打击伊朗三艘油轮",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "海外华校教师走进秦始皇兵马俑",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-05/10691122.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "菲律宾副总统莎拉·杜特尔特缴纳保释金 法院解除逮捕令",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-05/10691111.shtml",
+      "title": "外贸服务搬进宠博会 “浙里出海”助绍兴企业掘金新蓝海",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691192.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
