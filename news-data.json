@@ -1,10 +1,20 @@
 {
   "date": "2026-09-06",
-  "time": "11:06",
-  "generatedAt": "2026-09-06T11:06:12.175Z",
+  "time": "14:14",
+  "generatedAt": "2026-09-06T14:14:40.290Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "湖南以“一粒粮食的旅程”展现产业全链条科技创新",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691547.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "3600亿元！8家中央金融企业大动作",
       "url": "https://www.baidu.com/s?wd=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C",
@@ -16,8 +26,18 @@
       ]
     },
     {
-      "title": "卫星遥感监测显示：东林藏布流域冰湖面积目前未见异常",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691520.shtml",
+      "title": "好评中国|以专精特新“小切口”筑牢产业链安全大底盘",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-06/10691580.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "牢记总书记的嘱托丨以创新之为 筑强国之基",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691575.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,28 +46,48 @@
       ]
     },
     {
-      "title": "古城西安胶片消费掀新风 青年以实体影像“定格”时光",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691489.shtml",
+      "title": "习近平主席中亚、中东之旅难忘瞬间",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691569.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "西藏吉隆每日向尼通报气象水文、冰湖冰川等信息 做好涉外工作",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691494.shtml",
+      "title": "国科大迎来2.1万多新生 校长解读国之大爱、科技创新、大学精神",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-06/10691567.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "西藏吉隆：妥善做好1720名尼泊尔籍边民生活保障",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691491.shtml",
+      "title": "中德跨境电商峰会暨中国品牌之夜在柏林举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691558.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "贵州凯里酸汤加速从深山走向国际餐桌",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691555.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西藏吉隆泥石流灾害后 已妥善做好1720名尼籍边民生活保障",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691545.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -56,10 +96,20 @@
       ]
     },
     {
-      "title": "增加优质供给 挖掘消费潜力",
-      "url": "https://www.baidu.com/s?wd=%E5%A2%9E%E5%8A%A0%E4%BC%98%E8%B4%A8%E4%BE%9B%E7%BB%99+%E6%8C%96%E6%8E%98%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B",
+      "title": "小区禁止新能源汽车进地库 律师解读",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E7%A6%81%E6%AD%A2%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%9C%B0%E5%BA%93+%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "人民日报：劳动教育岂能“代劳”",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%8A%B3%E5%8A%A8%E6%95%99%E8%82%B2%E5%B2%82%E8%83%BD%E2%80%9C%E4%BB%A3%E5%8A%B3%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -76,18 +126,8 @@
       ]
     },
     {
-      "title": "财政部将向中国人寿集团注资350亿元",
-      "url": "https://www.baidu.com/s?wd=%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E9%9B%86%E5%9B%A2%E6%B3%A8%E8%B5%84350%E4%BA%BF%E5%85%83",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国清洁空气行动健康收益显著 持续深度治理PM2.5",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691531.shtml",
+      "title": "青春华章丨“时代楷模”王戟：只要大脑还能思考，我就是科研战场上的战士",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691597.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +136,8 @@
       ]
     },
     {
-      "title": "独家！一名中国游客的尼泊尔泥石流脱困之路",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691528.shtml",
+      "title": "青春华章丨院士展示三件信物勉励莘莘学子",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691594.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +146,8 @@
       ]
     },
     {
-      "title": "从“温州制造”到“温州智造”的全球跃升",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691525.shtml",
+      "title": "青春华章丨中国工程院院士陈立泉：国家需要什么，我们就做什么",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691593.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +156,8 @@
       ]
     },
     {
-      "title": "聚焦全工况多场景 专家共话动力电池应用新突破",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691503.shtml",
+      "title": "青春华章丨86岁院士有了新理想",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691591.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +166,8 @@
       ]
     },
     {
-      "title": "宁马线开出“科学家号” 跨省地铁变身“移动科普馆”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691502.shtml",
+      "title": "哈尔滨医科大学迎百年校庆 《发现伍连德》一书重印",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691589.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +176,8 @@
       ]
     },
     {
-      "title": "全国科普月南京主场启幕 千余场活动点亮“科学盛宴”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691501.shtml",
+      "title": "香港新赛马季开锣日：观赛游客数量同比增74%",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691586.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "直击江西遂川泥石流核心受灾区：路面淤泥没过小腿 救援难度大",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691508.shtml",
+      "title": "2026中国羽毛球大师赛：韩国名将安洗莹夺得女单冠军",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691574.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "（长征胜利90周年）云南禄劝：一家四代接力守护“红军洞”故事",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691513.shtml",
+      "title": "2026年全国羽毛球单项锦标赛在合肥开赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691571.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "重庆云阳成功预警一起滑坡灾情 提前转移7户16人",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691504.shtml",
+      "title": "西藏吉隆泥石流灾后：将深入研究口岸相关功能恢复等事宜",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "西藏日喀则：将深入研究口岸功能恢复等事宜",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691519.shtml",
+      "title": "近1500名中缅运动员齐聚云南瑞丽 以赛畅叙“胞波”情",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691579.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "“桂BA”迎总决赛 篮球名宿朱芳雨助阵",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691509.shtml",
+      "title": "2026中国羽毛球大师赛：中国香港选手吴英伦夺得男单冠军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203362.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,48 +236,8 @@
       ]
     },
     {
-      "title": "2000名跑者齐聚银川共赴全民健身之约",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691507.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北京第四十届卢沟桥醒狮越野跑活动举行 3000余名各界代表参与",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691500.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "香港新马季开锣 赛驹“嘉应高升”夺“香港特区行政长官杯”",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691506.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "济南“天下第一泉”趵突泉持续喷涌23年",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691488.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "粤港澳青年“活化”非遗渔歌 续写汕尾百年渔曲",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691482.shtml",
+      "title": "家国大义聚同心 内蒙古话剧《马走日》专场在呼和浩特上演",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-06/10691578.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
