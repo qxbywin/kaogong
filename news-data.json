@@ -1,23 +1,13 @@
 {
   "date": "2026-09-06",
-  "time": "14:14",
-  "generatedAt": "2026-09-06T14:14:40.290Z",
+  "time": "17:08",
+  "generatedAt": "2026-09-06T17:08:41.348Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "湖南以“一粒粮食的旅程”展现产业全链条科技创新",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691547.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "3600亿元！8家中央金融企业大动作",
-      "url": "https://www.baidu.com/s?wd=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+      "title": "8家中央金融企业迎来增资 有何考量",
+      "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E8%BF%8E%E6%9D%A5%E5%A2%9E%E8%B5%84+%E6%9C%89%E4%BD%95%E8%80%83%E9%87%8F",
       "source": "百度热搜",
       "cat": "policy",
       "score": 2,
@@ -26,8 +16,38 @@
       ]
     },
     {
-      "title": "好评中国|以专精特新“小切口”筑牢产业链安全大底盘",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-06/10691580.shtml",
+      "title": "第二十六届投洽会主宾国芬兰：聚焦数字化等领域深化合作",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691619.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄外交部发言人驳斥日方要求拆除纪念碑",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691616.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI空调、投影机等大陆智能家电在台湾展销热络",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691612.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（经济观察）中国财政部密集注资 加厚金融机构“安全垫”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691609.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,60 +56,10 @@
       ]
     },
     {
-      "title": "牢记总书记的嘱托丨以创新之为 筑强国之基",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691575.shtml",
+      "title": "青春华章丨中国为何要倾尽心力深耕量子信息科技？潘建伟解答",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691605.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平主席中亚、中东之旅难忘瞬间",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691569.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国科大迎来2.1万多新生 校长解读国之大爱、科技创新、大学精神",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-06/10691567.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中德跨境电商峰会暨中国品牌之夜在柏林举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691558.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "贵州凯里酸汤加速从深山走向国际餐桌",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691555.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏吉隆泥石流灾害后 已妥善做好1720名尼籍边民生活保障",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691545.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -116,11 +86,131 @@
       ]
     },
     {
-      "title": "财政部570亿增资三家保险公司",
-      "url": "https://www.baidu.com/s?wd=%E8%B4%A2%E6%94%BF%E9%83%A8570%E4%BA%BF%E5%A2%9E%E8%B5%84%E4%B8%89%E5%AE%B6%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
+      "title": "印尼八座机场关闭至午夜 约17万旅客滞留",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691621.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026FIBA三人篮球女子系列赛全球总决赛落幕 法国队夺冠",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691620.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中巴艺术家在北京八达岭长城以“乐”会友",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691618.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "在港外籍人士走近盂兰文化：了解“慎终追远、赈济孤贫”",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691617.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国羽毛球大师赛：中国香港选手吴英伦男单夺冠",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691614.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“张雪机车”车手德比斯WSBK法国站第二回合再获季军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691613.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（财经天下）多国国债遇“抛售潮” 债市高波动或成常态",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691611.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青春华章丨张嘉益称真正的成长是在平凡中",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691610.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青春华章丨奇瑞董事长幽默回应谁是最强劲对手",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691607.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青春华章丨马少骅称创造宣纸的人就是当时中国的科学家",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691604.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青春华章丨“国家需要什么，我们就做什么”！中国科研人的这番话，热血又有力量",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691602.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青春华章丨黄梅戏艺术家韩再芬邀学子学唱黄梅戏",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691600.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青春华章丨孙浩再唱《中华民谣》引全场大合唱",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691598.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -148,96 +238,6 @@
     {
       "title": "青春华章丨中国工程院院士陈立泉：国家需要什么，我们就做什么",
       "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691593.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青春华章丨86岁院士有了新理想",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691591.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "哈尔滨医科大学迎百年校庆 《发现伍连德》一书重印",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691589.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "香港新赛马季开锣日：观赛游客数量同比增74%",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691586.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中国羽毛球大师赛：韩国名将安洗莹夺得女单冠军",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691574.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年全国羽毛球单项锦标赛在合肥开赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691571.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏吉隆泥石流灾后：将深入研究口岸相关功能恢复等事宜",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "近1500名中缅运动员齐聚云南瑞丽 以赛畅叙“胞波”情",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691579.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中国羽毛球大师赛：中国香港选手吴英伦夺得男单冠军",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203362.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "家国大义聚同心 内蒙古话剧《马走日》专场在呼和浩特上演",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-06/10691578.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
