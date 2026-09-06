@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-05",
-  "time": "23:01",
-  "generatedAt": "2026-09-05T23:01:14.578Z",
+  "date": "2026-09-06",
+  "time": "01:04",
+  "generatedAt": "2026-09-06T01:04:23.102Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -21,6 +21,16 @@
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青春华章｜他们走过千万步，只为中国科技再进一步",
+      "url": "https://www.chinanews.com.cn/chuangyi/2026/09-06/10691234.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -96,30 +106,20 @@
       ]
     },
     {
-      "title": "2026当代国际戏剧节暨“剧荟北京”艺术季开幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691187.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "香港特区立法会议员访京考察运输政策 冀有助精准建言",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-05/10691184.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "新能源汽车动力电池将迎“退役潮”",
       "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E5%B0%86%E8%BF%8E%E2%80%9C%E9%80%80%E5%BD%B9%E6%BD%AE%E2%80%9D",
       "source": "百度热搜",
       "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "医生被患者刺伤 警方通报",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%A2%AB%E6%82%A3%E8%80%85%E5%88%BA%E4%BC%A4+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+      "source": "百度热搜",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -131,6 +131,56 @@
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "388元体验3分钟短剧拍摄 “我在横店当主演”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691237.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "很多人用错！这6种居家健身器械的使用误区一定要避开",
+      "url": "https://www.chinanews.com.cn/life/2026/09-06/10691236.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中小学校服如何买得放心、穿得安心",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691235.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "菲华裔青少年角逐“启斐杯” 以华语之声筑文化传承之桥",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-06/10691230.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9月6日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-06/10691229.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -188,56 +238,6 @@
     {
       "title": "台湾鲜果“朝摘夕至” 岛内文旦柚登陆南京",
       "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691222.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "厦门口岸多措并举助力第二十六届投洽会旅客便捷通关",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691220.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "创意点亮乡土 八校学子建筑与艺术装置作品亮相北京“营造大集”",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691214.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "打通产销链路 福建平和举办蜜柚购销·招商引资大会",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691210.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "纪念贾植芳诞辰110周年 近百件实物在沪集中亮相",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691206.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美食文旅节目《寻味山海》走进宁夏中宁 探寻山河交汇之地的甘美",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-05/10691205.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
