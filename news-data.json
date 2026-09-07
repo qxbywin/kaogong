@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
-  "time": "16:32",
-  "generatedAt": "2026-09-07T16:32:22.732Z",
+  "time": "20:39",
+  "generatedAt": "2026-09-07T20:39:10.291Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -116,30 +116,20 @@
       ]
     },
     {
-      "title": "湖南卫视一只“AI猴子”闹出133亿",
-      "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "女子买新能源车电池却是“租来的”",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%94%B5%E6%B1%A0%E5%8D%B4%E6%98%AF%E2%80%9C%E7%A7%9F%E6%9D%A5%E7%9A%84%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "废品回收被中国人做成万亿级产业",
       "url": "https://www.baidu.com/s?wd=%E5%BA%9F%E5%93%81%E5%9B%9E%E6%94%B6%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%81%9A%E6%88%90%E4%B8%87%E4%BA%BF%E7%BA%A7%E4%BA%A7%E4%B8%9A",
       "source": "百度热搜",
       "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "湖南卫视一只“AI猴子”闹出133亿",
+      "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -238,6 +228,16 @@
     {
       "title": "王毅同墨西哥外长贝拉斯科会谈",
       "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692285.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国央行连续22个月增持黄金 储备规模升至7673万盎司",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692283.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
