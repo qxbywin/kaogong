@@ -1,16 +1,26 @@
 {
-  "date": "2026-09-06",
-  "time": "21:26",
-  "generatedAt": "2026-09-06T21:26:49.997Z",
+  "date": "2026-09-07",
+  "time": "00:02",
+  "generatedAt": "2026-09-07T00:02:45.921Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "8家中央金融企业迎来增资 有何考量",
-      "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E8%BF%8E%E6%9D%A5%E5%A2%9E%E8%B5%84+%E6%9C%89%E4%BD%95%E8%80%83%E9%87%8F",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 2,
+      "title": "AI新客户带来写字楼办公新需求 物业关键词变为硬件、服务、运维",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691647.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美重启穿梭外交 俄乌短暂停火 和平进程仍漫漫",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691639.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -36,36 +46,6 @@
       ]
     },
     {
-      "title": "AI空调、投影机等大陆智能家电在台湾展销热络",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691612.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（经济观察）中国财政部密集注资 加厚金融机构“安全垫”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691609.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青春华章丨中国为何要倾尽心力深耕量子信息科技？潘建伟解答",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691605.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "小区禁止新能源汽车进地库 律师解读",
       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E7%A6%81%E6%AD%A2%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%9C%B0%E5%BA%93+%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB",
       "source": "百度热搜",
@@ -76,11 +56,161 @@
       ]
     },
     {
-      "title": "人民日报：劳动教育岂能“代劳”",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E5%8A%B3%E5%8A%A8%E6%95%99%E8%82%B2%E5%B2%82%E8%83%BD%E2%80%9C%E4%BB%A3%E5%8A%B3%E2%80%9D",
+      "title": "当育种遇上AI会发生什么",
+      "url": "https://www.baidu.com/s?wd=%E5%BD%93%E8%82%B2%E7%A7%8D%E9%81%87%E4%B8%8AAI%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88",
       "source": "百度热搜",
-      "cat": "society",
+      "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "恶意解雇？职场“冷暴力”不可纵容",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-07/10691651.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "展示配图与实际房型不一致？出行预订酒店当心这些“坑”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691650.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026“情满中秋·相约柏林”系列活动开幕",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-07/10691644.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "高薪、在编、包入职？求职注意避开这些“坑”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691649.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日薪可达千元！00后大学生在“潮流”里淘金",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691648.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "教师群体身心健康引关注 如何让寓教于乐的主体先快乐起来？",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-07/10691646.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "平陆运河出海口海图正式出版",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691645.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "手机“屏幕病”正悄悄透支老年人的身体",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-07/10691643.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "买海鲜混入毒蟹险酿大祸 螃蟹季食鲜小心这些海洋“毒物”",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-07/10691642.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "乌总统泽连斯基会见美特使 谈了啥？有何进展？",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691641.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9月7日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-07/10691640.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "亚马逊一货机降落时冲出跑道撞上车辆并起火 致5人死",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691638.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泽连斯基结束与美方代表首轮会谈",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691636.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "德国选择党赢得德国东部萨安州议会选举",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691634.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691635.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -108,136 +238,6 @@
     {
       "title": "剧烈摇晃过的可乐也能被安全打开 解密背后的科学原理",
       "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691629.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "煲仔饭、冒菜……付费飞机餐走红 你愿意买单吗？",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691627.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王小洪分别会见老挝和乌兹别克斯坦客人",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691626.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "印尼八座机场关闭至午夜 约17万旅客滞留",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691621.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026FIBA三人篮球女子系列赛全球总决赛落幕 法国队夺冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691620.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中巴艺术家在北京八达岭长城以“乐”会友",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691618.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "在港外籍人士走近盂兰文化：了解“慎终追远、赈济孤贫”",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691617.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国羽毛球大师赛：中国香港选手吴英伦男单夺冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691614.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“张雪机车”车手德比斯WSBK法国站第二回合再获季军",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691613.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（财经天下）多国国债遇“抛售潮” 债市高波动或成常态",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691611.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青春华章丨张嘉益称真正的成长是在平凡中",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691610.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青春华章丨奇瑞董事长幽默回应谁是最强劲对手",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691607.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青春华章丨马少骅称创造宣纸的人就是当时中国的科学家",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691604.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青春华章丨“国家需要什么，我们就做什么”！中国科研人的这番话，热血又有力量",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691602.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
