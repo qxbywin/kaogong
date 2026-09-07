@@ -1,33 +1,13 @@
 {
   "date": "2026-09-07",
-  "time": "10:28",
-  "generatedAt": "2026-09-07T10:28:47.234Z",
+  "time": "16:32",
+  "generatedAt": "2026-09-07T16:32:22.732Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国家发展改革委与埃及有关部门签署共建“一带一路”等合作文件",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692083.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "聚焦数智创新 第六届可持续发展大数据国际论坛在北京举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691940.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "农业银行启动2026年金融教育宣传周活动",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692034.shtml",
+      "title": "宁夏科技特派员引智下乡 撬动亿元资本助产业振兴",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692272.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -36,28 +16,28 @@
       ]
     },
     {
-      "title": "武汉文旅局通报郭德纲篡改歌词处理情况",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692080.shtml",
+      "title": "香港举办人工智能教育发展大会 以AI赋能教育新变革",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-07/10692267.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
+      "cat": "tech",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "江西一女孩去香港看演唱会被取消全家低保？官方通报",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692076.shtml",
+      "title": "聚焦前沿科技与智能制造 台商台企在渝感受产业新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692265.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
+      "cat": "economy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中越边城广西崇左聚力打造国际边关风情旅游目的地",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10692079.shtml",
+      "title": "定动力、装“耳朵”、防风险 我国牵头制定多项汽车国际标准",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692296.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -66,88 +46,78 @@
       ]
     },
     {
-      "title": "郭德纲歪曲篡改抗战歌曲 武汉市文化和旅游局发布处理通报",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692077.shtml",
+      "title": "俄宣布关闭德国驻圣彼得堡总领馆及俄境内歌德学院",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10692295.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "涉AI换脸拟声、仿冒名人带货等，最高法发文",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692070.shtml",
+      "title": "伊朗经济部设立经济战争指挥部",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10692294.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "专家：乡村振兴投入机制建设进入系统化、制度化新阶段",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692011.shtml",
+      "title": "香港国际公益慈善论坛开幕 体育名宿共话善行力量",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-07/10692286.shtml",
       "source": "中国新闻网",
-      "cat": "society",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "官方通报“郭德纲篡改抗战歌曲”",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%AF%A1%E6%94%B9%E6%8A%97%E6%88%98%E6%AD%8C%E6%9B%B2%E2%80%9D",
+      "title": "投洽会观察：闽港深化经贸合作 共拓国际化新机遇",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-07/10692281.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "服务全球发展大局 中国政法大学国际组织人才培养研讨会举办",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692263.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "李强会见卡塔尔首相兼外交大臣穆罕默德",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203478.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国元首外交的思想启迪",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E7%9A%84%E6%80%9D%E6%83%B3%E5%90%AF%E8%BF%AA",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "华为时隔六年再次发布高性能芯片",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%97%B6%E9%9A%94%E5%85%AD%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赴港看演出被取消全家低保？当地通报",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%87%BA%E8%A2%AB%E5%8F%96%E6%B6%88%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%EF%BC%9F%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“好想来”回应多地门店被查",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E6%83%B3%E6%9D%A5%E2%80%9D%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E9%97%A8%E5%BA%97%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "长鑫科技回应“与苹果合作”",
-      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%8E%E8%8B%B9%E6%9E%9C%E5%90%88%E4%BD%9C%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "首款完整“韬定律”芯片落地",
-      "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%AC%BE%E5%AE%8C%E6%95%B4%E2%80%9C%E9%9F%AC%E5%AE%9A%E5%BE%8B%E2%80%9D%E8%8A%AF%E7%89%87%E8%90%BD%E5%9C%B0",
+      "title": "湖南卫视一只“AI猴子”闹出133亿",
+      "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -156,8 +126,48 @@
       ]
     },
     {
-      "title": "东西问·名家坊丨曹文轩：何为中国文学走向世界的“护照”？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-07/10692084.shtml",
+      "title": "女子买新能源车电池却是“租来的”",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%94%B5%E6%B1%A0%E5%8D%B4%E6%98%AF%E2%80%9C%E7%A7%9F%E6%9D%A5%E7%9A%84%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "废品回收被中国人做成万亿级产业",
+      "url": "https://www.baidu.com/s?wd=%E5%BA%9F%E5%93%81%E5%9B%9E%E6%94%B6%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%81%9A%E6%88%90%E4%B8%87%E4%BA%BF%E7%BA%A7%E4%BA%A7%E4%B8%9A",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄罗斯要求关闭德国驻圣彼得堡总领馆",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%A6%81%E6%B1%82%E5%85%B3%E9%97%AD%E5%BE%B7%E5%9B%BD%E9%A9%BB%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E6%80%BB%E9%A2%86%E9%A6%86",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "川航集团原董事长李海鹰被查",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%9D%E8%88%AA%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E6%B5%B7%E9%B9%B0%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "胡塞武装称沙特战机空袭也门焦夫省哈兹姆地区",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692298.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "【中国游记】科幻电影照进现实？外国博主在安徽合肥找到了“未来世界”！",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692082.shtml",
+      "title": "“无糖”≠零糖零卡！含甜味剂饮料喝多也伤身",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692297.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,48 @@
       ]
     },
     {
-      "title": "中国对原产于日本的进口二氯二氢硅实施临时反倾销措施",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692078.shtml",
+      "title": "泰国前8个月入境客流同比下降超3%",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10692293.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中新健康｜滴眼液抽检不合格，珍视明回应",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-07/10692292.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "驻华使节沪苏行活动在上海启幕",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692288.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "探营世赛集训基地：全英文高难度比拼 物流与货运代理项目全力备战",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692287.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“昆蒙框架”实施进展全球审议昆明对话会举行",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10692289.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -187,57 +237,7 @@
     },
     {
       "title": "王毅同墨西哥外长贝拉斯科会谈",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692075.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青春华章丨勋章、红砖、照片，高校的三件“思政课信物”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692072.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "两部门：进一步规范汽车企业供应商账期管理",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692073.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从省际“接壤线”到发展“同心圆”：青吴嘉统战联盟汇聚同心力量",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-07/10692033.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重拳打击“飙车炸街” 长春警方处理858起违法行为",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692071.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国团队新发现哈密翼龙前肢化石 为翼龙生长发育研究提供重要证据",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691954.shtml",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692285.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
