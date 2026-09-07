@@ -1,23 +1,63 @@
 {
   "date": "2026-09-07",
-  "time": "00:02",
-  "generatedAt": "2026-09-07T00:02:45.921Z",
+  "time": "04:54",
+  "generatedAt": "2026-09-07T04:54:47.709Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "AI新客户带来写字楼办公新需求 物业关键词变为硬件、服务、运维",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691647.shtml",
+      "title": "全国人大常委会海南自由贸易港法执法检查组举行第二次全体会议",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691823.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "安哥拉国民议会议长将访华",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691824.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台企在江西：深耕覆铜板产业 乘AI东风跑出发展加速度",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691807.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "8家中央金融企业获3600亿元增资 对普通百姓会带来哪些影响？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691815.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "星宇股份发布通报，总经理等4名管理人员被处理",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691827.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美重启穿梭外交 俄乌短暂停火 和平进程仍漫漫",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691639.shtml",
+      "title": "美国迈阿密机场一货机冲出跑道 造成5死5伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691756.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -26,18 +66,8 @@
       ]
     },
     {
-      "title": "第二十六届投洽会主宾国芬兰：聚焦数字化等领域深化合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691619.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄外交部发言人驳斥日方要求拆除纪念碑",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691616.shtml",
+      "title": "聚焦家电、水质等项目 2025年国际检验检测能力验证工作完成",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691818.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,8 +76,128 @@
       ]
     },
     {
-      "title": "小区禁止新能源汽车进地库 律师解读",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E7%A6%81%E6%AD%A2%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%9C%B0%E5%BA%93+%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB",
+      "title": "2026－2027年度直接选拔招录军（警）官工作全面展开",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691816.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国海警局将在浙江杭州主办第22届亚洲地区海岸警备机构高官会高级别会议",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691813.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "商务部：1450个中华老字号中4成以上分布在历史经典产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691799.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "市场监管总局批准发布首个《婴儿光治疗设备校准规范》",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691811.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中方赴俄罗斯参加东盟防长扩大会人道主义扫雷专家组实兵演习",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691812.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "市场监管总局：积极推动历史经典产业标准“走出去”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691804.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "工信部：激活历史经典产业消费潜力 让老手艺“活起来、火出圈、进万家”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691769.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "高市早苗要求俄方拆除二战纪念碑 俄方：日方无视历史的“病”别传染了",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691803.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026东莞台博会人气创新高 达成采购意向45.2亿元",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691800.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习主席中亚中东行的三点启示",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BA%9A%E4%B8%AD%E4%B8%9C%E8%A1%8C%E7%9A%84%E4%B8%89%E7%82%B9%E5%90%AF%E7%A4%BA",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "林肯号驶离泰国 停靠5天消费1亿泰铢",
+      "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%82%AF%E5%8F%B7%E9%A9%B6%E7%A6%BB%E6%B3%B0%E5%9B%BD+%E5%81%9C%E9%9D%A05%E5%A4%A9%E6%B6%88%E8%B4%B91%E4%BA%BF%E6%B3%B0%E9%93%A2",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "耗资千万投资高标准农田沦为闲置摆设",
+      "url": "https://www.baidu.com/s?wd=%E8%80%97%E8%B5%84%E5%8D%83%E4%B8%87%E6%8A%95%E8%B5%84%E9%AB%98%E6%A0%87%E5%87%86%E5%86%9C%E7%94%B0%E6%B2%A6%E4%B8%BA%E9%97%B2%E7%BD%AE%E6%91%86%E8%AE%BE",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本将AI用于军事",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86AI%E7%94%A8%E4%BA%8E%E5%86%9B%E4%BA%8B",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -56,18 +206,8 @@
       ]
     },
     {
-      "title": "当育种遇上AI会发生什么",
-      "url": "https://www.baidu.com/s?wd=%E5%BD%93%E8%82%B2%E7%A7%8D%E9%81%87%E4%B8%8AAI%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "恶意解雇？职场“冷暴力”不可纵容",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-07/10691651.shtml",
+      "title": "巴基斯坦在开伯尔-普什图省开展反恐行动 击毙21名恐怖分子",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691821.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +216,8 @@
       ]
     },
     {
-      "title": "展示配图与实际房型不一致？出行预订酒店当心这些“坑”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691650.shtml",
+      "title": "云南尼朱河峡谷再添“空中校车” 从3小时到30分钟的上学路",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/09-07/news1068045.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +226,8 @@
       ]
     },
     {
-      "title": "2026“情满中秋·相约柏林”系列活动开幕",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-07/10691644.shtml",
+      "title": "韩国民调：李在明施政好评率37.4% 创任内新低",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691825.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,148 +236,8 @@
       ]
     },
     {
-      "title": "高薪、在编、包入职？求职注意避开这些“坑”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691649.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "日薪可达千元！00后大学生在“潮流”里淘金",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691648.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "教师群体身心健康引关注 如何让寓教于乐的主体先快乐起来？",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-07/10691646.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "平陆运河出海口海图正式出版",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691645.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "手机“屏幕病”正悄悄透支老年人的身体",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-07/10691643.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "买海鲜混入毒蟹险酿大祸 螃蟹季食鲜小心这些海洋“毒物”",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-07/10691642.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "乌总统泽连斯基会见美特使 谈了啥？有何进展？",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691641.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "9月7日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-07/10691640.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "亚马逊一货机降落时冲出跑道撞上车辆并起火 致5人死",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691638.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泽连斯基结束与美方代表首轮会谈",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691636.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "德国选择党赢得德国东部萨安州议会选举",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691634.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691635.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "女篮世界杯：中国队逆转捷克队获小组赛首胜",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691625.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中超第26轮：蓉城无缘提前夺冠 英博胜海牛升积分榜次席",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691624.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "剧烈摇晃过的可乐也能被安全打开 解密背后的科学原理",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691629.shtml",
+      "title": "南京对环境采样造假涉事企业和相关人员立案调查",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691822.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
