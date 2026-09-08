@@ -1,13 +1,73 @@
 {
   "date": "2026-09-08",
-  "time": "04:50",
-  "generatedAt": "2026-09-08T04:50:31.538Z",
+  "time": "09:49",
+  "generatedAt": "2026-09-08T09:49:44.707Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "湖北打通高端服装消费品水运进口新通道",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692499.shtml",
+      "title": "香港交易所集团行政总裁：越来越多国际机构投资者通过香港参与中国创新企业发展",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-08/10692694.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 3,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "促进民营经济高质量发展丨深挖新市场 锻造新优势——民营企业创新活力持续释放",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692713.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（投资中国）华南美国商会会长：美企对华投资策略转向“深耕”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692695.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "一组数据带你看我国数字贸易发展“成绩单”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692698.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“孩子王”35年守护童心：让优质教育“盆景”连成片",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-08/10692701.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王毅同卡塔尔首相兼外交大臣穆罕默德会谈",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692724.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "聚焦重点群体稳就业 ——推动经济持续向新向优向好发展⑧",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692718.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -16,8 +76,18 @@
       ]
     },
     {
-      "title": "追梦中华·侨见自贸港：小园区，大产业",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692468.shtml",
+      "title": "湖北武汉通报非法辅助生殖地下实验室：已查封",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692706.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "我国加快推动历史经典产业迈向中高端",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692704.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -26,8 +96,8 @@
       ]
     },
     {
-      "title": "从雍正朱批到宋代茶具：四库全书数字化成果展让古籍走出“故纸堆”",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-08/10692460.shtml",
+      "title": "中国建设科技有限公司原副总经理徐文龙被开除党籍",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692689.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -36,9 +106,9 @@
       ]
     },
     {
-      "title": "向新之翼｜科创中国行·合肥：这束光如何让量子通信“绝对安全”",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-08/10692471.shtml",
-      "source": "中国新闻网",
+      "title": "人民日报：谁来守护源头数据真实",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E8%B0%81%E6%9D%A5%E5%AE%88%E6%8A%A4%E6%BA%90%E5%A4%B4%E6%95%B0%E6%8D%AE%E7%9C%9F%E5%AE%9E",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -46,29 +116,29 @@
       ]
     },
     {
-      "title": "江苏南京：打造惠企政策“最优一公里”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692469.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
+      "title": "外交部：“敌国条款” 至今仍然有效",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE%E2%80%9D+%E8%87%B3%E4%BB%8A%E4%BB%8D%E7%84%B6%E6%9C%89%E6%95%88",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "好评中国｜以青春赴时代之约，书写科技创新的华章",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-08/10692466.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
+      "title": "外交部：日本应当同军国主义彻底切割",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%BD%93%E5%90%8C%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%BD%BB%E5%BA%95%E5%88%87%E5%89%B2",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "工行宇宙星座信用卡，境外消费笔笔1%返现",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692409.shtml",
-      "source": "中国新闻网",
+      "title": "灵活就业人员基本医保参保规模扩大",
+      "url": "https://www.baidu.com/s?wd=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%9F%BA%E6%9C%AC%E5%8C%BB%E4%BF%9D%E5%8F%82%E4%BF%9D%E8%A7%84%E6%A8%A1%E6%89%A9%E5%A4%A7",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -76,68 +146,8 @@
       ]
     },
     {
-      "title": "青年向下扎根，创新向上生长",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-08/10692463.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "两部门发布第一批“贯彻法治宣传教育法 落实普法责任制典型案例”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692445.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "物业回应禁止新能源车进地库：怕爆炸",
-      "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%9C%B0%E5%BA%93%EF%BC%9A%E6%80%95%E7%88%86%E7%82%B8",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“躲进厕所的丈夫沉迷AI短剧”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BA%B2%E8%BF%9B%E5%8E%95%E6%89%80%E7%9A%84%E4%B8%88%E5%A4%AB%E6%B2%89%E8%BF%B7AI%E7%9F%AD%E5%89%A7%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "测试卡车与收集数据车相撞致5死",
-      "url": "https://www.baidu.com/s?wd=%E6%B5%8B%E8%AF%95%E5%8D%A1%E8%BD%A6%E4%B8%8E%E6%94%B6%E9%9B%86%E6%95%B0%E6%8D%AE%E8%BD%A6%E7%9B%B8%E6%92%9E%E8%87%B45%E6%AD%BB",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "儿子酒驾让父亲顶包 亲妈硬核教育",
-      "url": "https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E9%85%92%E9%A9%BE%E8%AE%A9%E7%88%B6%E4%BA%B2%E9%A1%B6%E5%8C%85+%E4%BA%B2%E5%A6%88%E7%A1%AC%E6%A0%B8%E6%95%99%E8%82%B2",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（长征胜利90周年）四川若尔盖湿地蜕变：从“长征绝境”到“鹤鸣天堂”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692500.shtml",
+      "title": "超高清视听奇境再升级 首都公共文化新场景呈现新活力",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-08/10692716.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "茶饮品牌按下减速键，奶茶生意不香了?",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692498.shtml",
+      "title": "新疆伊尔克什坦口岸出入境人次创历史同期新高",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/09-08/10692714.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "郑钦文确认参加2026中国网球公开赛正赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-08/10692502.shtml",
+      "title": "黄皮书：上合组织为践行全球治理倡议提供了关键实施平台",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692710.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,18 +176,8 @@
       ]
     },
     {
-      "title": "辽宁省委社会工作部副部长蔡鸿源接受审查调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692497.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "江西遂川高坪镇泥石流现场又找到1名失联人员 已无生命体征",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692496.shtml",
+      "title": "“老糊涂了，正常”？专家教你识别阿尔茨海默病信号",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-08/10692705.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,18 +186,8 @@
       ]
     },
     {
-      "title": "直播海报：国新办就发展社会主义民主有关情况举行发布会",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692495.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "哥伦比亚考卡山谷省山林起火 直升机出动灭火",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-08/1203506.shtml",
+      "title": "云冈的风，吹进了服务器——一座中国北方城市的转型新叙事",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692703.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "A股午评：超3400只个股飘红，沪指、深指收涨，创业板指收跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692493.shtml",
+      "title": "泽连斯基称希望本月会晤特朗普，争取获得防空装备",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692727.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "涉“网络开盒”“人肉搜索”等 最高法明确裁判规则",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-08/10692492.shtml",
+      "title": "路联通心相通，中吉合作义利相融",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692726.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "好评中国丨那些当年看不懂的“转行”，如今却让中国领先世界",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-08/10692485.shtml",
+      "title": "未成年人追星退费被骗近20万元 这些防护要点家长必看",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692722.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "鲜活的螃蟹能带上高铁吗？官方解答来了！",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692483.shtml",
+      "title": "连通“出发地”与“落脚点”，走好新时代长征路",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692717.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "何以中国｜考古一XIA",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692715.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
