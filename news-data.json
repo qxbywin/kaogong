@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
-  "time": "18:42",
-  "generatedAt": "2026-09-09T18:42:40.337Z",
+  "time": "21:45",
+  "generatedAt": "2026-09-09T21:45:21.398Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -86,16 +86,6 @@
       ]
     },
     {
-      "title": "戚薇AI脸演丧尸片了",
-      "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "高一新生入学次日校内身亡 官方通报",
       "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E6%AC%A1%E6%97%A5%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
       "source": "百度热搜",
@@ -106,8 +96,8 @@
       ]
     },
     {
-      "title": "网友称美的洗衣机每天使用400MB数据",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%BE%8E%E7%9A%84%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%AF%8F%E5%A4%A9%E4%BD%BF%E7%94%A8400MB%E6%95%B0%E6%8D%AE",
+      "title": "戚薇AI脸演丧尸片了",
+      "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -116,18 +106,8 @@
       ]
     },
     {
-      "title": "高考数学132入学考试0分 大学回应",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6132%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%950%E5%88%86+%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "研究员警告：AI若失控恐将毁灭人类",
-      "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%91%98%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E8%8B%A5%E5%A4%B1%E6%8E%A7%E6%81%90%E5%B0%86%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB",
+      "title": "AirPods 5 加量不加价",
+      "url": "https://www.baidu.com/s?wd=AirPods+5+%E5%8A%A0%E9%87%8F%E4%B8%8D%E5%8A%A0%E4%BB%B7",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -138,6 +118,16 @@
     {
       "title": "SiriAI支持中文但首发无缘中国大陆",
       "url": "https://www.baidu.com/s?wd=SiriAI%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E4%BD%86%E9%A6%96%E5%8F%91%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "受AI冲击 有照相馆开学季客流降七成",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E6%9C%89%E7%85%A7%E7%9B%B8%E9%A6%86%E5%BC%80%E5%AD%A6%E5%AD%A3%E5%AE%A2%E6%B5%81%E9%99%8D%E4%B8%83%E6%88%90",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -238,6 +228,16 @@
     {
       "title": "24岁吃播博主离世：流量的尽头不是爆款，是身体的极限",
       "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "内蒙古呼和浩特：沙良物流园助力中欧班列跑出“加速度”",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203756.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
