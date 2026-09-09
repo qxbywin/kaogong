@@ -1,13 +1,23 @@
 {
   "date": "2026-09-09",
-  "time": "04:54",
-  "generatedAt": "2026-09-09T04:54:30.952Z",
+  "time": "09:53",
+  "generatedAt": "2026-09-09T09:53:05.790Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "报告指中国民企加速推动科技成果转化",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693163.shtml",
+      "title": "李家超用五组数据展示香港参与共建“一带一路”成果",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-09/10693377.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新能源电车辐射大，长期开会掉头发、掉腿毛？丨中新真探",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693389.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -16,68 +26,8 @@
       ]
     },
     {
-      "title": "今年全国两会期间，广大政协委员围绕“十五五”规划纲要草案等提出710多条意见和建议",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-09/10693141.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全国人大常委会：新一轮县乡两级人大换届选举有序推进中",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693138.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI“坐诊”药博会 “Z世代”的中医康养新表达",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-09/10693137.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "洽洽漾濞核桃丰收节启幕 产农携手助力就业增收",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693142.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "教育观察：杭州如何为“00后”教师铺就成长车道？",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-09/10693131.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "专家：前8月RCEP区域贸易稳增 多边合作红利持续释放",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693107.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年服贸会开幕 90个国家、地区和国际组织设展办会",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693126.shtml",
+      "title": "加拿大反制美国后，美国反制加拿大",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693390.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -86,8 +36,8 @@
       ]
     },
     {
-      "title": "2026年中国（黑龙江）非公有制经济发展论坛召开",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693100.shtml",
+      "title": "世贸组织副总干事希尔：服务贸易在全球贸易中的地位将继续提升",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693350.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -96,9 +46,99 @@
       ]
     },
     {
-      "title": "中央气象台9月9日10时继续发布暴雨蓝色预警",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693144.shtml",
+      "title": "（投资中国）芬兰经济事务部部长萨卡里·普伊斯托：中芬经贸双向奔赴",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693375.shtml",
       "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十届平遥国际电影展“青年评审荣誉”评审团揭晓 董子健任主席",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-09/10693384.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“中国双向投资：新形势新机遇”交流活动在厦门举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693382.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台胞在江西：从台湾青年到江西女婿 就业立业扎根赣鄱大地",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693364.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "人工智能让这条热线成为“辽宁标准”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693359.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "银川优化基础教育布局 打造优质均衡教育新格局",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693358.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "银川深耕师资队伍建设 激活教育高质量发展内生动力",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693351.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "宇树科技王兴兴：具身智能发展需要更多机器人“上场”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693346.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "巴基斯坦警方喜提50辆中国新能源汽车",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AD%A6%E6%96%B9%E5%96%9C%E6%8F%9050%E8%BE%86%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央社会工作部：解决物业服务问题",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%A4%BE%E4%BC%9A%E5%B7%A5%E4%BD%9C%E9%83%A8%EF%BC%9A%E8%A7%A3%E5%86%B3%E7%89%A9%E4%B8%9A%E6%9C%8D%E5%8A%A1%E9%97%AE%E9%A2%98",
+      "source": "百度热搜",
       "cat": "policy",
       "score": 1,
       "exams": [
@@ -106,28 +146,18 @@
       ]
     },
     {
-      "title": "农业农村部：第九个中国农民丰收节将举办47项重点活动",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693140.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
+      "title": "千万粉丝博主姜乘澜被限制高消费",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E5%8D%9A%E4%B8%BB%E5%A7%9C%E4%B9%98%E6%BE%9C%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9",
+      "source": "百度热搜",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "从红色故事到共同记忆：陈毅故里探索民族团结教育新方式",
-      "url": "https://www.chinanews.com.cn/mz/2026/09-09/10693094.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "航天员在太空烤上了小蛋糕",
-      "url": "https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%83%A4%E4%B8%8A%E4%BA%86%E5%B0%8F%E8%9B%8B%E7%B3%95",
+      "title": "曝iPhone Air 2将作为iPhone 18推出",
+      "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone+Air+2%E5%B0%86%E4%BD%9C%E4%B8%BAiPhone+18%E6%8E%A8%E5%87%BA",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -136,28 +166,18 @@
       ]
     },
     {
-      "title": "AI眼镜突然卖不动了",
-      "url": "https://www.baidu.com/s?wd=AI%E7%9C%BC%E9%95%9C%E7%AA%81%E7%84%B6%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+      "title": "年轻人的“顺路消费”被地铁拿捏了",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E2%80%9C%E9%A1%BA%E8%B7%AF%E6%B6%88%E8%B4%B9%E2%80%9D%E8%A2%AB%E5%9C%B0%E9%93%81%E6%8B%BF%E6%8D%8F%E4%BA%86",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "OpenAI宣布攻克千禧年难题",
-      "url": "https://www.baidu.com/s?wd=OpenAI%E5%AE%A3%E5%B8%83%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国疾控中心发布9月健康防护提示",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-09/10693165.shtml",
+      "title": "国家民委：“十五五”期间，以三个“进一步”促进各民族交往交流交融",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693370.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "山东省工业和信息化厅原党组成员、副厅长庞松涛被“双开”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693154.shtml",
+      "title": "电影《追光者》观摩研讨会在京举办",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-09/10693371.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "灯火燃处百工集：山西新绛再现“七十二行城”喧腾",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693157.shtml",
+      "title": "“我从新疆来·一路向北京” 2026年首批巴州基层群众代表赴冀参观学习",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-09/10693372.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "鲁迅文学奖获得者胡性能：一个小说家的镜中观“象”",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-09/10693155.shtml",
+      "title": "追梦中华·侨见自贸港：洋浦港链接全球",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-09/10693373.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "“9・11”尘封档案公开：纽约官方曾隐瞒归零地有毒空气风险",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693117.shtml",
+      "title": "（乡村行·看振兴）千年梨乡的“新饮”事",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693388.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "歌舞剧《情系塞罕坝》：从坝上林海到边疆大地",
-      "url": "https://www.chinanews.com.cn/mz/2026/09-09/10693153.shtml",
+      "title": "巴基斯坦官员扎法尔：中国公共安全治理经验值得借鉴",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693378.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "国台办：大陆海警依法在管辖海域开展执法维权行动，是正当正义之举",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693134.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国台办：台湾绝无可能成为一个国家，根本不存在所谓“主权”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693127.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中新网评：“鬼秤”闹的不是鬼，是信任危机",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693151.shtml",
+      "title": "国台办发布会聚焦两岸融合发展、民间往来等热点",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693379.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
