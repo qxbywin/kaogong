@@ -1,26 +1,36 @@
 {
   "date": "2026-09-09",
-  "time": "14:40",
-  "generatedAt": "2026-09-09T14:40:01.714Z",
+  "time": "18:42",
+  "generatedAt": "2026-09-09T18:42:40.337Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "宁夏创新文艺载体普及金融知识 “消保好声音”探索宣教新模式",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693606.shtml",
+      "title": "丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "创新聚势 赋能未来：2026民营经济创新发展大会在温州举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693611.shtml",
+      "title": "商务部：中方反对美方在人工智能领域推行科技霸权、搞算力垄断",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年服贸会开幕 新科技点亮趣味生活",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -66,66 +76,6 @@
       ]
     },
     {
-      "title": "报告：中国面向东盟数字贸易呈三大态势",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693599.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "韩国8月同比新增就业18.4万人",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693594.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "哈萨克斯坦开展专项禁毒行动 三个月阻止21吨毒品流入市场",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693591.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693626.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江温州：政产学研共话生命健康产业新机遇",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693612.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "高考数学132入学考试0分 大学回应",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6132%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%950%E5%88%86+%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "共享投资机遇 共谋未来发展",
       "url": "https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%8A%95%E8%B5%84%E6%9C%BA%E9%81%87+%E5%85%B1%E8%B0%8B%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95",
       "source": "百度热搜",
@@ -136,20 +86,10 @@
       ]
     },
     {
-      "title": "研究员警告：AI若失控恐将毁灭人类",
-      "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%91%98%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E8%8B%A5%E5%A4%B1%E6%8E%A7%E6%81%90%E5%B0%86%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB",
+      "title": "戚薇AI脸演丧尸片了",
+      "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86",
       "source": "百度热搜",
       "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "年轻人的“顺路消费”被地铁拿捏了",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E2%80%9C%E9%A1%BA%E8%B7%AF%E6%B6%88%E8%B4%B9%E2%80%9D%E8%A2%AB%E5%9C%B0%E9%93%81%E6%8B%BF%E6%8D%8F%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -166,8 +106,8 @@
       ]
     },
     {
-      "title": "铜价创新高 原因找到了",
-      "url": "https://www.baidu.com/s?wd=%E9%93%9C%E4%BB%B7%E5%88%9B%E6%96%B0%E9%AB%98+%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
+      "title": "网友称美的洗衣机每天使用400MB数据",
+      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%BE%8E%E7%9A%84%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%AF%8F%E5%A4%A9%E4%BD%BF%E7%94%A8400MB%E6%95%B0%E6%8D%AE",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -176,11 +116,121 @@
       ]
     },
     {
-      "title": "受AI冲击 有照相馆开学季客流降七成",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E6%9C%89%E7%85%A7%E7%9B%B8%E9%A6%86%E5%BC%80%E5%AD%A6%E5%AD%A3%E5%AE%A2%E6%B5%81%E9%99%8D%E4%B8%83%E6%88%90",
+      "title": "高考数学132入学考试0分 大学回应",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6132%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%950%E5%88%86+%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "研究员警告：AI若失控恐将毁灭人类",
+      "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%91%98%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E8%8B%A5%E5%A4%B1%E6%8E%A7%E6%81%90%E5%B0%86%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "SiriAI支持中文但首发无缘中国大陆",
+      "url": "https://www.baidu.com/s?wd=SiriAI%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E4%BD%86%E9%A6%96%E5%8F%91%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "报告：北京、上海、香港位列世界旅游城市综合排名前十",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693654.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693652.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "普京向金正恩致贺电",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693651.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "15元买两斤蛤蜊吃出3颗珍珠！专家：正常现象 不耽误食用",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693650.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美军宣布：摧毁10艘伊朗油轮",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693649.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国航班管理系统故障致1900多次航班被取消",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693646.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "考古首次揭示中国南方丹尼索瓦人生存图景：长期稳定高度务实",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693645.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国西南发现首例丹尼索瓦人化石 全球首次确认丹人桡骨",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693644.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -188,56 +238,6 @@
     {
       "title": "24岁吃播博主离世：流量的尽头不是爆款，是身体的极限",
       "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "内蒙古呼和浩特：沙良物流园助力中欧班列跑出“加速度”",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203756.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "免费飞机餐是否取消？多家航司回应",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693640.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "云南鲁甸卯家湾：搬出大山安居乐业 共绘民族团结画卷",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693602.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中新“海上合作-2026”联合演习结束",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693633.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美伊战事难解，账单越滚越大",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693632.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
