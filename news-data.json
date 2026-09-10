@@ -1,53 +1,43 @@
 {
   "date": "2026-09-10",
-  "time": "09:50",
-  "generatedAt": "2026-09-10T09:50:44.855Z",
+  "time": "14:30",
+  "generatedAt": "2026-09-10T14:30:47.807Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "湖北省政协为加快构建现代化产业体系聚智添力",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694096.shtml",
+      "title": "广西南宁举办第十一届创业大赛 聚焦AI与乡村振兴",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694329.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "tech",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI赋能市井烟火：高德扫街榜2026让普通小店被更多看见",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694102.shtml",
+      "title": "北京两项医疗AI成果在非洲投入临床应用",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694328.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "证监会：力争到2030年，资本市场高质量发展的新格局基本形成",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694066.shtml",
+      "title": "两岸服贸研究报告：以数字化转型和数字贸易培育合作新动能",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694318.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "“科创中国”烟台行：新阶层服务团化身产业资源“连接器”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694101.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广东部署2026年森林防灭火宣传 明确七项内容",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694100.shtml",
+      "title": "致敬教师，中央音乐学院举行原创音乐会",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694335.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -56,79 +46,9 @@
       ]
     },
     {
-      "title": "央行：境外主体持有境内人民币金融资产超11万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694065.shtml",
+      "title": "渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "山西能源转型目标：新能源装机再增1亿千瓦 煤炭产量稳在12.5亿吨",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694094.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "开局起步“十五五”：海南小县“优民生”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694089.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "具身智能“上新课” 专家建言更好把产业实践带入课堂",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694088.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国家发展改革委有关负责同志就《关于重要工业品低价无序竞争成本核算有关事项的通知》答记者问",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694091.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国家外汇局：我国直接投资项下已实现基本可兑换",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694010.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "英伟达被查",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部回应“印方建议调查小米公司”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8D%B0%E6%96%B9%E5%BB%BA%E8%AE%AE%E8%B0%83%E6%9F%A5%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E2%80%9D",
-      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -136,9 +56,49 @@
       ]
     },
     {
-      "title": "金融监管总局：大力整治价格战等行为",
-      "url": "https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%EF%BC%9A%E5%A4%A7%E5%8A%9B%E6%95%B4%E6%B2%BB%E4%BB%B7%E6%A0%BC%E6%88%98%E7%AD%89%E8%A1%8C%E4%B8%BA",
-      "source": "百度热搜",
+      "title": "泰国批准55个项目推动企业应用人工智能和自动化",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国家发改委面对面回应美企关切 释放中国开放信号",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694327.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广东国际侨创赛落下帷幕 15个参赛优质项目意向落地中山",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-10/10694320.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "何立峰出席矿业国际合作部长论坛暨2026中国国际矿业大会开幕式并在天津调研",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694319.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026澳中博览会暨中国消费品（澳大利亚）品牌展开幕",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203911.shtml",
+      "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -146,20 +106,30 @@
       ]
     },
     {
-      "title": "网友称美的洗衣机每天使用400MB数据",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%BE%8E%E7%9A%84%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%AF%8F%E5%A4%A9%E4%BD%BF%E7%94%A8400MB%E6%95%B0%E6%8D%AE",
-      "source": "百度热搜",
-      "cat": "tech",
+      "title": "香港立法会议员三度考察北都 聚焦房屋发展与城乡共融",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694311.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "宇树科技开源具身基座模型",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%BC%80%E6%BA%90%E5%85%B7%E8%BA%AB%E5%9F%BA%E5%BA%A7%E6%A8%A1%E5%9E%8B",
+      "title": "内蒙古：坚决拥护党中央决定",
+      "url": "https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "看不见的贸易为什么“跑”得更快",
+      "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E8%B4%B8%E6%98%93%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E8%B7%91%E2%80%9D%E5%BE%97%E6%9B%B4%E5%BF%AB",
+      "source": "百度热搜",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -176,10 +146,30 @@
       ]
     },
     {
-      "title": "证监会：持续提升资本市场韧性和信心",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E6%8C%81%E7%BB%AD%E6%8F%90%E5%8D%87%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E9%9F%A7%E6%80%A7%E5%92%8C%E4%BF%A1%E5%BF%83",
+      "title": "证监会最新定调未来5年资本市场",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E5%AE%9A%E8%B0%83%E6%9C%AA%E6%9D%A55%E5%B9%B4%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA",
       "source": "百度热搜",
       "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "警方通报“14岁女孩遭7人殴打辱骂”",
+      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C14%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD7%E4%BA%BA%E6%AE%B4%E6%89%93%E8%BE%B1%E9%AA%82%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“每卖10辆新车6辆是新能源”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%8F%E5%8D%9610%E8%BE%86%E6%96%B0%E8%BD%A66%E8%BE%86%E6%98%AF%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -196,8 +186,18 @@
       ]
     },
     {
-      "title": "我国成功发射遥感五十三号01-03星、遥感五十六号01-03星",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694107.shtml",
+      "title": "美国警员击毙反扑母熊",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%98%E5%87%BB%E6%AF%99%E5%8F%8D%E6%89%91%E6%AF%8D%E7%86%8A",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "散播涉西藏吉隆泥石流谣言 多人被处罚",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694349.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "重庆酉阳：一层稻浪一层金，粒粒归仓报丰年",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694086.shtml",
+      "title": "2026年度象棋文字书法作品文化活动在上海举办",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694336.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "（活力中国调研行）河南浚县：泥塑工坊里忙制作",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694087.shtml",
+      "title": "阿尔及利亚宣布与阿联酋断交",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "云南花茶咖三个“第一”联动办展 引国内外800余家企业参展",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694099.shtml",
+      "title": "从南非到海南：一位外籍教师的“慢生活”与“深扎根”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694331.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "广州市10余处非国有历史建筑获批修缮补助",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694098.shtml",
+      "title": "海外华校教师陕西榆林行：品读边塞历史底蕴 传播中华优秀文化",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-10/10694330.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
