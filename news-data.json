@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
-  "time": "14:30",
-  "generatedAt": "2026-09-10T14:30:47.807Z",
+  "time": "18:33",
+  "generatedAt": "2026-09-10T18:33:35.874Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -31,6 +31,56 @@
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026澳中博览会暨中国消费品（澳大利亚）品牌展开幕",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694353.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "阿曼苏哈尔国际银行在香港开设亚太区办事处",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694351.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西国际友城活动将首设澜湄合作专区",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-10/10694350.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "打击跨国电诈 46国成立国际联盟携手共治",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694355.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "丁薛祥出席第十六次亚太经合组织能源部长会议开幕式并致辞",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694352.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -86,30 +136,10 @@
       ]
     },
     {
-      "title": "何立峰出席矿业国际合作部长论坛暨2026中国国际矿业大会开幕式并在天津调研",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694319.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026澳中博览会暨中国消费品（澳大利亚）品牌展开幕",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203911.shtml",
-      "source": "中国新闻网",
+      "title": "看不见的贸易为什么“跑”得更快",
+      "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E8%B4%B8%E6%98%93%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E8%B7%91%E2%80%9D%E5%BE%97%E6%9B%B4%E5%BF%AB",
+      "source": "百度热搜",
       "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "香港立法会议员三度考察北都 聚焦房屋发展与城乡共融",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694311.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -126,26 +156,6 @@
       ]
     },
     {
-      "title": "看不见的贸易为什么“跑”得更快",
-      "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E8%B4%B8%E6%98%93%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E8%B7%91%E2%80%9D%E5%BE%97%E6%9B%B4%E5%BF%AB",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "新能源车太宽：车没压线 人出不来",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%A4%AA%E5%AE%BD%EF%BC%9A%E8%BD%A6%E6%B2%A1%E5%8E%8B%E7%BA%BF+%E4%BA%BA%E5%87%BA%E4%B8%8D%E6%9D%A5",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "证监会最新定调未来5年资本市场",
       "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E5%AE%9A%E8%B0%83%E6%9C%AA%E6%9D%A55%E5%B9%B4%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA",
       "source": "百度热搜",
@@ -156,20 +166,10 @@
       ]
     },
     {
-      "title": "警方通报“14岁女孩遭7人殴打辱骂”",
-      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C14%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD7%E4%BA%BA%E6%AE%B4%E6%89%93%E8%BE%B1%E9%AA%82%E2%80%9D",
+      "title": "郑钦文这段话被联合国妇女署转发",
+      "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%A2%AB%E8%81%94%E5%90%88%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%BD%B2%E8%BD%AC%E5%8F%91",
       "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“每卖10辆新车6辆是新能源”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%8F%E5%8D%9610%E8%BE%86%E6%96%B0%E8%BD%A66%E8%BE%86%E6%98%AF%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -186,11 +186,51 @@
       ]
     },
     {
-      "title": "美国警员击毙反扑母熊",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%98%E5%87%BB%E6%AF%99%E5%8F%8D%E6%89%91%E6%AF%8D%E7%86%8A",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "第20届亚运会男篮项目开赛 中国台北队首战告捷",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694360.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "女篮世界杯：中国队不敌法国队止步八强",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694359.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2025-2026年中国知识产权行政执法十大案例发布",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694358.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "纽约原油期价突破100美元",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694357.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026全球工业互联网大会在沈阳闭幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694354.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -198,46 +238,6 @@
     {
       "title": "散播涉西藏吉隆泥石流谣言 多人被处罚",
       "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694349.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年度象棋文字书法作品文化活动在上海举办",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694336.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "阿尔及利亚宣布与阿联酋断交",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从南非到海南：一位外籍教师的“慢生活”与“深扎根”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694331.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海外华校教师陕西榆林行：品读边塞历史底蕴 传播中华优秀文化",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-10/10694330.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
