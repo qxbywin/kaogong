@@ -1,83 +1,73 @@
 {
   "date": "2026-09-11",
-  "time": "04:50",
-  "generatedAt": "2026-09-11T04:50:44.035Z",
+  "time": "09:50",
+  "generatedAt": "2026-09-11T09:50:30.168Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "从8月物价数据看消费提质扩容",
-      "url": "https://www.chinanews.com.cn/kong/2026/09-11/10694493.shtml",
+      "title": "受权发布丨市场监督管理所条例",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694790.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "policy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "深圳天·宫阙航天科学探索与艺术馆启幕",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-11/10694513.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国洛杉矶盖蒂中心附近发生林火",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203982.shtml",
+      "title": "2026广东国际旅游产业博览会在广州开幕",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694751.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "首善·共治·新“枫”景 北京金融纠纷多元化解实践交流会在京举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694512.shtml",
+      "title": "2026国际集成电路创新博览会展现生态协同新格局",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694780.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
+      "cat": "international",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "【理响中国·经视图】精准把握大力提振消费的深刻意涵",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694498.shtml",
+      "title": "美国归侨“稻米造血”：赶上创新药研发黄金时代",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-11/10694771.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
+      "cat": "international",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "认知症老人有了AI聊天“老搭子”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694495.shtml",
+      "title": "李强签署国务院令 公布《市场监督管理所条例》",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694785.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
+      "cat": "policy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "E法同行 兴辽治宁丨一扇门解开新就业形态劳动者的“千千结”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694496.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
+      "title": "AI几年内可毁灭人类？美国AI天才发声",
+      "url": "https://www.baidu.com/s?wd=AI%E5%87%A0%E5%B9%B4%E5%86%85%E5%8F%AF%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB%EF%BC%9F%E7%BE%8E%E5%9B%BDAI%E5%A4%A9%E6%89%8D%E5%8F%91%E5%A3%B0",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "尊师惠师政策让基层教师更有获得感",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-11/10694489.shtml",
+      "title": "受权发布丨中华人民共和国国务院令 第846号",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694793.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -86,8 +76,78 @@
       ]
     },
     {
-      "title": "AI短剧“1岁命人掌嘴4岁肃清朝堂”",
-      "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C1%E5%B2%81%E5%91%BD%E4%BA%BA%E6%8E%8C%E5%98%B44%E5%B2%81%E8%82%83%E6%B8%85%E6%9C%9D%E5%A0%82%E2%80%9D",
+      "title": "夯实诚信经营基石 赋能金融高质发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694787.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "三人行科技转型再落子：携手中国信通院“标杆引领者”中联数据布局AIDC赛道",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694786.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（活力中国调研行）河南漯河：猫咪“试吃员”助力宠粮创新升级",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694783.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东莞将携超5.4万个次岗位赴京津揽 人工智能领域岗位超18%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694779.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "好生态撑起“帐篷经济”，一顶帐篷撑起石家庄人的“微度假”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694774.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026东创会聚焦人工智能创新应用 多项跨境科创成果将亮相",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-11/10694775.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十一届“一带一路”高峰论坛闭幕 促成逾60项合作",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/09-11/10694777.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "李立群吐槽AI短剧“害人”",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E7%AB%8B%E7%BE%A4%E5%90%90%E6%A7%BDAI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%AE%B3%E4%BA%BA%E2%80%9D",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -96,8 +156,8 @@
       ]
     },
     {
-      "title": "郑钦文这段话被联合国妇女署转发",
-      "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%A2%AB%E8%81%94%E5%90%88%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%BD%B2%E8%BD%AC%E5%8F%91",
+      "title": "外交部：已向意方、欧方提出严正交涉",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%90%91%E6%84%8F%E6%96%B9%E3%80%81%E6%AC%A7%E6%96%B9%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -106,18 +166,28 @@
       ]
     },
     {
-      "title": "日韩股市大跌",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C",
+      "title": "投资150万加盟开火锅自助4个月赔光",
+      "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84150%E4%B8%87%E5%8A%A0%E7%9B%9F%E5%BC%80%E7%81%AB%E9%94%85%E8%87%AA%E5%8A%A94%E4%B8%AA%E6%9C%88%E8%B5%94%E5%85%89",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "绿色勘查绿色矿山系列国家标准发布",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694524.shtml",
+      "title": "招商银行原副行长施顺华被查",
+      "url": "https://www.baidu.com/s?wd=%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C%E5%8E%9F%E5%89%AF%E8%A1%8C%E9%95%BF%E6%96%BD%E9%A1%BA%E5%8D%8E%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "世界摩托车越野锦标赛上海站全部赛事物资通关 首批世界技能大赛物资运抵会场",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-11/10694801.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +196,8 @@
       ]
     },
     {
-      "title": "习近平：金砖国家走到一起，是基于共同追求",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694528.shtml",
+      "title": "河南集中销毁货值超7295万元侵权假冒伪劣商品",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694800.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +206,8 @@
       ]
     },
     {
-      "title": "国家体育总局：体育健儿的拼搏需要尊重与守护",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-11/10694527.shtml",
+      "title": "从后厨颠勺到指尖造艺 新疆兵团青年用面团捏出非遗新韵",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694803.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +216,8 @@
       ]
     },
     {
-      "title": "自然资源部：中国能源资源保障能力持续提升",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694526.shtml",
+      "title": "光彩事业高质量发展的理论实践",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-11/10694798.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +226,8 @@
       ]
     },
     {
-      "title": "（长征胜利90周年）以公益诉讼守护红色根脉 四川检察机关走进长征遗址探寻保护之道",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694519.shtml",
+      "title": "工商兴城 实业救国——重庆工商界历史名人②|李耀廷：商道维新 票号翘楚",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-11/10694797.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,78 +236,8 @@
       ]
     },
     {
-      "title": "做民间友好青年使者 中美青年北京种下“伙伴林”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694517.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重庆垫江成功预警一起危岩崩塌灾情 提前转移1户4人",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694515.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "冰岛拟永久禁捕鲸 日本挪威或将成“唯二”商业捕鲸国",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694503.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "A股午评：超5100只个股飘绿，三大指数集体收跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694514.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "鸡蛋零售价格突破“6元区”，还会再涨吗？",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694505.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "探访东北抗联史实陈列馆 重温“20条军规”里的红色初心",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203959.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "同一片秦巴山，红军的后辈成了共和国第一代汽车工人|企步新长征",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694506.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中部六省强化区域合作推进9项标准一体化实施",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694502.shtml",
+      "title": "【外链】通栏图：习近平赴印度出席金砖国家领导人第十八次会晤",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-11/10694804.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
