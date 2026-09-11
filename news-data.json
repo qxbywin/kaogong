@@ -1,33 +1,23 @@
 {
-  "date": "2026-09-10",
-  "time": "21:41",
-  "generatedAt": "2026-09-10T21:41:51.534Z",
+  "date": "2026-09-11",
+  "time": "00:15",
+  "generatedAt": "2026-09-11T00:15:12.251Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "广西南宁举办第十一届创业大赛 聚焦AI与乡村振兴",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694329.shtml",
+      "title": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694369.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "international",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "北京两项医疗AI成果在非洲投入临床应用",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694328.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "两岸服贸研究报告：以数字化转型和数字贸易培育合作新动能",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694318.shtml",
+      "title": "AI客服，如何更好服务消费者",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694366.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -36,78 +26,18 @@
       ]
     },
     {
-      "title": "2026澳中博览会暨中国消费品（澳大利亚）品牌展开幕",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694353.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "阿曼苏哈尔国际银行在香港开设亚太区办事处",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694351.shtml",
+      "title": "美财政部宣布对伊朗相关个人和实体实施制裁",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694362.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "广西国际友城活动将首设澜湄合作专区",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-10/10694350.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "打击跨国电诈 46国成立国际联盟携手共治",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694355.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "丁薛祥出席第十六次亚太经合组织能源部长会议开幕式并致辞",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694352.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "致敬教师，中央音乐学院举行原创音乐会",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694335.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泰国批准55个项目推动企业应用人工智能和自动化",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml",
+      "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -116,18 +46,58 @@
       ]
     },
     {
-      "title": "国家发改委面对面回应美企关切 释放中国开放信号",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694327.shtml",
+      "title": "2026中国国际时装周（秋季）在北京落幕",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203918.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "广东国际侨创赛落下帷幕 15个参赛优质项目意向落地中山",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-10/10694320.shtml",
+      "title": "传统工艺市场“打假清源”联合执法行动共计立案769件",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-11/10694379.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多家门店更名后，青海拉面产业向品牌化规模化升级",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694378.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "欧盟上半年收到逾33万份庇护申请 创近五年同期最低",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694370.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄媒：普京抵达印度 开启为期三天的访问",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694368.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际打击电信网络诈骗联盟成立大会举行 王小洪出席并致辞",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694361.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -146,16 +116,6 @@
       ]
     },
     {
-      "title": "内蒙古：坚决拥护党中央决定",
-      "url": "https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "郑钦文这段话被联合国妇女署转发",
       "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%A2%AB%E8%81%94%E5%90%88%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%BD%B2%E8%BD%AC%E5%8F%91",
       "source": "百度热搜",
@@ -166,38 +126,18 @@
       ]
     },
     {
-      "title": "证监会最新定调未来5年资本市场",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E5%AE%9A%E8%B0%83%E6%9C%AA%E6%9D%A55%E5%B9%B4%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA",
+      "title": "洗车排队起冲突 老人被打致多处骨折",
+      "url": "https://www.baidu.com/s?wd=%E6%B4%97%E8%BD%A6%E6%8E%92%E9%98%9F%E8%B5%B7%E5%86%B2%E7%AA%81+%E8%80%81%E4%BA%BA%E8%A2%AB%E6%89%93%E8%87%B4%E5%A4%9A%E5%A4%84%E9%AA%A8%E6%8A%98",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "资本市场怎么走？证监会明确八大方向",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E6%80%8E%E4%B9%88%E8%B5%B0%EF%BC%9F%E8%AF%81%E7%9B%91%E4%BC%9A%E6%98%8E%E7%A1%AE%E5%85%AB%E5%A4%A7%E6%96%B9%E5%90%91",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美股“科技七巨头”盘初多数下跌",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E2%80%9C%E7%A7%91%E6%8A%80%E4%B8%83%E5%B7%A8%E5%A4%B4%E2%80%9D%E7%9B%98%E5%88%9D%E5%A4%9A%E6%95%B0%E4%B8%8B%E8%B7%8C",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第20届亚运会男篮项目开赛 中国台北队首战告捷",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694360.shtml",
+      "title": "朱炳仁“京派熔装”时装秀亮相SS2027北京时装周",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203927.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +146,8 @@
       ]
     },
     {
-      "title": "女篮世界杯：中国队不敌法国队止步八强",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694359.shtml",
+      "title": "也门打起来了！全球两大航运“油管”同时动荡",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694385.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +156,8 @@
       ]
     },
     {
-      "title": "2025-2026年中国知识产权行政执法十大案例发布",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694358.shtml",
+      "title": "深海科考新突破！我国在西太平洋海底锁定一处大型高温热液区",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694384.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +166,8 @@
       ]
     },
     {
-      "title": "纽约原油期价突破100美元",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694357.shtml",
+      "title": "香港第一个五年规划公布在即 航拍北部都会区建设进展",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203924.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +176,68 @@
       ]
     },
     {
-      "title": "2026全球工业互联网大会在沈阳闭幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694354.shtml",
+      "title": "常因一时冲动引发纠纷，未成年人文身问题该如何治理",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-11/10694382.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "《微短剧发展管理办法》施行 推动行业从“拼数量”转向“拼质量”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694381.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“算法向善”照进现实，骑手跑单更加从容",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694376.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全力救治善后 深入排查隐患——各地各部门贯彻落实习近平总书记重要指示精神坚决守牢安全发展底线",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694377.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "以军：使用1100吨炸药 摧毁黎南部真主党地下设施",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694375.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "打击电诈 为何需要46国联手？",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694374.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9月11日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-11/10694373.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
