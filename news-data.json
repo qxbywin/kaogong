@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "time": "14:30",
-  "generatedAt": "2026-09-11T14:30:02.891Z",
+  "time": "18:38",
+  "generatedAt": "2026-09-11T18:38:59.643Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -16,11 +16,51 @@
       ]
     },
     {
-      "title": "专家：中国下一代碳卫星将有能力区分碳汇和碳排放",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695038.shtml",
+      "title": "百公里11.5度电！2030年新能源汽车什么样？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695088.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“9·11”事件25周年：“他们为什么恨我们？”美国至今答不上来",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695083.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泰国清迈府代表团一行考察青海光伏产业及生态旅游发展",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695012.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十六届智慧城市与智能经济博览会在浙江宁波开幕",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694985.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "服务消费如何高质量发展？多方共探新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -46,46 +86,6 @@
       ]
     },
     {
-      "title": "“一带一路”共建国家经贸交流会暨侨助千企万品出海行动在贵阳举行",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/09-11/10695033.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海南产经新观察：资源要素“巧”配置 产业发展添动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695045.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第十六次亚太经合组织能源部长会议发布核心共识成果",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695037.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "甘肃省委：坚决拥护党中央对雷思维开除党籍、开除公职的决定",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695022.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "投资150万加盟开火锅自助4个月赔光",
       "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84150%E4%B8%87%E5%8A%A0%E7%9B%9F%E5%BC%80%E7%81%AB%E9%94%85%E8%87%AA%E5%8A%A94%E4%B8%AA%E6%9C%88%E8%B5%94%E5%85%89",
       "source": "百度热搜",
@@ -96,21 +96,121 @@
       ]
     },
     {
-      "title": "张雪14岁儿子张擎天国际赛首秀",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA14%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%A0%E6%93%8E%E5%A4%A9%E5%9B%BD%E9%99%85%E8%B5%9B%E9%A6%96%E7%A7%80",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "菲律宾海警：巴拉望省近海起火客船发现30具遗体",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695089.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "曝美的洗衣机一天上传数据400MB",
-      "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%BE%8E%E7%9A%84%E6%B4%97%E8%A1%A3%E6%9C%BA%E4%B8%80%E5%A4%A9%E4%B8%8A%E4%BC%A0%E6%95%B0%E6%8D%AE400MB",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "话剧《寻味》：两岸戏剧人共述“回家”故事",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695082.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "海外华校教师探访陕西黄河文化博物馆",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695010.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“自然之序——程一峰雕塑作品展”开幕式在广州举行",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695006.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "巴丹吉林沙漠上演非遗那达慕",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695002.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "内地及港澳11支消防队伍齐聚华山练兵",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695001.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "漫山层叠！海外华媒沉醉紫鹊界梯田美景",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695000.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "金砖国家工商论坛在新德里举行",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695081.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "张国荣纪念展香港开幕 珍贵照片重现流行文化经典",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694987.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（活力中国调研行）河南安阳：实景演出再现红旗渠开凿场景",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694960.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026中国（广西）—东盟青少年无人机足球邀请赛开赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694950.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "135件（组）新疆文物精品亮相浙江嘉兴",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694940.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -138,106 +238,6 @@
     {
       "title": "中越跨境游持续升温 云南铁路河口北站服务越南旅客增幅明显",
       "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695050.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "澳门服贸发展指数居全球第六",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-11/10695024.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中方介绍APEC能源安全合作具体成果",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695034.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全球首创智能封闭式海洋养殖网箱在广东建成出口挪威",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695046.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西船员培训教师教学能力竞赛举办",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10695044.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第三届赣台青年短视频创作大赛颁奖仪式在江西庐山举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695043.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "渝黔背靠背联网工程（贵州段）有序推进 预计2027年6月底投运",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695041.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第二十六届投洽会闭幕 参会国别数与团组数均创历届最高",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695049.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "绘梨园戏韵 电视剧《云雀叫天录》看片会举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-11/10695031.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第16届全国残疾人健身周天津主场活动暨京津冀残疾人体育嘉年华启幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-11/10695025.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国铁广州局今年中秋国庆假期运输预计送客3860万人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695026.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
