@@ -1,23 +1,13 @@
 {
   "date": "2026-09-12",
-  "time": "04:48",
-  "generatedAt": "2026-09-12T04:48:02.009Z",
+  "time": "09:26",
+  "generatedAt": "2026-09-12T09:26:43.953Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "2026跨国公司江苏行—盐城零碳产业园国际合作交流会举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695196.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 3,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国古脊椎动物学第18次学术年会暨第10届翼龙国际会议举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695192.shtml",
+      "title": "从“打卡游”到“生活圈”，免签带旺中俄跨境消费",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695283.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -26,8 +16,18 @@
       ]
     },
     {
-      "title": "延安红色半程马拉松中秋小长假开跑 红色文创及景区惠民政策发布",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695199.shtml",
+      "title": "“中泰人文交流国际学术研讨会”举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695285.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695302.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -36,59 +36,59 @@
       ]
     },
     {
-      "title": "AI“看舌识体质” 安徽亳州校园食堂开启“养生模式”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695202.shtml",
+      "title": "聚焦产业对接 赣台深耕电子信息装备制造融合",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695288.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "（长征胜利90周年）创新法治育人路径 最高检巡礼活动走进四川芦山",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695194.shtml",
+      "title": "2026深圳“一带一路”国际音乐季启幕",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-12/10695240.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "解锁夜间科普新玩法 重庆办“科技馆之夜”点燃科学好奇心",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695190.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
+      "title": "俄媒发布接机普京“印度运镜”视频",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%E5%8F%91%E5%B8%83%E6%8E%A5%E6%9C%BA%E6%99%AE%E4%BA%AC%E2%80%9C%E5%8D%B0%E5%BA%A6%E8%BF%90%E9%95%9C%E2%80%9D%E8%A7%86%E9%A2%91",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "“中国预防出生缺陷日”：上海以科技赋能出生缺陷防治",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695187.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
+      "title": "一支拖鞋军正在改写中东格局",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%94%AF%E6%8B%96%E9%9E%8B%E5%86%9B%E6%AD%A3%E5%9C%A8%E6%94%B9%E5%86%99%E4%B8%AD%E4%B8%9C%E6%A0%BC%E5%B1%80",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中国算力基础设施与人工智能服务能力加快走向东盟",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-12/10695185.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
+      "title": "13万一张床垫掏空老人养老钱",
+      "url": "https://www.baidu.com/s?wd=13%E4%B8%87%E4%B8%80%E5%BC%A0%E5%BA%8A%E5%9E%AB%E6%8E%8F%E7%A9%BA%E8%80%81%E4%BA%BA%E5%85%BB%E8%80%81%E9%92%B1",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "肇庆搭建“认知健康防护网”  为老年认知障碍防治提供数字化支撑",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-12/10695177.shtml",
-      "source": "中国新闻网",
+      "title": "25位菲尔兹奖得主警告：AI正毁掉数学",
+      "url": "https://www.baidu.com/s?wd=25%E4%BD%8D%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E6%AD%A3%E6%AF%81%E6%8E%89%E6%95%B0%E5%AD%A6",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -106,48 +106,8 @@
       ]
     },
     {
-      "title": "老人住每月4千养老院却因热射病离世",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E4%BD%8F%E6%AF%8F%E6%9C%884%E5%8D%83%E5%85%BB%E8%80%81%E9%99%A2%E5%8D%B4%E5%9B%A0%E7%83%AD%E5%B0%84%E7%97%85%E7%A6%BB%E4%B8%96",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗总统问谁规定美国能为世界做主",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%97%AE%E8%B0%81%E8%A7%84%E5%AE%9A%E7%BE%8E%E5%9B%BD%E8%83%BD%E4%B8%BA%E4%B8%96%E7%95%8C%E5%81%9A%E4%B8%BB",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "普京：欧洲向乌派兵等于对俄开战",
-      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%AC%A7%E6%B4%B2%E5%90%91%E4%B9%8C%E6%B4%BE%E5%85%B5%E7%AD%89%E4%BA%8E%E5%AF%B9%E4%BF%84%E5%BC%80%E6%88%98",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "家委会私收费给老师送礼 校方通报",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E5%A7%94%E4%BC%9A%E7%A7%81%E6%94%B6%E8%B4%B9%E7%BB%99%E8%80%81%E5%B8%88%E9%80%81%E7%A4%BC+%E6%A0%A1%E6%96%B9%E9%80%9A%E6%8A%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全国算力“一张网、一盘棋、一体化”发展格局基本形成",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695215.shtml",
+      "title": "银川“中国之路 塞上湖城”主题自驾游活动启幕 游客深度畅游塞上风光",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695278.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +116,8 @@
       ]
     },
     {
-      "title": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695206.shtml",
+      "title": "新华图讯丨习近平抵达新德里出席金砖国家领导人第十八次会晤",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695303.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +126,8 @@
       ]
     },
     {
-      "title": "一块屏守护老城记忆 重庆江津几江街道数字文保的“加减法”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695198.shtml",
+      "title": "中国实现算力一体化统筹监测",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695249.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "海外华文媒体新化行：在千年梯田感悟中国农耕文明",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-12/10695197.shtml",
+      "title": "“红通人员”曾能贵被引渡回国",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695301.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "四川“两弹城”架起连心桥：红色旅游促各民族交往交流交融",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695201.shtml",
+      "title": "一粒小树籽，竟能缓解失眠！这个小村庄找到了睡眠“解药”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695300.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "南海热带低压趋向越南中部沿海 海南有较强风雨天气",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695208.shtml",
+      "title": "京菜名片北京烤鸭美食推广季活动亮相王府井大街",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695287.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "从备孕到产后：科学营养如何守护生命早期健康？",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695205.shtml",
+      "title": "内地京剧名家赴港演出 《红鬃烈马》拉开香江京剧交流演出帷幕",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-12/10695275.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "南海热带低压生成 海南启动防汛防风四级应急响应",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695195.shtml",
+      "title": "香港特区政府强烈反对外部势力污蔑抹黑法庭就“支联会”案的判刑",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-12/10695251.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "古香有新职 吉林传统香艺职业化传承启程",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695207.shtml",
+      "title": "第九届全国业余围棋大赛（南部赛区）在广西南宁落子",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695280.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "韩媒：朝鲜向朝鲜半岛东部海域发射多枚弹道导弹",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695209.shtml",
+      "title": "云南文山：各族民众“下山”启新程 同心共筑新家园",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695273.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“我们的节日·共话团圆”港澳台侨同胞联谊活动在宁夏银川举办",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695246.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "通讯：跟毫米较劲的人",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695243.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026“寻找美丽中华”全国乡村定向赛惠农站开赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695284.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平抵达新德里出席金砖国家领导人第十八次会晤",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204079.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
