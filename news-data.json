@@ -1,33 +1,23 @@
 {
   "date": "2026-09-12",
-  "time": "09:26",
-  "generatedAt": "2026-09-12T09:26:43.953Z",
+  "time": "13:38",
+  "generatedAt": "2026-09-12T13:38:40.589Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "从“打卡游”到“生活圈”，免签带旺中俄跨境消费",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695283.shtml",
+      "title": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉被查",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695425.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“中泰人文交流国际学术研讨会”举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695285.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695302.shtml",
+      "title": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695476.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -36,8 +26,28 @@
       ]
     },
     {
-      "title": "聚焦产业对接 赣台深耕电子信息装备制造融合",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695288.shtml",
+      "title": "全球航标业者浙江温州感触古今“中外交流”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695420.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "南A东盟谷OPC社区启航 打造面向东盟人工智能OPC创业高地",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-12/10695473.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "粤桂协作消费帮扶系列推介展示活动在广州启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695471.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,38 +56,8 @@
       ]
     },
     {
-      "title": "2026深圳“一带一路”国际音乐季启幕",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-12/10695240.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄媒发布接机普京“印度运镜”视频",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%E5%8F%91%E5%B8%83%E6%8E%A5%E6%9C%BA%E6%99%AE%E4%BA%AC%E2%80%9C%E5%8D%B0%E5%BA%A6%E8%BF%90%E9%95%9C%E2%80%9D%E8%A7%86%E9%A2%91",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一支拖鞋军正在改写中东格局",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%94%AF%E6%8B%96%E9%9E%8B%E5%86%9B%E6%AD%A3%E5%9C%A8%E6%94%B9%E5%86%99%E4%B8%AD%E4%B8%9C%E6%A0%BC%E5%B1%80",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "13万一张床垫掏空老人养老钱",
-      "url": "https://www.baidu.com/s?wd=13%E4%B8%87%E4%B8%80%E5%BC%A0%E5%BA%8A%E5%9E%AB%E6%8E%8F%E7%A9%BA%E8%80%81%E4%BA%BA%E5%85%BB%E8%80%81%E9%92%B1",
+      "title": "多地小学改为养老院",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E6%94%B9%E4%B8%BA%E5%85%BB%E8%80%81%E9%99%A2",
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
@@ -86,8 +66,18 @@
       ]
     },
     {
-      "title": "25位菲尔兹奖得主警告：AI正毁掉数学",
-      "url": "https://www.baidu.com/s?wd=25%E4%BD%8D%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E6%AD%A3%E6%AF%81%E6%8E%89%E6%95%B0%E5%AD%A6",
+      "title": "iPhone Duo炒到9万 黄牛贷款欲囤货",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E7%82%92%E5%88%B09%E4%B8%87+%E9%BB%84%E7%89%9B%E8%B4%B7%E6%AC%BE%E6%AC%B2%E5%9B%A4%E8%B4%A7",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本芯片巨头要到月球建半导体工厂",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E8%A6%81%E5%88%B0%E6%9C%88%E7%90%83%E5%BB%BA%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B7%A5%E5%8E%82",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -96,18 +86,8 @@
       ]
     },
     {
-      "title": "小伙撞车后流血仍忙着开视频会议",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E6%92%9E%E8%BD%A6%E5%90%8E%E6%B5%81%E8%A1%80%E4%BB%8D%E5%BF%99%E7%9D%80%E5%BC%80%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AE%AE",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "银川“中国之路 塞上湖城”主题自驾游活动启幕 游客深度畅游塞上风光",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695278.shtml",
+      "title": "“琮谱——良渚遗址发现九十周年特展”在浙江杭州启幕",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695411.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +96,8 @@
       ]
     },
     {
-      "title": "新华图讯丨习近平抵达新德里出席金砖国家领导人第十八次会晤",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695303.shtml",
+      "title": "全球顶尖越野摩托车手齐聚上海一争高下",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695396.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +106,8 @@
       ]
     },
     {
-      "title": "中国实现算力一体化统筹监测",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695249.shtml",
+      "title": "宁波大学校长34秒发言火了，比仪式更重要的是体谅",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/09-12/news1068703.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +116,8 @@
       ]
     },
     {
-      "title": "“红通人员”曾能贵被引渡回国",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695301.shtml",
+      "title": "2026中国沿黄河九省（区）自行车巡回赛（洛阳-济源站）开赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695368.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +126,8 @@
       ]
     },
     {
-      "title": "一粒小树籽，竟能缓解失眠！这个小村庄找到了睡眠“解药”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695300.shtml",
+      "title": "2026年WDSF世界青年霹雳舞锦标赛在成都开赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695364.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +136,8 @@
       ]
     },
     {
-      "title": "京菜名片北京烤鸭美食推广季活动亮相王府井大街",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695287.shtml",
+      "title": "“琮谱”特展杭州启幕 展出124件（组）琮及琮式器",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-12/10695441.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +146,8 @@
       ]
     },
     {
-      "title": "内地京剧名家赴港演出 《红鬃烈马》拉开香江京剧交流演出帷幕",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-12/10695275.shtml",
+      "title": "嘉兴平湖办浙台棒垒球交流 选手大半是台青",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695443.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +156,8 @@
       ]
     },
     {
-      "title": "香港特区政府强烈反对外部势力污蔑抹黑法庭就“支联会”案的判刑",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-12/10695251.shtml",
+      "title": "“中国北极”漠河：提前13天开栓供暖　开启超长供暖季",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695444.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "第九届全国业余围棋大赛（南部赛区）在广西南宁落子",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695280.shtml",
+      "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "云南文山：各族民众“下山”启新程 同心共筑新家园",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695273.shtml",
+      "title": "宗教界及学界在沪共探我国佛教中国化新实践",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695438.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "“我们的节日·共话团圆”港澳台侨同胞联谊活动在宁夏银川举办",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695246.shtml",
+      "title": "广西首个“用机器人造机器人”工厂投产",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695446.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "通讯：跟毫米较劲的人",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695243.shtml",
+      "title": "报告：中国位列全球太空基础设施评估第二",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695447.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "2026“寻找美丽中华”全国乡村定向赛惠农站开赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695284.shtml",
+      "title": "（长征胜利90周年）“鸡汤银镯情”见证乌蒙山乡巨变",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695474.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "习近平抵达新德里出席金砖国家领导人第十八次会晤",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204079.shtml",
+      "title": "西藏印社在拉萨成立",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695470.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "服贸会期间多项法商服务成果在北京发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695450.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "媒体记者关注金砖国家领导人第十八次会晤",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204109.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
