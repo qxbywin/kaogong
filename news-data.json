@@ -1,10 +1,20 @@
 {
   "date": "2026-09-13",
-  "time": "16:27",
-  "generatedAt": "2026-09-13T16:27:41.758Z",
+  "time": "19:32",
+  "generatedAt": "2026-09-13T19:32:19.775Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "企步新长征 | 从“白鸽变黑”到联合国样本：一座百年矿山的长征接力",
       "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695839.shtml",
@@ -56,31 +66,21 @@
       ]
     },
     {
-      "title": "一夜之间 多家顶级AI公司想踩刹车",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4+%E5%A4%9A%E5%AE%B6%E9%A1%B6%E7%BA%A7AI%E5%85%AC%E5%8F%B8%E6%83%B3%E8%B8%A9%E5%88%B9%E8%BD%A6",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "官方通报菏泽古沉船考古疑似文物遗失",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%8F%8F%E6%B3%BD%E5%8F%A4%E6%B2%89%E8%88%B9%E8%80%83%E5%8F%A4%E7%96%91%E4%BC%BC%E6%96%87%E7%89%A9%E9%81%97%E5%A4%B1",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "俄乌在黑海爆发无人艇对决",
       "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%9C%A8%E9%BB%91%E6%B5%B7%E7%88%86%E5%8F%91%E6%97%A0%E4%BA%BA%E8%89%87%E5%AF%B9%E5%86%B3",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普重申伊朗战事将在中期选举后结束",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
