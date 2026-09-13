@@ -1,23 +1,23 @@
 {
   "date": "2026-09-13",
-  "time": "06:18",
-  "generatedAt": "2026-09-13T06:18:30.380Z",
+  "time": "12:03",
+  "generatedAt": "2026-09-13T12:03:56.915Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国际航标业者走进温州朔门古港 感触海丝文化",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695590.shtml",
-      "source": "中国新闻网",
+      "title": "习近平出席金砖峰会第二阶段会议",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E9%87%91%E7%A0%96%E5%B3%B0%E4%BC%9A%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5%E4%BC%9A%E8%AE%AE",
+      "source": "百度热搜",
       "cat": "international",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "（活力中国调研行）探访河南安阳无人机产业园",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695584.shtml",
+      "title": "探访贵州酒博会：从“卖酒”到“卖生活方式” 年轻消费渐成主角",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695752.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -26,69 +26,9 @@
       ]
     },
     {
-      "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695588.shtml",
+      "title": "3万名中外跑者竞速“哈马” 埃塞俄比亚选手夺男子全马冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695746.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "为建设高素质专业化事业单位领导人员队伍提供更加有力的制度保障——中央组织部等5部委负责人就修订行业事业单位领导人员管理“5个办法”答记者问",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695587.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "事业单位"
-      ]
-    },
-    {
-      "title": "中央组织部会同有关部委修订印发“5个办法” 进一步加强行业事业单位领导人员管理",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695583.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "事业单位"
-      ]
-    },
-    {
-      "title": "服贸会见证中国服务贸易焕新升级",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%8D%E8%B4%B8%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E7%84%95%E6%96%B0%E5%8D%87%E7%BA%A7",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI会毁灭人类？美AI巨头们呼吁减速",
-      "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB%EF%BC%9F%E7%BE%8EAI%E5%B7%A8%E5%A4%B4%E4%BB%AC%E5%91%BC%E5%90%81%E5%87%8F%E9%80%9F",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "白岩松谈“尾号985车护送女儿系AI”",
-      "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E2%80%9C%E5%B0%BE%E5%8F%B7985%E8%BD%A6%E6%8A%A4%E9%80%81%E5%A5%B3%E5%84%BF%E7%B3%BBAI%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗总统强硬发声：不会向美国投降",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%BC%BA%E7%A1%AC%E5%8F%91%E5%A3%B0%EF%BC%9A%E4%B8%8D%E4%BC%9A%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8A%95%E9%99%8D",
-      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -96,8 +36,68 @@
       ]
     },
     {
-      "title": "第一观察｜习近平主席倡导金砖国家共担时代责任",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695618.shtml",
+      "title": "2026中国（北京）国际精品陶瓷展览会新闻发布会举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695743.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "给工厂装上“AI节能大脑” 浙江宁波以AI赋能制造业绿色发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695737.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-13/1204149.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695721.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "官方通报菏泽古沉船考古疑似文物遗失",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%8F%8F%E6%B3%BD%E5%8F%A4%E6%B2%89%E8%88%B9%E8%80%83%E5%8F%A4%E7%96%91%E4%BC%BC%E6%96%87%E7%89%A9%E9%81%97%E5%A4%B1",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "山东通报店主举报文物遗失被检查15次",
+      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%80%9A%E6%8A%A5%E5%BA%97%E4%B8%BB%E4%B8%BE%E6%8A%A5%E6%96%87%E7%89%A9%E9%81%97%E5%A4%B1%E8%A2%AB%E6%A3%80%E6%9F%A515%E6%AC%A1",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "B7-H3靶点ADC全球率先突破 世界肺癌大会迎来中国时刻",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695751.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +106,8 @@
       ]
     },
     {
-      "title": "2026乌鲁木齐马拉松鸣枪开跑",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695613.shtml",
+      "title": "古法杉木闸板显奇效 福建诏安大水门“土办法”挡洪护城",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695747.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +116,8 @@
       ]
     },
     {
-      "title": "赴秋日骑行之约 石家庄环城绿道骑游大会启幕",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695612.shtml",
+      "title": "“大金砖合作”凝聚力量，全球南方共谋发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695757.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +126,8 @@
       ]
     },
     {
-      "title": "中超联赛：武汉三镇主场平河南俱乐部彩陶坊",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695610.shtml",
+      "title": "南海热带低压登陆越南 海南继续维持多项预警",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695745.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +136,8 @@
       ]
     },
     {
-      "title": "“苏超”八强之争进入白热化 南京主场力克镇江",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695600.shtml",
+      "title": "海南全省消防救援队伍进入二级响应 全力应对强降雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695744.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +146,8 @@
       ]
     },
     {
-      "title": "闽超联赛：福州队主场1比2不敌厦门队",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695596.shtml",
+      "title": "中国桨板精英联赛（西安站）收官 助力水上运动西北内陆生根",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695742.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "title": "香港西九文化区上演纪念张国荣无人机汇演",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695595.shtml",
+      "title": "国家大剧院原创话剧《背包客》首演",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695741.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "title": "2026年WDSF世界霹雳舞3V3混合团体锦标赛在成都开赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695594.shtml",
+      "title": "专家解读全球首座翼龙博物馆：打造世界级翼龙研究与科普中心",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695739.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "title": "海南升级防汛防风应急响应至二级 已转移群众7000余人",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695611.shtml",
+      "title": "从“一把剪刀”到“一张地图” “畲乡山花”二十年深耕记",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695738.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "title": "第37届上海旅游节大巡游精彩亮相",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695593.shtml",
+      "title": "习言道｜“强权即公理”的逻辑行不通、早就应该摒弃",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695731.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "世界制造业大会之约：跨山越海，“槟”客来仪",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-13/10695604.shtml",
+      "title": "“魔豆”长成大树 促更多困境女性从“救助”到“赋能”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695736.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "江西南昌：“星河万里”无人机点亮赣江夜空",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695592.shtml",
+      "title": "十件侨选“广州礼物”亮相广州中秋侨宴",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-13/10695735.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "体验多民族传统民俗 锡林浩特城市那达慕欢乐多",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695591.shtml",
+      "title": "黑龙江大学中共党史党建研究院揭牌",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-13/10695734.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "华侨华人中医药从业者：推动中医药出海数智化、标准化、体系化",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-13/10695603.shtml",
+      "title": "2026年服贸会闭幕",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-13/1204151.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "广西民众扬帆逐浪 千人横渡融江",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695589.shtml",
+      "title": "伊朗将与相关国家讨论霍尔木兹海峡内新通道",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695732.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
