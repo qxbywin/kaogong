@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-12",
-  "time": "22:23",
-  "generatedAt": "2026-09-12T22:23:42.078Z",
+  "date": "2026-09-13",
+  "time": "01:09",
+  "generatedAt": "2026-09-13T01:09:08.817Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -16,11 +16,41 @@
       ]
     },
     {
-      "title": "美国联邦政府财政赤字逼近2万亿美元",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E6%94%BF%E5%BA%9C%E8%B4%A2%E6%94%BF%E8%B5%A4%E5%AD%97%E9%80%BC%E8%BF%912%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-      "source": "百度热搜",
+      "title": "中国华文教育“名师巡讲”南非开讲",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-13/10695512.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml",
+      "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695502.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "旅美大熊猫“青宝”迎来五周岁生日 大批美国民众来庆生",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695506.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -30,16 +60,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -76,16 +96,6 @@
       ]
     },
     {
-      "title": "iPhone18Pro以旧换新政策",
-      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "警方通报公职人员醉驾致五旬夫妻身亡",
       "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E8%87%B4%E4%BA%94%E6%97%AC%E5%A4%AB%E5%A6%BB%E8%BA%AB%E4%BA%A1",
       "source": "百度热搜",
@@ -96,10 +106,10 @@
       ]
     },
     {
-      "title": "iPhone Duo炒到9万 黄牛贷款欲囤货",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E7%82%92%E5%88%B09%E4%B8%87+%E9%BB%84%E7%89%9B%E8%B4%B7%E6%AC%BE%E6%AC%B2%E5%9B%A4%E8%B4%A7",
+      "title": "iPhone18Pro以旧换新政策",
+      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -116,21 +126,71 @@
       ]
     },
     {
-      "title": "泽连斯基：愿在G20峰会上与普京会面",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%9C%A8G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E9%9D%A2",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "让书“找到”人：大学图书馆如何破圈",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695511.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "200部AI短剧才出1个爆款",
-      "url": "https://www.baidu.com/s?wd=200%E9%83%A8AI%E7%9F%AD%E5%89%A7%E6%89%8D%E5%87%BA1%E4%B8%AA%E7%88%86%E6%AC%BE",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "新大众文艺，如何走进“猜你喜欢”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第6届平潭IM两岸青年影展奖项揭晓 多部台湾青年作品获奖",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695503.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9月13日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-13/10695509.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国朴茨茅斯现两阵营对峙示威",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695504.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国园林“多景园”建成25周年庆祝活动在德国曼海姆举行",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695505.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695507.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -178,66 +238,6 @@
     {
       "title": "中国男篮大胜巴林队 提前晋级亚运会八强",
       "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695494.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695488.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "两岸资深电影人热议闽南语电影创作",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-12/10695485.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国内地单跨跨径最大的双层钢桁梁桥实现合龙",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695483.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习言道｜开启金砖合作第三个“金色十年”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695480.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "紧邻首批疏解高校 探访雄安新区学府城项目",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695461.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
