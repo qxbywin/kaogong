@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
-  "time": "19:32",
-  "generatedAt": "2026-09-13T19:32:19.775Z",
+  "time": "22:28",
+  "generatedAt": "2026-09-13T22:28:37.612Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,16 @@
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“词元贷”给人工智能企业“贷”来什么？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695874.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -56,9 +66,9 @@
       ]
     },
     {
-      "title": "2026贵阳国际网球公开赛女单决赛举行",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695759.shtml",
-      "source": "中国新闻网",
+      "title": "俄乌在黑海爆发无人艇对决",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%9C%A8%E9%BB%91%E6%B5%B7%E7%88%86%E5%8F%91%E6%97%A0%E4%BA%BA%E8%89%87%E5%AF%B9%E5%86%B3",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -66,11 +76,81 @@
       ]
     },
     {
-      "title": "俄乌在黑海爆发无人艇对决",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%9C%A8%E9%BB%91%E6%B5%B7%E7%88%86%E5%8F%91%E6%97%A0%E4%BA%BA%E8%89%87%E5%AF%B9%E5%86%B3",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "求职背调，不可越界失序",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695875.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "词元出海怎么实现？服贸会上有答案",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695873.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本自民党支持的候选人当选冲绳县知事",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695872.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "克罗地亚布拉奇岛发生山火 近700人被疏散",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695871.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "无视英国反对 特朗普再挺“爱尔兰统一”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695870.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国中区侨界庆祝新中国成立77周年",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-14/10695869.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "攀岩世界杯贵阳站收官战：中国选手夺2金1银破世界纪录",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-14/10695868.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "双人组赛亮相，斯巴达勇士赛成都站亮点多",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-14/10695867.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -158,86 +238,6 @@
     {
       "title": "服贸会多个 “首次”，助中企出海走出深水区",
       "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695844.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695843.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "福建连江：“海洋牧场”五彩斑斓 场面壮观",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695806.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏扎什伦布寺举行“羌姆”活动",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695785.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国选手包揽2026年WDSF世界霹雳舞3V3混合团体锦标赛冠亚军",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695766.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重庆一商圈“银河”彩灯吸引游客打卡",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695765.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "CTCC第四站在上赛道燃擎开跑",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695768.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "欧洲9国考察团探访贺兰山东麓 品味宁夏“紫色名片”",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695764.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "国考"
-      ]
-    },
-    {
-      "title": "青海西宁120组亲子家庭湿地公园体验生态趣味课堂",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695763.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
