@@ -1,16 +1,56 @@
 {
-  "date": "2026-09-13",
-  "time": "22:28",
-  "generatedAt": "2026-09-13T22:28:37.612Z",
+  "date": "2026-09-14",
+  "time": "01:13",
+  "generatedAt": "2026-09-14T01:13:47.113Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
+      "title": "国家医保局修订印发2026版医保服务协议范本",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-14/10695905.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "今天华南部分地区雨势仍强 中东部未来一周天气晴好气温偏高",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695904.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI网球机器人走进球场 又一国产“神器”全球下单！",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695884.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204164.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695877.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -26,39 +66,9 @@
       ]
     },
     {
-      "title": "企步新长征 | 从“白鸽变黑”到联合国样本：一座百年矿山的长征接力",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695839.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习言道｜金砖峰会，习近平为何强调“坚定站在历史正确一边”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695841.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“读心”有术 “写脑”有方 安徽脑机接口产业加速落地",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695836.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第三届粤港澳大湾区博士博士后创新创业大赛复赛在穗举行",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-13/10695799.shtml",
-      "source": "中国新闻网",
+      "title": "出现这种感觉 说明你AI成瘾了",
+      "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89+%E8%AF%B4%E6%98%8E%E4%BD%A0AI%E6%88%90%E7%98%BE%E4%BA%86",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -66,8 +76,8 @@
       ]
     },
     {
-      "title": "俄乌在黑海爆发无人艇对决",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%9C%A8%E9%BB%91%E6%B5%B7%E7%88%86%E5%8F%91%E6%97%A0%E4%BA%BA%E8%89%87%E5%AF%B9%E5%86%B3",
+      "title": "数千人伤亡！也门冲突快速升级",
+      "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E4%BA%BA%E4%BC%A4%E4%BA%A1%EF%BC%81%E4%B9%9F%E9%97%A8%E5%86%B2%E7%AA%81%E5%BF%AB%E9%80%9F%E5%8D%87%E7%BA%A7",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -76,8 +86,48 @@
       ]
     },
     {
-      "title": "求职背调，不可越界失序",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695875.shtml",
+      "title": "女子投资千万开酒店却屡屡被罚",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E8%B5%84%E5%8D%83%E4%B8%87%E5%BC%80%E9%85%92%E5%BA%97%E5%8D%B4%E5%B1%A1%E5%B1%A1%E8%A2%AB%E7%BD%9A",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王毅与俄罗斯外长、伊朗外长友好交流",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E3%80%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美巨头呼吁AI刹车 特朗普先想到中国",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%B7%A8%E5%A4%B4%E5%91%BC%E5%90%81AI%E5%88%B9%E8%BD%A6+%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E6%83%B3%E5%88%B0%E4%B8%AD%E5%9B%BD",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日韩股市大跌 SK海力士跌超5%",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B7%8C%E8%B6%855%25",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "山西襄汾对村庄污水治理问题展开调查",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695908.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +136,8 @@
       ]
     },
     {
-      "title": "词元出海怎么实现？服贸会上有答案",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695873.shtml",
+      "title": "最低工资标准上调，这些待遇跟着涨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695907.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +146,8 @@
       ]
     },
     {
-      "title": "日本自民党支持的候选人当选冲绳县知事",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695872.shtml",
+      "title": "海南岛广西等地有较强降雨 四川盆地等地多阴雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695897.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +156,8 @@
       ]
     },
     {
-      "title": "克罗地亚布拉奇岛发生山火 近700人被疏散",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695871.shtml",
+      "title": "平陆运河16日通航 准备工作进展如何",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695899.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +166,8 @@
       ]
     },
     {
-      "title": "无视英国反对 特朗普再挺“爱尔兰统一”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695870.shtml",
+      "title": "兹维列夫夺得美网男单冠军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204183.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +176,8 @@
       ]
     },
     {
-      "title": "英国中区侨界庆祝新中国成立77周年",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-14/10695869.shtml",
+      "title": "特朗普暗示要复制“委内瑞拉剧本”：“留在伊朗、掌控石油”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695895.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +186,8 @@
       ]
     },
     {
-      "title": "攀岩世界杯贵阳站收官战：中国选手夺2金1银破世界纪录",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-14/10695868.shtml",
+      "title": "莱巴金娜夺得美网女单冠军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204171.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +196,8 @@
       ]
     },
     {
-      "title": "双人组赛亮相，斯巴达勇士赛成都站亮点多",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-14/10695867.shtml",
+      "title": "长护险托底，爬楼机能否打通老人的出行“天堑”？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695890.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +206,8 @@
       ]
     },
     {
-      "title": "特朗普重申伊朗战事将在中期选举后结束",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml",
+      "title": "滥用背景调查，制造求职“隐形门槛”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695889.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "亚运会男篮综合：中国台北队晋级八强 韩国队获三连胜",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695861.shtml",
+      "title": "如何理解年轻人的打卡热",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695888.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "2026年曲棍球青年亚洲杯赛：印度队摘得男女组双冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695860.shtml",
+      "title": "伊拉克一化肥厂发生氨气泄漏事故 已致2死90人呼吸困难",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695886.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "俞敏洪：行走黑土地，于游学中读懂北国山河",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695859.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "百余名港澳台学子相聚北京：在交流中扩大“朋友圈”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695858.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "WTT澳门冠军赛：莫雷加德、张本美和分获男、女单打冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695857.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一列车在波乌边境乌方一侧遭无人机撞击",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695856.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“两园一河”京西漂流节联动三区",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695849.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "服贸会多个 “首次”，助中企出海走出深水区",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695844.shtml",
+      "title": "香港演艺学院原创粤剧《海珠湾》在北京上演",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204167.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
