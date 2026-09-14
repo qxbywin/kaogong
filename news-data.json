@@ -1,94 +1,14 @@
 {
   "date": "2026-09-14",
-  "time": "01:13",
-  "generatedAt": "2026-09-14T01:13:47.113Z",
+  "time": "06:27",
+  "generatedAt": "2026-09-14T06:27:31.426Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国家医保局修订印发2026版医保服务协议范本",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-14/10695905.shtml",
+      "title": "（活力中国调研行）产业链集聚：安阳无人机产业园探索发展新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696100.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "今天华南部分地区雨势仍强 中东部未来一周天气晴好气温偏高",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695904.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI网球机器人走进球场 又一国产“神器”全球下单！",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695884.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204164.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695877.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“词元贷”给人工智能企业“贷”来什么？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695874.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "出现这种感觉 说明你AI成瘾了",
-      "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89+%E8%AF%B4%E6%98%8E%E4%BD%A0AI%E6%88%90%E7%98%BE%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "数千人伤亡！也门冲突快速升级",
-      "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E4%BA%BA%E4%BC%A4%E4%BA%A1%EF%BC%81%E4%B9%9F%E9%97%A8%E5%86%B2%E7%AA%81%E5%BF%AB%E9%80%9F%E5%8D%87%E7%BA%A7",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "女子投资千万开酒店却屡屡被罚",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E8%B5%84%E5%8D%83%E4%B8%87%E5%BC%80%E9%85%92%E5%BA%97%E5%8D%B4%E5%B1%A1%E5%B1%A1%E8%A2%AB%E7%BD%9A",
-      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -96,10 +16,40 @@
       ]
     },
     {
-      "title": "王毅与俄罗斯外长、伊朗外长友好交流",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E3%80%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81",
+      "title": "吉林镇赉茭白打开东北市场",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696097.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全球首个人工智能+脑机接口标准在我国发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696098.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（活力中国调研行）强度更高 韧性更强 从一根碳纤维看“中国制造”的跃升之路",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696091.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "野人先生人均消费26元",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E4%BA%BA%E5%9D%87%E6%B6%88%E8%B4%B926%E5%85%83",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -116,8 +66,8 @@
       ]
     },
     {
-      "title": "日韩股市大跌 SK海力士跌超5%",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B7%8C%E8%B6%855%25",
+      "title": "美国女篮世界杯五连冠 中国女篮第七",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%94%E8%BF%9E%E5%86%A0+%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E7%AC%AC%E4%B8%83",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -126,8 +76,18 @@
       ]
     },
     {
+      "title": "（乡村行·看振兴）吉林镇赉滩涂水草养出一门亿元“鹅生意”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696106.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "山西襄汾对村庄污水治理问题展开调查",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695908.shtml",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696082.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +96,8 @@
       ]
     },
     {
-      "title": "最低工资标准上调，这些待遇跟着涨",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695907.shtml",
+      "title": "海南五指山市区24小时累积降雨量创纪录 全市实行“五停一关”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696107.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +106,8 @@
       ]
     },
     {
-      "title": "海南岛广西等地有较强降雨 四川盆地等地多阴雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695897.shtml",
+      "title": "整这么臭？！绍兴，你的胆子真是肥嘟嘟的",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696113.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +116,8 @@
       ]
     },
     {
-      "title": "平陆运河16日通航 准备工作进展如何",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695899.shtml",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10696112.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +126,8 @@
       ]
     },
     {
-      "title": "兹维列夫夺得美网男单冠军",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204183.shtml",
+      "title": "海南防御强降雨紧急转移4.2万余人 13个市县宣布停课",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696109.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "特朗普暗示要复制“委内瑞拉剧本”：“留在伊朗、掌控石油”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695895.shtml",
+      "title": "内蒙古锡林郭勒盟全力推动中华民族共同体建设先行区",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-14/10696108.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "莱巴金娜夺得美网女单冠军",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204171.shtml",
+      "title": "亚运会：中国男篮大胜菲律宾 小组第一晋级",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-14/10696104.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "长护险托底，爬楼机能否打通老人的出行“天堑”？",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695890.shtml",
+      "title": "探访福建“漳州110”基地",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204236.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "滥用背景调查，制造求职“隐形门槛”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695889.shtml",
+      "title": "上海发布“告知书”引导各单位加强病媒生物预防控制工作",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696093.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "如何理解年轻人的打卡热",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695888.shtml",
+      "title": "海南多地遭遇强降雨险情频发 消防紧急救援",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10696092.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "伊拉克一化肥厂发生氨气泄漏事故 已致2死90人呼吸困难",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695886.shtml",
+      "title": "新时代西藏民族团结进步事业的成就与启示",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-14/10696094.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "香港演艺学院原创粤剧《海珠湾》在北京上演",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204167.shtml",
+      "title": "剑南春深耕“强国青年”背后，一场从纾困到认知赋能的公益升维",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696070.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“人民的保护神”漳州110：三十余载薪火相传",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-14/10696086.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "文牧野携新作走进山西大学：家人的爱藏在“好好吃饭”里",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-14/10696087.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "湖南祁阳25.9万亩中稻集中开镰 精准服务保障秋收稳产增收",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696085.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新疆白杨市生态大闸蟹“抢鲜”上市",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696079.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
