@@ -1,134 +1,64 @@
 {
   "date": "2026-09-15",
-  "time": "13:40",
-  "generatedAt": "2026-09-15T13:40:17.342Z",
+  "time": "18:17",
+  "generatedAt": "2026-09-15T18:17:08.733Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "东西问丨顾晓敏：长三角国际科创中心科技金融的破局之道",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697066.shtml",
+      "title": "气候官员谈全球领域碳市场建设：中国发挥了关键作用",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697132.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "专家聚焦国货供应链产业未来核心方向：数字化、平台化、订单化",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697121.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（粤港澳大湾区）穗港科技和产业融合创新中心（广州）揭牌启用",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-15/10697084.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中东局势影响亚洲经济 学者吁推动区域一体化",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697089.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 3,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "碳排放权交易市场开放联盟进入实施运行阶段",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697068.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "第四届全国大学生绿色化妆品创新创意大赛（产业创新组）报名中",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697058.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "四川蜀道城乡投资集团有限责任公司副总经理蒲邦彦主动投案 接受纪律审查和监察调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697036.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国记者回应关于西藏的三连问：Yes！Yes！Yes！",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697097.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "马来西亚2025年旅游业增加值占GDP15.9%",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10697088.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "8月中国城市轨道交通完成客运量29.4亿人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697070.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黑龙江产业工人代表媒体见面会举行 “大国工匠”谈“匠心”传承",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697046.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年中国经济社会论坛杭州举行 中外嘉宾呼吁加强多边协同",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697042.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“关爱新就业群体电影公益放映交流活动”在京启动",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-15/10697039.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第十二届亚洲教育装备博览会在杭州开幕",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697030.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "辽宁葫芦岛发布“十五五”蓝图：深耕“蓝色经济”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697037.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "电池税正式落地 新能源车要涨价吗",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A6%81%E6%B6%A8%E4%BB%B7%E5%90%97",
+      "title": "住房金融新政后 购房者会增多吗",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E9%87%91%E8%9E%8D%E6%96%B0%E6%94%BF%E5%90%8E+%E8%B4%AD%E6%88%BF%E8%80%85%E4%BC%9A%E5%A2%9E%E5%A4%9A%E5%90%97",
       "source": "百度热搜",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美巨头喊AI“降速”，安全之外还在盘算什么",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697131.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -136,19 +66,9 @@
       ]
     },
     {
-      "title": "新出生人口维持在800万左右",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%BB%B4%E6%8C%81%E5%9C%A8800%E4%B8%87%E5%B7%A6%E5%8F%B3",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2亿灵活就业者社保不足 症结在哪",
-      "url": "https://www.baidu.com/s?wd=2%E4%BA%BF%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E8%80%85%E7%A4%BE%E4%BF%9D%E4%B8%8D%E8%B6%B3+%E7%97%87%E7%BB%93%E5%9C%A8%E5%93%AA",
-      "source": "百度热搜",
+      "title": "以智博会为窗口 解码浙江智能物联产业突围路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697125.shtml",
+      "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -156,38 +76,48 @@
       ]
     },
     {
-      "title": "特朗普宣布赴深圳参加APEC会议",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%B5%B4%E6%B7%B1%E5%9C%B3%E5%8F%82%E5%8A%A0APEC%E4%BC%9A%E8%AE%AE",
-      "source": "百度热搜",
-      "cat": "policy",
+      "title": "以界别之长服务发展之需 湖南九三科创论坛赋能地方产业升级",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-15/10697120.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "一颗免费鸡蛋 “钓”走数万养老钱",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E9%A2%97%E5%85%8D%E8%B4%B9%E9%B8%A1%E8%9B%8B+%E2%80%9C%E9%92%93%E2%80%9D%E8%B5%B0%E6%95%B0%E4%B8%87%E5%85%BB%E8%80%81%E9%92%B1",
-      "source": "百度热搜",
-      "cat": "society",
+      "title": "人工智能向善普惠成共识 中外人士建言缩小全球数字鸿沟",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697112.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "我国人口总量14.05亿",
-      "url": "https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%80%BB%E9%87%8F14.05%E4%BA%BF",
-      "source": "百度热搜",
-      "cat": "society",
+      "title": "粤发布服装行业高质量发展行动计划 推动岭南时尚产业跃升",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697111.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "三大CEO呼吁AI“降速”",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7CEO%E5%91%BC%E5%90%81AI%E2%80%9C%E9%99%8D%E9%80%9F%E2%80%9D",
+      "title": "娃哈哈因拖欠公积金被查封办公楼",
+      "url": "https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%9B%A0%E6%8B%96%E6%AC%A0%E5%85%AC%E7%A7%AF%E9%87%91%E8%A2%AB%E6%9F%A5%E5%B0%81%E5%8A%9E%E5%85%AC%E6%A5%BC",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI正在惩罚用它写作业的中学生",
+      "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E7%94%A8%E5%AE%83%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E4%B8%AD%E5%AD%A6%E7%94%9F",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -206,8 +136,58 @@
       ]
     },
     {
-      "title": "鸠山由纪夫：对日本防卫费急剧增加感到担忧",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10697091.shtml",
+      "title": "特朗普宣布赴深圳参加APEC会议",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%B5%B4%E6%B7%B1%E5%9C%B3%E5%8F%82%E5%8A%A0APEC%E4%BC%9A%E8%AE%AE",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "压力大收入低 银行柜员辞职卖馒头",
+      "url": "https://www.baidu.com/s?wd=%E5%8E%8B%E5%8A%9B%E5%A4%A7%E6%94%B6%E5%85%A5%E4%BD%8E+%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E8%BE%9E%E8%81%8C%E5%8D%96%E9%A6%92%E5%A4%B4",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "我国人口总量14.05亿",
+      "url": "https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%80%BB%E9%87%8F14.05%E4%BA%BF",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "电池税正式落地 新能源车要涨价吗",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A6%81%E6%B6%A8%E4%BB%B7%E5%90%97",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "一颗免费鸡蛋 “钓”走数万养老钱",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E9%A2%97%E5%85%8D%E8%B4%B9%E9%B8%A1%E8%9B%8B+%E2%80%9C%E9%92%93%E2%80%9D%E8%B5%B0%E6%95%B0%E4%B8%87%E5%85%BB%E8%80%81%E9%92%B1",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "尼泊尔泥石流灾害已致1403人遇难",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10697135.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "山西太原：军民欢送新兵入伍",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-15/10697092.shtml",
+      "title": "（活力中国）湖北铜绿山古铜矿遗址焕新生 千年矿冶之都化身文旅新城",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-15/10697134.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "中国两部门要求酒店预订平台防范“全网最低价”等问题",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697069.shtml",
+      "title": "别只知道和田玉，这里的核桃也很“硬核”！",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697133.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "广西三江：荣光接力耀侗乡",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-15/10697079.shtml",
+      "title": "王毅会见东盟秘书长",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697130.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年国家网络安全宣传周个人信息保护论坛在济南举办",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697128.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "网络空间部队信息工程大学亮相2026年国家网络安全宣传周",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697127.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
