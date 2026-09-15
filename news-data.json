@@ -1,23 +1,33 @@
 {
   "date": "2026-09-15",
-  "time": "07:52",
-  "generatedAt": "2026-09-15T07:52:14.665Z",
+  "time": "13:40",
+  "generatedAt": "2026-09-15T13:40:17.342Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "2026中国—东盟人工智能部长圆桌会议将在南宁举行",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-15/10696794.shtml",
+      "title": "东西问丨顾晓敏：长三角国际科创中心科技金融的破局之道",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697066.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
+      "score": 3,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "碳排放权交易市场开放联盟进入实施运行阶段",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697068.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "8月金融数据出炉，释放哪些信息",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696763.shtml",
+      "title": "第四届全国大学生绿色化妆品创新创意大赛（产业创新组）报名中",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697058.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -26,18 +36,18 @@
       ]
     },
     {
-      "title": "国家统计局：8月份工业经济稳中有升，动能向新结构向优",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696773.shtml",
+      "title": "四川蜀道城乡投资集团有限责任公司副总经理蒲邦彦主动投案 接受纪律审查和监察调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697036.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国因伊朗战事面临弹药短缺？ 中方：望有关方通过政治外交途径化解争端",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696787.shtml",
+      "title": "美国记者回应关于西藏的三连问：Yes！Yes！Yes！",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697097.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,8 +56,18 @@
       ]
     },
     {
-      "title": "“就近就便”四个字，藏着民生温度",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696786.shtml",
+      "title": "马来西亚2025年旅游业增加值占GDP15.9%",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10697088.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "8月中国城市轨道交通完成客运量29.4亿人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697070.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -56,58 +76,8 @@
       ]
     },
     {
-      "title": "外交部：将继续让“中国服务”更多走出国门、更好惠及全球",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696785.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部：期待同各国坚定反对外空武器化、战场化",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696784.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "照搬AI代码安全吗？你以为的以为并不是你以为的以为",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696782.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国对伊战损全景首曝光：损失重大、先进武器告急",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696781.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部：高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696778.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "我国县域消费加速扩容提质",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696777.shtml",
+      "title": "黑龙江产业工人代表媒体见面会举行 “大国工匠”谈“匠心”传承",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697046.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -116,20 +86,90 @@
       ]
     },
     {
-      "title": "外交部：中国在本国领土开展建设等活动是主权范围内的事 正当合法",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696775.shtml",
+      "title": "2026年中国经济社会论坛杭州举行 中外嘉宾呼吁加强多边协同",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697042.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI向前，安全必须先行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696774.shtml",
+      "title": "“关爱新就业群体电影公益放映交流活动”在京启动",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-15/10697039.shtml",
       "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十二届亚洲教育装备博览会在杭州开幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697030.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "辽宁葫芦岛发布“十五五”蓝图：深耕“蓝色经济”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697037.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "电池税正式落地 新能源车要涨价吗",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A6%81%E6%B6%A8%E4%BB%B7%E5%90%97",
+      "source": "百度热搜",
       "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新出生人口维持在800万左右",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%BB%B4%E6%8C%81%E5%9C%A8800%E4%B8%87%E5%B7%A6%E5%8F%B3",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2亿灵活就业者社保不足 症结在哪",
+      "url": "https://www.baidu.com/s?wd=2%E4%BA%BF%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E8%80%85%E7%A4%BE%E4%BF%9D%E4%B8%8D%E8%B6%B3+%E7%97%87%E7%BB%93%E5%9C%A8%E5%93%AA",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普宣布赴深圳参加APEC会议",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%B5%B4%E6%B7%B1%E5%9C%B3%E5%8F%82%E5%8A%A0APEC%E4%BC%9A%E8%AE%AE",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "一颗免费鸡蛋 “钓”走数万养老钱",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E9%A2%97%E5%85%8D%E8%B4%B9%E9%B8%A1%E8%9B%8B+%E2%80%9C%E9%92%93%E2%80%9D%E8%B5%B0%E6%95%B0%E4%B8%87%E5%85%BB%E8%80%81%E9%92%B1",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "电池税正式落地对新能源车意味什么",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0%E5%AF%B9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88",
+      "title": "三大CEO呼吁AI“降速”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7CEO%E5%91%BC%E5%90%81AI%E2%80%9C%E9%99%8D%E9%80%9F%E2%80%9D",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -156,8 +196,18 @@
       ]
     },
     {
-      "title": "第十三届北京香山论坛高端访谈举行",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-15/1204332.shtml",
+      "title": "AI开始预测人类",
+      "url": "https://www.baidu.com/s?wd=AI%E5%BC%80%E5%A7%8B%E9%A2%84%E6%B5%8B%E4%BA%BA%E7%B1%BB",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "鸠山由纪夫：对日本防卫费急剧增加感到担忧",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10697091.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "中方：南沙群岛从来不在菲领土范围内，菲方应立即停止侵权挑衅",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696780.shtml",
+      "title": "山西太原：军民欢送新兵入伍",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-15/10697092.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "前8个月福建进出口总值1.34万亿元",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-15/10696779.shtml",
+      "title": "中国两部门要求酒店预订平台防范“全网最低价”等问题",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697069.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "基础研究为何重要、怎样加强",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696776.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "首条全生命周期智慧运河 三个关键词看平陆运河“智”在哪",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696771.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美方称已拥有“在轨”太空控制武器 中方回应",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696769.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "在加强基础研究座谈会上的讲话",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696772.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从迁徙者到讲述者——闽宁协作30年，移民站上舞台讲述自己的故事",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696767.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "吉林工商学院原党委书记张吉锋接受审查调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696759.shtml",
+      "title": "广西三江：荣光接力耀侗乡",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-15/10697079.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
