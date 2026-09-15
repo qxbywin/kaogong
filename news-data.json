@@ -1,13 +1,13 @@
 {
   "date": "2026-09-15",
-  "time": "01:34",
-  "generatedAt": "2026-09-15T01:34:04.007Z",
+  "time": "07:52",
+  "generatedAt": "2026-09-15T07:52:14.665Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696515.shtml",
+      "title": "2026中国—东盟人工智能部长圆桌会议将在南宁举行",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-15/10696794.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 2,
@@ -16,18 +16,18 @@
       ]
     },
     {
-      "title": "剧透第三届上海国际光影节主会场：延中绿地变身“光韵”森林 光影照见生活本真",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-15/10696537.shtml",
+      "title": "8月金融数据出炉，释放哪些信息",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696763.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
+      "cat": "economy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "陈茂波：2034年香港60岁及以上人士消费开支将接近5000亿港元",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-15/10696539.shtml",
+      "title": "国家统计局：8月份工业经济稳中有升，动能向新结构向优",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696773.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,48 +36,8 @@
       ]
     },
     {
-      "title": "国家统计局城市司高级统计师杨彩芳解读2026年8月份商品住宅销售价格变动情况统计数据",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696540.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“网红药”别跟风，AI荐药需谨慎……2026年公众十大用药提示发布",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-15/10696527.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "洗稿搬运、换脸仿声 AI微短剧侵权问题如何界定？",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-15/10696522.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中央气象台：四川盆地等地持续阴雨天气",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696509.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“嫦娥六号”月背月壤样品落户维也纳联合国总部",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696507.shtml",
+      "title": "美国因伊朗战事面临弹药短缺？ 中方：望有关方通过政治外交途径化解争端",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696787.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -86,29 +46,9 @@
       ]
     },
     {
-      "title": "屏幕里的“情感导师”，可能只是一个AI程序",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696506.shtml",
+      "title": "“就近就便”四个字，藏着民生温度",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696786.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“一人剧组”：年轻人用AI实现影视梦",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696502.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "始终把人民生命安全放在首位",
-      "url": "https://www.baidu.com/s?wd=%E5%A7%8B%E7%BB%88%E6%8A%8A%E4%BA%BA%E6%B0%91%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E6%94%BE%E5%9C%A8%E9%A6%96%E4%BD%8D",
-      "source": "百度热搜",
       "cat": "society",
       "score": 1,
       "exams": [
@@ -116,49 +56,9 @@
       ]
     },
     {
-      "title": "未来五年民生健康重磅规划",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%B0%91%E7%94%9F%E5%81%A5%E5%BA%B7%E9%87%8D%E7%A3%85%E8%A7%84%E5%88%92",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "95后清华核科技女博士当村支书",
-      "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E6%B8%85%E5%8D%8E%E6%A0%B8%E7%A7%91%E6%8A%80%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%BD%93%E6%9D%91%E6%94%AF%E4%B9%A6",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普急了 致电黄仁勋斥责AI危险论",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A5%E4%BA%86+%E8%87%B4%E7%94%B5%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%A5%E8%B4%A3AI%E5%8D%B1%E9%99%A9%E8%AE%BA",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "雷军现身宇树科技 王兴兴陪同",
-      "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%8E%B0%E8%BA%AB%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80+%E7%8E%8B%E5%85%B4%E5%85%B4%E9%99%AA%E5%90%8C",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "抵制美国货 加拿大超市货架大洗牌",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%B5%E5%88%B6%E7%BE%8E%E5%9B%BD%E8%B4%A7+%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%E5%A4%A7%E6%B4%97%E7%89%8C",
-      "source": "百度热搜",
+      "title": "外交部：将继续让“中国服务”更多走出国门、更好惠及全球",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696785.shtml",
+      "source": "中国新闻网",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -166,8 +66,98 @@
       ]
     },
     {
-      "title": "澳大利亚中国东北总商会举办中秋庆祝活动",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-15/10696532.shtml",
+      "title": "外交部：期待同各国坚定反对外空武器化、战场化",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696784.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "照搬AI代码安全吗？你以为的以为并不是你以为的以为",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696782.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国对伊战损全景首曝光：损失重大、先进武器告急",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696781.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外交部：高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696778.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "我国县域消费加速扩容提质",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696777.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外交部：中国在本国领土开展建设等活动是主权范围内的事 正当合法",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696775.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI向前，安全必须先行",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696774.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "我国人口总量14.05亿",
+      "url": "https://www.baidu.com/s?wd=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%80%BB%E9%87%8F14.05%E4%BA%BF",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "电池税正式落地对新能源车意味什么",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0%E5%AF%B9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十三届北京香山论坛高端访谈举行",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-15/1204332.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +166,8 @@
       ]
     },
     {
-      "title": "中法环境月启幕 歌手姚琛担任推广大使",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696533.shtml",
+      "title": "中方：南沙群岛从来不在菲领土范围内，菲方应立即停止侵权挑衅",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696780.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +176,8 @@
       ]
     },
     {
-      "title": "两岸及香港媒体联合采访团走进福建",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696534.shtml",
+      "title": "前8个月福建进出口总值1.34万亿元",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-15/10696779.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +186,8 @@
       ]
     },
     {
-      "title": "共享单车服务规范新国标发布 对运营企业提出这些要求",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696530.shtml",
+      "title": "基础研究为何重要、怎样加强",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696776.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "文旦柚“甜蜜登陆” 台湾果农乐见拓销路",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696528.shtml",
+      "title": "首条全生命周期智慧运河 三个关键词看平陆运河“智”在哪",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696771.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "9月15日人民币对美元中间价报6.7670 上调28个基点",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696525.shtml",
+      "title": "美方称已拥有“在轨”太空控制武器 中方回应",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696769.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "泡泡玛特的IP故事还能讲多久？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696526.shtml",
+      "title": "在加强基础研究座谈会上的讲话",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696772.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "华西地区降雨将增多增强 北方大部温差较大一日如两季",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696524.shtml",
+      "title": "从迁徙者到讲述者——闽宁协作30年，移民站上舞台讲述自己的故事",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696767.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "吉林工商学院原党委书记张吉锋接受审查调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696759.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
