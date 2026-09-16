@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-15",
-  "time": "21:29",
-  "generatedAt": "2026-09-15T21:29:36.631Z",
+  "date": "2026-09-16",
+  "time": "00:29",
+  "generatedAt": "2026-09-16T00:29:45.218Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -16,48 +16,38 @@
       ]
     },
     {
-      "title": "专家聚焦国货供应链产业未来核心方向：数字化、平台化、订单化",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697121.shtml",
+      "title": "中央气象台：重庆湖北等地局地有暴雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "（粤港澳大湾区）穗港科技和产业融合创新中心（广州）揭牌启用",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-15/10697084.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中东局势影响亚洲经济 学者吁推动区域一体化",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697089.shtml",
+      "title": "特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "住房金融新政后 购房者会增多吗",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E9%87%91%E8%9E%8D%E6%96%B0%E6%94%BF%E5%90%8E+%E8%B4%AD%E6%88%BF%E8%80%85%E4%BC%9A%E5%A2%9E%E5%A4%9A%E5%90%97",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 2,
+      "title": "俄外交部：日本应铭记九一八历史  “再军事化”必蹈覆辙",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美巨头喊AI“降速”，安全之外还在盘算什么",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697131.shtml",
+      "title": "让“干净口粮”成为AI的标配",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697154.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,28 +56,18 @@
       ]
     },
     {
-      "title": "以智博会为窗口 解码浙江智能物联产业突围路径",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697125.shtml",
+      "title": "美媒：美国对伊朗战争耗资已超420亿美元",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697145.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "以界别之长服务发展之需 湖南九三科创论坛赋能地方产业升级",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-15/10697120.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "人工智能向善普惠成共识 中外人士建言缩小全球数字鸿沟",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697112.shtml",
+      "title": "AI当“科研搭子”，你真的放心吗？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697143.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -96,8 +76,28 @@
       ]
     },
     {
-      "title": "粤发布服装行业高质量发展行动计划 推动岭南时尚产业跃升",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697111.shtml",
+      "title": "美国10年期国债收益率一度升至2007年以来高点",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697141.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国国会预算办公室：伊朗战争耗资超380亿美元",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697140.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026上合组织数字经济论坛在乌鲁木齐开幕",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697139.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -106,10 +106,10 @@
       ]
     },
     {
-      "title": "娃哈哈因拖欠公积金被查封办公楼",
-      "url": "https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%9B%A0%E6%8B%96%E6%AC%A0%E5%85%AC%E7%A7%AF%E9%87%91%E8%A2%AB%E6%9F%A5%E5%B0%81%E5%8A%9E%E5%85%AC%E6%A5%BC",
-      "source": "百度热搜",
-      "cat": "hot",
+      "title": "对俄免签一周年 绥芬河公路口岸跨境客流增长近三成",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697136.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -126,6 +126,16 @@
       ]
     },
     {
+      "title": "纳指跌超200点 国际油价大涨",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%85200%E7%82%B9+%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "压力大收入低 银行柜员辞职卖馒头",
       "url": "https://www.baidu.com/s?wd=%E5%8E%8B%E5%8A%9B%E5%A4%A7%E6%94%B6%E5%85%A5%E4%BD%8E+%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E8%BE%9E%E8%81%8C%E5%8D%96%E9%A6%92%E5%A4%B4",
       "source": "百度热搜",
@@ -136,10 +146,10 @@
       ]
     },
     {
-      "title": "特朗普宣布赴深圳参加APEC会议",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%B5%B4%E6%B7%B1%E5%9C%B3%E5%8F%82%E5%8A%A0APEC%E4%BC%9A%E8%AE%AE",
+      "title": "娃哈哈因拖欠公积金被查封办公楼",
+      "url": "https://www.baidu.com/s?wd=%E5%A8%83%E5%93%88%E5%93%88%E5%9B%A0%E6%8B%96%E6%AC%A0%E5%85%AC%E7%A7%AF%E9%87%91%E8%A2%AB%E6%9F%A5%E5%B0%81%E5%8A%9E%E5%85%AC%E6%A5%BC",
       "source": "百度热搜",
-      "cat": "policy",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -176,18 +186,8 @@
       ]
     },
     {
-      "title": "电池税正式落地 新能源车要涨价吗",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A6%81%E6%B6%A8%E4%BB%B7%E5%90%97",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "尼泊尔泥石流灾害已致1403人遇难",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10697135.shtml",
+      "title": "定好闹钟！9月30日火车票今日开售 国庆节首日车票明日可买",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697164.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "（活力中国）湖北铜绿山古铜矿遗址焕新生 千年矿冶之都化身文旅新城",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-15/10697134.shtml",
+      "title": "舞蹈诗剧《古色·国宝辽宁》在北京上演 千年文物在剧场“苏醒”",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204397.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "别只知道和田玉，这里的核桃也很“硬核”！",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697133.shtml",
+      "title": "肯尼迪中心董事会决定立即关闭该中心 特朗普发声",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "王毅会见东盟秘书长",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697130.shtml",
+      "title": "南非确定首批绿色氢能项目 明年启动建设",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "2026年国家网络安全宣传周个人信息保护论坛在济南举办",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697128.shtml",
+      "title": "一箭九星 引力一号遥三运载火箭发射成功",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-16/1204391.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "网络空间部队信息工程大学亮相2026年国家网络安全宣传周",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697127.shtml",
+      "title": "预售房“封顶才能卖” 商品房销售制度开启新变革",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697153.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
