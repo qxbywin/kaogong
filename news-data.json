@@ -1,10 +1,30 @@
 {
   "date": "2026-09-16",
-  "time": "20:14",
-  "generatedAt": "2026-09-16T20:14:31.328Z",
+  "time": "23:01",
+  "generatedAt": "2026-09-16T23:01:53.660Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "特朗普：美国利率应当降至1%或更低",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697954.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国8月零售销售额环比增长1.2% 高于市场预期",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697951.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "中外代表在南京共议残疾人就业与科技赋能",
       "url": "https://www.chinanews.com.cn/gn/2026/09-17/10697946.shtml",
@@ -26,11 +46,21 @@
       ]
     },
     {
-      "title": "专家称，平陆运河通航将提升中国铝产业国际竞争力",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697923.shtml",
+      "title": "“熟练使用AI”，正成为简历中的“噪音”？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697955.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国中亚青少年以科创为媒结丝路友谊",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/09-17/10697947.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -96,36 +126,6 @@
       ]
     },
     {
-      "title": "国际友人文幼章后人见证《五星闪耀中国》首推中文版",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697925.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泰国企业组团赴广西南宁开拓中国市场",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697909.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "事业单位"
-      ]
-    },
-    {
-      "title": "俄方警告日方继续推进“再军事化”将招致必要反制",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697871.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "中国十大消费县排行",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E6%B6%88%E8%B4%B9%E5%8E%BF%E6%8E%92%E8%A1%8C",
       "source": "百度热搜",
@@ -146,16 +146,6 @@
       ]
     },
     {
-      "title": "平遥国际电影展片单公布",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E9%81%A5%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E5%B1%95%E7%89%87%E5%8D%95%E5%85%AC%E5%B8%83",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "AI会接管人类的写作吗",
       "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E6%8E%A5%E7%AE%A1%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%86%99%E4%BD%9C%E5%90%97",
       "source": "百度热搜",
@@ -166,8 +156,18 @@
       ]
     },
     {
-      "title": "中国女篮前队长宋晓波参与高尔夫慈善赛传递爱心",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-16/10697941.shtml",
+      "title": "平遥国际电影展片单公布",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E9%81%A5%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E5%B1%95%E7%89%87%E5%8D%95%E5%85%AC%E5%B8%83",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9月17日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-17/10697958.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "title": "日本茨城县发生4.8级地震 东京有明显震感",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697942.shtml",
+      "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "title": "尼泊尔泥石流灾害已致1409人遇难",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697940.shtml",
+      "title": "中国驻南非使馆向斐京华侨公学捐赠图书",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-17/10697956.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "陕西大熊猫，更像猫！",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697939.shtml",
+      "title": "巴基斯坦召见印度临时代办 就印巴军舰碰撞事件提出抗议",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697953.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "2026中国—东盟环境合作论坛在南宁举办",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697938.shtml",
+      "title": "时隔三年多 美联储宣布加息25个基点",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697952.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "第三届拉美汉学家大会在秘鲁利马举行",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697933.shtml",
+      "title": "英国宣布采购方案 为陆军列装新型侦察无人机",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697950.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "京津冀中小学研学实践展示交流活动在天津蓟州举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697930.shtml",
+      "title": "东盟通过《马尼拉宣言》 强化灾害韧性合作",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697949.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "王毅会见巴西总统首席特别顾问阿莫林",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697932.shtml",
+      "title": "英国8月CPI升至3.1%",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697948.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
