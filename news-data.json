@@ -1,13 +1,43 @@
 {
   "date": "2026-09-16",
-  "time": "11:48",
-  "generatedAt": "2026-09-16T11:48:29.638Z",
+  "time": "17:07",
+  "generatedAt": "2026-09-16T17:07:45.470Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "福州长乐国际机场T2航站楼启用 千日精工筑就海丝航空新门户",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697761.shtml",
+      "title": "中外代表在南京共议残疾人就业与科技赋能",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10697946.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中方在世贸组织公共论坛深入探讨产业政策作用与影响",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697944.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "专家称，平陆运河通航将提升中国铝产业国际竞争力",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697923.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国四部门：2030年农业保险体系总体达到国际先进水平",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697945.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -16,8 +46,38 @@
       ]
     },
     {
-      "title": "产业向新聚企成势 湘商深耕湖南用行动投下“信任票”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697729.shtml",
+      "title": "南非对美国以“种族歧视”为由实施签证限制表示关切",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697943.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中亚学员四川研习中医药 体验川派中医特色诊疗技术",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/09-16/10697935.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "北京香山论坛与会中外代表：国家间冲突不应损害国际航道安全",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697934.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“才聚蓝海 智创未来”海洋经济高质量发展人才对接活动举办",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697931.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -26,8 +86,18 @@
       ]
     },
     {
-      "title": "香港新一份施政报告助力青年拓展国际视野",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-16/10697697.shtml",
+      "title": "向新之翼丨从一封封回信，读懂总书记的“科技之盼”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697762.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际友人文幼章后人见证《五星闪耀中国》首推中文版",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697925.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,80 +106,20 @@
       ]
     },
     {
-      "title": "内蒙古兴安盟政协原一级巡视员胡春被公诉",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697722.shtml",
+      "title": "泰国企业组团赴广西南宁开拓中国市场",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697909.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "economy",
       "score": 1,
       "exams": [
-        "申论素材"
+        "事业单位"
       ]
     },
     {
-      "title": "展现中国深海钛合金材料攻关 原创话剧《钛度》将在中国科技馆上演",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697702.shtml",
+      "title": "俄方警告日方继续推进“再军事化”将招致必要反制",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697871.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“云烟之乡”云南玉溪以科技之手打造“云花王国”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697712.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（长征胜利90周年）贵州播州：走进苟坝会议会址",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-16/10697743.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "南方医科大学通报学生坠亡事件",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "官方辟谣国盛民安养老补贴惠民工程",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%BD%E7%9B%9B%E6%B0%91%E5%AE%89%E5%85%BB%E8%80%81%E8%A1%A5%E8%B4%B4%E6%83%A0%E6%B0%91%E5%B7%A5%E7%A8%8B",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "硕士考试第一名因专升本被取消资格",
-      "url": "https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E8%80%83%E8%AF%95%E7%AC%AC%E4%B8%80%E5%90%8D%E5%9B%A0%E4%B8%93%E5%8D%87%E6%9C%AC%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "科技当不了算命先生",
-      "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E5%BD%93%E4%B8%8D%E4%BA%86%E7%AE%97%E5%91%BD%E5%85%88%E7%94%9F",
-      "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -126,8 +136,18 @@
       ]
     },
     {
-      "title": "浙江充电基础设施数量突破300万个",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697763.shtml",
+      "title": "官方辟谣国盛民安养老补贴惠民工程",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%BD%E7%9B%9B%E6%B0%91%E5%AE%89%E5%85%BB%E8%80%81%E8%A1%A5%E8%B4%B4%E6%83%A0%E6%B0%91%E5%B7%A5%E7%A8%8B",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国女篮前队长宋晓波参与高尔夫慈善赛传递爱心",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-16/10697941.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +156,8 @@
       ]
     },
     {
-      "title": "东海全面开渔 沪浙海事部门启动“护航开渔行动”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697764.shtml",
+      "title": "日本茨城县发生4.8级地震 东京有明显震感",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697942.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +166,8 @@
       ]
     },
     {
-      "title": "记者走进横店片场 感受短剧行业风向之变",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-16/10697760.shtml",
+      "title": "尼泊尔泥石流灾害已致1409人遇难",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697940.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "第十五届中国民间艺术节举办",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-16/10697756.shtml",
+      "title": "陕西大熊猫，更像猫！",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697939.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "浙江洞头民企的“闯”与“变”：向海而生 各显其能",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697737.shtml",
+      "title": "2026中国—东盟环境合作论坛在南宁举办",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697938.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "东盟11国将首次齐聚第23届中国—东盟博览会",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697732.shtml",
+      "title": "第三届拉美汉学家大会在秘鲁利马举行",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697933.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "百元门票钓中“标鱼”可赢3500元？拆解休闲钓场变赌场套路",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-16/10697768.shtml",
+      "title": "京津冀中小学研学实践展示交流活动在天津蓟州举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697930.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "下单情侣旅游套餐“女友”却失联？上海警方披露网恋诈骗新套路",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697744.shtml",
+      "title": "王毅会见巴西总统首席特别顾问阿莫林",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697932.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "2026年“快乐垒球进社区、进校园”大连站活动举行",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-16/10697727.shtml",
+      "title": "北海海事法院钦州法庭揭牌成立 护航平陆运河安全畅通",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697929.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "中国电影电视技术学会2026年学术年会召开",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697730.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中秋将至 河北石家庄“月饼村”生产销售忙",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-16/10697745.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "千里帮扶送到北疆 内蒙古大新地村持续“更新”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697701.shtml",
+      "title": "2026中国（广西）—东盟工商合作交流会举办 签约一批项目",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-16/10697928.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
