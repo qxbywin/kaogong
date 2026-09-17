@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-16",
-  "time": "23:01",
-  "generatedAt": "2026-09-16T23:01:53.660Z",
+  "date": "2026-09-17",
+  "time": "01:31",
+  "generatedAt": "2026-09-17T01:31:17.199Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
       "title": "特朗普：美国利率应当降至1%或更低",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697954.shtml",
-      "source": "中国新闻网",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%88%A9%E7%8E%87%E5%BA%94%E5%BD%93%E9%99%8D%E8%87%B31%25%E6%88%96%E6%9B%B4%E4%BD%8E",
+      "source": "百度热搜",
       "cat": "international",
       "score": 2,
       "exams": [
@@ -16,38 +16,78 @@
       ]
     },
     {
-      "title": "美国8月零售销售额环比增长1.2% 高于市场预期",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697951.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中外代表在南京共议残疾人就业与科技赋能",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10697946.shtml",
+      "title": "拉萨市城关区城市提质攻坚取得阶段性成果 2026上半年GDP完成232.31亿元",
+      "url": "https://www.chinanews.com.cn/mz/2026/09-17/10698004.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中方在世贸组织公共论坛深入探讨产业政策作用与影响",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697944.shtml",
+      "title": "湖北恩施通报“主播假冒村干部直播带货”：已立案调查",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697995.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "海南封关看变化：全国唯一“医疗特区”跑出发展“加速度”",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-17/10698001.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "给AI训练“喂语料”，版权账怎么算？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698005.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泰国专家：平陆运河开通将为东盟与中国跨境贸易发展创造新机遇",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-17/10697994.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日媒曝美军打算到日韩土耳其“海淘”军舰，三个“代工厂”入围",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697986.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央气象台：四川重庆湖北等地局地有暴雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697970.shtml",
       "source": "中国新闻网",
       "cat": "policy",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "“熟练使用AI”，正成为简历中的“噪音”？",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697955.shtml",
+      "title": "要脱保的新能源车，换电池还是换车？专家分析",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697973.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -56,8 +96,8 @@
       ]
     },
     {
-      "title": "中国中亚青少年以科创为媒结丝路友谊",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/09-17/10697947.shtml",
+      "title": "一架直升机在美国洛杉矶坠毁",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-17/1204523.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -66,70 +106,10 @@
       ]
     },
     {
-      "title": "中国四部门：2030年农业保险体系总体达到国际先进水平",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697945.shtml",
+      "title": "美众议院通过一项针对俄罗斯和伊朗的制裁法案",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697971.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "南非对美国以“种族歧视”为由实施签证限制表示关切",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697943.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中亚学员四川研习中医药 体验川派中医特色诊疗技术",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/09-16/10697935.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北京香山论坛与会中外代表：国家间冲突不应损害国际航道安全",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697934.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“才聚蓝海 智创未来”海洋经济高质量发展人才对接活动举办",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697931.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "向新之翼丨从一封封回信，读懂总书记的“科技之盼”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697762.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国十大消费县排行",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E6%B6%88%E8%B4%B9%E5%8E%BF%E6%8E%92%E8%A1%8C",
-      "source": "百度热搜",
-      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -146,28 +126,8 @@
       ]
     },
     {
-      "title": "AI会接管人类的写作吗",
-      "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E6%8E%A5%E7%AE%A1%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%86%99%E4%BD%9C%E5%90%97",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "平遥国际电影展片单公布",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E9%81%A5%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E5%B1%95%E7%89%87%E5%8D%95%E5%85%AC%E5%B8%83",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "9月17日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-17/10697958.shtml",
+      "title": "今年前8月江门液晶平板显示模组出口总额同比增长36.1%",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-17/10698003.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
+      "title": "西南铁路推出两款通勤票 覆盖川渝黔三地90座车站",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698002.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "中国驻南非使馆向斐京华侨公学捐赠图书",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-17/10697956.shtml",
+      "title": "2026云台中秋茶话会在昆明举办 两岸同胞共叙团圆情",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-17/10697999.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "巴基斯坦召见印度临时代办 就印巴军舰碰撞事件提出抗议",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697953.shtml",
+      "title": "第十二届中国杂技金菊奖全国杂技比赛在河南濮阳举行",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-17/10697992.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "时隔三年多 美联储宣布加息25个基点",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697952.shtml",
+      "title": "第23届中国—东盟博览会今天开幕",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-17/10698000.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "英国宣布采购方案 为陆军列装新型侦察无人机",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697950.shtml",
+      "title": "大湾区之声热评：香港首份五年规划意义重大，“一国两制”事业高质量发展再开新局",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-17/10697997.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "东盟通过《马尼拉宣言》 强化灾害韧性合作",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697949.shtml",
+      "title": "布达拉宫：开通雪城参观线路并实行门票收费",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697993.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "英国8月CPI升至3.1%",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697948.shtml",
+      "title": "网络食品销售风险管控清单发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697996.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全球南方团结自强的生动写照",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10697982.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第48届世界技能大赛赛事筹备工作进入冲刺阶段",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697991.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9块9包邮到上万元一根 火出圈的文玩玉米能带动农户增收吗？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697989.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本有识之士呼吁铭记历史 反省侵略战争责任",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697987.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
