@@ -1,14 +1,14 @@
 {
   "date": "2026-09-17",
-  "time": "01:31",
-  "generatedAt": "2026-09-17T01:31:17.199Z",
+  "time": "07:48",
+  "generatedAt": "2026-09-17T07:48:13.175Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "特朗普：美国利率应当降至1%或更低",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%88%A9%E7%8E%87%E5%BA%94%E5%BD%93%E9%99%8D%E8%87%B31%25%E6%88%96%E6%9B%B4%E4%BD%8E",
-      "source": "百度热搜",
+      "title": "全球金融中心指数香港蝉联亚太区第一 外交部：这是国际社会投下的又一张信任票",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698231.shtml",
+      "source": "中国新闻网",
       "cat": "international",
       "score": 2,
       "exams": [
@@ -16,38 +16,8 @@
       ]
     },
     {
-      "title": "拉萨市城关区城市提质攻坚取得阶段性成果 2026上半年GDP完成232.31亿元",
-      "url": "https://www.chinanews.com.cn/mz/2026/09-17/10698004.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "湖北恩施通报“主播假冒村干部直播带货”：已立案调查",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697995.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海南封关看变化：全国唯一“医疗特区”跑出发展“加速度”",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-17/10698001.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "给AI训练“喂语料”，版权账怎么算？",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698005.shtml",
+      "title": "活力中国调研行丨以科技之力供给14亿人的餐桌",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698226.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -56,18 +26,8 @@
       ]
     },
     {
-      "title": "泰国专家：平陆运河开通将为东盟与中国跨境贸易发展创造新机遇",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-17/10697994.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "日媒曝美军打算到日韩土耳其“海淘”军舰，三个“代工厂”入围",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697986.shtml",
+      "title": "外交部：反对没有国际法依据、没有经过联合国安理会授权的长臂管辖",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698223.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,8 +36,8 @@
       ]
     },
     {
-      "title": "中央气象台：四川重庆湖北等地局地有暴雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697970.shtml",
+      "title": "第十三届北京香山论坛举行第三次全体会议",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-17/1204554.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -86,9 +46,29 @@
       ]
     },
     {
-      "title": "要脱保的新能源车，换电池还是换车？专家分析",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697973.shtml",
+      "title": "中国与东盟智库专家共探蓝色经济合作新动力",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-17/10698198.shtml",
       "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国返还58件中国文物",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%BF%94%E8%BF%9858%E4%BB%B6%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "严禁AI魔改",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%A5%E7%A6%81AI%E9%AD%94%E6%94%B9",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -96,38 +76,18 @@
       ]
     },
     {
-      "title": "一架直升机在美国洛杉矶坠毁",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-17/1204523.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美众议院通过一项针对俄罗斯和伊朗的制裁法案",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697971.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "官方辟谣国盛民安养老补贴惠民工程",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%9B%BD%E7%9B%9B%E6%B0%91%E5%AE%89%E5%85%BB%E8%80%81%E8%A1%A5%E8%B4%B4%E6%83%A0%E6%B0%91%E5%B7%A5%E7%A8%8B",
+      "title": "女子贷款20万买劳力士给网恋男友",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B4%B7%E6%AC%BE20%E4%B8%87%E4%B9%B0%E5%8A%B3%E5%8A%9B%E5%A3%AB%E7%BB%99%E7%BD%91%E6%81%8B%E7%94%B7%E5%8F%8B",
       "source": "百度热搜",
-      "cat": "society",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "今年前8月江门液晶平板显示模组出口总额同比增长36.1%",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-17/10698003.shtml",
+      "title": "壹视界·一河通江海丨平陆运河，如何跨越65米落差通江达海？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698220.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +96,8 @@
       ]
     },
     {
-      "title": "西南铁路推出两款通勤票 覆盖川渝黔三地90座车站",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698002.shtml",
+      "title": "从红楼到燕园，书香从未走远",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698233.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +106,8 @@
       ]
     },
     {
-      "title": "2026云台中秋茶话会在昆明举办 两岸同胞共叙团圆情",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-17/10697999.shtml",
+      "title": "四川茂县成功避险一起滑坡灾害，避免255人可能因灾伤亡",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698230.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +116,8 @@
       ]
     },
     {
-      "title": "第十二届中国杂技金菊奖全国杂技比赛在河南濮阳举行",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-17/10697992.shtml",
+      "title": "先丢球后扳平！中国女足1:1战平乌兹别克斯坦",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-17/10698228.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +126,8 @@
       ]
     },
     {
-      "title": "第23届中国—东盟博览会今天开幕",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-17/10698000.shtml",
+      "title": "中方祝愿巴西总统大选平稳顺利举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698227.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "大湾区之声热评：香港首份五年规划意义重大，“一国两制”事业高质量发展再开新局",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-17/10697997.shtml",
+      "title": "中国女足主教练：我们可以做得更好",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-17/10698229.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "布达拉宫：开通雪城参观线路并实行门票收费",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697993.shtml",
+      "title": "A股收评：超2800只个股飘绿，三大指数集体收跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698225.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "网络食品销售风险管控清单发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697996.shtml",
+      "title": "多重机遇交汇，这条“黄金通道”如何赋能中国东盟合作？",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-17/10698224.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "全球南方团结自强的生动写照",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10697982.shtml",
+      "title": "定制赛道上，道路客运“翻红”了",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698222.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "第48届世界技能大赛赛事筹备工作进入冲刺阶段",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697991.shtml",
+      "title": "剧本游、山居慢游 多元玩法带热乡村“微度假”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698218.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "9块9包邮到上万元一根 火出圈的文玩玉米能带动农户增收吗？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697989.shtml",
+      "title": "湖南航空一航班旅客充电宝起火 航司回应",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698210.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "日本有识之士呼吁铭记历史 反省侵略战争责任",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697987.shtml",
+      "title": "吴愉：中国拳击队亚运会目标是让国旗升起、让国歌奏响",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-17/10698216.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "商务部回应欧委会公共采购法草案设置“欧洲优先”条款",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698215.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "商务部：中美经贸团队正就降税等议题保持密切交流",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698214.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "【石榴花开 籽籽同心】这座高原村庄里，“镇馆之宝”为什么是一面手绣红旗？",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-17/10698169.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "吴愉：知道担任旗手的那一刻很荣幸、很骄傲、很期待！",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-17/10698213.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
