@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "time": "16:33",
-  "generatedAt": "2026-09-18T16:33:06.807Z",
+  "time": "19:43",
+  "generatedAt": "2026-09-18T19:43:47.755Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -60,16 +60,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "官方通报长江倾倒淤泥事件",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%95%BF%E6%B1%9F%E5%80%BE%E5%80%92%E6%B7%A4%E6%B3%A5%E4%BA%8B%E4%BB%B6",
-      "source": "百度热搜",
-      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -238,6 +228,16 @@
     {
       "title": "赵乐际、王沪宁分别会见埃及参议长法里德",
       "url": "https://www.chinanews.com.cn/gn/2026/09-18/10699279.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国突破地下大空间高精度定位导航与控制关键技术",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699256.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
