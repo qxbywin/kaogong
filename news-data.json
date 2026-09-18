@@ -1,124 +1,24 @@
 {
   "date": "2026-09-18",
-  "time": "00:28",
-  "generatedAt": "2026-09-18T00:28:10.661Z",
+  "time": "06:02",
+  "generatedAt": "2026-09-18T06:02:05.543Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "美国30年期贷款利率升至6.95% 创19个月来最高值",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698628.shtml",
+      "title": "2026年7月香港对外商品贸易量价齐升 专家：显示贸易韧性",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-18/10698863.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中俄在安理会否决涉伊朗制裁决议草案",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698626.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国中央司令部称已引导104艘商船改变航线",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698623.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "联合国安理会否决伊朗制裁委员会专家小组授权延期决议",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698614.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698637.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国一架F-16战斗机在密歇根州坠毁 飞行员弹射逃生",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698631.shtml",
+      "title": "AI训练碰上版权保护，这账该怎么算",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-18/10698884.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外媒：伊朗领导人将前往纽约，出席联合国大会",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698625.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中方反对在安理会强推恢复对伊朗制裁",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698621.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄罗斯第九届国家杜马选举开始投票",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698619.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国向我国返还64件（套）文物艺术品和古生物化石",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698618.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄乌在白乌边境举行阵亡军人遗体交换",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698615.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "总书记引领科技强国路",
-      "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E8%B7%AF",
-      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -126,9 +26,19 @@
       ]
     },
     {
-      "title": "中国和俄罗斯投下反对票",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%92%8C%E4%BF%84%E7%BD%97%E6%96%AF%E6%8A%95%E4%B8%8B%E5%8F%8D%E5%AF%B9%E7%A5%A8",
-      "source": "百度热搜",
+      "title": "8月全国各种自然灾害造成直接经济损失360.3亿元",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10698880.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "明天开幕 第十三届丝绸之路国际电影节将展映400余部影片",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/09-18/10698860.shtml",
+      "source": "中国新闻网",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -136,29 +46,9 @@
       ]
     },
     {
-      "title": "中医暂不纳入首批医保医疗服务目录",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8C%BB%E6%9A%82%E4%B8%8D%E7%BA%B3%E5%85%A5%E9%A6%96%E6%89%B9%E5%8C%BB%E4%BF%9D%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E7%9B%AE%E5%BD%95",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国称要为月球战争做准备",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%B0%E8%A6%81%E4%B8%BA%E6%9C%88%E7%90%83%E6%88%98%E4%BA%89%E5%81%9A%E5%87%86%E5%A4%87",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黄仁勋：明年英伟达芯片销量将翻倍",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%98%8E%E5%B9%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E9%94%80%E9%87%8F%E5%B0%86%E7%BF%BB%E5%80%8D",
-      "source": "百度热搜",
+      "title": "中新网直播：来东博会 逛AI大卖场 买东盟好物",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-18/10698848.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -166,8 +56,48 @@
       ]
     },
     {
-      "title": "美国密歇根州一架F16战机坠毁",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E4%B8%80%E6%9E%B6F16%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81",
+      "title": "中国高规格部署持续做大做强先进制造业",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10698846.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "面向东盟开展数据合作 世界数据组织新设立分支机构",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10698841.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国国家能源局等部门部署煤炭安全稳产保供工作",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698836.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "为加快构建现代化产业体系铸牢骨干",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%A7%E4%B8%9A%E4%BD%93%E7%B3%BB%E9%93%B8%E7%89%A2%E9%AA%A8%E5%B9%B2",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国批准向沙特出售48架F-35战斗机",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E5%90%91%E6%B2%99%E7%89%B9%E5%87%BA%E5%94%AE48%E6%9E%B6F-35%E6%88%98%E6%96%97%E6%9C%BA",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -176,8 +106,28 @@
       ]
     },
     {
-      "title": "《千里潇湘》民乐音乐会奏响德国法兰克福",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-18/1204616.shtml",
+      "title": "新生入学被强制要求填写父母收入",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E5%A1%AB%E5%86%99%E7%88%B6%E6%AF%8D%E6%94%B6%E5%85%A5",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "车主私自切割车顶改“敞篷车”被查处",
+      "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E7%A7%81%E8%87%AA%E5%88%87%E5%89%B2%E8%BD%A6%E9%A1%B6%E6%94%B9%E2%80%9C%E6%95%9E%E7%AF%B7%E8%BD%A6%E2%80%9D%E8%A2%AB%E6%9F%A5%E5%A4%84",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "李在明：韩国不会向霍尔木兹海峡派兵",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698864.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +136,8 @@
       ]
     },
     {
-      "title": "秦腔《红河谷》在北京上演",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-18/1204612.shtml",
+      "title": "中秋国庆假期海南岛天气总体较好 部分时段有降雨天气",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10698891.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +146,8 @@
       ]
     },
     {
-      "title": "人类数学遭遇至暗时刻？",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698641.shtml",
+      "title": "古风取名热折射传统文化热",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-18/10698895.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +156,8 @@
       ]
     },
     {
-      "title": "“白水煮一切”并不能给身体“减负”？营养师提醒",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-18/10698640.shtml",
+      "title": "“九一八”事变爆发95周年 长春各界缅怀先烈铭记国殇",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10698876.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +166,8 @@
       ]
     },
     {
-      "title": "钱俊伟：雪山应走向科学开放",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10698639.shtml",
+      "title": "宁夏：高铁串起“紫色名片”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698877.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +176,8 @@
       ]
     },
     {
-      "title": "丁薛祥出席第23届中国－东盟博览会开幕式",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-18/1204611.shtml",
+      "title": "从“铺路”到“探路”：两种“阅读”感知幸福中国河北行",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-18/10698879.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +186,58 @@
       ]
     },
     {
-      "title": "高市内阁人事“洗牌”，政治加速右转，日本民众开始担忧“发动战争的可能性增加”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698636.shtml",
+      "title": "减重应该怎么吃？运动如何避免损伤？专家来讲解",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-18/10698888.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“蓝翅仙子”现身福建永安 天宝岩保护区蝴蝶记录增至330种",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10698856.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广东“百万英才汇南粤”引才专列驶入天津",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-18/10698855.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "澳商协会代表团访内蒙古 看好优质农畜产品“出海”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698886.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "货机直达东南亚、南亚 岳阳三荷机场航空口岸常态化运营",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10698885.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "厚植红色底蕴 凝聚同心力量——辽宁省丹东市新联会举办红色人物精神系列专题讲座",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10698849.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
