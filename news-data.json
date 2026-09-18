@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "time": "19:43",
-  "generatedAt": "2026-09-18T19:43:47.755Z",
+  "time": "22:39",
+  "generatedAt": "2026-09-18T22:39:55.055Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,26 @@
       "source": "中国新闻网",
       "cat": "tech",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄罗斯对欧盟新一轮制裁采取反制措施",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699319.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "荷兰向加沙地带提供1200万欧元紧急医疗援助",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699320.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -56,16 +76,6 @@
       ]
     },
     {
-      "title": "北京制定专项行动方案发展词元经济",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "高校考试开考9分钟试卷就被外传",
       "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%80%83%E8%AF%95%E5%BC%80%E8%80%839%E5%88%86%E9%92%9F%E8%AF%95%E5%8D%B7%E5%B0%B1%E8%A2%AB%E5%A4%96%E4%BC%A0",
       "source": "百度热搜",
@@ -91,6 +101,16 @@
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "马克龙就地缘政治形势等议题与法国各主要党派代表会谈",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699321.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -218,26 +238,6 @@
     {
       "title": "中国驻泰国大使馆举行国庆招待会",
       "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699301.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赵乐际、王沪宁分别会见埃及参议长法里德",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10699279.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国突破地下大空间高精度定位导航与控制关键技术",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699256.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
