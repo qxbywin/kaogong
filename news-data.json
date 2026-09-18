@@ -1,93 +1,23 @@
 {
   "date": "2026-09-18",
-  "time": "11:27",
-  "generatedAt": "2026-09-18T11:27:43.229Z",
+  "time": "16:33",
+  "generatedAt": "2026-09-18T16:33:06.807Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "莫桑比克南部交通事故致至少17人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699129.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "雅思官方模考系统中国上线 人工智能赋能诊断式测评",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699124.shtml",
+      "title": "普通高中校长年会举行 校长共话AI时代高中教育发展前景",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699277.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "新疆首次填谷需求响应试点收官 创新负荷调节模式助力绿电消纳",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699095.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026亚太人工智能大会在长春举行  共探AI从研发向应用演进新趋势",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699093.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国团队研发医疗影像模型 可一次性识别146种腹部病症",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-18/10699089.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "A股沪指周五站上3900点   半导体板块走强",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699088.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特写：“向国旗敬礼”，近千名香港青少年开启爱国主义教育之旅",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-18/10699087.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“百城千校万企促就业”行动产教融合推进会在广州举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699076.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第九届中国机器人峰会：具身智能应用生态引人关注",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10699096.shtml",
+      "title": "安理会完成联合国秘书长遴选第三轮意向性投票",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699318.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,8 +26,38 @@
       ]
     },
     {
-      "title": "市场监管部门与平台企业签署协议，共同支持个体工商户发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699108.shtml",
+      "title": "国际原子能机构称俄罗斯一核电站冷却塔被无人机击中",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699317.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“数字化绿色化协同转型与高质量发展”欧亚青年学者研修班开班",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699278.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "解码生成式人工智能 “科创燃梦”首场公益科普直播课开播",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699252.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "北京制定专项行动方案发展词元经济",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -106,18 +66,18 @@
       ]
     },
     {
-      "title": "为加快构建现代化产业体系铸牢骨干",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%A7%E4%B8%9A%E4%BD%93%E7%B3%BB%E9%93%B8%E7%89%A2%E9%AA%A8%E5%B9%B2",
+      "title": "官方通报长江倾倒淤泥事件",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%95%BF%E6%B1%9F%E5%80%BE%E5%80%92%E6%B7%A4%E6%B3%A5%E4%BA%8B%E4%BB%B6",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "辽宁省委：坚决拥护党中央决定",
-      "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%9C%81%E5%A7%94%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
+      "title": "高校考试开考9分钟试卷就被外传",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%80%83%E8%AF%95%E5%BC%80%E8%80%839%E5%88%86%E9%92%9F%E8%AF%95%E5%8D%B7%E5%B0%B1%E8%A2%AB%E5%A4%96%E4%BC%A0",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
@@ -126,8 +86,18 @@
       ]
     },
     {
-      "title": "中方回应美国返还中国文物",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%BF%94%E8%BF%98%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9",
+      "title": "官方通报“烧1平米杂草罚500元”",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E7%83%A71%E5%B9%B3%E7%B1%B3%E6%9D%82%E8%8D%89%E7%BD%9A500%E5%85%83%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国动力电池碾压日韩",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E7%A2%BE%E5%8E%8B%E6%97%A5%E9%9F%A9",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -136,38 +106,8 @@
       ]
     },
     {
-      "title": "夫妻俩绑28800支烟进境被查",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E4%BF%A9%E7%BB%9128800%E6%94%AF%E7%83%9F%E8%BF%9B%E5%A2%83%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部回应“中方领导人是否将访美”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%AD%E6%96%B9%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%98%AF%E5%90%A6%E5%B0%86%E8%AE%BF%E7%BE%8E%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国老兵30年来讲述中美抗战故事",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%80%81%E5%85%B530%E5%B9%B4%E6%9D%A5%E8%AE%B2%E8%BF%B0%E4%B8%AD%E7%BE%8E%E6%8A%97%E6%88%98%E6%95%85%E4%BA%8B",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "福建建宁：杂交水稻制种烘干机械化率超95% 一机多用助农增收",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699125.shtml",
+      "title": "第23届东博会合作项目集中签约",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699316.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +116,8 @@
       ]
     },
     {
-      "title": "山东外事服务“铺路搭桥” 助力企业加速出海",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699126.shtml",
+      "title": "夜奔北京 台湾“武者”记录胡同“江湖”",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699311.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +126,8 @@
       ]
     },
     {
-      "title": "马来西亚前总理纳吉布获准居家服完剩余刑期",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699122.shtml",
+      "title": "非公力量“闯关东” 在黑土地“种”下新机遇",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699310.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +136,8 @@
       ]
     },
     {
-      "title": "智启新未来，打造智能世界的硅基黑土地",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699092.shtml",
+      "title": "九沟八梁远去，八瓣莲花盛开：甘肃武都藏乡儿女的下山之路",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699308.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +146,8 @@
       ]
     },
     {
-      "title": "马来西亚前总理纳吉布将以居家监禁形式继续服刑",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699123.shtml",
+      "title": "艺人陈建州突发心梗住院，自曝每天只睡三四个小时！医生提醒",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699315.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +156,8 @@
       ]
     },
     {
-      "title": "山东济南金秋农产品展销活动启幕 邀民众共享丰收喜悦",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699099.shtml",
+      "title": "东帝汶咖啡首秀东博会",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699306.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +166,8 @@
       ]
     },
     {
-      "title": "京津冀博士后与科研人才招收暨项目洽谈会举办 汇聚130余家重点单位",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699098.shtml",
+      "title": "第23届东博会合作项目集中签约 首次搭建机制性供需对接平台",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699303.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +176,68 @@
       ]
     },
     {
-      "title": "气象部门解读华西秋雨为何持续两月",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699116.shtml",
+      "title": "证监会拟对17起案件线索的“吹哨人”给予奖励",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699305.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国今年前8月新设外企超4.2万家",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "津门赛场聚同心 传统体育展新姿——写在天津市第十届少数民族传统体育运动会开幕之际",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699263.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "在滇台企代表走进国企交流 互学互鉴共寻合作新空间",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699267.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "中国驻法兰克福总领馆2026年国庆招待会暨《千里潇湘》民乐音乐会举行",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699298.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国驻泰国大使馆举行国庆招待会",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699301.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "赵乐际、王沪宁分别会见埃及参议长法里德",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10699279.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
