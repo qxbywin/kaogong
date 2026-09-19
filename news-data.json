@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
-  "time": "14:31",
-  "generatedAt": "2026-09-19T14:31:09.762Z",
+  "time": "18:06",
+  "generatedAt": "2026-09-19T18:06:51.068Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -21,6 +21,36 @@
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699740.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "跨越海峡的科技对话：每一次握手，都离团圆更近一步",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699723.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第29届京台科技论坛侧记：AI浪潮中的台湾“追光者”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699722.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -96,10 +126,20 @@
       ]
     },
     {
-      "title": "2026中俄公众科学素质促进沙龙在黑河开幕",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699669.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "title": "AI手机之后 AI主机也出现了",
+      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "赛力斯总裁：汽车产业最大风险是速成",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%9B%E5%8A%9B%E6%96%AF%E6%80%BB%E8%A3%81%EF%BC%9A%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E6%9C%80%E5%A4%A7%E9%A3%8E%E9%99%A9%E6%98%AF%E9%80%9F%E6%88%90",
+      "source": "百度热搜",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -116,31 +156,41 @@
       ]
     },
     {
-      "title": "AI公司把全球用户数据给美情报机构",
-      "url": "https://www.baidu.com/s?wd=AI%E5%85%AC%E5%8F%B8%E6%8A%8A%E5%85%A8%E7%90%83%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E7%BB%99%E7%BE%8E%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "怎么折都有面？这座北方小城用折叠箱房圈粉全球",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699741.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI手机之后 AI主机也出现了",
-      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "灯火映古塔 雅乐遇秦腔",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699739.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "人口大省广东为何要北上“摇人”",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%8F%A3%E5%A4%A7%E7%9C%81%E5%B9%BF%E4%B8%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E5%8C%97%E4%B8%8A%E2%80%9C%E6%91%87%E4%BA%BA%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
+      "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699738.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699728.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -188,56 +238,6 @@
     {
       "title": "港澳青少年升旗队代表在北京参观抗战遗址",
       "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699713.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "台湾摩友在渝打卡摩博会 称大陆摩企令人“大开眼界”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699708.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "绿水青山、冰天雪地都是金山银山——黑龙江省漠河市深入践行“两山”理念透视",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699706.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多元赋能，体育强国建设步入快车道（“十五五”开好局起好步）",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699468.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "学习卡｜制造业争“先”，习近平指明前进方向",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699594.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "献礼建碑75周年 《普洱民族团结誓词碑光荣传统研究专辑》在昆首发",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-19/10699667.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
