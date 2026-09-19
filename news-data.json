@@ -1,16 +1,56 @@
 {
-  "date": "2026-09-18",
-  "time": "22:39",
-  "generatedAt": "2026-09-18T22:39:55.055Z",
+  "date": "2026-09-19",
+  "time": "01:17",
+  "generatedAt": "2026-09-19T01:17:06.372Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "普通高中校长年会举行 校长共话AI时代高中教育发展前景",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699277.shtml",
+      "title": "我国航空物流发展规模持续创新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699330.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI何以成为年轻职场人的“情绪搭子”？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699325.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699324.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普：美国将获得对格陵兰岛安全“永久控制权”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699323.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699322.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -56,26 +96,6 @@
       ]
     },
     {
-      "title": "“数字化绿色化协同转型与高质量发展”欧亚青年学者研修班开班",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699278.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "解码生成式人工智能 “科创燃梦”首场公益科普直播课开播",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699252.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "高校考试开考9分钟试卷就被外传",
       "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%80%83%E8%AF%95%E5%BC%80%E8%80%839%E5%88%86%E9%92%9F%E8%AF%95%E5%8D%B7%E5%B0%B1%E8%A2%AB%E5%A4%96%E4%BC%A0",
       "source": "百度热搜",
@@ -86,21 +106,121 @@
       ]
     },
     {
-      "title": "官方通报“烧1平米杂草罚500元”",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E7%83%A71%E5%B9%B3%E7%B1%B3%E6%9D%82%E8%8D%89%E7%BD%9A500%E5%85%83%E2%80%9D",
-      "source": "百度热搜",
+      "title": "王沪宁会见埃及参议长法里德",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-19/1204718.shtml",
+      "source": "中国新闻网",
       "cat": "hot",
-      "score": 1,
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中国动力电池碾压日韩",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E7%A2%BE%E5%8E%8B%E6%97%A5%E9%9F%A9",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "商务部新闻发言人就中美经贸磋商有关问题答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699347.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“清朗·优化营商网络环境 整治恶意炒作涉企信息”专项行动公开曝光第二批典型案例",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699346.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东盟地区论坛（ARF）第三届城市应急搜救研讨会在南宁开幕",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699335.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "大陆历史学者葛兆光在台北获颁“唐奖”汉学奖",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-19/1204715.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "电视与机顶盒将合体 一体化电视到底什么样？",
+      "url": "https://www.chinanews.com.cn/life/2026/09-19/10699333.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "今夜起台风“杜鹃”逐渐转向趋向日本以南洋面 对我国近海无影响",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699332.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四川至湖北一带大到暴雨发展增多 西北东北迎明显降温",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699331.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699329.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "今天傍晚至夜间北京西部北部有阵雨 明后天最低气温逐渐下降",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699328.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9月19日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-19/10699327.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "普京对新版国家武器装备计划提出要求",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699326.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -118,126 +238,6 @@
     {
       "title": "第23届东博会合作项目集中签约",
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699316.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "夜奔北京 台湾“武者”记录胡同“江湖”",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699311.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "非公力量“闯关东” 在黑土地“种”下新机遇",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699310.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "九沟八梁远去，八瓣莲花盛开：甘肃武都藏乡儿女的下山之路",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699308.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "艺人陈建州突发心梗住院，自曝每天只睡三四个小时！医生提醒",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699315.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东帝汶咖啡首秀东博会",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699306.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第23届东博会合作项目集中签约 首次搭建机制性供需对接平台",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699303.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "证监会拟对17起案件线索的“吹哨人”给予奖励",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699305.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国今年前8月新设外企超4.2万家",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "津门赛场聚同心 传统体育展新姿——写在天津市第十届少数民族传统体育运动会开幕之际",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699263.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "在滇台企代表走进国企交流 互学互鉴共寻合作新空间",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699267.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "事业单位"
-      ]
-    },
-    {
-      "title": "中国驻法兰克福总领馆2026年国庆招待会暨《千里潇湘》民乐音乐会举行",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699298.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国驻泰国大使馆举行国庆招待会",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699301.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
