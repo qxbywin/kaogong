@@ -1,13 +1,13 @@
 {
   "date": "2026-09-19",
-  "time": "11:11",
-  "generatedAt": "2026-09-19T11:11:19.111Z",
+  "time": "14:31",
+  "generatedAt": "2026-09-19T14:31:09.762Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "中亚青年媒体代表参访青海特色产业",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699551.shtml",
+      "title": "天府国际种业展亮出多项农业科技成果 助力好品种走出实验室",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699637.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,90 +16,100 @@
       ]
     },
     {
-      "title": "福州启动国际化语言环境提升行动 向世界传递福州声音",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699567.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026第七届中国(北方)塑料产业博览会开幕",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699584.shtml",
+      "title": "2026年中国—东盟人工智能产业创新中心研讨会在广西南宁召开",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699643.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "分三阶段整治！多部门联合部署深入打击生态环境监测机构弄虚作假",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699586.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中央社会主义学院10年来培训人数超10万",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-19/10699545.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026高碑店国际绿色智慧健康建筑博览会开幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699539.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第26届平遥国际摄影大展开幕 海内外逾2600名摄影师参展",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699534.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "体育赋能乡村振兴 太原小店乡村田园健康跑吸引2400余人参与",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699542.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "台湾青年打卡张雪机车：真是大开眼界 期待早日进入台湾市场",
-      "url": "http://www.chinanews.com.cn/ga/shipin/2026/09-19/news1069398.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海推双平台解码中医守正创新：“药”载体扩容、“医”引擎升级",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-19/10699553.shtml",
+      "title": "聚焦新能源汽车制造 业界冀两岸携手打造安全供应链",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml",
       "source": "中国新闻网",
       "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外商看好安徽新兴产业投资潜力：\"这里充满活力\"",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699719.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西推动“人工智能+应急管理”科技创新项目惠及东盟民众",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699720.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "两岸青年以光影为媒 碰撞AI创意火花",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699717.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十三届丝绸之路国际电影节西安开幕 埃及为主宾国",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/09-19/10699714.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国科研机构发布“太空交管平台”等三大商业航天成果",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699709.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "认知·锐见｜警惕日本新型“历史洗白术”之一：日本往政务AI系统里输入了什么？",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699707.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026中俄公众科学素质促进沙龙在黑河开幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699669.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "央视曝光文玩玉米市场暗藏猫腻",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%87%E7%8E%A9%E7%8E%89%E7%B1%B3%E5%B8%82%E5%9C%BA%E6%9A%97%E8%97%8F%E7%8C%AB%E8%85%BB",
+      "source": "百度热搜",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -116,8 +126,28 @@
       ]
     },
     {
-      "title": "第二十届亚洲运动会主火炬点燃",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699587.shtml",
+      "title": "AI手机之后 AI主机也出现了",
+      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "人口大省广东为何要北上“摇人”",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%8F%A3%E5%A4%A7%E7%9C%81%E5%B9%BF%E4%B8%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E5%8C%97%E4%B8%8A%E2%80%9C%E6%91%87%E4%BA%BA%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第23届中国—东盟博览会旅游展区桂林开幕",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699718.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +156,8 @@
       ]
     },
     {
-      "title": "经贸互通、文化相融、人才互联 沈台交流周赋能两岸深度合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699541.shtml",
+      "title": "“巴蜀鬼才”魏明伦遗作《铁木高娃》在成都首演",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699716.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +166,8 @@
       ]
     },
     {
-      "title": "（友城故事）中外友城（省州）关系达3187对",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699533.shtml",
+      "title": "突发：沙特首都主要机场附近出现大量黑烟",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699715.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +176,8 @@
       ]
     },
     {
-      "title": "甘肃庆阳岐黄文化论坛开幕  岐黄中医圈粉东南亚年轻人",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699532.shtml",
+      "title": "2026长江文化艺术季在武汉开幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699710.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +186,8 @@
       ]
     },
     {
-      "title": "第二十届亚洲运动会开幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699579.shtml",
+      "title": "港澳青少年升旗队代表在北京参观抗战遗址",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699713.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +196,8 @@
       ]
     },
     {
-      "title": "第七届广东省森林文化周“童眼绘森林”活动在穗举办",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699552.shtml",
+      "title": "台湾摩友在渝打卡摩博会 称大陆摩企令人“大开眼界”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699708.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +206,8 @@
       ]
     },
     {
-      "title": "2026年全国青年击剑锦标赛长沙开赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699550.shtml",
+      "title": "绿水青山、冰天雪地都是金山银山——黑龙江省漠河市深入践行“两山”理念透视",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699706.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +216,8 @@
       ]
     },
     {
-      "title": "视野不到1度 51岁视障“倔大哥”追光奔跑",
-      "url": "http://www.chinanews.com.cn/ty/shipin/cns-d/2026/09-19/news1069400.shtml",
+      "title": "多元赋能，体育强国建设步入快车道（“十五五”开好局起好步）",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699468.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +226,8 @@
       ]
     },
     {
-      "title": "四川省气象台发布暴雨蓝色预警 部分地区有大暴雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699566.shtml",
+      "title": "学习卡｜制造业争“先”，习近平指明前进方向",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699594.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "2026甘肃·庆阳岐黄文化论坛启幕 两大文化IP首次联动",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699537.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "燕赵电力实验室在河北省保定市揭牌",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699536.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年中国（广西）—东盟工业设计周在南宁开幕",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699540.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第十五届全国商学院帆船赛在松花江开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699544.shtml",
+      "title": "献礼建碑75周年 《普洱民族团结誓词碑光荣传统研究专辑》在昆首发",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-19/10699667.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
