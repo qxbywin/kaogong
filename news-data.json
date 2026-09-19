@@ -1,26 +1,36 @@
 {
   "date": "2026-09-19",
-  "time": "20:49",
-  "generatedAt": "2026-09-19T20:49:44.914Z",
+  "time": "23:14",
+  "generatedAt": "2026-09-19T23:14:14.262Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "天府国际种业展亮出多项农业科技成果 助力好品种走出实验室",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699637.shtml",
+      "title": "第58届东盟经济部长会议在菲举行 聚焦提升区域竞争力",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699742.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "2026年中国—东盟人工智能产业创新中心研讨会在广西南宁召开",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699643.shtml",
+      "title": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+      "url": "https://www.chinanews.com.cn/kong/2026/09-20/10699748.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -116,9 +126,9 @@
       ]
     },
     {
-      "title": "认知·锐见｜警惕日本新型“历史洗白术”之一：日本往政务AI系统里输入了什么？",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699707.shtml",
-      "source": "中国新闻网",
+      "title": "AI手机之后 AI主机也出现了",
+      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -136,21 +146,61 @@
       ]
     },
     {
-      "title": "AI手机之后 AI主机也出现了",
-      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "title": "央视曝光文玩玉米市场暗藏猫腻",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%87%E7%8E%A9%E7%8E%89%E7%B1%B3%E5%B8%82%E5%9C%BA%E6%9A%97%E8%97%8F%E7%8C%AB%E8%85%BB",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "央视曝光文玩玉米市场暗藏猫腻",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%87%E7%8E%A9%E7%8E%89%E7%B1%B3%E5%B8%82%E5%9C%BA%E6%9A%97%E8%97%8F%E7%8C%AB%E8%85%BB",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
+      "title": "9月20日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-20/10699749.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四川盐边县泥石流已致2人遇难 3人失联",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699746.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗称已向美政府传达7项谈判条件",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699745.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东博会公众开放日怎么逛？三个“首次”别错过",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699744.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（台湾写真）《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699743.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -188,56 +238,6 @@
     {
       "title": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行",
       "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699728.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第23届中国—东盟博览会旅游展区桂林开幕",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699718.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“巴蜀鬼才”魏明伦遗作《铁木高娃》在成都首演",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699716.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "突发：沙特首都主要机场附近出现大量黑烟",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699715.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026长江文化艺术季在武汉开幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699710.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "港澳青少年升旗队代表在北京参观抗战遗址",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699713.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
