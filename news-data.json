@@ -1,53 +1,23 @@
 {
   "date": "2026-09-19",
-  "time": "06:00",
-  "generatedAt": "2026-09-19T06:00:25.068Z",
+  "time": "11:11",
+  "generatedAt": "2026-09-19T11:11:19.111Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "（乡村行·看振兴）酥梨贯通全产业链 “世界梨都” 绘就丰收共富图景",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699433.shtml",
+      "title": "中亚青年媒体代表参访青海特色产业",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699551.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
+      "cat": "international",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "院士专家湖北枝江共推化工产业绿色高端化发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699431.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "新疆阿拉尔市以生态高水平保护助力经济高质量发展",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699425.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（活力中国调研行）山水生“金” 湖北襄阳的乡村振兴密码",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699424.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中芬高校携手在沪培养国际化健康人才",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699428.shtml",
+      "title": "福州启动国际化语言环境提升行动 向世界传递福州声音",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699567.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,8 +26,8 @@
       ]
     },
     {
-      "title": "（机遇香港）香港首个五年规划蕴含哪些创科产业机遇？",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-19/10699423.shtml",
+      "title": "2026第七届中国(北方)塑料产业博览会开幕",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699584.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -66,8 +36,58 @@
       ]
     },
     {
-      "title": "【职引未来】秋招正当时 多方携手护航学子就业",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-19/10699421.shtml",
+      "title": "分三阶段整治！多部门联合部署深入打击生态环境监测机构弄虚作假",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699586.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央社会主义学院10年来培训人数超10万",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-19/10699545.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026高碑店国际绿色智慧健康建筑博览会开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699539.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第26届平遥国际摄影大展开幕 海内外逾2600名摄影师参展",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699534.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "体育赋能乡村振兴 太原小店乡村田园健康跑吸引2400余人参与",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699542.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台湾青年打卡张雪机车：真是大开眼界 期待早日进入台湾市场",
+      "url": "http://www.chinanews.com.cn/ga/shipin/2026/09-19/news1069398.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -76,28 +96,18 @@
       ]
     },
     {
-      "title": "游园、品茶、选月饼 各地中秋消费市场“新”意满满",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699416.shtml",
+      "title": "上海推双平台解码中医守正创新：“药”载体扩容、“医”引擎升级",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-19/10699553.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "局长被查 家人花300万找了个政治骗子",
-      "url": "https://www.baidu.com/s?wd=%E5%B1%80%E9%95%BF%E8%A2%AB%E6%9F%A5+%E5%AE%B6%E4%BA%BA%E8%8A%B1300%E4%B8%87%E6%89%BE%E4%BA%86%E4%B8%AA%E6%94%BF%E6%B2%BB%E9%AA%97%E5%AD%90",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI女演员访谈突然卡壳 下秒飙粤语",
-      "url": "https://www.baidu.com/s?wd=AI%E5%A5%B3%E6%BC%94%E5%91%98%E8%AE%BF%E8%B0%88%E7%AA%81%E7%84%B6%E5%8D%A1%E5%A3%B3+%E4%B8%8B%E7%A7%92%E9%A3%99%E7%B2%A4%E8%AF%AD",
+      "title": "AI公司把全球用户数据给美情报机构",
+      "url": "https://www.baidu.com/s?wd=AI%E5%85%AC%E5%8F%B8%E6%8A%8A%E5%85%A8%E7%90%83%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E7%BB%99%E7%BE%8E%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -106,8 +116,8 @@
       ]
     },
     {
-      "title": "铁路12306持续识别遏制恶意抢票行为 维护公平售票环境",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699442.shtml",
+      "title": "第二十届亚洲运动会主火炬点燃",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699587.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +126,8 @@
       ]
     },
     {
-      "title": "（文化中国行·校馆弦歌）从读书到“造物” 浙大图书馆的N种打开方式",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699435.shtml",
+      "title": "经贸互通、文化相融、人才互联 沈台交流周赋能两岸深度合作",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699541.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +136,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）亚运女篮小组赛：中国队战胜泰国队",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-19/1204736.shtml",
+      "title": "（友城故事）中外友城（省州）关系达3187对",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699533.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +146,8 @@
       ]
     },
     {
-      "title": "老龙“长”新眉：百年火龙在代际接力中“燃”动中秋",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699430.shtml",
+      "title": "甘肃庆阳岐黄文化论坛开幕  岐黄中医圈粉东南亚年轻人",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699532.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "新疆克拉玛依深耕“数”“绿”转型 建设西部绿色算力高地",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699426.shtml",
+      "title": "第二十届亚洲运动会开幕",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699579.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "飞猪、同程、途家、美团回应被立案调查",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-19/10699445.shtml",
+      "title": "第七届广东省森林文化周“童眼绘森林”活动在穗举办",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699552.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "生态做优服务提质 浙江聚力打造生物医药五千亿集群",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699436.shtml",
+      "title": "2026年全国青年击剑锦标赛长沙开赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-19/10699550.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "黄金博物馆吉林桦甸开馆 百年金矿焕新文旅地标",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699440.shtml",
+      "title": "视野不到1度 51岁视障“倔大哥”追光奔跑",
+      "url": "http://www.chinanews.com.cn/ty/shipin/cns-d/2026/09-19/news1069400.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "陕西：马术逐步走出小众圈层 常年参训人数达数千人",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699438.shtml",
+      "title": "四川省气象台发布暴雨蓝色预警 部分地区有大暴雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699566.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "“鸳鸯管家”的守护与共生",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699441.shtml",
+      "title": "2026甘肃·庆阳岐黄文化论坛启幕 两大文化IP首次联动",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699537.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "四川：盐边突发泥石流 自然资源厅紧急派专家组赴现场",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699439.shtml",
+      "title": "燕赵电力实验室在河北省保定市揭牌",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699536.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "“三战”亚运会　中国香港击剑老将吴浩天期待“突破自我”",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699422.shtml",
+      "title": "2026年中国（广西）—东盟工业设计周在南宁开幕",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699540.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "没有板蓝根和黄芩！蓝芩喉糖引争议，律师解读",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-19/10699409.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "【好评中国】沃野孕“丰”年，织就增“收”景",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699444.shtml",
+      "title": "第十五届全国商学院帆船赛在松花江开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-19/10699544.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
