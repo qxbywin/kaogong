@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "time": "19:32",
-  "generatedAt": "2026-09-20T19:32:23.756Z",
+  "time": "22:32",
+  "generatedAt": "2026-09-20T22:32:31.372Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -101,6 +101,16 @@
       "source": "百度热搜",
       "cat": "hot",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "停车场、快递柜扫码后要先看广告，弹窗广告该怎么治？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10700500.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -228,16 +238,6 @@
     {
       "title": "石榴花开 籽籽同心｜一碗加加面，越“加”越有味",
       "url": "https://www.chinanews.com.cn/txy/2026/09-20/10700481.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "内蒙古自治区体育局原党组书记、局长谭景峰被开除党籍",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700476.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
