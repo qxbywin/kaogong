@@ -1,93 +1,53 @@
 {
   "date": "2026-09-20",
-  "time": "06:25",
-  "generatedAt": "2026-09-20T06:25:13.230Z",
+  "time": "12:28",
+  "generatedAt": "2026-09-20T12:28:54.786Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "搭建双重合作平台 凝聚“AI+金融”共识",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10700007.shtml",
+      "title": "李成钢任中国国际贸易谈判代表",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%88%90%E9%92%A2%E4%BB%BB%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "粤发布老年期痴呆全病程服务协作网地图2.0 纳入逾600家医疗机构",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-20/10700293.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "湖北省算力产业生态大会举行 发布词元交易中心",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700291.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "国家药监局：多项措施助力创新药、创新医疗器械发展提速",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699960.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "市场监管总局：“十五五”时期加快修订价格法 严打恶意低价竞争",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699937.shtml",
+      "title": "文化和旅游部印发《公共文化服务体系建设“十五五”规划》",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700371.shtml",
       "source": "中国新闻网",
       "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "涉及玩具、童鞋、校服不合格 市场监管总局公布5起典型案例",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699999.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "2026清华五道口首席经济学家论坛在京举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699954.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "四川金堂：“舶来果”扎根龙泉山 油橄榄特色产业向“新”而行",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699966.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青海省进口增速32个月以来首次实现两位数增长",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699933.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "新疆塔城地区民营经济代表团赴辽宁鞍山开展交流活动",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-20/10699988.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗称已向美国传达七项谈判条件",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699884.shtml",
+      "title": "探访乌隆他尼国际园艺博览会会址",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204946.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,28 +56,98 @@
       ]
     },
     {
-      "title": "“政治骗子”捞被查局长背后",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699987.shtml",
+      "title": "探馆第五届全球数字贸易博览会",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10700323.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中国硬核科技与重大工程捷报频传",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E4%B8%8E%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E6%8D%B7%E6%8A%A5%E9%A2%91%E4%BC%A0",
+      "title": "推动“中医药+康养” 融合 2026伊春市中医药产业高质量发展大会举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700285.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（乡村行·看振兴）“小粉皮”成就“大产业” 江西安远特色农产促振兴",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700364.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十四届环鄱阳湖国际自行车大赛开赛 首迎希腊车队",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10700276.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十届东亚地区农业文化遗产会议举行 共探农遗保护与开发",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700275.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "赵乐际会见印度尼西亚人民协商会议主席穆扎尼",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700339.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026贵阳国际网球公开赛男单决赛举行",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10700298.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中学男教师多次骚扰女学生 官方通报",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%B7%E6%95%99%E5%B8%88%E5%A4%9A%E6%AC%A1%E9%AA%9A%E6%89%B0%E5%A5%B3%E5%AD%A6%E7%94%9F+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "第191届慕尼黑啤酒节开幕",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204863.shtml",
+      "title": "伊朗：美国除接受伊朗条件别无选择",
+      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E9%99%A4%E6%8E%A5%E5%8F%97%E4%BC%8A%E6%9C%97%E6%9D%A1%E4%BB%B6%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四省老年运动员齐聚浙江开化舞秧歌 展现银发活力",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10700300.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +156,8 @@
       ]
     },
     {
-      "title": "东帝汶首次以东博会共办方身份举办推介活动",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10700003.shtml",
+      "title": "重点聚焦八项活动 天津市民族团结进步宣传周序幕拉开",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-20/10700299.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +166,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国澳门选手宋子君摘得武术男子长拳银牌",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204871.shtml",
+      "title": "云南215名教师同台竞技 推动中华民族共同体意识融入课堂",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-20/10700297.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +176,8 @@
       ]
     },
     {
-      "title": "良渚玉琮“回家”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700001.shtml",
+      "title": "浙江温州：一杯伏茶“暖”出道德文明高地",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700290.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +186,8 @@
       ]
     },
     {
-      "title": "澳大利亚发生持刀袭击事件 致一名儿童死亡多人受伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10700000.shtml",
+      "title": "山西“侨助千企万品出海”经贸交流专场活动在太原举办",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-20/10700289.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +196,8 @@
       ]
     },
     {
-      "title": "以球为媒聚人气  “苏超”联赛镇江主场尽显活力",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10699941.shtml",
+      "title": "哈尔滨发布国庆中秋文旅“菜单”：近200项活动 十大主题线路",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700288.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +206,8 @@
       ]
     },
     {
-      "title": "全国千余名跑者齐聚秦岭 推动全民健身从城市走向山野",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699993.shtml",
+      "title": "第七届西藏网络影像节面向全球征集作品",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700286.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +216,8 @@
       ]
     },
     {
-      "title": "（长江十年行）一江碧水向东流 解码四川长江大保护十年生态蝶变",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699950.shtml",
+      "title": "260余件插图装帧艺术作品在山东济南展出",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10700319.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +226,8 @@
       ]
     },
     {
-      "title": "2026海淀首届青年人才集体婚礼在京举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699953.shtml",
+      "title": "浙江杭州：智能机器人同台汇演展“十八般武艺”",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10700318.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "2026长江文化艺术季启幕 开幕话剧《主角》上演",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10699918.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026广东工会“工BA”职工篮球联赛收官 中山队获得总冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699955.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）中国选手林鑫瑜获铁人三项女子个人赛金牌",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204856.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西南当代现实主义题材雕塑创作巡展亮相内蒙古美术馆",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-20/10699969.shtml",
+      "title": "安徽合肥：看人形机器人各展所长",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10700316.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
