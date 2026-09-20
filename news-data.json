@@ -1,10 +1,30 @@
 {
-  "date": "2026-09-19",
-  "time": "23:14",
-  "generatedAt": "2026-09-19T23:14:14.262Z",
+  "date": "2026-09-20",
+  "time": "01:17",
+  "generatedAt": "2026-09-20T01:17:59.788Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "第58届东盟经济部长会议在菲律宾举行",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204803.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国国务院发布安全提醒 称中东地区局势可能升级",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699750.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "第58届东盟经济部长会议在菲举行 聚焦提升区域竞争力",
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699742.shtml",
@@ -16,8 +36,28 @@
       ]
     },
     {
+      "title": "关于30款App个人信息收集使用问题的通报",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699775.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "刷新多项纪录！我国硬核科技与重大工程捷报频传",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699751.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
-      "url": "https://www.chinanews.com.cn/kong/2026/09-20/10699748.shtml",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699748.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -36,9 +76,49 @@
       ]
     },
     {
-      "title": "欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699740.shtml",
-      "source": "中国新闻网",
+      "title": "多家银行上调存款利率",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8A%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国企副总留置不到40天 董事长被查",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E7%95%99%E7%BD%AE%E4%B8%8D%E5%88%B040%E5%A4%A9+%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "长期依赖AI真的会让人变笨吗",
+      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%9C%9F%E4%BE%9D%E8%B5%96AI%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8F%98%E7%AC%A8%E5%90%97",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "央视曝光回流药黑色产业链",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%9B%9E%E6%B5%81%E8%8D%AF%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中东传来一个好消息",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E4%BC%A0%E6%9D%A5%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -46,118 +126,8 @@
       ]
     },
     {
-      "title": "跨越海峡的科技对话：每一次握手，都离团圆更近一步",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699723.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第29届京台科技论坛侧记：AI浪潮中的台湾“追光者”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699722.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "聚焦新能源汽车制造 业界冀两岸携手打造安全供应链",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外商看好安徽新兴产业投资潜力：\"这里充满活力\"",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699719.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西推动“人工智能+应急管理”科技创新项目惠及东盟民众",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-19/10699720.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "两岸青年以光影为媒 碰撞AI创意火花",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699717.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第十三届丝绸之路国际电影节西安开幕 埃及为主宾国",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/09-19/10699714.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国科研机构发布“太空交管平台”等三大商业航天成果",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699709.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI手机之后 AI主机也出现了",
-      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B9%8B%E5%90%8E+AI%E4%B8%BB%E6%9C%BA%E4%B9%9F%E5%87%BA%E7%8E%B0%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赛力斯总裁：汽车产业最大风险是速成",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%9B%E5%8A%9B%E6%96%AF%E6%80%BB%E8%A3%81%EF%BC%9A%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E6%9C%80%E5%A4%A7%E9%A3%8E%E9%99%A9%E6%98%AF%E9%80%9F%E6%88%90",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "央视曝光文玩玉米市场暗藏猫腻",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%87%E7%8E%A9%E7%8E%89%E7%B1%B3%E5%B8%82%E5%9C%BA%E6%9A%97%E8%97%8F%E7%8C%AB%E8%85%BB",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "9月20日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-20/10699749.shtml",
+      "title": "铁人三项男子运动员张玺瑞夺得第20届亚运会中国代表团首枚奖牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699776.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +136,8 @@
       ]
     },
     {
-      "title": "四川盐边县泥石流已致2人遇难 3人失联",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699746.shtml",
+      "title": "四川盐边县格萨拉乡境内发生泥石流灾害 5人失联",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204806.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +146,8 @@
       ]
     },
     {
-      "title": "伊朗称已向美政府传达7项谈判条件",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699745.shtml",
+      "title": "在成都“漫游”香港 感受非遗融入日常",
+      "url": "http://www.chinanews.com.cn/ga/shipin/cns-d/2026/09-20/news1069447.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +156,8 @@
       ]
     },
     {
-      "title": "东博会公众开放日怎么逛？三个“首次”别错过",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699744.shtml",
+      "title": "中国代表团夺得名古屋亚运会首枚奖牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699769.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +166,8 @@
       ]
     },
     {
-      "title": "（台湾写真）《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699743.shtml",
+      "title": "中小企业多项效益指标创近年新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699768.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +176,8 @@
       ]
     },
     {
-      "title": "怎么折都有面？这座北方小城用折叠箱房圈粉全球",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699741.shtml",
+      "title": "亚运迎来“新朋友” 这些项目有点酷",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699767.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +186,8 @@
       ]
     },
     {
-      "title": "灯火映古塔 雅乐遇秦腔",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-19/10699739.shtml",
+      "title": "“中国入境游”备受阿拉伯国家青睐",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699766.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +196,8 @@
       ]
     },
     {
-      "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699738.shtml",
+      "title": "《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204798.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +206,38 @@
       ]
     },
     {
-      "title": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699728.shtml",
+      "title": "重庆湖北等地局地有暴雨 东北地区有降雨降温",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699761.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "舞剧《花木兰》亮相纽约林肯中心",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-20/10699752.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "4A景区被摘牌或降级，“盘活不良旅游资产”成必选项",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699760.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“送学游”走红 如何让开学季“过客”变为城市游“常客”？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699759.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
