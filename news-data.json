@@ -1,13 +1,33 @@
 {
   "date": "2026-09-20",
-  "time": "01:17",
-  "generatedAt": "2026-09-20T01:17:59.788Z",
+  "time": "06:25",
+  "generatedAt": "2026-09-20T06:25:13.230Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "第58届东盟经济部长会议在菲律宾举行",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204803.shtml",
+      "title": "搭建双重合作平台 凝聚“AI+金融”共识",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10700007.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国家药监局：多项措施助力创新药、创新医疗器械发展提速",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699960.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "市场监管总局：“十五五”时期加快修订价格法 严打恶意低价竞争",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699937.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 2,
@@ -16,69 +36,9 @@
       ]
     },
     {
-      "title": "美国国务院发布安全提醒 称中东地区局势可能升级",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699750.shtml",
+      "title": "涉及玩具、童鞋、校服不合格 市场监管总局公布5起典型案例",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699999.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第58届东盟经济部长会议在菲举行 聚焦提升区域竞争力",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699742.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "关于30款App个人信息收集使用问题的通报",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699775.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "刷新多项纪录！我国硬核科技与重大工程捷报频传",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699751.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699748.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多家银行上调存款利率",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8A%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87",
-      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -86,18 +46,68 @@
       ]
     },
     {
-      "title": "国企副总留置不到40天 董事长被查",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E5%89%AF%E6%80%BB%E7%95%99%E7%BD%AE%E4%B8%8D%E5%88%B040%E5%A4%A9+%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
+      "title": "2026清华五道口首席经济学家论坛在京举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699954.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 1,
       "exams": [
-        "事业单位"
+        "申论素材"
       ]
     },
     {
-      "title": "长期依赖AI真的会让人变笨吗",
-      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%9C%9F%E4%BE%9D%E8%B5%96AI%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8F%98%E7%AC%A8%E5%90%97",
+      "title": "四川金堂：“舶来果”扎根龙泉山 油橄榄特色产业向“新”而行",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699966.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青海省进口增速32个月以来首次实现两位数增长",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699933.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新疆塔城地区民营经济代表团赴辽宁鞍山开展交流活动",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-20/10699988.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗称已向美国传达七项谈判条件",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699884.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“政治骗子”捞被查局长背后",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699987.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国硬核科技与重大工程捷报频传",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E4%B8%8E%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E6%8D%B7%E6%8A%A5%E9%A2%91%E4%BC%A0",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -106,28 +116,8 @@
       ]
     },
     {
-      "title": "央视曝光回流药黑色产业链",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%9B%9E%E6%B5%81%E8%8D%AF%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中东传来一个好消息",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E4%BC%A0%E6%9D%A5%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "铁人三项男子运动员张玺瑞夺得第20届亚运会中国代表团首枚奖牌",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699776.shtml",
+      "title": "第191届慕尼黑啤酒节开幕",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204863.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +126,8 @@
       ]
     },
     {
-      "title": "四川盐边县格萨拉乡境内发生泥石流灾害 5人失联",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204806.shtml",
+      "title": "东帝汶首次以东博会共办方身份举办推介活动",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10700003.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +136,8 @@
       ]
     },
     {
-      "title": "在成都“漫游”香港 感受非遗融入日常",
-      "url": "http://www.chinanews.com.cn/ga/shipin/cns-d/2026/09-20/news1069447.shtml",
+      "title": "（爱知·名古屋亚运会）中国澳门选手宋子君摘得武术男子长拳银牌",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204871.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +146,8 @@
       ]
     },
     {
-      "title": "中国代表团夺得名古屋亚运会首枚奖牌",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699769.shtml",
+      "title": "良渚玉琮“回家”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700001.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +156,8 @@
       ]
     },
     {
-      "title": "中小企业多项效益指标创近年新高",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699768.shtml",
+      "title": "澳大利亚发生持刀袭击事件 致一名儿童死亡多人受伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10700000.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +166,8 @@
       ]
     },
     {
-      "title": "亚运迎来“新朋友” 这些项目有点酷",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699767.shtml",
+      "title": "以球为媒聚人气  “苏超”联赛镇江主场尽显活力",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10699941.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +176,8 @@
       ]
     },
     {
-      "title": "“中国入境游”备受阿拉伯国家青睐",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699766.shtml",
+      "title": "全国千余名跑者齐聚秦岭 推动全民健身从城市走向山野",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699993.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +186,8 @@
       ]
     },
     {
-      "title": "《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204798.shtml",
+      "title": "（长江十年行）一江碧水向东流 解码四川长江大保护十年生态蝶变",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699950.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "重庆湖北等地局地有暴雨 东北地区有降雨降温",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699761.shtml",
+      "title": "2026海淀首届青年人才集体婚礼在京举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699953.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "舞剧《花木兰》亮相纽约林肯中心",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-20/10699752.shtml",
+      "title": "2026长江文化艺术季启幕 开幕话剧《主角》上演",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10699918.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "4A景区被摘牌或降级，“盘活不良旅游资产”成必选项",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699760.shtml",
+      "title": "2026广东工会“工BA”职工篮球联赛收官 中山队获得总冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-20/10699955.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "“送学游”走红 如何让开学季“过客”变为城市游“常客”？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699759.shtml",
+      "title": "（爱知·名古屋亚运会）中国选手林鑫瑜获铁人三项女子个人赛金牌",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204856.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西南当代现实主义题材雕塑创作巡展亮相内蒙古美术馆",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-20/10699969.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
