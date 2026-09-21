@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
-  "time": "19:35",
-  "generatedAt": "2026-09-21T19:35:15.261Z",
+  "time": "23:22",
+  "generatedAt": "2026-09-21T23:22:28.602Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,46 @@
       "source": "百度热搜",
       "cat": "policy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "巴西工业活动放缓 市场预期年内仍有降息空间",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-22/10701201.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多地开启“抢老人”模式 年轻人解锁智慧养老新赛道",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701200.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "邀请消费者“来玩”，趣味赛事成为商场引流新“玩法”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701199.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "联合国大会期间 丹麦及格陵兰岛将和美国签署安全协议",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-22/10701198.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -86,16 +126,6 @@
       ]
     },
     {
-      "title": "王沪宁会见印度尼西亚人民协商会议主席穆扎尼",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-21/10701162.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "习近平复信美国10所高校青年学生",
       "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E7%BE%8E%E5%9B%BD10%E6%89%80%E9%AB%98%E6%A0%A1%E9%9D%92%E5%B9%B4%E5%AD%A6%E7%94%9F",
       "source": "百度热搜",
@@ -116,10 +146,10 @@
       ]
     },
     {
-      "title": "OpenAI被曝开发新功能",
-      "url": "https://www.baidu.com/s?wd=OpenAI%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E6%96%B0%E5%8A%9F%E8%83%BD",
+      "title": "男子过海关入境被查出内裤藏大麻",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E6%B5%B7%E5%85%B3%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%E5%87%BA%E5%86%85%E8%A3%A4%E8%97%8F%E5%A4%A7%E9%BA%BB",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -136,10 +166,20 @@
       ]
     },
     {
-      "title": "男子过海关入境被查出内裤藏大麻",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E6%B5%B7%E5%85%B3%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%E5%87%BA%E5%86%85%E8%A3%A4%E8%97%8F%E5%A4%A7%E9%BA%BB",
+      "title": "OpenAI被曝开发新功能",
+      "url": "https://www.baidu.com/s?wd=OpenAI%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E6%96%B0%E5%8A%9F%E8%83%BD",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "深圳市委：坚决拥护党中央决定",
+      "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%A7%94%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
+      "source": "百度热搜",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -156,8 +196,18 @@
       ]
     },
     {
-      "title": "2026中网正赛外卡名单公布 郑钦文、孙心然领衔",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-22/10701193.shtml",
+      "title": "中国发射“通感智算”卫星",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B0%84%E2%80%9C%E9%80%9A%E6%84%9F%E6%99%BA%E7%AE%97%E2%80%9D%E5%8D%AB%E6%98%9F",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9月22日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-22/10701204.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "王毅同德国外长瓦德富尔通电话",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701192.shtml",
+      "title": "受台风影响 日本关东地区发生山体滑坡已致2死4失联",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-22/10701203.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "“天涯共此时”系列文旅活动亮相2026ATAS年会",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-21/10701188.shtml",
+      "title": "赛场上跑起来、工厂里干起来  中国机器人从“能用”走向“好用”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701202.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国体操名将张博恒亚运会成功卫冕：全能信心“一直没丢”",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701185.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）男子4X200米自由泳极限翻盘 中国游泳队当日揽5金",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701184.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "杨利伟：神二十三乘组在太空工作顺利 黎家盈表现非常优秀",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-21/10701182.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重庆新游轮“世纪梦想号”长江首航",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701181.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）中国女排“复仇”泰国队 挺进亚运会决赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701179.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "报告：北京在全球城市人才黏性指数中排名第五",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-21/10701178.shtml",
+      "title": "花钱就能给食品“背书”？揭开“中食办”身份真相",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701197.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
