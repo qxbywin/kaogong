@@ -1,35 +1,95 @@
 {
   "date": "2026-09-21",
-  "time": "14:19",
-  "generatedAt": "2026-09-21T14:19:33.523Z",
+  "time": "19:35",
+  "generatedAt": "2026-09-21T19:35:15.261Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "2026深圳国际高性能医疗器械展暨创新医药展举办",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-21/10701065.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 3,
+      "title": "北京市平谷区人大常委会主任刘震被查",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%B9%B3%E8%B0%B7%E5%8C%BA%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E4%B8%BB%E4%BB%BB%E5%88%98%E9%9C%87%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "一片牛肉干嚼出封关“心事” 海南中小企业盼政策红利精准下沉",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701099.shtml",
+      "title": "欧盟通过延长对俄制裁方案 期限长达三年",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-22/10701195.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "第二届海外高新科技人才交流合作周在成都开幕",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-21/10701067.shtml",
+      "title": "“一次登记、全国通用” 解码“数据产权身份证”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701194.shtml",
       "source": "中国新闻网",
       "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“黄金周”临近 泰国旅游市场迎中国游客接待高峰",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-22/10701191.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年国际和平日纪念活动在武汉开幕",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-21/10701190.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄国家杜马选举初步结果揭晓 统俄党占绝对优势",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-21/10701189.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "报告：北京、杭州、深圳位列中国人工智能算力城市排名前三",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701180.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十九届“汉语桥”世界中学生中文比赛收官 美国选手夺冠",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-21/10701175.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王沪宁会见印度尼西亚人民协商会议主席穆扎尼",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-21/10701162.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -56,18 +116,8 @@
       ]
     },
     {
-      "title": "伊朗总统22日赴美出席联合国大会",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F22%E6%97%A5%E8%B5%B4%E7%BE%8E%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "宇树科技发布Dex5-S灵巧手",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83Dex5-S%E7%81%B5%E5%B7%A7%E6%89%8B",
+      "title": "OpenAI被曝开发新功能",
+      "url": "https://www.baidu.com/s?wd=OpenAI%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E6%96%B0%E5%8A%9F%E8%83%BD",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -76,8 +126,18 @@
       ]
     },
     {
-      "title": "覃伟中被查",
-      "url": "https://www.baidu.com/s?wd=%E8%A6%83%E4%BC%9F%E4%B8%AD%E8%A2%AB%E6%9F%A5",
+      "title": "中美经贸磋商在美国纽约举行",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E4%B8%BE%E8%A1%8C",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "男子过海关入境被查出内裤藏大麻",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%87%E6%B5%B7%E5%85%B3%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%E5%87%BA%E5%86%85%E8%A3%A4%E8%97%8F%E5%A4%A7%E9%BA%BB",
       "source": "百度热搜",
       "cat": "hot",
       "score": 1,
@@ -86,18 +146,18 @@
       ]
     },
     {
-      "title": "广东省人大常委会党组表态",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E5%85%9A%E7%BB%84%E8%A1%A8%E6%80%81",
+      "title": "美股“科技七巨头”多数上涨",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E2%80%9C%E7%A7%91%E6%8A%80%E4%B8%83%E5%B7%A8%E5%A4%B4%E2%80%9D%E5%A4%9A%E6%95%B0%E4%B8%8A%E6%B6%A8",
       "source": "百度热搜",
-      "cat": "policy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "综述｜加中经贸合作展现强劲韧性与广阔前景",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-21/10701156.shtml",
+      "title": "2026中网正赛外卡名单公布 郑钦文、孙心然领衔",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-22/10701193.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +166,8 @@
       ]
     },
     {
-      "title": "江西多地开展民族团结进步宣传周活动 铸牢中华民族共同体意识",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-21/10701080.shtml",
+      "title": "王毅同德国外长瓦德富尔通电话",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701192.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +176,8 @@
       ]
     },
     {
-      "title": "东西问丨从相遇到理解，美中文化大咖眼中的国之交往",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-21/10701151.shtml",
+      "title": "“天涯共此时”系列文旅活动亮相2026ATAS年会",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-21/10701188.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +186,8 @@
       ]
     },
     {
-      "title": "世界周刊丨“危险合流”——日本执政联盟新变化暗藏危机",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-21/10701155.shtml",
+      "title": "（爱知·名古屋亚运会）中国体操名将张博恒亚运会成功卫冕：全能信心“一直没丢”",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701185.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +196,8 @@
       ]
     },
     {
-      "title": "山东威海“五链融合”发展大会举办 千余名嘉宾共赴“链”上之约",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10701098.shtml",
+      "title": "（爱知·名古屋亚运会）男子4X200米自由泳极限翻盘 中国游泳队当日揽5金",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701184.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +206,8 @@
       ]
     },
     {
-      "title": "2026中国农民丰收节第九届乡村电影周将启幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-21/10701069.shtml",
+      "title": "杨利伟：神二十三乘组在太空工作顺利 黎家盈表现非常优秀",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-21/10701182.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +216,8 @@
       ]
     },
     {
-      "title": "海峡两岸（昌台）婚姻家庭联谊活动举办 共话家风传承",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10701096.shtml",
+      "title": "重庆新游轮“世纪梦想号”长江首航",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701181.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +226,8 @@
       ]
     },
     {
-      "title": "“洋水果”加速进入 海南本土特色农产品亟需“接招”突围",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701072.shtml",
+      "title": "（爱知·名古屋亚运会）中国女排“复仇”泰国队 挺进亚运会决赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701179.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,68 +236,8 @@
       ]
     },
     {
-      "title": "武汉理工大学数字学院/数字出版研究院揭牌成立",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-21/10701097.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "记忆力减退并非“老糊涂” 专家教你识别阿尔茨海默病早期信号",
-      "url": "https://www.chinanews.com.cn/life/2026/09-21/10701070.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《万物希声》获第十届现实题材网络文学征文大赛特等奖",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-21/10701100.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "云南省民族团结进步宣传周启动",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-21/10701102.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“黄河溯源—‘大河1号’自驾主题游径”体验季在山东东营首发",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10701101.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "驰骋东江源 江西安远以赛事点燃山水激情",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-21/10701103.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "四川：75名制茶能手同台竞技角逐国赛入场券",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10701104.shtml",
+      "title": "报告：北京在全球城市人才黏性指数中排名第五",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-21/10701178.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
