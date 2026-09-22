@@ -1,33 +1,23 @@
 {
   "date": "2026-09-22",
-  "time": "07:47",
-  "generatedAt": "2026-09-22T07:47:24.962Z",
+  "time": "13:28",
+  "generatedAt": "2026-09-22T13:28:40.245Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "外交部：各方应该共同推动人工智能开放、包容、普惠、向善发展",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701484.shtml",
+      "title": "三部门印发《轻工纺织产业发展“十五五”规划》",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701743.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "2026中欧人才论坛发布国际青年人才在京创新创业支持计划",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701442.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "创新“变量”如何变产业“增量”？浙江打出组合拳",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701441.shtml",
+      "title": "京津冀科技金融联盟在天津成立",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701728.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -36,78 +26,38 @@
       ]
     },
     {
-      "title": "国家卫健委发布50项新食品安全国家标准和修改单",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701498.shtml",
+      "title": "天津发布“先投后股”政策 支持初创期科技企业",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701712.shtml",
       "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
+      "cat": "policy",
+      "score": 2,
       "exams": [
-        "事业单位"
+        "申论素材"
       ]
     },
     {
-      "title": "外交部：中方一贯反对没有国际法依据、没有联合国安理会授权的非法单边制裁",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701499.shtml",
+      "title": "广西出台20条“硬核”措施推动人工智能与消费融合发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701707.shtml",
       "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "DeepSeek将向联合国安理会作通报",
+      "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B0%86%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%89%E7%90%86%E4%BC%9A%E4%BD%9C%E9%80%9A%E6%8A%A5",
+      "source": "百度热搜",
       "cat": "international",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "韩正将出席第81届联合国大会一般性辩论 中方介绍此访期待",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701500.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "辽宁盘锦一小区火灾致2死2伤 当地消防救援局通报",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701464.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国家卫生健康委发布50项新食品安全国家标准和修改单",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701473.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "生态环境部：秋冬季重污染天气应对要坚决避免“一刀切”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701423.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "南京江北新区通报一幼儿园食品卫生问题 11名责任人被处理",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701465.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "轻工纺织产业发展“十五五”规划发布",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701449.shtml",
+      "title": "李强在上海调研时强调 加快培育壮大新兴产业和未来产业 持续做大做强先进制造业",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701825.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -116,9 +66,49 @@
       ]
     },
     {
-      "title": "未来五年 居民生活品质如何提高",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4+%E5%B1%85%E6%B0%91%E7%94%9F%E6%B4%BB%E5%93%81%E8%B4%A8%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98",
-      "source": "百度热搜",
+      "title": "东西问丨美国华盛顿纪念碑上为何有一块中文石碑？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-22/10701467.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新能源汽车“晕车”“伤眼”隐患将纳入标准化测评",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701742.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国财政部：推动会计迈向数智化新阶段",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701839.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从实验室到生产线 山东高校以应用型科研对接产业升级",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701721.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "纪念长征胜利90周年 湖南深耕青少年国防应急体育教育",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701729.shtml",
+      "source": "中国新闻网",
       "cat": "society",
       "score": 1,
       "exams": [
@@ -126,19 +116,19 @@
       ]
     },
     {
-      "title": "官方通报“幼儿园用炒菜锅洗拖把”",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%94%A8%E7%82%92%E8%8F%9C%E9%94%85%E6%B4%97%E6%8B%96%E6%8A%8A%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "hot",
+      "title": "东西问丨杰弗里·沙利文：如何让美中“匹克球外交”持续转动？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-22/10701828.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI应用概念股集体走强",
-      "url": "https://www.baidu.com/s?wd=AI%E5%BA%94%E7%94%A8%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E8%B5%B0%E5%BC%BA",
-      "source": "百度热搜",
+      "title": "“彩云星座”正式发布 补上云南本地商用遥感数据获取能力短板",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701726.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -146,18 +136,8 @@
       ]
     },
     {
-      "title": "教别人用AI赚翻了",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%88%AB%E4%BA%BA%E7%94%A8AI%E8%B5%9A%E7%BF%BB%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中方：愿同东盟各国落实好自贸区3.0版",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701501.shtml",
+      "title": "2026年中秋：十五的月亮十七圆",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-22/10701733.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +146,8 @@
       ]
     },
     {
-      "title": "最佳治疗期6岁前 孤独症干预康复指南来了",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-22/10701494.shtml",
+      "title": "记者手记：在华盛顿感受中美大熊猫情缘",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701827.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +156,8 @@
       ]
     },
     {
-      "title": "马来西亚总理安瓦尔来华连续出席两场大型活动 中方介绍期待",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701493.shtml",
+      "title": "（爱知·名古屋亚运会）李冰洁获亚运会女子400米自由泳冠军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-22/1205270.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "中方：愿同美方一道丰富中美建设性战略稳定关系内涵",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701483.shtml",
+      "title": "中国女排加冕亚运“十冠王”",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-22/10701840.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "西藏等3省区党委主要负责同志职务调整",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701477.shtml",
+      "title": "中国科协：全国共有科协组织13.1万个 主管全国学会213个",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701736.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "纪念孙中山先生诞辰160周年系列主题活动在广州举行",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-22/10701463.shtml",
+      "title": "东西问·北京文化论坛｜短评：“系统性保护”铺就文脉传承新途",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-22/10701831.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "拟引入民间资本156亿元 中国官方向民企推介项目获积极反应",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701450.shtml",
+      "title": "铸牢中华民族共同体意识文物古籍图片展·德保站开幕",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-22/10701732.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "5部门调整向特定国家（地区）出口易制毒化学品管理目录",
-      "url": "https://www.chinanews.com.cn/${mypath}/2026/09-22/10701475.shtml",
+      "title": "西藏博物馆改扩建项目获中国土木工程詹天佑奖",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701731.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国队3比0胜泰国队 晋级羽毛球女团四强",
-      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-22/1205229.shtml",
+      "title": "从“肉眼观鸟”到“雷达巡空” 南岭鸟道装上“智慧天眼”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701730.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）张展硕男子1500米自由泳夺金",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-22/1205265.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "清远赴武汉揽才 提供逾万个优质岗位",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701727.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
