@@ -1,50 +1,10 @@
 {
   "date": "2026-09-22",
-  "time": "13:28",
-  "generatedAt": "2026-09-22T13:28:40.245Z",
+  "time": "18:09",
+  "generatedAt": "2026-09-22T18:09:22.351Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
-    {
-      "title": "三部门印发《轻工纺织产业发展“十五五”规划》",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701743.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "京津冀科技金融联盟在天津成立",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701728.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "天津发布“先投后股”政策 支持初创期科技企业",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701712.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西出台20条“硬核”措施推动人工智能与消费融合发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701707.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
     {
       "title": "DeepSeek将向联合国安理会作通报",
       "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B0%86%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%89%E7%90%86%E4%BC%9A%E4%BD%9C%E9%80%9A%E6%8A%A5",
@@ -56,58 +16,8 @@
       ]
     },
     {
-      "title": "李强在上海调研时强调 加快培育壮大新兴产业和未来产业 持续做大做强先进制造业",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701825.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东西问丨美国华盛顿纪念碑上为何有一块中文石碑？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-22/10701467.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "新能源汽车“晕车”“伤眼”隐患将纳入标准化测评",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701742.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国财政部：推动会计迈向数智化新阶段",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701839.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从实验室到生产线 山东高校以应用型科研对接产业升级",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701721.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "纪念长征胜利90周年 湖南深耕青少年国防应急体育教育",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701729.shtml",
+      "title": "50项食品安全国标发布 “舌尖安全防线”有了“硬标尺”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701915.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -116,8 +26,8 @@
       ]
     },
     {
-      "title": "东西问丨杰弗里·沙利文：如何让美中“匹克球外交”持续转动？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-22/10701828.shtml",
+      "title": "美国与丹麦及格陵兰岛签署安全协议",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10701914.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -126,8 +36,68 @@
       ]
     },
     {
-      "title": "“彩云星座”正式发布 补上云南本地商用遥感数据获取能力短板",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701726.shtml",
+      "title": "“听月雅集”中秋音乐会在美国纽约举办",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-23/10701913.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国—东盟经贸部长会议和RCEP部长级会议在菲律宾马尼拉举行",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-23/10701911.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年国际篮联洲际杯：北京控股队不敌阿根廷博卡青年",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701909.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王小洪在全国公安机关视频会议上强调 深入学习贯彻习近平总书记重要回信精神 坚决扛牢守百姓幸福护家国平安重任",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701860.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国各界对习近平主席国事访问充满期待",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701846.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中德汽车业界海口话“共赢”：国际合作至关重要",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701865.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "人工智能等领域8位专家做客格致论道 以《行者，新世界》为主题开讲",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701813.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -136,8 +106,28 @@
       ]
     },
     {
-      "title": "2026年中秋：十五的月亮十七圆",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-22/10701733.shtml",
+      "title": "中国首批航天员已全部停航停训",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E8%88%AA%E5%A4%A9%E5%91%98%E5%B7%B2%E5%85%A8%E9%83%A8%E5%81%9C%E8%88%AA%E5%81%9C%E8%AE%AD",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "女子在消费帮扶展3200元买到假翡翠",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B6%88%E8%B4%B9%E5%B8%AE%E6%89%B6%E5%B1%953200%E5%85%83%E4%B9%B0%E5%88%B0%E5%81%87%E7%BF%A1%E7%BF%A0",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "未拔充电器，客厅被烧光！这个习惯很危险",
+      "url": "https://www.chinanews.com.cn/life/2026/09-23/10701916.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +136,8 @@
       ]
     },
     {
-      "title": "记者手记：在华盛顿感受中美大熊猫情缘",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701827.shtml",
+      "title": "专家解析中国民营企业500强报告：制造业已成为“质的引擎”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701912.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +146,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）李冰洁获亚运会女子400米自由泳冠军",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-22/1205270.shtml",
+      "title": "2026比利·简·金杯深圳总决赛开赛 捷克队取得开门红",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701910.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +156,8 @@
       ]
     },
     {
-      "title": "中国女排加冕亚运“十冠王”",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-22/10701840.shtml",
+      "title": "（爱知·名古屋亚运会）中国女排完胜日本 实现亚运三连冠",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701908.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +166,8 @@
       ]
     },
     {
-      "title": "中国科协：全国共有科协组织13.1万个 主管全国学会213个",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701736.shtml",
+      "title": "（爱知·名古屋亚运会）综合消息：中国四将同获“三金王” 中国女排加冕亚运“十冠王”",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701907.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +176,8 @@
       ]
     },
     {
-      "title": "东西问·北京文化论坛｜短评：“系统性保护”铺就文脉传承新途",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-22/10701831.shtml",
+      "title": "（爱知·名古屋亚运会）中国游泳队又夺4金 张展硕再现逆转好戏",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701906.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +186,8 @@
       ]
     },
     {
-      "title": "铸牢中华民族共同体意识文物古籍图片展·德保站开幕",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-22/10701732.shtml",
+      "title": "台媒曝光“战时盾牌”机密选址：台北故宫等多处民用设施在列",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701875.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "西藏博物馆改扩建项目获中国土木工程詹天佑奖",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701731.shtml",
+      "title": "“纸中丝绸”四百年光彩依旧",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-22/10701793.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "从“肉眼观鸟”到“雷达巡空” 南岭鸟道装上“智慧天眼”",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701730.shtml",
+      "title": "习近平向第48届世界技能大赛致贺信",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701856.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）张展硕男子1500米自由泳夺金",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-22/1205265.shtml",
+      "title": "微视频｜合力筑就繁荣世界",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701842.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "清远赴武汉揽才 提供逾万个优质岗位",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701727.shtml",
+      "title": "专访欧伦斯：元首会晤为美中关系确定基调",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701845.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "李强会见世界技能组织主席乌汉和首席执行官霍伊",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701836.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
