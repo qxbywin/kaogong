@@ -1,13 +1,23 @@
 {
   "date": "2026-09-23",
-  "time": "20:29",
-  "generatedAt": "2026-09-23T20:29:56.237Z",
+  "time": "23:47",
+  "generatedAt": "2026-09-23T23:47:09.570Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "第十三届丝绸之路国际电影节闭幕 导演谢飞获终身成就奖",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10702674.shtml",
+      "title": "全球数字贸易博览会国际物流供应链活动浙江嘉兴举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702692.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "快讯：习近平抵达华盛顿对美国进行国事访问",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702708.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -16,8 +26,8 @@
       ]
     },
     {
-      "title": "警惕套路！利用AI批量生成软文“搭车”引流被判侵权",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702670.shtml",
+      "title": "东莞“锂电池出海一件事”启动 率先实现海关海事数据互认",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702705.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,48 +36,8 @@
       ]
     },
     {
-      "title": "中国成功发射卫星互联网低轨26组卫星",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702669.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "五万张卡片与三千场球赛：美国教师池欧的洛阳十二载",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702668.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西壮族自治区贵港市政协副主席黄星荣接受审查调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702563.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "甘肃省兰州市政协原党组成员、副主席芮文刚被\"双开\"",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702561.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河南安阳：中秋临近酥皮月饼走俏市场",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-23/10702542.shtml",
+      "title": "房地产市场交易总量趋于稳定",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702701.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -76,38 +46,18 @@
       ]
     },
     {
-      "title": "我国成功发射卫星互联网低轨26组卫星",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702656.shtml",
+      "title": "直播外链：国新办就中秋国庆假期交通运输服务保障有关情况举行新闻发布会",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-24/10702700.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "柬埔寨首相洪玛奈：打击电信网络诈骗需要加强国际合作",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10702623.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "以实践创新激发新阶层“建设力”四川召开新的社会阶层人士统战工作实践创新经验交流座谈会",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702595.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中方回应欧盟年度涉港和涉澳报告：立即停止以任何形式插手港澳事务",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10702614.shtml",
+      "title": "习近平抵达华盛顿，开始对美国进行国事访问",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702696.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -116,8 +66,38 @@
       ]
     },
     {
-      "title": "习近平离京对美国进行国事访问",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+      "title": "聚焦三大维度 浙江产教协同共育数字贸易人才",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10702693.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广州摘得2026世界智慧城市大奖·一带一路“治理大奖”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702689.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平抵达华盛顿对美国进行国事访问",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702684.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平抵达美国首都华盛顿",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -146,8 +126,8 @@
       ]
     },
     {
-      "title": "教育部：绩效分配向一线教师倾斜",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E7%BB%A9%E6%95%88%E5%88%86%E9%85%8D%E5%90%91%E4%B8%80%E7%BA%BF%E6%95%99%E5%B8%88%E5%80%BE%E6%96%9C",
+      "title": "教育部回应“13岁于子迪亚运夺2金”",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C13%E5%B2%81%E4%BA%8E%E5%AD%90%E8%BF%AA%E4%BA%9A%E8%BF%90%E5%A4%BA2%E9%87%91%E2%80%9D",
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
@@ -156,8 +136,8 @@
       ]
     },
     {
-      "title": "教育部回应“13岁于子迪亚运夺2金”",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C13%E5%B2%81%E4%BA%8E%E5%AD%90%E8%BF%AA%E4%BA%9A%E8%BF%90%E5%A4%BA2%E9%87%91%E2%80%9D",
+      "title": "教育部：绩效分配向一线教师倾斜",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E7%BB%A9%E6%95%88%E5%88%86%E9%85%8D%E5%90%91%E4%B8%80%E7%BA%BF%E6%95%99%E5%B8%88%E5%80%BE%E6%96%9C",
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
@@ -176,8 +156,18 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国体操女团实现亚运会14连冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702673.shtml",
+      "title": "俄外长：俄美应尽快“修复双边关系”",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BF%84%E7%BE%8E%E5%BA%94%E5%B0%BD%E5%BF%AB%E2%80%9C%E4%BF%AE%E5%A4%8D%E5%8F%8C%E8%BE%B9%E5%85%B3%E7%B3%BB%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "福建永安：稻香环古厝",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-24/10702702.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +176,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）综合消息：中国泳军单日获六金 体操女团实现亚运会14连冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702672.shtml",
+      "title": "第五届全球数贸会举办 全球客商齐聚浙江共寻商机",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-24/10702695.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +186,18 @@
       ]
     },
     {
-      "title": "伊朗总统：愿意谈判合作 不接受强权威胁",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-24/10702671.shtml",
+      "title": "天气转凉 双节外出要守好“三关” 国家卫健委特意提醒这几件事→",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-24/10702713.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "伊朗总统联大发言：致力对话谈判，绝不屈膝投降",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-24/10702709.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "中国科学院院士傅伯杰荣获2026年沃尔沃环境奖",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10702667.shtml",
+      "title": "介绍中国文化要从“为什么有意思”讲起",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10702712.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "原重庆新华书店集团一级专务肖陵被开除党籍",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702564.shtml",
+      "title": "食品经常放到过期？88.2%受访者有过此情况",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702710.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "海南热带海洋学院原副院长吴清江接受审查调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702558.shtml",
+      "title": "法国友人饶家驹生平展在巴黎揭幕",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702706.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "南北剧种同台竞艳 十四位“梅花奖”名家齐聚合肥",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-23/10702545.shtml",
+      "title": "国家图书馆“四季童读”2026年秋季卷发布",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10702703.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
