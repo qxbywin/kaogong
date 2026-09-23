@@ -1,13 +1,33 @@
 {
   "date": "2026-09-23",
-  "time": "06:05",
-  "generatedAt": "2026-09-23T06:05:31.537Z",
+  "time": "11:50",
+  "generatedAt": "2026-09-23T11:50:08.099Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "低糖养生、小份零食化、加速出海，月饼市场呈现哪些新趋势？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702189.shtml",
+      "title": "云南昭通市盐津县教育界党外知识分子：躬耕教坛守初心 为国育才担使命",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702385.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从“语同音”到“心相通”——民进中央赴和田开展社会服务主题年专项调研",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702356.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "香港8月整体消费物价指数同比上升1.7%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702453.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -16,8 +36,8 @@
       ]
     },
     {
-      "title": "共赴绿色转型：中国与东盟共探新能源合作新蓝海",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-23/10702185.shtml",
+      "title": "（乡村行·看振兴）从“凭手感”到“看数据”：高寒农牧场有了“智慧大脑”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10702365.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,8 +46,8 @@
       ]
     },
     {
-      "title": "海归英才聚湖南 创新创业结硕果",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702117.shtml",
+      "title": "首届全球人工智能可持续发展最佳实践大赛在杭州启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702351.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -36,78 +56,8 @@
       ]
     },
     {
-      "title": "巴西：中海油里约油气展展示深水能源合作与科技创新成果",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702115.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "教育部：每周至少半天校外实践教学将在全国推行",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702170.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国法治国际论坛（2026）举办 推动不同法系交流互鉴",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702113.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "探访跨星际上海航天数字科技馆：沉浸式感受中国航天逐梦之旅",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10702094.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“2026沪港创新项目评选”决赛路演：6个项目获最佳转化奖项",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702080.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "教育部：学位跟着人口走",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%AD%A6%E4%BD%8D%E8%B7%9F%E7%9D%80%E4%BA%BA%E5%8F%A3%E8%B5%B0",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国接受过高等教育人口达2.7亿",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8E%A5%E5%8F%97%E8%BF%87%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E4%BA%BA%E5%8F%A3%E8%BE%BE2.7%E4%BA%BF",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗总统抵达纽约出席联合国大会",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E7%BA%BD%E7%BA%A6%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
+      "title": "习近平离京对美国进行国事访问",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -116,8 +66,8 @@
       ]
     },
     {
-      "title": "教育部：督促学校把“2115”排进课表",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E7%9D%A3%E4%BF%83%E5%AD%A6%E6%A0%A1%E6%8A%8A%E2%80%9C2115%E2%80%9D%E6%8E%92%E8%BF%9B%E8%AF%BE%E8%A1%A8",
+      "title": "教育部回应“13岁于子迪亚运夺2金”",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C13%E5%B2%81%E4%BA%8E%E5%AD%90%E8%BF%AA%E4%BA%9A%E8%BF%90%E5%A4%BA2%E9%87%91%E2%80%9D",
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
@@ -126,28 +76,48 @@
       ]
     },
     {
-      "title": "教育部：强化教师待遇权益保障",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%BC%BA%E5%8C%96%E6%95%99%E5%B8%88%E5%BE%85%E9%81%87%E6%9D%83%E7%9B%8A%E4%BF%9D%E9%9A%9C",
+      "title": "U23国足与阿联酋爆发冲突",
+      "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%8E%E9%98%BF%E8%81%94%E9%85%8B%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
       "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "马斯克：中美贸易像“连体双胞胎”",
+      "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E5%83%8F%E2%80%9C%E8%BF%9E%E4%BD%93%E5%8F%8C%E8%83%9E%E8%83%8E%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第五届国家民委社会科学研究成果奖在北京发布",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702444.shtml",
+      "source": "中国新闻网",
       "cat": "society",
-      "score": 1,
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "当AI成为“标配” 大学该教什么",
-      "url": "https://www.baidu.com/s?wd=%E5%BD%93AI%E6%88%90%E4%B8%BA%E2%80%9C%E6%A0%87%E9%85%8D%E2%80%9D+%E5%A4%A7%E5%AD%A6%E8%AF%A5%E6%95%99%E4%BB%80%E4%B9%88",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "中新健康｜国家卫健委：体重不是越轻越好",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-23/10702451.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
-        "申论素材"
+        "事业单位"
       ]
     },
     {
-      "title": "稻浪长鼓引客来 吉林朝鲜族村落文旅融合促共富",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10702172.shtml",
+      "title": "古物藏万象 文脉汇北疆——内蒙古博物院宗教文物诉说千年民族交融故事",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702425.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +126,8 @@
       ]
     },
     {
-      "title": "一街旧时光 两岸共乡愁：津台同胞走进天津“80年代”怀旧街区",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702131.shtml",
+      "title": "郎酒秋酿开窖 汪博炜重申郎酒兼香战略定力",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702429.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +136,8 @@
       ]
     },
     {
-      "title": "香港海洋公园大熊猫一家享用节日大餐迎中秋",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-23/1205454.shtml",
+      "title": "山东省海外联谊会六届二次会员代表大会召开",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702392.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +146,8 @@
       ]
     },
     {
-      "title": "国台办发言人送中秋祝福 邀记者品月饼尝柚子",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702165.shtml",
+      "title": "2026豫台职工形象美妆艺术交流赛举行",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702382.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +156,8 @@
       ]
     },
     {
-      "title": "大湾区“棋眼”跃动青春力量 广州南沙让梦想找到落点",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702130.shtml",
+      "title": "辽宁师范大学举办民族团结进步法治论坛",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702380.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +166,8 @@
       ]
     },
     {
-      "title": "黄埔军校同学会举办在京黄埔理事及亲属中秋茶话会",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702129.shtml",
+      "title": "第五届顺义木林红薯丰收季启幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10702369.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +176,8 @@
       ]
     },
     {
-      "title": "广东中山好物登陆蓉城  “南洋风情旅游周” 国庆亮相",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10702128.shtml",
+      "title": "东西问·北京文化论坛｜陈映玲：一句乡音，何以成为跨越山海的通行证？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-23/10702448.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +186,8 @@
       ]
     },
     {
-      "title": "近百年前17人在这间30平方米的茅草屋里 点燃了云南革命星火",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702127.shtml",
+      "title": "张展硕：今天这枚金牌是一个好的答卷",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10702470.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +196,8 @@
       ]
     },
     {
-      "title": "青海：探明野生冬虫夏草年蕴藏量约600至800吨",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702126.shtml",
+      "title": "中国羽毛球男团3:1战胜印度队 晋级决赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10702467.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +206,38 @@
       ]
     },
     {
-      "title": "二战时期山东潍县集中营部分史料在香港展出",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-23/10702125.shtml",
+      "title": "从“三个好”到“三重生态” 浙江温州，凭什么？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702366.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "文旅为媒促 “三交” 巴蜀沃土绘就民族团结新画卷",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702361.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "辽宁阜新与海外华校师生云端共庆中秋",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702342.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "蓝皮书：广西建设铸牢中华民族共同体意识示范区实践为全国提供经验",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-23/10702358.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
