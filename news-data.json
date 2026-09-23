@@ -1,16 +1,76 @@
 {
-  "date": "2026-09-22",
-  "time": "21:28",
-  "generatedAt": "2026-09-22T21:28:04.774Z",
+  "date": "2026-09-23",
+  "time": "00:41",
+  "generatedAt": "2026-09-23T00:41:59.129Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "DeepSeek将向联合国安理会作通报",
-      "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B0%86%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%89%E7%90%86%E4%BC%9A%E4%BD%9C%E9%80%9A%E6%8A%A5",
-      "source": "百度热搜",
+      "title": "中国法治国际论坛（2026）在深圳开幕 陈文清出席并讲话",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10701936.shtml",
+      "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "直播外链：国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行发布会",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-23/10701943.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "亚洲开发银行略微上调亚太发展中经济体增长预期",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701939.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "欧盟宣布：延长涉乌克兰危机制裁措施至2029年",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10701937.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "50项食品安全新国标发布——全链条守护百姓“舌尖上的安全”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10701933.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普：美国官员与伊朗代表举行了一场“非常好的”会谈",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10701925.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "交通运输格局重塑，西南地区向海图强按下加速键",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-23/10701921.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -46,66 +106,6 @@
       ]
     },
     {
-      "title": "中国—东盟经贸部长会议和RCEP部长级会议在菲律宾马尼拉举行",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-23/10701911.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年国际篮联洲际杯：北京控股队不敌阿根廷博卡青年",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701909.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王小洪在全国公安机关视频会议上强调 深入学习贯彻习近平总书记重要回信精神 坚决扛牢守百姓幸福护家国平安重任",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701860.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国各界对习近平主席国事访问充满期待",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701846.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中德汽车业界海口话“共赢”：国际合作至关重要",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701865.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "人工智能等领域8位专家做客格致论道 以《行者，新世界》为主题开讲",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701813.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "中国首批航天员已全部停航停训",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E8%88%AA%E5%A4%A9%E5%91%98%E5%B7%B2%E5%85%A8%E9%83%A8%E5%81%9C%E8%88%AA%E5%81%9C%E8%AE%AD",
       "source": "百度热搜",
@@ -126,18 +126,8 @@
       ]
     },
     {
-      "title": "贵州省困难群众救助政策清单公布",
-      "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%9B%B0%E9%9A%BE%E7%BE%A4%E4%BC%97%E6%95%91%E5%8A%A9%E6%94%BF%E7%AD%96%E6%B8%85%E5%8D%95%E5%85%AC%E5%B8%83",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "未拔充电器，客厅被烧光！这个习惯很危险",
-      "url": "https://www.chinanews.com.cn/life/2026/09-23/10701916.shtml",
+      "title": "直播外链：陪你看亚运会：国足vs阿联酋 冲击八强！",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-23/10701944.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +136,8 @@
       ]
     },
     {
-      "title": "专家解析中国民营企业500强报告：制造业已成为“质的引擎”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701912.shtml",
+      "title": "进入儿童感冒高发期！一文梳理防护要点",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10701942.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +146,8 @@
       ]
     },
     {
-      "title": "2026比利·简·金杯深圳总决赛开赛 捷克队取得开门红",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701910.shtml",
+      "title": "美军一架F-16战机在德国坠毁",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10701941.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +156,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国女排完胜日本 实现亚运三连冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701908.shtml",
+      "title": "中国选手杨柳静夺得亚运会女子半程马拉松竞走金牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701938.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +166,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）综合消息：中国四将同获“三金王” 中国女排加冕亚运“十冠王”",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701907.shtml",
+      "title": "中国选手石升吉夺得亚运会男子半程马拉松竞走金牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701935.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +176,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国游泳队又夺4金 张展硕再现逆转好戏",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-23/10701906.shtml",
+      "title": "一次微小的反卷试验",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10701934.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +186,8 @@
       ]
     },
     {
-      "title": "台媒曝光“战时盾牌”机密选址：台北故宫等多处民用设施在列",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701875.shtml",
+      "title": "协助挂号、陪同问诊、代办缴费……陪诊服务真实体验如何？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701932.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "“纸中丝绸”四百年光彩依旧",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-22/10701793.shtml",
+      "title": "英国警方逮捕两名涉嫌策划恐袭的男子",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10701931.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "习近平向第48届世界技能大赛致贺信",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701856.shtml",
+      "title": "寒暑平分处 肺脾共养时",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-23/10701930.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "微视频｜合力筑就繁荣世界",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701842.shtml",
+      "title": "面对各类自然灾害 如何守护自身生产生活安全？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-23/10701929.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "专访欧伦斯：元首会晤为美中关系确定基调",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701845.shtml",
+      "title": "买净水器前，先看清这五件事",
+      "url": "https://www.chinanews.com.cn/life/2026/09-23/10701928.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普在联大发言 预测美伊或在中期选举后达成协议",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-23/10701927.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
