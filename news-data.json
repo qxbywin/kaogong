@@ -1,13 +1,33 @@
 {
   "date": "2026-09-24",
-  "time": "05:03",
-  "generatedAt": "2026-09-24T05:03:01.541Z",
+  "time": "10:11",
+  "generatedAt": "2026-09-24T10:11:44.437Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "AI破译地下成矿密码 为金矿“攻深找盲”装上数字引擎",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702903.shtml",
+      "title": "沈阳—韩国投资贸易博览会启幕 深挖AI、银发经济等新机遇",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703152.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "世界技能大赛观察：中国职业教育迈向贯通培养和市场导向",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703130.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“人工智能+12345热线”创新实践研讨会在沈阳举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703150.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -16,18 +36,8 @@
       ]
     },
     {
-      "title": "第十二届全球湘商大会在衡阳开幕 释放多重投资机遇",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702864.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "保安全、促转型 能源领域工作者谈创新故事",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702863.shtml",
+      "title": "我国成功发射遥感四十号04组卫星",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205693.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -36,18 +46,48 @@
       ]
     },
     {
-      "title": "秦巴沃土育好茶 陕西平利茶产业持续迭代升级",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702857.shtml",
+      "title": "李强签署国务院令 公布修订后的《中华人民共和国审计法实施条例》",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703180.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "习近平抵达美国首都华盛顿",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF",
+      "title": "辽宁—中亚经贸合作对接专项活动在沈阳举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703141.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中华人民共和国审计法实施条例",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703168.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "科技牵情话团圆 “月明南京·智汇同心”中秋文化交流活动启幕",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-24/10703154.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国已成为国际旅游最大客源国",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90%E4%B8%BA%E5%9B%BD%E9%99%85%E6%97%85%E6%B8%B8%E6%9C%80%E5%A4%A7%E5%AE%A2%E6%BA%90%E5%9B%BD",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -56,18 +96,8 @@
       ]
     },
     {
-      "title": "月饼市场从“面子”回归“里子”",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%88%E9%A5%BC%E5%B8%82%E5%9C%BA%E4%BB%8E%E2%80%9C%E9%9D%A2%E5%AD%90%E2%80%9D%E5%9B%9E%E5%BD%92%E2%80%9C%E9%87%8C%E5%AD%90%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏亚东出入境边防检查站开展普法宣传",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702900.shtml",
+      "title": "中国队获得亚运会女子4×200米自由泳接力冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703220.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +106,8 @@
       ]
     },
     {
-      "title": "贺兰山东麓新时代文明实践带品牌正式发布 银川探索“一带四线多点”实景化文明实践",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702902.shtml",
+      "title": "（长征胜利90周年）湘江战役失散红军之子：父亲望江思念战友 常嘱托勿忘本",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703151.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +116,8 @@
       ]
     },
     {
-      "title": "中国驻马赛总领事馆举办庆祝中华人民共和国成立77周年招待会",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-24/10702898.shtml",
+      "title": "亚运会男子4×100米自由泳接力：中国队刷新亚洲纪录夺冠",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703218.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +126,8 @@
       ]
     },
     {
-      "title": "中国建筑师马岩松以东方理念为“星战”导演卢卡斯打造博物馆",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10702885.shtml",
+      "title": "中国队夺得亚运会女子4×200米自由泳接力金牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703210.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +136,8 @@
       ]
     },
     {
-      "title": "第四届中国—东盟建筑业合作与发展论坛在广州举办",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-24/10702875.shtml",
+      "title": "2026中柬中秋联欢晚会在金边举办",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-24/10703164.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +146,8 @@
       ]
     },
     {
-      "title": "百余名网络人士齐聚明月山 开启“寻美江西 泉月宜春”共创之旅",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702873.shtml",
+      "title": "2026年尧文化旅游节在山西临汾开幕 邀四海宾朋“寻根回家”",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10703148.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +156,8 @@
       ]
     },
     {
-      "title": "草原上传了三代的“红书包”",
-      "url": "https://www.chinanews.com.cn/mz/2026/09-24/10702867.shtml",
+      "title": "“冠军兵马俑”迎客 2026上海劳力士大师赛首开“第二现场”",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703158.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +166,8 @@
       ]
     },
     {
-      "title": "一张写真尽展中华家风：延边文旅出圈厚植民族文脉",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702866.shtml",
+      "title": "剧作家刘和平：历史剧创作不拘泥于史料的细枝末节",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10703163.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +176,8 @@
       ]
     },
     {
-      "title": "“我想去中国”短视频创意大赛颁奖典礼暨山东文旅推介会在曼谷举办",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-24/10702865.shtml",
+      "title": "陕西佛坪：秦岭冷水鱼“游”出生态富民路",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703144.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +186,8 @@
       ]
     },
     {
-      "title": "文旅部：未来五年推动更多优秀艺术作品深入基层",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10702890.shtml",
+      "title": "德化白瓷艺术展在沈阳故宫开展",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10703139.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +196,8 @@
       ]
     },
     {
-      "title": "第13届海归论坛闭幕 8个海归创业项目落地签约",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702861.shtml",
+      "title": "花样跳绳世界冠军张少华进校园、分享成长历程",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703135.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +206,8 @@
       ]
     },
     {
-      "title": "海南侨界庆祝中国侨联成立70周年诗歌朗诵会举行",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-24/10702859.shtml",
+      "title": "世界技能大赛“自主移动机器人”项目激战正酣",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205690.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +216,8 @@
       ]
     },
     {
-      "title": "3:0横扫日本队 中国羽毛球女团时隔八年再夺亚运冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702920.shtml",
+      "title": "中国队夺得亚运会男子4×100米自由泳接力金牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10703170.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +226,8 @@
       ]
     },
     {
-      "title": "击败日本队 国羽时隔12年再获亚运会女团冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-24/10702919.shtml",
+      "title": "贵州苗族非遗服饰秀走上世界技能大赛",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205687.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "蜜雪冰城相继进入蒙古、乌兹别克斯坦，海外门店已覆盖18个国家",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702768.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "神农集团实控人被妻子起诉离婚，牵涉87.7亿元市值股票",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702766.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "仲秋时节，赏额尔古纳的童话秋色",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-24/10702862.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "英国向中国返还12件流失文物艺术品",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702909.shtml",
+      "title": "十五运会官方纪录电影《同湾同梦》首映礼在广州启幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-24/10703134.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
