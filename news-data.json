@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
-  "time": "19:17",
-  "generatedAt": "2026-09-24T19:17:52.476Z",
+  "time": "22:31",
+  "generatedAt": "2026-09-24T22:31:08.539Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -16,8 +16,28 @@
       ]
     },
     {
+      "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703548.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平同美国总统特朗普会谈",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703547.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205756.shtml",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703546.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -66,11 +86,31 @@
       ]
     },
     {
-      "title": "双节将至 请收好这份食品安全提示",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%8C%E8%8A%82%E5%B0%86%E8%87%B3+%E8%AF%B7%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
+      "title": "（爱知·名古屋亚运会）国乒男团无缘九连冠 女团实现六连冠",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703545.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）综合消息：张展硕加冕“六金王” 中国羽毛球女团时隔12年摘金",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703544.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）中国游泳队再添4枚金牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703543.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -198,46 +238,6 @@
     {
       "title": "湖南岳阳让亚洲赛事走进“城市客厅”",
       "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703518.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "画家张鹰：用油画讲好西藏故事",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703525.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "宁夏银川启动餐饮品质提升共创季 解锁西北风味新吃法",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10703521.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "李强会见马来西亚总理安瓦尔",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205745.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "香港展出逾300件美术精品贺国庆",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-24/10703516.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
