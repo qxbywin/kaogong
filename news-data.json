@@ -1,23 +1,43 @@
 {
-  "date": "2026-09-24",
-  "time": "22:31",
-  "generatedAt": "2026-09-24T22:31:08.539Z",
+  "date": "2026-09-25",
+  "time": "01:37",
+  "generatedAt": "2026-09-25T01:37:30.669Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "2026中国—东盟教育交流周配套活动“山海共此时”国际青年中秋音乐诗会在贵阳启幕",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-24/10703515.shtml",
+      "title": "从老国货到商业航天，闵行检察“MIP”的稳稳守护",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703569.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
       "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703548.shtml",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703565.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205763.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平出席美国总统特朗普举行的欢迎宴会",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703551.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,58 +56,18 @@
       ]
     },
     {
-      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703546.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "title": "亚运会今日将迎百米飞人大战",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%B0%86%E8%BF%8E%E7%99%BE%E7%B1%B3%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98",
+      "source": "百度热搜",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "新华图讯丨习近平同美国总统特朗普小范围交流",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703534.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平谈中东局势",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703531.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平同美国总统特朗普小范围交流",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703519.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-24/1205744.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）国乒男团无缘九连冠 女团实现六连冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703545.shtml",
+      "title": "方寸之地“绣”新景 山东打造城市绿色幸福空间",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703563.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +76,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）综合消息：张展硕加冕“六金王” 中国羽毛球女团时隔12年摘金",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703544.shtml",
+      "title": "中国驻法国大使馆举办庆祝中华人民共和国成立77周年招待会",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703562.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +86,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国游泳队再添4枚金牌",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703543.shtml",
+      "title": "驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-25/10703575.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +96,8 @@
       ]
     },
     {
-      "title": "今年中秋“十五的月亮十七圆” 最佳赏月时段→",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703541.shtml",
+      "title": "第十四届中国曲艺牡丹奖揭晓 原创曲艺剧《红军花》上演",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703557.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +106,8 @@
       ]
     },
     {
-      "title": "香港大坑“火龙”起舞欢庆中秋",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-25/10703538.shtml",
+      "title": "比利时知名艺术品收藏家“尤伦斯夫人”遭枪杀案开审",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-25/10703567.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +116,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国队获得羽毛球男子团体银牌",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205759.shtml",
+      "title": "网络音频用户规模持续扩大，内容品类日益丰富——耳朵听到的文化新声",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703579.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +126,8 @@
       ]
     },
     {
-      "title": "习近平：不以善小而不为，不以恶小而为之",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703535.shtml",
+      "title": "习言道丨让中美建设性战略稳定关系更好惠及两国人民和世界各国人民",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703555.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +136,8 @@
       ]
     },
     {
-      "title": "习近平：美方应慎重处理台湾问题",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703532.shtml",
+      "title": "直播：实景赛场 真机上阵 看世赛顶尖技能比拼",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-25/10703574.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +146,8 @@
       ]
     },
     {
-      "title": "习言道 | 中美不必讳言竞争，但竞争应该是良性的、有边界的",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703528.shtml",
+      "title": "预售要封顶、定金不超1%……北京楼市新政将带来哪些影响？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703573.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +156,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）乒乓球女子团体决赛：中国队夺得冠军",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205746.shtml",
+      "title": "直播海报：实景赛场 真机上阵 看世赛顶尖技能比拼",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703572.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "习近平：把中美建设性战略稳定关系从愿景转化为行动",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703530.shtml",
+      "title": "南京笪桥灯市启幕 千年古巷流光溢彩",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-25/10703561.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "六盘山好物入闽 宁夏隆德农文旅推介招商活动福州启幕",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703527.shtml",
+      "title": "古人如何过中秋？唐代赏月成为文人风雅时尚",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703558.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "文化观察：昆曲传承 守正更要“入心”",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703523.shtml",
+      "title": "国风圈粉中外游客！这个中秋有点不一样",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703570.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "跨越山海寻根祭祖 第八届尧都民间祭拜尧帝大典在山西临汾举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703524.shtml",
+      "title": "2026闽南戏剧周在泉州启动 海内外剧团同台献艺",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-25/10703560.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "首届关公文化论坛在山西运城举行 专家学者共探关公文化时代价值",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703520.shtml",
+      "title": "沈阳“和平杯”：中国队平吉尔吉斯斯坦队",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-25/10703559.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "湖南岳阳让亚洲赛事走进“城市客厅”",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703518.shtml",
+      "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703556.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）谢震业晋级男子百米半决赛",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205810.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）亚运会女子百米比赛 陈妤颉晋级半决赛 葛曼棋受伤离场",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205801.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
