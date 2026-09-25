@@ -1,13 +1,33 @@
 {
   "date": "2026-09-25",
-  "time": "01:37",
-  "generatedAt": "2026-09-25T01:37:30.669Z",
+  "time": "07:57",
+  "generatedAt": "2026-09-25T07:57:50.292Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "从老国货到商业航天，闵行检察“MIP”的稳稳守护",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703569.shtml",
+      "title": "从制度开放到场景落地 业界探路海南医疗AI发展",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-25/10703673.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "打造康养产业集聚区 海南夯实政策制度底座",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703649.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“温水煮青蛙” 日本渐进式布局军用AI暗藏多重风险",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-25/10703709.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -16,58 +36,48 @@
       ]
     },
     {
-      "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703565.shtml",
+      "title": "哈尔滨至伊春高铁9月28日开通运营 将实施市场化票价机制",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703705.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
-      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205763.shtml",
+      "title": "产业迭代，需求升级，新职业成为青年就业新选项",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703702.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "习近平出席美国总统特朗普举行的欢迎宴会",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703551.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平同美国总统特朗普会谈",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703547.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "亚运会今日将迎百米飞人大战",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%B0%86%E8%BF%8E%E7%99%BE%E7%B1%B3%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98",
+      "title": "特朗普听到大熊猫将落户美国笑了",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AC%E5%88%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E8%90%BD%E6%88%B7%E7%BE%8E%E5%9B%BD%E7%AC%91%E4%BA%86",
       "source": "百度热搜",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "方寸之地“绣”新景 山东打造城市绿色幸福空间",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703563.shtml",
+      "title": "国宴第一杯酒为何选尼克松访华同款",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B4%E7%AC%AC%E4%B8%80%E6%9D%AF%E9%85%92%E4%B8%BA%E4%BD%95%E9%80%89%E5%B0%BC%E5%85%8B%E6%9D%BE%E8%AE%BF%E5%8D%8E%E5%90%8C%E6%AC%BE",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西藏自治区民族团结进步宣传周启动 聚焦法治护航促团结",
+      "url": "https://www.chinanews.com.cn/mz/2026/09-25/10703680.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +86,8 @@
       ]
     },
     {
-      "title": "中国驻法国大使馆举办庆祝中华人民共和国成立77周年招待会",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703562.shtml",
+      "title": "长篇小说《不虚此生》研讨会在京举行",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703679.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +96,8 @@
       ]
     },
     {
-      "title": "驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-25/10703575.shtml",
+      "title": "浙江宁波“八月十六”过中秋 “三臭”月饼浓缩地域文化",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703671.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +106,8 @@
       ]
     },
     {
-      "title": "第十四届中国曲艺牡丹奖揭晓 原创曲艺剧《红军花》上演",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703557.shtml",
+      "title": "9月25日全国铁路预计发送旅客2234万人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703724.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +116,8 @@
       ]
     },
     {
-      "title": "比利时知名艺术品收藏家“尤伦斯夫人”遭枪杀案开审",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-25/10703567.shtml",
+      "title": "浙江山区的“破局”之道：读懂山，才能跨越山",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703668.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +126,8 @@
       ]
     },
     {
-      "title": "网络音频用户规模持续扩大，内容品类日益丰富——耳朵听到的文化新声",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703579.shtml",
+      "title": "一妆一袖皆入戏 巴拉圭青年浙江缙云“扮上”婺剧",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-25/10703667.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +136,8 @@
       ]
     },
     {
-      "title": "习言道丨让中美建设性战略稳定关系更好惠及两国人民和世界各国人民",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703555.shtml",
+      "title": "共赏家乡月 各民族同胞在浙江鄞州社区“有个家”",
+      "url": "https://www.chinanews.com.cn/mz/2026/09-25/10703666.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +146,8 @@
       ]
     },
     {
-      "title": "直播：实景赛场 真机上阵 看世赛顶尖技能比拼",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-25/10703574.shtml",
+      "title": "犍为独牙传奇中式九球公开赛开幕 802位健儿齐聚",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703639.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "预售要封顶、定金不超1%……北京楼市新政将带来哪些影响？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703573.shtml",
+      "title": "世界划联龙舟世界杯湖南沅陵开赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-25/10703723.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "直播海报：实景赛场 真机上阵 看世赛顶尖技能比拼",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703572.shtml",
+      "title": "东西问｜从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-25/10703660.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "南京笪桥灯市启幕 千年古巷流光溢彩",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-25/10703561.shtml",
+      "title": "王楚钦晋级亚运会男单16强",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703711.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "古人如何过中秋？唐代赏月成为文人风雅时尚",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703558.shtml",
+      "title": "亚运会开幕后第五个比赛日 中国代表团勇夺三十二枚金牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-25/10703707.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "国风圈粉中外游客！这个中秋有点不一样",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703570.shtml",
+      "title": "中秋假期开启 长三角铁路迎来客流高峰",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-25/10703662.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,18 @@
       ]
     },
     {
-      "title": "2026闽南戏剧周在泉州启动 海内外剧团同台献艺",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-25/10703560.shtml",
+      "title": "斩获多项重大新发现 中国考古经验如何助力海外遗址研究与保护？",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-25/10703704.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "国考"
+      ]
+    },
+    {
+      "title": "从寄往同乡到行销全球：老字号月饼出海不止乡愁",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703665.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "沈阳“和平杯”：中国队平吉尔吉斯斯坦队",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-25/10703559.shtml",
+      "title": "9月全国日均揽收快递5.85亿件 单日峰值超6.1亿件",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703703.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703556.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）谢震业晋级男子百米半决赛",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205810.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）亚运会女子百米比赛 陈妤颉晋级半决赛 葛曼棋受伤离场",
-      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205801.shtml",
+      "title": "瓯江之畔，浙江丽水“巴比松”探讨数字时代“新可能”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703663.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
