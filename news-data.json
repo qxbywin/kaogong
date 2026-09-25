@@ -1,10 +1,20 @@
 {
   "date": "2026-09-25",
-  "time": "18:43",
-  "generatedAt": "2026-09-25T18:43:34.849Z",
+  "time": "22:30",
+  "generatedAt": "2026-09-25T22:30:12.689Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "第三届南亚国际书展在斯里兰卡启幕",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-26/10703976.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
       "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1205960.shtml",
@@ -76,16 +86,6 @@
       ]
     },
     {
-      "title": "特色市集亮相香港观塘 促消费庆中秋",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-26/10703948.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "中美元首夫妇参观美国国家档案馆",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86",
       "source": "百度热搜",
@@ -111,6 +111,46 @@
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "月饼怎么选、怎么吃才健康",
+      "url": "https://www.chinanews.com.cn/life/2026/09-26/10703981.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美官员称美伊正就重新开放霍尔木兹海峡进行讨论",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-26/10703980.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）17岁百米“女飞人”陈妤颉亚运摘金：我没有极限",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10703978.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“天涯共此时”中秋晚会在德国柏林上演",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10703979.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -198,46 +238,6 @@
     {
       "title": "巴西圣保罗侨界举行纪念孙中山先生诞辰160周年图片展暨座谈会",
       "url": "https://www.chinanews.com.cn/hr/2026/09-26/10703957.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江开化：千年草龙逐月舞 钱江源头中秋长",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10703956.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年中国汽车场地越野锦标赛（利通区站）开幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10703955.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江台州府城阳台歌声起：海归青年月下有归处",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-26/10703954.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026“天涯共此时”中秋活动暨“水韵江苏”文旅推介会在悉尼启动",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-26/10703951.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
