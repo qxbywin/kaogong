@@ -1,23 +1,53 @@
 {
   "date": "2026-09-26",
-  "time": "01:40",
-  "generatedAt": "2026-09-26T01:40:58.888Z",
+  "time": "07:50",
+  "generatedAt": "2026-09-26T07:50:57.498Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "中国经济面面观｜世赛赛场上的“中国技能”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703995.shtml",
+      "title": "中国铁路主题展亮相柏林国际轨道交通技术展览会",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704110.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平结束对美国的国事访问回到北京",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704130.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "四川道孚“棕熊现身街头”图片系AI合成 两人被处罚",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10703988.shtml",
+      "title": "韩正会见联合国秘书长古特雷斯",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1205999.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平发出“5年10万”邀约 美国青年冀为长久友谊打基础",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704123.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "逛展数贸会：硬科技圈粉全球 耐心资本长期陪跑",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704102.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,18 +56,18 @@
       ]
     },
     {
-      "title": "欧盟启动违规程序要求成员国限期落实多项指令",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-26/10703987.shtml",
+      "title": "数贸会“朋友圈”扩容  海外客商盼加速拥抱中国市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704100.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "医疗健康领域脑机接口何时“飞入寻常百姓家”",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-26/10703982.shtml",
+      "title": "青春华章·学以报国｜68天、1671公里，这支“旅行团”凭什么被称为中国教育史上最伟大的长征？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704097.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -46,28 +76,8 @@
       ]
     },
     {
-      "title": "第三届南亚国际书展在斯里兰卡启幕",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-26/10703976.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1205960.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "记者手记：在美国国家档案馆，看见中美关系的“序章”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703973.shtml",
+      "title": "国际舆论关注习近平访美：传递积极务实信号 推动双边关系发展",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704075.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -86,28 +96,28 @@
       ]
     },
     {
-      "title": "国际油价25日下跌",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B725%E6%97%A5%E4%B8%8B%E8%B7%8C",
+      "title": "比尔·盖茨警告AI或致十亿人死亡",
+      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "加沙地带帐篷似“蒸笼” 海水被污染",
-      "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%B8%90%E7%AF%B7%E4%BC%BC%E2%80%9C%E8%92%B8%E7%AC%BC%E2%80%9D+%E6%B5%B7%E6%B0%B4%E8%A2%AB%E6%B1%A1%E6%9F%93",
+      "title": "17岁陈妤颉 百米飞人大战金牌",
+      "url": "https://www.baidu.com/s?wd=17%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89+%E7%99%BE%E7%B1%B3%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98%E9%87%91%E7%89%8C",
       "source": "百度热搜",
-      "cat": "society",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "亚运会｜陈芋汐/卢为获女子双人10米台金牌",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704007.shtml",
+      "title": "直播海报：2026山东卫视中秋晚会",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704128.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +126,8 @@
       ]
     },
     {
-      "title": "霓裳映月圆 南京大报恩寺遗址上演中秋雅宴",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10703998.shtml",
+      "title": "韩正会见基里巴斯总统马茂",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704124.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +136,8 @@
       ]
     },
     {
-      "title": "这个中秋，西藏人把日子过成了一个又一个圆",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704006.shtml",
+      "title": "9月26日全国铁路预计发送旅客1300万人次",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704125.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +146,8 @@
       ]
     },
     {
-      "title": "湖北武汉：白鲸水下“卖萌”与游客互动",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10703996.shtml",
+      "title": "（爱知·名古屋亚运会）中国组合王宗源/郑九源亚运会男子双人3米板夺冠",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1205994.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "“郑和行之友谊使者”系列文化交流活动走进斯里兰卡",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10703994.shtml",
+      "title": "成都青白江城厢古城中秋节上演沉浸式行走秀",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10704107.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "贵州大地指纹音乐会中秋专场精彩上演",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10703993.shtml",
+      "title": "广东侨乡潮州多彩活动庆中秋",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10704104.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "天涯共此时·中秋诗会｜当巴黎青年穿上汉服——五位法国朋友的月亮之夜",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704005.shtml",
+      "title": "2026上海赛艇公开赛暨世界赛艇联合会上海冲刺赛在苏州河上举行",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10704103.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "一枚便士 一段中美记忆",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704003.shtml",
+      "title": "全国女排锦标赛：上海、江苏、山东、浙江晋级四强",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704117.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "公安网安部门侦破一起侵犯公民个人信息案 抓获涉案人员28名",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704002.shtml",
+      "title": "中秋月映并蒂莲灯 光影流转情牵两岸",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704114.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "亚运会｜闲记：月圆，见证拼搏与守望",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704001.shtml",
+      "title": "银川2026年首届职工集体婚礼浪漫礼成",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704116.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "韩正会见加纳总统马哈马",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703990.shtml",
+      "title": "山东海阳：一把锡镶壶，千锤“绣”古今",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704113.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "韩正会见塞浦路斯总统赫里斯托祖利季斯",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703989.shtml",
+      "title": "从“卖原料”到“卖品牌” 海南保亭建设热带特色高效农业示范区",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704112.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "技能让文化交融交流（走进世界技能大赛）",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703992.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "碧波渔影绘同心：查干湖畔各族共唱致富“渔光曲”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703991.shtml",
+      "title": "东西问｜谢辉铉：从里昂到上海，技能何以成为东西方交流的“共通语言”？",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704086.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
