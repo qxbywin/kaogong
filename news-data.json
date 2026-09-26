@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
-  "time": "19:57",
-  "generatedAt": "2026-09-26T19:57:22.040Z",
+  "time": "22:58",
+  "generatedAt": "2026-09-26T22:58:28.999Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -36,16 +36,6 @@
       ]
     },
     {
-      "title": "西安交大举行航空与海洋交叉学科高质量发展会议",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704260.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "习近平主席美国之行",
       "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%B9%8B%E8%A1%8C",
       "source": "百度热搜",
@@ -61,6 +51,36 @@
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "儒家的交友课：“边界感”会让友谊变冷吗",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704311.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“请3休13”，一些职场人“拼假游”“拼 ” 出新体验",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704310.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "4条高铁将同日开通 多地迈入高铁时代",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -218,26 +238,6 @@
     {
       "title": "三代接力，从一个人到一群人",
       "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704291.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "月明照万家 同心共此时——全国各地群众欢度中秋",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704290.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "不到30小时，宁夏牛肉“直奔”长三角餐桌 ｜活力中国调研行",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704289.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
