@@ -1,24 +1,74 @@
 {
   "date": "2026-09-26",
-  "time": "13:13",
-  "generatedAt": "2026-09-26T13:13:10.403Z",
+  "time": "17:16",
+  "generatedAt": "2026-09-26T17:16:21.724Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "外交部就人工智能问题答记者问",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%97%AE%E9%A2%98%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+      "title": "伊朗总统：不再信任同美国的对话",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704302.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全球媒体聚焦 | 美媒：中秋节带火中国文旅消费",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704295.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "各地商圈新场景新业态加快“上新” 特色服务让消费“品味”加速升级",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704275.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西安交大举行航空与海洋交叉学科高质量发展会议",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704260.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“金贸全球”助浙江五金产业出海 达成意向订单超1亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704268.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平主席美国之行",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%B9%8B%E8%A1%8C",
       "source": "百度热搜",
       "cat": "international",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "平遥国际电影展纪念“诗人导演”费穆诞辰120周年",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704258.shtml",
-      "source": "中国新闻网",
+      "title": "美国罕见超规格接待在日引巨大关注",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%95%E8%A7%81%E8%B6%85%E8%A7%84%E6%A0%BC%E6%8E%A5%E5%BE%85%E5%9C%A8%E6%97%A5%E5%BC%95%E5%B7%A8%E5%A4%A7%E5%85%B3%E6%B3%A8",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -26,38 +76,8 @@
       ]
     },
     {
-      "title": "孙颖莎：混双项目国际竞争激烈 各队水平接近",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704271.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "云南援老挝医疗队2个月开展12台冠脉介入手术 创多个首例纪录",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704236.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国际篮联洲际杯半决赛：NBA发展联盟联队晋级决赛",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1206056.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王楚钦：后续需要重新研究如何提升混双实力",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704262.shtml",
+      "title": "（爱知·名古屋亚运会）林诗栋/蒯曼击败王楚钦/孙颖莎 夺得亚运会乒乓球混双冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704304.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -66,8 +86,8 @@
       ]
     },
     {
-      "title": "习言道｜共同在中美关系发展史上写下浓墨重彩的一笔",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704250.shtml",
+      "title": "驻泰国使馆提醒在泰中国公民防范强降雨及洪涝灾害",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704303.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +96,8 @@
       ]
     },
     {
-      "title": "不止拼技术：世赛竞技，美也是硬实力",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704253.shtml",
+      "title": "福建罗源县碧里乡发生滑坡泥石流险情 3人暂未联系上",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704301.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +106,8 @@
       ]
     },
     {
-      "title": "2026年宁夏足球超级联赛收官 平罗坤澄队登顶",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704245.shtml",
+      "title": "特朗普称拒绝伊朗重开霍尔木兹海峡的提议",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704300.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +116,8 @@
       ]
     },
     {
-      "title": "“骑跑中国”2026骑跑两项全民系列赛（重庆·璧山站）暨2026千年成渝古道越野赛鸣枪开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704244.shtml",
+      "title": "头发上、衣服上都是它！东北秋天的“小咬”到底是啥",
+      "url": "https://www.chinanews.com.cn/life/2026/09-27/10704299.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +126,8 @@
       ]
     },
     {
-      "title": "全球数贸会：人机互动竞赛热度高",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10704235.shtml",
+      "title": "“张雪机车”车手获世界超级摩托车锦标赛意大利站首回合第4名",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704298.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +136,8 @@
       ]
     },
     {
-      "title": "阿吾提江：美食沁润藏西阿里21年",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704242.shtml",
+      "title": "“十一”假期前四川、陕西等地部分地区有大到暴雨 注意防范",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704297.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +146,8 @@
       ]
     },
     {
-      "title": "西藏接连发布暴雪预警 冈仁波齐景区暂停进入",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704240.shtml",
+      "title": "全球媒体聚焦 | 全球发展倡议5周年 切实助力世界可持续发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704296.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +156,8 @@
       ]
     },
     {
-      "title": "百年骑楼人气旺 广西梧州金秋嘉年华启幕",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10704243.shtml",
+      "title": "尺子量精度、眼睛看创意 世界技能大赛评分标准揭秘",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704294.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +166,8 @@
       ]
     },
     {
-      "title": "重庆巴南秋日花海盛放引游人",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10704230.shtml",
+      "title": "包月饼、写家书 中秋佳节感受军营里的暖意融融",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704293.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "“半山腰太挤了，要去山顶看看”：世赛木作赛场多国青年以技相逢",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704239.shtml",
+      "title": "链上天津｜天津如何解码“绿色生意链”？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704292.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "2026年全国桨板U系列赛（南京站）鸣笛开赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-26/10704228.shtml",
+      "title": "三代接力，从一个人到一群人",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704291.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "广东连南：又“土”又浪漫 梯田音乐节唱响千年瑶寨",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704237.shtml",
+      "title": "月明照万家 同心共此时——全国各地群众欢度中秋",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704290.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "2026年中国马术场地障碍青少年冠军杯赛（西安站）开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704233.shtml",
+      "title": "不到30小时，宁夏牛肉“直奔”长三角餐桌 ｜活力中国调研行",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704289.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国女篮获爱知·名古屋亚运会铜牌",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704227.shtml",
+      "title": "焦点访谈丨中秋习俗代代传承 一轮明月照见千年团圆",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704288.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "假期观察：药膳月饼走红，轻养生背后的“食”之有道",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704229.shtml",
+      "title": "（爱知·名古屋亚运会）名古屋亚运会状况频发 组委会致歉",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704278.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "援疆精品剧目《金陵十三钗》《星河旅馆》在乌鲁木齐上演",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704222.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多项“首发首秀”亮相全球数贸会",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1206061.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "27金！赛程过半浙江运动员刷新境外亚运会最佳战绩",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704219.shtml",
+      "title": "南非约翰内斯堡东部接连发现10具女性遗体",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-26/10704224.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
