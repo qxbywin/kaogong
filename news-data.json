@@ -1,23 +1,13 @@
 {
   "date": "2026-09-27",
-  "time": "01:33",
-  "generatedAt": "2026-09-27T01:33:44.812Z",
+  "time": "08:20",
+  "generatedAt": "2026-09-27T08:20:43.695Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "政策为何力挺真人短剧？AI技术边界在哪里？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704326.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "竞赛对标真实产业需求 揭秘赛场背后的技能人才成长密码",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704328.shtml",
+      "title": "南京：丰富公共体验空间 激活消费新场景",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-27/10704412.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -26,38 +16,8 @@
       ]
     },
     {
-      "title": "市场最前沿丨从手工技艺到数字应用——在世界技能大赛看见未来技能人才画像",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704327.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "欧盟承诺向撒哈拉以南非洲及巴勒斯坦等国提供逾7亿欧元援助",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704315.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普称美国和古巴会达成协议",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI时代，为啥还要拼技能？世赛现场即答案",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml",
+      "title": "数贸会观察：耐心资本如何托举创新浙江？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704418.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,8 +26,8 @@
       ]
     },
     {
-      "title": "伊朗总统：不再信任同美国的对话",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704302.shtml",
+      "title": "“平平”“福双”去美国，行李箱里到底装了啥？",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704417.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,28 +36,28 @@
       ]
     },
     {
-      "title": "习近平主席美国之行",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%B9%8B%E8%A1%8C",
+      "title": "OpenAI再暂停最先进模型训练",
+      "url": "https://www.baidu.com/s?wd=OpenAI%E5%86%8D%E6%9A%82%E5%81%9C%E6%9C%80%E5%85%88%E8%BF%9B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国罕见超规格接待在日引巨大关注",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%95%E8%A7%81%E8%B6%85%E8%A7%84%E6%A0%BC%E6%8E%A5%E5%BE%85%E5%9C%A8%E6%97%A5%E5%BC%95%E5%B7%A8%E5%A4%A7%E5%85%B3%E6%B3%A8",
+      "title": "首部AI院线电影定档",
+      "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A3",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）王楚钦孙颖莎获得乒乓球混双亚军",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206075.shtml",
+      "title": "九天揽月、向海筑能！本周我国多项硬核工程接连突破",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704451.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +66,8 @@
       ]
     },
     {
-      "title": "2026“挥拍中国”羽毛球公开赛长三角赛区宁波站首日挥拍",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704337.shtml",
+      "title": "@所有人 中秋假期接近尾声，这份返程安全提示请收好→",
+      "url": "https://www.chinanews.com.cn/life/2026/09-27/10704449.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +76,8 @@
       ]
     },
     {
-      "title": "三大运营商全面暂停“0元购机”，是何原因？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml",
+      "title": "美媒：“体验主导游”让中国文化古城吸引众多外国游客",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704450.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +86,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）林诗栋蒯曼夺得乒乓球混双冠军",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206069.shtml",
+      "title": "（爱知·名古屋亚运会）中国选手朱沅铃、崔宸曦获得滑板女子街式赛冠军、季军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206131.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +96,8 @@
       ]
     },
     {
-      "title": "“情怀大过能力”是自嘲还是无奈？李亚鹏首次回应——中新网《新声》对话李亚鹏",
-      "url": "http://www.chinanews.com.cn/yl/shipin/2026/09-27/news1070307.shtml",
+      "title": "东西问｜郑长忠：“人之技能”的重要性何以在数智时代引发全球共鸣？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-27/10704432.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +106,8 @@
       ]
     },
     {
-      "title": "2026“赣超”落幕南昌队夺冠 超6.1万名观众现场观赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704323.shtml",
+      "title": "（爱知·名古屋亚运会）中国选手孙思蓓、孙佳琪获得自由式小轮车女子公园赛冠军、季军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206123.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,48 +116,8 @@
       ]
     },
     {
-      "title": "半夜醒来，为啥建议你别看手机和时间？",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-27/10704324.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "突发性耳聋年轻化！关于听力问题这些误区要注意",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-27/10704322.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全网模仿“闪身步”藏隐患 别拿膝盖跟风网红动作",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-27/10704321.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“百元一日聚”走红，戳中了什么",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704319.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一本“技能护照”如何实现“跨国旅行”",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-27/10704318.shtml",
+      "title": "中国海警位黄岩岛附近海域组织维权执法管控演练",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704441.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -207,7 +127,7 @@
     },
     {
       "title": "南部战区位黄岩岛周边海空域组织海空联合演训",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704317.shtml",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704440.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +136,8 @@
       ]
     },
     {
-      "title": "大熊猫“平平”“福双”已启程赴美",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704316.shtml",
+      "title": "第六届青年跨界舞蹈艺术周在重庆落幕",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-27/10704414.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +146,8 @@
       ]
     },
     {
-      "title": "9月27日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-27/10704314.shtml",
+      "title": "东西问｜萨曼塔：云南何以成为蜚声海内外的“真菌王国”？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-27/10704431.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +156,88 @@
       ]
     },
     {
-      "title": "儒家的交友课：“边界感”会让友谊变冷吗",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704311.shtml",
+      "title": "世界旅游日，用正确方式打开精彩中国",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/09-27/news1070324.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "世赛瓷砖贴面唯一女选手：人生只有一次，不妨大胆试一试",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704437.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国大使杯围棋赛在莫斯科开幕",
+      "url": "http://www.chinanews.com.cn/ty/shipin/cns-d/2026/09-27/news1070321.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "歌手洪楗华离世",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704433.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "赏秋地图上线 解锁宝藏小城里的“追秋密码”",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704430.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "秘鲁印加古城兴起汉语学习热",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-27/10704409.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "潮州港首艘运载粮食外轮顺利直靠",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704422.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“月映文昌阁 诗传客家情” 中秋诗会唱响赣粤文化共鸣",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704428.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "聚焦“文学里的北京” 石一枫阅读分享活动举办",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704427.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
