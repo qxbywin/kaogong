@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
-  "time": "14:06",
-  "generatedAt": "2026-09-27T14:06:32.780Z",
+  "time": "18:30",
+  "generatedAt": "2026-09-27T18:30:15.654Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,16 @@
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026中俄国际足球邀请赛在沪开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704633.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -36,9 +46,9 @@
       ]
     },
     {
-      "title": "中秋假期湖北夜游消费持续升温",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704596.shtml",
-      "source": "中国新闻网",
+      "title": "贷款中介这几天集体删除朋友圈",
+      "url": "https://www.baidu.com/s?wd=%E8%B4%B7%E6%AC%BE%E4%B8%AD%E4%BB%8B%E8%BF%99%E5%87%A0%E5%A4%A9%E9%9B%86%E4%BD%93%E5%88%A0%E9%99%A4%E6%9C%8B%E5%8F%8B%E5%9C%88",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -56,8 +66,18 @@
       ]
     },
     {
-      "title": "俄外长联大怒批美国：立刻释放马杜罗",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%E8%81%94%E5%A4%A7%E6%80%92%E6%89%B9%E7%BE%8E%E5%9B%BD%EF%BC%9A%E7%AB%8B%E5%88%BB%E9%87%8A%E6%94%BE%E9%A9%AC%E6%9D%9C%E7%BD%97",
+      "title": "AI医生带货卖药 责任谁来担",
+      "url": "https://www.baidu.com/s?wd=AI%E5%8C%BB%E7%94%9F%E5%B8%A6%E8%B4%A7%E5%8D%96%E8%8D%AF+%E8%B4%A3%E4%BB%BB%E8%B0%81%E6%9D%A5%E6%8B%85",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "大熊猫“平平”“福双”抵达美国",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E2%80%9C%E5%B9%B3%E5%B9%B3%E2%80%9D%E2%80%9C%E7%A6%8F%E5%8F%8C%E2%80%9D%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -76,28 +96,18 @@
       ]
     },
     {
-      "title": "大熊猫“平平”“福双”抵达美国",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E2%80%9C%E5%B9%B3%E5%B9%B3%E2%80%9D%E2%80%9C%E7%A6%8F%E5%8F%8C%E2%80%9D%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+      "title": "OpenAI再次暂停其最先进模型训练",
+      "url": "https://www.baidu.com/s?wd=OpenAI%E5%86%8D%E6%AC%A1%E6%9A%82%E5%81%9C%E5%85%B6%E6%9C%80%E5%85%88%E8%BF%9B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "国际象棋奥赛 中国女队全程不败夺冠",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E5%A5%A5%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%98%9F%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%B4%A5%E5%A4%BA%E5%86%A0",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泰国曼谷洪灾持续 总理提前返泰应对",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704611.shtml",
+      "title": "以技能之桥联通世界 第48届世界技能大赛闭幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704634.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +116,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国队摘得跳水女子双人3米板、男子双人10米台金牌",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704610.shtml",
+      "title": "特朗普称预计本周继续与伊朗谈判",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +126,8 @@
       ]
     },
     {
-      "title": "上海交大“00后”学生李金泽摘得第48届世界技能大赛智慧安防技术项目金牌",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704601.shtml",
+      "title": "（爱知·名古屋亚运会）综合消息：中国队包揽乒乓球女单冠亚军 严子怡首秀破纪录夺冠",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704631.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +136,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）中国队摘得男、女200米银牌  泰国选手破亚运会纪录",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704608.shtml",
+      "title": "戈壁“花木兰” 戎装守边防",
+      "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/09-27/news1070351.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +146,8 @@
       ]
     },
     {
-      "title": "柏林世界公园中秋庆典举行",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-27/10704604.shtml",
+      "title": "捷克队夺2026比利·简·金杯女网团体冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704620.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "科创与资本双向奔赴 数贸会成投融资对接“强磁场”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704606.shtml",
+      "title": "中国蝉联世界技能大赛金牌榜榜首 创历史最好成绩",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704621.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "技能赋能文旅 侨乡浙江青田解锁持久“出圈”新路径",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-27/10704602.shtml",
+      "title": "第16届中国金鹰电视艺术节在长沙开幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704619.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "一投致胜！小将严子怡打破女子标枪亚运会纪录夺冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704612.shtml",
+      "title": "第四届“长城之约”全球推广活动暨世界文化遗产对话在河北迁安举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704622.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "赣超冠军之夜：绿茵场上的“新南昌人”",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-27/10704599.shtml",
+      "title": "（爱知·名古屋亚运会）中国体育代表团秘书长：前半程中国队成绩符合预期",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704618.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "中国蝉联世界技能大赛金牌榜榜首",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704605.shtml",
+      "title": "（爱知·名古屋亚运会）中国选手陈圆将男子110米栏夺冠 吴艳妮女子100米栏摘铜",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704617.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "东西问｜马来西亚为何与中国如此亲近？安瓦尔总理给出三点理由",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-27/10704588.shtml",
+      "title": "“冠军中的冠军”！中国选手何晓嫚获得阿尔伯特·维达大奖",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704616.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "孙阳首次担纲主演 《发现之旅》平遥首映：把电子游戏“玩”进电影",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704591.shtml",
+      "title": "王曼昱：决赛可能运气更好一些 明天女双比赛继续拼搏",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704615.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "中秋假期广州市接待游客超660万人次",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704590.shtml",
+      "title": "孙颖莎：本届亚运会给自己打90分",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704614.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "重庆对开州、巫溪发布地质灾害气象风险红色预警",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704592.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026延安红色半程马拉松收官 赛事助力体旅融合发展",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704593.shtml",
+      "title": "41金11银4铜 中国创参加世界技能大赛最好成绩",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704613.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
