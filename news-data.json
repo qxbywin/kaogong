@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
-  "time": "18:30",
-  "generatedAt": "2026-09-27T18:30:15.654Z",
+  "time": "22:21",
+  "generatedAt": "2026-09-27T22:21:04.371Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -56,16 +56,6 @@
       ]
     },
     {
-      "title": "男子拾荒21年领到42万养老金",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%BE%E8%8D%9221%E5%B9%B4%E9%A2%86%E5%88%B042%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "AI医生带货卖药 责任谁来担",
       "url": "https://www.baidu.com/s?wd=AI%E5%8C%BB%E7%94%9F%E5%B8%A6%E8%B4%A7%E5%8D%96%E8%8D%AF+%E8%B4%A3%E4%BB%BB%E8%B0%81%E6%9D%A5%E6%8B%85",
       "source": "百度热搜",
@@ -76,10 +66,10 @@
       ]
     },
     {
-      "title": "大熊猫“平平”“福双”抵达美国",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E2%80%9C%E5%B9%B3%E5%B9%B3%E2%80%9D%E2%80%9C%E7%A6%8F%E5%8F%8C%E2%80%9D%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+      "title": "男子拾荒21年领到42万养老金",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8B%BE%E8%8D%9221%E5%B9%B4%E9%A2%86%E5%88%B042%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -101,6 +91,26 @@
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际象棋奥赛 中国女队全程不败夺冠",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E5%A5%A5%E8%B5%9B+%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%98%9F%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%B4%A5%E5%A4%BA%E5%86%A0",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）黄友政/林诗栋问鼎亚运会乒乓球男双 王曼昱女单夺冠",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704635.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -228,16 +238,6 @@
     {
       "title": "孙颖莎：本届亚运会给自己打90分",
       "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704614.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "41金11银4铜 中国创参加世界技能大赛最好成绩",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704613.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
