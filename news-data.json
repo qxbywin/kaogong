@@ -1,13 +1,43 @@
 {
-  "date": "2026-09-26",
-  "time": "22:58",
-  "generatedAt": "2026-09-26T22:58:28.999Z",
+  "date": "2026-09-27",
+  "time": "01:33",
+  "generatedAt": "2026-09-27T01:33:44.812Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "伊朗总统：不再信任同美国的对话",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704302.shtml",
+      "title": "政策为何力挺真人短剧？AI技术边界在哪里？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704326.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "竞赛对标真实产业需求 揭秘赛场背后的技能人才成长密码",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704328.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "市场最前沿丨从手工技艺到数字应用——在世界技能大赛看见未来技能人才画像",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704327.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "欧盟承诺向撒哈拉以南非洲及巴勒斯坦等国提供逾7亿欧元援助",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704315.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -16,20 +46,30 @@
       ]
     },
     {
-      "title": "全球媒体聚焦 | 美媒：中秋节带火中国文旅消费",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704295.shtml",
+      "title": "特朗普称美国和古巴会达成协议",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "各地商圈新场景新业态加快“上新” 特色服务让消费“品味”加速升级",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704275.shtml",
+      "title": "AI时代，为啥还要拼技能？世赛现场即答案",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗总统：不再信任同美国的对话",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704302.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -56,188 +96,148 @@
       ]
     },
     {
+      "title": "（爱知·名古屋亚运会）王楚钦孙颖莎获得乒乓球混双亚军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206075.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026“挥拍中国”羽毛球公开赛长三角赛区宁波站首日挥拍",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704337.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "三大运营商全面暂停“0元购机”，是何原因？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）林诗栋蒯曼夺得乒乓球混双冠军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206069.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“情怀大过能力”是自嘲还是无奈？李亚鹏首次回应——中新网《新声》对话李亚鹏",
+      "url": "http://www.chinanews.com.cn/yl/shipin/2026/09-27/news1070307.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026“赣超”落幕南昌队夺冠 超6.1万名观众现场观赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704323.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "半夜醒来，为啥建议你别看手机和时间？",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-27/10704324.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "突发性耳聋年轻化！关于听力问题这些误区要注意",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-27/10704322.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全网模仿“闪身步”藏隐患 别拿膝盖跟风网红动作",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-27/10704321.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“百元一日聚”走红，戳中了什么",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704319.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "一本“技能护照”如何实现“跨国旅行”",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-27/10704318.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "南部战区位黄岩岛周边海空域组织海空联合演训",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704317.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "大熊猫“平平”“福双”已启程赴美",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704316.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "9月27日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-27/10704314.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "儒家的交友课：“边界感”会让友谊变冷吗",
       "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704311.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“请3休13”，一些职场人“拼假游”“拼 ” 出新体验",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704310.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "4条高铁将同日开通 多地迈入高铁时代",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "柬埔寨设立首个暹罗鳄遗传保护区",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704308.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）综合消息：中国代表团破“百金”  中国男足时隔28年再进亚运四强",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704305.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国儿艺原创舞台剧《十二生肖》亮相悉尼",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704306.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "比利·简·金杯深圳总决赛：乌克兰队战胜意大利队晋级决赛",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-27/10704307.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）林诗栋/蒯曼击败王楚钦/孙颖莎 夺得亚运会乒乓球混双冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704304.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "驻泰国使馆提醒在泰中国公民防范强降雨及洪涝灾害",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704303.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "福建罗源县碧里乡发生滑坡泥石流险情 3人暂未联系上",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704301.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普称拒绝伊朗重开霍尔木兹海峡的提议",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704300.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "头发上、衣服上都是它！东北秋天的“小咬”到底是啥",
-      "url": "https://www.chinanews.com.cn/life/2026/09-27/10704299.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“张雪机车”车手获世界超级摩托车锦标赛意大利站首回合第4名",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-26/10704298.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“十一”假期前四川、陕西等地部分地区有大到暴雨 注意防范",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704297.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全球媒体聚焦 | 全球发展倡议5周年 切实助力世界可持续发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704296.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "尺子量精度、眼睛看创意 世界技能大赛评分标准揭秘",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704294.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "包月饼、写家书 中秋佳节感受军营里的暖意融融",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704293.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "链上天津｜天津如何解码“绿色生意链”？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704292.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "三代接力，从一个人到一群人",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704291.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
