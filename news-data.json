@@ -1,10 +1,20 @@
 {
   "date": "2026-09-28",
-  "time": "15:37",
-  "generatedAt": "2026-09-28T15:37:55.211Z",
+  "time": "22:08",
+  "generatedAt": "2026-09-28T22:08:36.650Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705184.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "国务院国资委：将指导央企推动人工智能成果公平可及",
       "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705152.shtml",
@@ -86,11 +96,21 @@
       ]
     },
     {
-      "title": "美国币圈华人女高管自杀",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B8%81%E5%9C%88%E5%8D%8E%E4%BA%BA%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%87%AA%E6%9D%80",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "（爱知·名古屋亚运会）综合消息：中国乒乓球队6金收官 中国队卫冕田径男、女4X100米接力",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10705183.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）亚运会乒乓球：蒯曼/王曼昱女双摘金 林诗栋男单夺冠",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10705182.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -218,26 +238,6 @@
     {
       "title": "中国最北高铁哈伊高铁开通运营",
       "url": "https://www.chinanews.com.cn/tp/2026/09-28/10705145.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "瑞幸全球门店超38000家，新加坡百店验证体系化出海能力",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705158.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）中国队包揽跳水男、女1米板冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10705153.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
