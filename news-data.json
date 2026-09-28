@@ -1,43 +1,33 @@
 {
   "date": "2026-09-28",
-  "time": "07:03",
-  "generatedAt": "2026-09-28T07:03:20.852Z",
+  "time": "15:37",
+  "generatedAt": "2026-09-28T15:37:55.211Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国务院食安办发布强化食品安全全链条监管创新案例（第三批）",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704835.shtml",
+      "title": "国务院国资委：将指导央企推动人工智能成果公平可及",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705152.shtml",
       "source": "中国新闻网",
       "cat": "policy",
-      "score": 3,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "教育部原副部长鲁昕被查",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E9%B2%81%E6%98%95%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "society",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "岫岩玉雕创新展亮相中国工艺美术馆",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-28/10704848.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
+      "title": "教育部：坚决拥护党中央决定",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "新型电池产业发展“十五五”规划发布",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704847.shtml",
+      "title": "巴西市场上调2026年通胀预期至4.99%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705180.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,8 +36,18 @@
       ]
     },
     {
-      "title": "中国工信部：“十五五”时期推动车企国际化发展更加稳健",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704826.shtml",
+      "title": "全国政协办公厅、中共中央统战部、国务院侨办、国务院港澳办、国务院台办、中国侨联联合举行国庆招待会 王沪宁致辞",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206351.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026中国国际孔子文化节在山东曲阜开幕 向世界传递“和合”之道",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-28/10705170.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,8 +56,8 @@
       ]
     },
     {
-      "title": "中国科学院发布“十五五”规划：积极拥抱人工智能",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704825.shtml",
+      "title": "2026世界设计之都大会：AI赋能，设计无界",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705168.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "title": "走进美国希望中文学校：做美中文化民间交流的桥梁",
-      "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/09-28/news1070386.shtml",
+      "title": "2026多彩贵州·第十九届中国原生态国际摄影大展开幕",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-28/10705149.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,28 +76,18 @@
       ]
     },
     {
-      "title": "天山小院里 一个社区自助养老院的母女“接力”",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704817.shtml",
+      "title": "智汇杭城 浙江杭州启动国际人才交流与项目合作大会",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-28/10705151.shtml",
       "source": "中国新闻网",
-      "cat": "society",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "构建全链条青年科技人才培养体系",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-28/10704822.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平主席对美国进行国事访问纪实",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E7%BA%AA%E5%AE%9E",
+      "title": "美国币圈华人女高管自杀",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B8%81%E5%9C%88%E5%8D%8E%E4%BA%BA%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%87%AA%E6%9D%80",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -106,28 +96,8 @@
       ]
     },
     {
-      "title": "外交部发视频：台湾回家的路 终将到达",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF+%E7%BB%88%E5%B0%86%E5%88%B0%E8%BE%BE",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "贷款中介这几天集体删除朋友圈",
-      "url": "https://www.baidu.com/s?wd=%E8%B4%B7%E6%AC%BE%E4%B8%AD%E4%BB%8B%E8%BF%99%E5%87%A0%E5%A4%A9%E9%9B%86%E4%BD%93%E5%88%A0%E9%99%A4%E6%9C%8B%E5%8F%8B%E5%9C%88",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "云南重点环境风险区域实现4小时应急物资保障圈",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704849.shtml",
+      "title": "泰国洪灾波及近180万人 已致8人遇难",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10705179.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +106,8 @@
       ]
     },
     {
-      "title": "世赛金牌获得者闵思达：让世界看到中国男护士的力量和温度",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704841.shtml",
+      "title": "谢震业：男子4×100接力 团队合力实现“一加一大于二”",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10705178.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +116,8 @@
       ]
     },
     {
-      "title": "广州法治大厦项目正式开工",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704843.shtml",
+      "title": "2026北京马拉松10月18日开跑 最新亮点汇总",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10705177.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +126,8 @@
       ]
     },
     {
-      "title": "2026世界智能网联汽车大会将于10月21日在北京启幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704844.shtml",
+      "title": "2026 FIBA OPEN 3X3北京三人篮球公开赛总决赛收官",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10705176.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +136,8 @@
       ]
     },
     {
-      "title": "2026世界斯诺克·深圳公开赛开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704845.shtml",
+      "title": "香港贸发局上调今年商品出口货值增长预测至42%-47%",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-28/10705169.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +146,8 @@
       ]
     },
     {
-      "title": "中秋节假期670.9万人次出入境",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704846.shtml",
+      "title": "上海出台楼市新政：加强预售管理 有序实施现房销售",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705167.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +156,8 @@
       ]
     },
     {
-      "title": "王楚钦、林诗栋晋级决赛 国乒锁定男单冠亚军",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704842.shtml",
+      "title": "中国队亚运会女子4×100米接力夺冠 “小孩姐”陈妤颉：“队友为我创造了领先优势”",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10705171.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +166,8 @@
       ]
     },
     {
-      "title": "广东首批县（市、区）全域幸福河湖建设全面实施",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704840.shtml",
+      "title": "专家解读晕厥背后潜藏的危机",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-28/10705166.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +176,8 @@
       ]
     },
     {
-      "title": "英国歌唱家莎拉·布莱曼发文悼念刘欢：将永远怀念他",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704837.shtml",
+      "title": "打造“五个引领区” 浙江深化嘉善县域高质量发展建设",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705165.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +186,8 @@
       ]
     },
     {
-      "title": "“‘专职’填表，抽空办事”？要让基层“忙到点子上”",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-28/10704836.shtml",
+      "title": "预计伊朗外长28日将与美伊谈判调解方会面",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10705164.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +196,8 @@
       ]
     },
     {
-      "title": "宜兴高铁正式开通运营",
-      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206254.shtml",
+      "title": "广州东部公铁联运枢纽“仓干配”一体化项目投营",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-28/10705163.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +206,38 @@
       ]
     },
     {
-      "title": "南京夫子庙举行祭孔大典 纪念孔子诞辰2577周年",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-28/10704821.shtml",
+      "title": "2026尼山世界文明论坛在山东曲阜开幕",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-28/10705162.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国最北高铁哈伊高铁开通运营",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-28/10705145.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "瑞幸全球门店超38000家，新加坡百店验证体系化出海能力",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705158.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）中国队包揽跳水男、女1米板冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10705153.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
