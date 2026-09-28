@@ -1,43 +1,33 @@
 {
   "date": "2026-09-28",
-  "time": "00:55",
-  "generatedAt": "2026-09-28T00:55:32.272Z",
+  "time": "07:03",
+  "generatedAt": "2026-09-28T07:03:20.852Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "中央通报后 吉林省委立即部署整改",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E9%80%9A%E6%8A%A5%E5%90%8E+%E5%90%89%E6%9E%97%E7%9C%81%E5%A7%94%E7%AB%8B%E5%8D%B3%E9%83%A8%E7%BD%B2%E6%95%B4%E6%94%B9",
-      "source": "百度热搜",
+      "title": "国务院食安办发布强化食品安全全链条监管创新案例（第三批）",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704835.shtml",
+      "source": "中国新闻网",
       "cat": "policy",
+      "score": 3,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "教育部原副部长鲁昕被查",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E9%B2%81%E6%98%95%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "大熊猫“平平”“福双”抵达美国亚特兰大",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704649.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "金价回落叠加节日促销 黄金零售市场迎来消费旺季",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704669.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "聚焦抢占科技制高点核心任务 《中国科学院“十五五”发展规划》发布",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704661.shtml",
+      "title": "岫岩玉雕创新展亮相中国工艺美术馆",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-28/10704848.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -46,8 +36,8 @@
       ]
     },
     {
-      "title": "超3.1亿元！消费券如何发挥“四两拨千斤”作用",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704660.shtml",
+      "title": "新型电池产业发展“十五五”规划发布",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704847.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -56,8 +46,8 @@
       ]
     },
     {
-      "title": "华西至江汉江淮多降水 冷空气将影响中东部地区",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704652.shtml",
+      "title": "中国工信部：“十五五”时期推动车企国际化发展更加稳健",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704826.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -66,18 +56,18 @@
       ]
     },
     {
-      "title": "虚拟货币并非法外之地！国安部门最新提醒",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704650.shtml",
+      "title": "中国科学院发布“十五五”规划：积极拥抱人工智能",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704825.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美伊对峙7个月 美称本周将继续与伊谈判 伊称尚未放弃外交途径",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704645.shtml",
+      "title": "走进美国希望中文学校：做美中文化民间交流的桥梁",
+      "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/09-28/news1070386.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -86,9 +76,39 @@
       ]
     },
     {
-      "title": "伊朗称已做好与美国战事重开的准备 但未放弃外交途径",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704643.shtml",
+      "title": "天山小院里 一个社区自助养老院的母女“接力”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704817.shtml",
       "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "构建全链条青年科技人才培养体系",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-28/10704822.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平主席对美国进行国事访问纪实",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E7%BA%AA%E5%AE%9E",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外交部发视频：台湾回家的路 终将到达",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A7%86%E9%A2%91%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF+%E7%BB%88%E5%B0%86%E5%88%B0%E8%BE%BE",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -106,48 +126,8 @@
       ]
     },
     {
-      "title": "俄罗斯明确反对日本“入常”",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%98%8E%E7%A1%AE%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E2%80%9C%E5%85%A5%E5%B8%B8%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "大明湖畔千人大合唱《从头再来》",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%98%8E%E6%B9%96%E7%95%94%E5%8D%83%E4%BA%BA%E5%A4%A7%E5%90%88%E5%94%B1%E3%80%8A%E4%BB%8E%E5%A4%B4%E5%86%8D%E6%9D%A5%E3%80%8B",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "拾荒21年被救助时发现42万养老金没领",
-      "url": "https://www.baidu.com/s?wd=%E6%8B%BE%E8%8D%9221%E5%B9%B4%E8%A2%AB%E6%95%91%E5%8A%A9%E6%97%B6%E5%8F%91%E7%8E%B042%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91%E6%B2%A1%E9%A2%86",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "沙特卷入中东冲突“风暴中心”",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8D%B7%E5%85%A5%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E2%80%9C%E9%A3%8E%E6%9A%B4%E4%B8%AD%E5%BF%83%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）田径赛场多名中国选手摘得奖牌",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206211.shtml",
+      "title": "云南重点环境风险区域实现4小时应急物资保障圈",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704849.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +136,8 @@
       ]
     },
     {
-      "title": "演出退票，不该这么难",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704671.shtml",
+      "title": "世赛金牌获得者闵思达：让世界看到中国男护士的力量和温度",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704841.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +146,8 @@
       ]
     },
     {
-      "title": "年内外资调研A股公司近6000次",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704670.shtml",
+      "title": "广州法治大厦项目正式开工",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704843.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +156,8 @@
       ]
     },
     {
-      "title": "新一轮洪灾致柬埔寨数万户家庭受影响",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704648.shtml",
+      "title": "2026世界智能网联汽车大会将于10月21日在北京启幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704844.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "法国极右翼将首次在参议院组建党团",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704668.shtml",
+      "title": "2026世界斯诺克·深圳公开赛开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704845.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "读懂央行汇率表述的变与不变",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704667.shtml",
+      "title": "中秋节假期670.9万人次出入境",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704846.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）黄滢滢摘田径女子跳远金牌",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206207.shtml",
+      "title": "王楚钦、林诗栋晋级决赛 国乒锁定男单冠亚军",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-28/10704842.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "去景点化、重体验感、全域漫游 进阶的“中国游”全球圈粉",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704665.shtml",
+      "title": "广东首批县（市、区）全域幸福河湖建设全面实施",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-28/10704840.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）严子怡摘田径女子标枪金牌",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206201.shtml",
+      "title": "英国歌唱家莎拉·布莱曼发文悼念刘欢：将永远怀念他",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704837.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "武契奇辞职，承认在执政期间“犯过很多错误”，“但战争才刚刚开始！”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704663.shtml",
+      "title": "“‘专职’填表，抽空办事”？要让基层“忙到点子上”",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-28/10704836.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "宜兴高铁正式开通运营",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206254.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "南京夫子庙举行祭孔大典 纪念孔子诞辰2577周年",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-28/10704821.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
