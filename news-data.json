@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "time": "15:59",
-  "generatedAt": "2026-09-29T15:59:19.887Z",
+  "time": "20:53",
+  "generatedAt": "2026-09-29T20:53:57.261Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,16 @@
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄军一架图-95战略轰炸机坠毁致6人身亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-29/10705946.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -86,16 +96,6 @@
       ]
     },
     {
-      "title": "重磅！贷款买房国家贴息",
-      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF%E5%9B%BD%E5%AE%B6%E8%B4%B4%E6%81%AF",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "朋友圈的贷款广告 为啥突然没了",
       "url": "https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%B4%B7%E6%AC%BE%E5%B9%BF%E5%91%8A+%E4%B8%BA%E5%95%A5%E7%AA%81%E7%84%B6%E6%B2%A1%E4%BA%86",
       "source": "百度热搜",
@@ -106,10 +106,10 @@
       ]
     },
     {
-      "title": "各省的AI留子 抢着去韩美日谈恋爱",
-      "url": "https://www.baidu.com/s?wd=%E5%90%84%E7%9C%81%E7%9A%84AI%E7%95%99%E5%AD%90+%E6%8A%A2%E7%9D%80%E5%8E%BB%E9%9F%A9%E7%BE%8E%E6%97%A5%E8%B0%88%E6%81%8B%E7%88%B1",
+      "title": "重磅！贷款买房国家贴息",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF%E5%9B%BD%E5%AE%B6%E8%B4%B4%E6%81%AF",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
