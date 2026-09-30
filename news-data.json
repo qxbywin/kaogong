@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
-  "time": "13:54",
-  "generatedAt": "2026-09-30T13:54:05.982Z",
+  "time": "19:28",
+  "generatedAt": "2026-09-30T19:28:41.885Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -10,6 +10,16 @@
       "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706540.shtml",
       "source": "中国新闻网",
       "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国为何给人工智能改名",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%BB%99%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%B9%E5%90%8D",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 2,
       "exams": [
         "申论素材"
@@ -26,60 +36,40 @@
       ]
     },
     {
+      "title": "美国对OpenAI等AI实验室加大调查力度",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%B9OpenAI%E7%AD%89AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8A%A0%E5%A4%A7%E8%B0%83%E6%9F%A5%E5%8A%9B%E5%BA%A6",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "沃洛金当选连任俄国家杜马主席 普京出席首次全会并讲话",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706577.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "纪录片《汤寿潜1911》用AI“复活”百年档案致敬先贤",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706564.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "浙江首次国际航行船舶三船三燃料加注作业在宁波舟山港完成",
       "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706553.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706543.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国常驻联合国代表团举行国庆77周年招待会",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706506.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从协同创新到深度共享 长三角一体化如何“破壁新生”？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706529.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄方警告：准备动用一切手段",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%E8%AD%A6%E5%91%8A%EF%BC%9A%E5%87%86%E5%A4%87%E5%8A%A8%E7%94%A8%E4%B8%80%E5%88%87%E6%89%8B%E6%AE%B5",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美股开盘集体高开 半导体权重股普涨",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%83%E9%87%8D%E8%82%A1%E6%99%AE%E6%B6%A8",
-      "source": "百度热搜",
-      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -96,8 +86,18 @@
       ]
     },
     {
-      "title": "应急管理部针对贵州启动国家地质灾害四级应急响应",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706562.shtml",
+      "title": "国庆新能源车充电高峰将至",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E9%AB%98%E5%B3%B0%E5%B0%86%E8%87%B3",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）综合消息：中国跳水队达成“百金”成就 中国男足无缘决赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706578.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +106,8 @@
       ]
     },
     {
-      "title": "八大山人诞辰400周年 作品《个山杂画册》领衔香港苏富比秋拍",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706497.shtml",
+      "title": "昆明4.3级地震为正常地震活动",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706576.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +116,8 @@
       ]
     },
     {
-      "title": "桂林武警营区里的国庆：守好战位 也要过出“家”的味道",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706496.shtml",
+      "title": "中网综合：袁悦、布云朝克特迎开门红 德约科维奇首战告捷",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706575.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +126,8 @@
       ]
     },
     {
-      "title": "“花的姿态——维也纳美景宫百年花卉名作展”亮相成都",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706494.shtml",
+      "title": "（爱知·名古屋亚运会）中国跳水队达成亚运“百金”",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706574.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +136,8 @@
       ]
     },
     {
-      "title": "“祁连山号”旅游专列在西宁站首发",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706491.shtml",
+      "title": "柬埔寨洪灾影响10省数万户家庭",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-30/1206672.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +146,8 @@
       ]
     },
     {
-      "title": "习言道｜我们对中国式现代化的光明前景充满信心",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706535.shtml",
+      "title": "机制化的确定性正在重塑中美经贸关系",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706558.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "title": "浙江：让民族团结进步实践“各有滋味”",
-      "url": "https://www.chinanews.com.cn/mz/2026/09-30/10706542.shtml",
+      "title": "《中国发展报告2026》在北京首发",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706565.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "title": "雄安新区中苑水上游线精彩亮相",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706538.shtml",
+      "title": "“广西龙超”吸引逾190支队伍参赛 留学生体验划桨逐浪",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706560.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "title": "云南昆明4.3级地震暂无人员伤亡报告 启动地震四级应急响应",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706534.shtml",
+      "title": "京广高铁车厢里的中国红",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-30/10706561.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "title": "国庆假期出游“暴走打卡” 当心脚底板、膝盖 “喊痛”",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-30/10706537.shtml",
+      "title": "三峡枢纽新通道先行开挖区完成爆破开挖",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706563.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "逾130岁韬奋楼修缮归来 钟声再响、历史样貌重现世间",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706541.shtml",
+      "title": "西藏：沙冒智化诗集《活在家里的名字》意大利语版全球发行",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706566.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "9月30日新闻夜读",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-30/10706549.shtml",
+      "title": "WTT中国大满贯2026升级场馆硬件设施 打造沉浸式观赛体验",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706567.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "第四次全国文物普查省域整体验收全面完成",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706547.shtml",
+      "title": "浙江杭州迎国庆节前铁路客流高峰",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706552.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）亚运跳水比赛收官 运动员“百金”装留影",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-30/1206664.shtml",
+      "title": "“窑火中的艺术匠心：V&A博物馆珍藏威基伍德陶瓷”在成都开展",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706546.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "日本亚运会问题频发，名古屋市长道歉",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706544.shtml",
+      "title": "驻阿德莱德总领馆举办国庆77周年招待会",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706559.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
