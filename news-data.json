@@ -1,15 +1,15 @@
 {
   "date": "2026-09-30",
-  "time": "19:28",
-  "generatedAt": "2026-09-30T19:28:41.885Z",
+  "time": "23:57",
+  "generatedAt": "2026-09-30T23:57:18.861Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "北京市政协建言发展京郊现代乡村产业",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706540.shtml",
+      "title": "美国第二季度GDP增速上修至2.2% 好于市场预期",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706587.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 2,
       "exams": [
         "申论素材"
@@ -36,11 +36,31 @@
       ]
     },
     {
-      "title": "美国对OpenAI等AI实验室加大调查力度",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%B9OpenAI%E7%AD%89AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8A%A0%E5%A4%A7%E8%B0%83%E6%9F%A5%E5%8A%9B%E5%BA%A6",
-      "source": "百度热搜",
+      "title": "俄外交部发言人用中文祝中国人民国庆节快乐",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706588.shtml",
+      "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄外交部召见丹麦大使 抗议丹麦直升机接近俄军舰",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706585.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国首相伯纳姆：将重返欧盟纳入未来可选路径",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706579.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -66,9 +86,9 @@
       ]
     },
     {
-      "title": "浙江首次国际航行船舶三船三燃料加注作业在宁波舟山港完成",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706553.shtml",
-      "source": "中国新闻网",
+      "title": "美国6只熊猫 日本0只",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD6%E5%8F%AA%E7%86%8A%E7%8C%AB+%E6%97%A5%E6%9C%AC0%E5%8F%AA",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -86,11 +106,81 @@
       ]
     },
     {
-      "title": "国庆新能源车充电高峰将至",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E9%AB%98%E5%B3%B0%E5%B0%86%E8%87%B3",
+      "title": "红旗4S店提车难 车主还被贷款",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%97%974S%E5%BA%97%E6%8F%90%E8%BD%A6%E9%9A%BE+%E8%BD%A6%E4%B8%BB%E8%BF%98%E8%A2%AB%E8%B4%B7%E6%AC%BE",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "法国纪念印象派绘画大师莫奈逝世100周年",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706589.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泰国洪灾已致24人遇难",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706584.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "埃及前总理沙拉夫：为更深入理解中国，必须超越数字",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706586.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月1日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-01/10706583.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "直播：天安门广场国庆升旗仪式",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-01/10706582.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "以防长：迪拜航空客机事件是一起“未遂恐怖袭击”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706581.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "买房“国补”上线！最高节省利息近5万元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -148,96 +238,6 @@
     {
       "title": "机制化的确定性正在重塑中美经贸关系",
       "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706558.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《中国发展报告2026》在北京首发",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706565.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“广西龙超”吸引逾190支队伍参赛 留学生体验划桨逐浪",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706560.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "京广高铁车厢里的中国红",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-30/10706561.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "三峡枢纽新通道先行开挖区完成爆破开挖",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706563.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏：沙冒智化诗集《活在家里的名字》意大利语版全球发行",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-30/10706566.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "WTT中国大满贯2026升级场馆硬件设施 打造沉浸式观赛体验",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-30/10706567.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江杭州迎国庆节前铁路客流高峰",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706552.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“窑火中的艺术匠心：V&A博物馆珍藏威基伍德陶瓷”在成都开展",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-30/10706546.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "驻阿德莱德总领馆举办国庆77周年招待会",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706559.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
