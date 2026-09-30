@@ -1,13 +1,13 @@
 {
   "date": "2026-09-30",
-  "time": "00:33",
-  "generatedAt": "2026-09-30T00:33:58.847Z",
+  "time": "06:50",
+  "generatedAt": "2026-09-30T06:50:59.527Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "居民购房贷款贴息政策10月1日起实施",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705962.shtml",
+      "title": "事关购房贷款贴息政策 六家银行发布公告",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706182.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 2,
@@ -16,28 +16,78 @@
       ]
     },
     {
-      "title": "美国9月消费者信心指数降至12年来最低值",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705951.shtml",
+      "title": "财政货币协同发力，金融活水精准滴灌",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706197.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
+      "cat": "economy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "车船税政策调整，新能源汽车行业有何变化",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705947.shtml",
+      "title": "从“帮扶”到“促消费” 建行金融力量助力安康消费市场提质扩容",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706196.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "长沙通报“一包子铺店员在操作台上剪脚趾甲”：停业整顿",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706184.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆启动服务消费季 超百场主题活动激活重点领域消费",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706190.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普签令：将“人工智能”改称为“超级智能”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706181.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "腾势Z9S正式上市：纯电续航1100km 打造“科技豪华智能轿车”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706177.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "八所海关解放西路院区消除安全隐患项目比选成交公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-30/10706173.shtml",
       "source": "中国新闻网",
       "cat": "policy",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "“免费领手机”藏贷款，“0元购机”早该叫停",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10705967.shtml",
+      "title": "演唱会门票退票难、扣款高 行业规则与消费者权益如何平衡？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706169.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,58 +96,8 @@
       ]
     },
     {
-      "title": "法国债务规模持续攀升 政府财政压力增大",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705957.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI医生何来“亲测”？当心数字人广告夸大宣传",
-      "url": "https://www.chinanews.com.cn/kong/2026/09-30/10705966.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI培训，抢着上“船”",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10705965.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "近期国内蛋价上涨明显——双节市场问蛋价",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705963.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "首届“两岸创新发展周”在沪举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10705955.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国计划通过“互换”释放4000万桶战略石油储备",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705952.shtml",
+      "title": "中东学者：阿拉伯世界出现日益明显的“向东看”趋势",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706038.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -106,68 +106,18 @@
       ]
     },
     {
-      "title": "欧盟公布“五点计划”应对非法入境问题",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705949.shtml",
+      "title": "拱北海关技术中心2026年理化类实验室设备采购项目招标公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-30/10706161.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "无资质不得开展金融推广 金融产品网络营销新规来了",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705948.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄军一架图-95战略轰炸机坠毁致6人身亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-29/10705946.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "商务部新闻发言人就媒体报道欧盟相关成员国推动欧委会打造欧版“301”工具事答记者问",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705940.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第十届平遥国际电影展各奖项揭晓",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-29/10705939.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国已建成世界规模最大的教育体系",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "朋友圈的贷款广告 为啥突然没了",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%B4%B7%E6%AC%BE%E5%B9%BF%E5%91%8A+%E4%B8%BA%E5%95%A5%E7%AA%81%E7%84%B6%E6%B2%A1%E4%BA%86",
+      "title": "购房贷款贴息来了 月供能省多少",
+      "url": "https://www.baidu.com/s?wd=%E8%B4%AD%E6%88%BF%E8%B4%B7%E6%AC%BE%E8%B4%B4%E6%81%AF%E6%9D%A5%E4%BA%86+%E6%9C%88%E4%BE%9B%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -176,8 +126,18 @@
       ]
     },
     {
-      "title": "这座川南小城，盛下全国一半的酒香",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10705972.shtml",
+      "title": "妙瓦底电诈园疑似新据点卫星云图",
+      "url": "https://www.baidu.com/s?wd=%E5%A6%99%E7%93%A6%E5%BA%95%E7%94%B5%E8%AF%88%E5%9B%AD%E7%96%91%E4%BC%BC%E6%96%B0%E6%8D%AE%E7%82%B9%E5%8D%AB%E6%98%9F%E4%BA%91%E5%9B%BE",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年01月-08月广西出口主要商品量值表（按海关总署2026年出口重点商品参数）",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-30/10706207.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "今天，念给你听这八个年轻的名字",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10705971.shtml",
+      "title": "2026年01月-08月广西进出口商品国别（地区）总值表（人民币值、美元值）",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-30/10706205.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "金与正批韩国借所谓地雷事件挑衅朝鲜： “低级拙劣的表演”",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705970.shtml",
+      "title": "iQOO16正式发布：全球首发2K 165Hz三星珠峰屏，实现游戏三视效并发",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706199.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "“中国学的世界对话·阿拉伯国家专场”活动在开罗举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10705969.shtml",
+      "title": "恶意索费扣货要挟！起底物流领域新型“软敲诈”犯罪",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706204.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "治疗红斑狼疮，“既要又要还要”的方法来了",
-      "url": "https://www.chinanews.com.cn/life/2026/09-30/10705968.shtml",
+      "title": "2025年01月-2026年08月广西进出口商品总值表(人民币值)",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-30/10706203.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "外媒：曼苏里成为摩洛哥首位女首相",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705964.shtml",
+      "title": "2026年01月-08月广西进出口商品类章总值表（人民币、美元值）",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-30/10706201.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "有监测记录以来最强 超强厄尔尼诺事件预计将于11月前后形成",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10705961.shtml",
+      "title": "云岭动态第十二期",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-30/10706185.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第五次中法能源对话在北京举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706178.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "山西寿阳国庆“文旅菜单”出炉 邀客游田园、访古村、享山水",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706192.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月1日起广东进入森林特别防护期",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706188.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "《抗战14年的黑龙江》展览在侵华日军第七三一部队罪证陈列馆开幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10706193.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
