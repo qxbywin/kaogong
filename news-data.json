@@ -1,10 +1,30 @@
 {
   "date": "2026-10-01",
-  "time": "13:31",
-  "generatedAt": "2026-10-01T13:31:40.439Z",
+  "time": "19:37",
+  "generatedAt": "2026-10-01T19:37:22.133Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "贵州“村超”第三届国际足球赛启幕",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706956.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "北京警方护航国庆假期旅游市场安全有序",
       "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706941.shtml",
@@ -46,80 +66,10 @@
       ]
     },
     {
-      "title": "AI超级机械巨兽“巨虎东东”现身沈阳",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706913.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国际油价大涨",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国一死刑犯两剂致命注射后仍存活",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AD%BB%E5%88%91%E7%8A%AF%E4%B8%A4%E5%89%82%E8%87%B4%E5%91%BD%E6%B3%A8%E5%B0%84%E5%90%8E%E4%BB%8D%E5%AD%98%E6%B4%BB",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“美国白蛾 收你的人来了”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%99%BD%E8%9B%BE+%E6%94%B6%E4%BD%A0%E7%9A%84%E4%BA%BA%E6%9D%A5%E4%BA%86%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "人民日报：AI假医生带货 这病得治",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9AAI%E5%81%87%E5%8C%BB%E7%94%9F%E5%B8%A6%E8%B4%A7+%E8%BF%99%E7%97%85%E5%BE%97%E6%B2%BB",
+      "title": "高速服务区新能源车充电像排队打饭",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD",
       "source": "百度热搜",
       "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI判定你买得起就多收钱",
-      "url": "https://www.baidu.com/s?wd=AI%E5%88%A4%E5%AE%9A%E4%BD%A0%E4%B9%B0%E5%BE%97%E8%B5%B7%E5%B0%B1%E5%A4%9A%E6%94%B6%E9%92%B1",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄罗斯对等驱逐匈牙利外交人员",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E7%AD%89%E9%A9%B1%E9%80%90%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%91%98",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "季托夫将访华",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%A3%E6%89%98%E5%A4%AB%E5%B0%86%E8%AE%BF%E5%8D%8E",
-      "source": "百度热搜",
-      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -131,6 +81,116 @@
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美股三大股指跳水 美光科技跌近3%",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E8%B7%B3%E6%B0%B4+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%BF%913%25",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "假期南方气温将大面积创新低",
+      "url": "https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%8D%97%E6%96%B9%E6%B0%94%E6%B8%A9%E5%B0%86%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%88%9B%E6%96%B0%E4%BD%8E",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）综合消息：中国射击队16金收官 网球女单中国队提前包揽金银牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10706979.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "WTT中国大满贯赛首日：八位中国选手过关",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706978.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中网综合：郑钦文、朱琳、孙心然、高馨妤晋级女单次轮",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706977.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "香港“国庆赛马日”人气旺 游客盼香江发展如万马奔腾",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-01/10706963.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "我使馆回应村田晃大持刀侵闯案开庭：敦促日方拿出应有态度 严惩凶犯",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706962.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "侗族多耶节启幕 广西侗乡上演民俗文化盛宴",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706958.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "冷空气袭扰长三角 雨水降温伴随国庆假期",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706957.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王楚钦/孙颖莎等三对国乒组合退出WTT中国大满贯赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706955.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗乒乓球“黑马”少年法拉吉：心无旁骛迎接每个对手",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706954.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -178,66 +238,6 @@
     {
       "title": "这支巴西球队为何三年国庆赴约贵州“村超”？",
       "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706940.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026哈尔滨跆拳道竞技冠军挑战赛开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706939.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中企承建柬埔寨1551号公路项目竣工通车",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706936.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "台青“登陆”创业近二十载 踩准时代节拍转型升级",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第三届全国青少年棒球联赛总决赛启幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "彻夜守候见证“中国红” 广西南宁国庆升国旗仪式“超燃”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "四川乐山：玉兔起舞九尾狐穿行 东坡楼上演“汉代奇遇”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
