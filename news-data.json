@@ -1,10 +1,30 @@
 {
   "date": "2026-10-01",
-  "time": "19:37",
-  "generatedAt": "2026-10-01T19:37:22.133Z",
+  "time": "23:57",
+  "generatedAt": "2026-10-01T23:57:37.645Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "美国30年期贷款利率升至7.28% 创近3年来最高值",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706985.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中方代表28国呼吁国际社会遏止单边强制措施",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
       "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
@@ -46,26 +66,6 @@
       ]
     },
     {
-      "title": "链全球国际农业合作博览会将于12月在印尼举办",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "高速服务区新能源车充电像排队打饭",
       "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD",
       "source": "百度热搜",
@@ -86,21 +86,91 @@
       ]
     },
     {
-      "title": "美股三大股指跳水 美光科技跌近3%",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E8%B7%B3%E6%B0%B4+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%BF%913%25",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "法国政府公布2027年预算草案 确认540亿欧元节支计划",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706991.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "假期南方气温将大面积创新低",
-      "url": "https://www.baidu.com/s?wd=%E5%81%87%E6%9C%9F%E5%8D%97%E6%96%B9%E6%B0%94%E6%B8%A9%E5%B0%86%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%88%9B%E6%96%B0%E4%BD%8E",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "泰国全国灾害保险体系正式实施",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月2日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-02/10706990.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "21.3亿、268%！数说流动中国的假日新活力",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普：中期选举后可能加大力度打击伊朗",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "首届亚信媒体论坛在巴库举行 聚焦加强媒体合作",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706981.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特写：国庆烟花耀维港 家国同庆共此时",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706984.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "品类更多、品牌更强！国货出海有新变化",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -168,76 +238,6 @@
     {
       "title": "冷空气袭扰长三角 雨水降温伴随国庆假期",
       "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706957.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王楚钦/孙颖莎等三对国乒组合退出WTT中国大满贯赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706955.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗乒乓球“黑马”少年法拉吉：心无旁骛迎接每个对手",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706954.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东西问｜两个古文明如何真正理解彼此？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/10-01/10706942.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "日本突发5.1级地震",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706944.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "纪念京奉铁路正阳门东车站建成120周年展览在北京开展",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706934.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国旗扮靓钱塘 杭州喜迎国庆",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706931.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "这支巴西球队为何三年国庆赴约贵州“村超”？",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706940.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
