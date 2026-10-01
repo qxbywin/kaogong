@@ -1,43 +1,13 @@
 {
   "date": "2026-10-01",
-  "time": "06:08",
-  "generatedAt": "2026-10-01T06:08:55.056Z",
+  "time": "13:31",
+  "generatedAt": "2026-10-01T13:31:40.439Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "湖南成立大张家界国际旅游区产业发展联盟 助力建设世界知名旅游目的地",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706664.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（乡村行·看振兴）紫菜养殖装上智能“晴雨表” 浙江洞头数据赋能民生增收",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706662.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "深化市场监管制度创新 海南厚植经营主体发展土壤",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706652.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "平陆运河打通南向出海通道 广西岑溪外向型经济蓄势待发",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706686.shtml",
+      "title": "北京警方护航国庆假期旅游市场安全有序",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706941.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,18 +16,8 @@
       ]
     },
     {
-      "title": "聚焦AI时代科普变革 2026年全国科普月系列主题活动共探科普转型",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706680.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国宣布正式结束国际联盟部队在伊拉克军事任务",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706640.shtml",
+      "title": "今年前三季度吴哥古迹接待国际游客逾51万人次",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706937.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -66,8 +26,8 @@
       ]
     },
     {
-      "title": "迪拜航空因驾驶舱冲突事件暂停往返以色列航班",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706639.shtml",
+      "title": "链全球国际农业合作博览会将于12月在印尼举办",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,8 +36,8 @@
       ]
     },
     {
-      "title": "（乡村行·看振兴）广东东源大洋洲淡水蓝龙虾出塘 铺就产业致富新路",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706657.shtml",
+      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -86,8 +46,18 @@
       ]
     },
     {
-      "title": "国庆假期中国每天搬运一个美国",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%A4%A9%E6%90%AC%E8%BF%90%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%9B%BD",
+      "title": "AI超级机械巨兽“巨虎东东”现身沈阳",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706913.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际油价大涨",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -96,18 +66,8 @@
       ]
     },
     {
-      "title": "原央视主持人阿丘被通报",
-      "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%BF%E4%B8%98%E8%A2%AB%E9%80%9A%E6%8A%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "普京：俄罗斯不会满世界“乞讨”",
-      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E4%BC%9A%E6%BB%A1%E4%B8%96%E7%95%8C%E2%80%9C%E4%B9%9E%E8%AE%A8%E2%80%9D",
+      "title": "美国一死刑犯两剂致命注射后仍存活",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AD%BB%E5%88%91%E7%8A%AF%E4%B8%A4%E5%89%82%E8%87%B4%E5%91%BD%E6%B3%A8%E5%B0%84%E5%90%8E%E4%BB%8D%E5%AD%98%E6%B4%BB",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -116,8 +76,18 @@
       ]
     },
     {
-      "title": "华为Mate90搭载旗舰韬芯片",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAMate90%E6%90%AD%E8%BD%BD%E6%97%97%E8%88%B0%E9%9F%AC%E8%8A%AF%E7%89%87",
+      "title": "“美国白蛾 收你的人来了”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%99%BD%E8%9B%BE+%E6%94%B6%E4%BD%A0%E7%9A%84%E4%BA%BA%E6%9D%A5%E4%BA%86%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "人民日报：AI假医生带货 这病得治",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9AAI%E5%81%87%E5%8C%BB%E7%94%9F%E5%B8%A6%E8%B4%A7+%E8%BF%99%E7%97%85%E5%BE%97%E6%B2%BB",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -126,8 +96,8 @@
       ]
     },
     {
-      "title": "4款韬定律芯片亮相",
-      "url": "https://www.baidu.com/s?wd=4%E6%AC%BE%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87%E4%BA%AE%E7%9B%B8",
+      "title": "AI判定你买得起就多收钱",
+      "url": "https://www.baidu.com/s?wd=AI%E5%88%A4%E5%AE%9A%E4%BD%A0%E4%B9%B0%E5%BE%97%E8%B5%B7%E5%B0%B1%E5%A4%9A%E6%94%B6%E9%92%B1",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -136,8 +106,8 @@
       ]
     },
     {
-      "title": "俄乌飞行员联手救人？这8个细节不简单",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E9%A3%9E%E8%A1%8C%E5%91%98%E8%81%94%E6%89%8B%E6%95%91%E4%BA%BA%EF%BC%9F%E8%BF%998%E4%B8%AA%E7%BB%86%E8%8A%82%E4%B8%8D%E7%AE%80%E5%8D%95",
+      "title": "俄罗斯对等驱逐匈牙利外交人员",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E7%AD%89%E9%A9%B1%E9%80%90%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%91%98",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -146,8 +116,28 @@
       ]
     },
     {
-      "title": "8万吨多用途粮食运输船“国强海”轮在大连命名",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706681.shtml",
+      "title": "季托夫将访华",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%A3%E6%89%98%E5%A4%AB%E5%B0%86%E8%AE%BF%E5%8D%8E",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "印电诈窝点假冒苹果客服专骗美国人",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E7%94%B5%E8%AF%88%E7%AA%9D%E7%82%B9%E5%81%87%E5%86%92%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E4%B8%93%E9%AA%97%E7%BE%8E%E5%9B%BD%E4%BA%BA",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东西问｜两个古文明如何真正理解彼此？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-01/10706942.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +146,8 @@
       ]
     },
     {
-      "title": "山西首单离境退税业务落地 助力“山西游、山西购”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706687.shtml",
+      "title": "日本突发5.1级地震",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706944.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +156,8 @@
       ]
     },
     {
-      "title": "尼泊尔多迪市代表团参访云南福贡 冀深化户外文旅合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706678.shtml",
+      "title": "纪念京奉铁路正阳门东车站建成120周年展览在北京开展",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706934.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +166,8 @@
       ]
     },
     {
-      "title": "9月中国百城新房价格上涨 二手房价下跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706676.shtml",
+      "title": "国旗扮靓钱塘 杭州喜迎国庆",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706931.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +176,8 @@
       ]
     },
     {
-      "title": "何超琼称遭骚扰恐吓，获批永久禁制令",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706677.shtml",
+      "title": "这支巴西球队为何三年国庆赴约贵州“村超”？",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706940.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +186,8 @@
       ]
     },
     {
-      "title": "国庆长假首日 成都出城道路车流增大",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706667.shtml",
+      "title": "2026哈尔滨跆拳道竞技冠军挑战赛开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706939.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "西藏拉萨布达拉宫广场举行升国旗仪式",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706660.shtml",
+      "title": "中企承建柬埔寨1551号公路项目竣工通车",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706936.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "江西南昌举行国庆升旗仪式",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706648.shtml",
+      "title": "台青“登陆”创业近二十载 踩准时代节拍转型升级",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "奏响“流动的江南”乐章 江苏无锡映月里水岸音乐艺术季启幕",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706645.shtml",
+      "title": "第三届全国青少年棒球联赛总决赛启幕",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "“庆国庆·颂祖国”主题快闪活动亮相京沪高铁列车",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706644.shtml",
+      "title": "彻夜守候见证“中国红” 广西南宁国庆升国旗仪式“超燃”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四川乐山：玉兔起舞九尾狐穿行 东坡楼上演“汉代奇遇”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
