@@ -1,10 +1,40 @@
 {
   "date": "2026-10-02",
-  "time": "18:31",
-  "generatedAt": "2026-10-02T18:31:45.385Z",
+  "time": "23:04",
+  "generatedAt": "2026-10-02T23:04:05.140Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "美国9月非农就业增加2.9万 失业率4.2%",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国联邦航空管理局：波音737 MAX软件故障不构成安全威胁",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707345.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "今年9月欧元区通胀率升至3.8%创近三年新高",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707342.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "万亿级车轮经济跑出新动能",
       "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707331.shtml",
@@ -46,26 +76,6 @@
       ]
     },
     {
-      "title": "吉尔吉斯斯坦首颗卫星成功入轨",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10707297.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "香港廉署与联合国毒罪办共同发布全新《监狱贪污风险管理指南》",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-02/10707314.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "“这是国际社会前所未闻的恶性事件”",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%99%E6%98%AF%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%89%8D%E6%89%80%E6%9C%AA%E9%97%BB%E7%9A%84%E6%81%B6%E6%80%A7%E4%BA%8B%E4%BB%B6%E2%80%9D",
       "source": "百度热搜",
@@ -91,6 +101,66 @@
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "候补购票、买“加速包”……这些“抢票偏方”真的靠谱吗？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707346.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "WTT中国大满贯赛：资格赛第二轮打响 正赛签表出炉",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707340.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中网综合：德约科维奇逆转晋级 萨巴伦卡、梅德韦杰夫迎“开门红”",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707341.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -168,76 +238,6 @@
     {
       "title": "张大千《墨荷》等焦点拍品领衔香港邦瀚斯秋拍",
       "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707311.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海：游客夜间感受城市光影魅力",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707309.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "七旬大娘成“网红” 600余年老手艺焕发新生",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707301.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年国庆假期首日琼州海峡客滚运输平稳运行",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707322.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东西问｜林鹏：关公文化为何越来越“出圈”？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/10-02/10707295.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "福州烟台山：百年洋楼的活化之路",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707308.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国庆假期首日 古都南京“热”力全开",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707321.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "贵阳：民众在森林里的咖啡馆度过假期时光",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707302.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
