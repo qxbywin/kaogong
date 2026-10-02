@@ -1,13 +1,23 @@
 {
   "date": "2026-10-02",
-  "time": "12:50",
-  "generatedAt": "2026-10-02T12:50:29.585Z",
+  "time": "18:31",
+  "generatedAt": "2026-10-02T18:31:45.385Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国庆假期第二天全国道路交通总体平稳有序 公安部交管局发布道路出行安全提示",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707292.shtml",
+      "title": "万亿级车轮经济跑出新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707331.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年中国—东盟教育交流周匹克球邀请赛落幕",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-02/10707324.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -16,8 +26,38 @@
       ]
     },
     {
-      "title": "2026“萨马兰奇杯”·宁波国际青少年足球邀请赛举行",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707288.shtml",
+      "title": "印度一起交通事故导致至少7人死亡19人受伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10707323.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中企海油工程中东区域三年累计签约超500亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707313.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "吉尔吉斯斯坦首颗卫星成功入轨",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10707297.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "香港廉署与联合国毒罪办共同发布全新《监狱贪污风险管理指南》",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-02/10707314.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,8 +86,18 @@
       ]
     },
     {
-      "title": "（走进中国乡村）从地中海到天津蓟州：“洋蔬菜”菊苣扎根中国乡村",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707305.shtml",
+      "title": "国足vs巴勒斯坦全场数据",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%85%A8%E5%9C%BA%E6%95%B0%E6%8D%AE",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）综合消息：中国“金花”包揽网球女单冠亚军 中国女足无缘领奖台",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707339.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -56,8 +106,8 @@
       ]
     },
     {
-      "title": "2026香港六人板球赛将打响 12支球队展开角逐",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10707303.shtml",
+      "title": "泰国洪灾形势有所缓解 政府要求防范新一轮降雨",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10707338.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -66,8 +116,8 @@
       ]
     },
     {
-      "title": "第169次中老缅泰湄公河联合巡逻执法行动结束",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707299.shtml",
+      "title": "七国集团就推动主要炼油国家增产增加柴油供应达成一致",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10707337.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +126,8 @@
       ]
     },
     {
-      "title": "广东超70个镇街遭遇暴雨  全省最大降雨量达125毫米",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707298.shtml",
+      "title": "韩方提议韩朝就军事分界线分歧见面沟通",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10707336.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +136,8 @@
       ]
     },
     {
-      "title": "东西问｜孙勐：“世界城市”元大都怎样影响北京？",
-      "url": "https://www.chinanews.com.cn/dxw/2026/10-02/10707294.shtml",
+      "title": "“跟着功夫游大陆”主题展亮相高雄旅展",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707332.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +146,8 @@
       ]
     },
     {
-      "title": "一路风景一路戏 “津旅时光号”沉浸式专列点亮津城假日",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707279.shtml",
+      "title": "（爱知·名古屋亚运会）王曦雨摘网球女单金牌",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-02/1206818.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +156,8 @@
       ]
     },
     {
-      "title": "贵州贵阳：国庆假期书香浓",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707278.shtml",
+      "title": "（爱知·名古屋亚运会）牛馨冉摘柔道女子78公斤以上级金牌",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-02/1206815.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +166,8 @@
       ]
     },
     {
-      "title": "昆明市民赴滇池美食风物季 国庆假期乐享滇风",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707276.shtml",
+      "title": "张大千《墨荷》等焦点拍品领衔香港邦瀚斯秋拍",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707311.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +176,8 @@
       ]
     },
     {
-      "title": "浙江绍兴：江南水乡吸引游客打卡",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707274.shtml",
+      "title": "上海：游客夜间感受城市光影魅力",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707309.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +186,8 @@
       ]
     },
     {
-      "title": "华东六省一市舞者云集南京 舞步飞扬竞逐赛场",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707273.shtml",
+      "title": "七旬大娘成“网红” 600余年老手艺焕发新生",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707301.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +196,8 @@
       ]
     },
     {
-      "title": "苏通大桥国庆假期首日流量达16.59万辆 创开通以来单日流量新高",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707263.shtml",
+      "title": "2026年国庆假期首日琼州海峡客滚运输平稳运行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707322.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +206,8 @@
       ]
     },
     {
-      "title": "古巷邂逅新潮业态 冀南古镇国庆焕新迎客",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707272.shtml",
+      "title": "东西问｜林鹏：关公文化为何越来越“出圈”？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-02/10707295.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "湖北武汉：舞蹈《橘颂》快闪演出吸引民众观看",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707271.shtml",
+      "title": "福州烟台山：百年洋楼的活化之路",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707308.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "2026精品微短剧秋季点评会在京举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-02/10707286.shtml",
+      "title": "国庆假期首日 古都南京“热”力全开",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707321.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "国庆假期桂林城徽象鼻山迎来客流高峰",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707270.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "贵州平坝：稻田为布绘“丰”景",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707269.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江象山影视城：NPC互动让游客从观光到“入戏”",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707268.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "辽超：沈阳胜葫芦岛",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707267.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "贵州安顺：傩雕技艺引游人沉浸式体验",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707265.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "湖南祁阳“补丁田”变“聚宝田” 五指毛桃铺就富民路",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707284.shtml",
+      "title": "贵阳：民众在森林里的咖啡馆度过假期时光",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-02/10707302.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
