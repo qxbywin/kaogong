@@ -1,23 +1,23 @@
 {
   "date": "2026-10-03",
-  "time": "08:17",
-  "generatedAt": "2026-10-03T08:17:24.967Z",
+  "time": "13:31",
+  "generatedAt": "2026-10-03T13:31:11.240Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "德媒：俄军打击桥梁致基辅交通瘫痪",
-      "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%AA%92%EF%BC%9A%E4%BF%84%E5%86%9B%E6%89%93%E5%87%BB%E6%A1%A5%E6%A2%81%E8%87%B4%E5%9F%BA%E8%BE%85%E4%BA%A4%E9%80%9A%E7%98%AB%E7%97%AA",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 2,
+      "title": "中方：欢迎普京总统出席APEC领导人非正式会议",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707638.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中国对原产于欧盟的进口对硝基甲苯发起反倾销调查",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707463.shtml",
+      "title": "中国外交部：一贯反对将民用无人机用于军事目的",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707633.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -26,8 +26,8 @@
       ]
     },
     {
-      "title": "（文化新纪行）AI时代中国网络文学“跃”上荧屏",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707465.shtml",
+      "title": "“人工智能治理研究的延续与变革”学术研讨会在京举办",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707631.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -36,8 +36,8 @@
       ]
     },
     {
-      "title": "（经济观察）不产咖啡豆的山东加速布局咖啡产业",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707477.shtml",
+      "title": "以会促产 江西瑞昌全力打造智能疏浚产业集群",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707624.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "title": "中方强调联合国安理会制裁体系要持续完善",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707459.shtml",
+      "title": "浙江杭州：国际选手竞逐龙舟赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-03/10707621.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,8 +56,78 @@
       ]
     },
     {
-      "title": "美国各界热议“要不要对中国车开放”",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%90%84%E7%95%8C%E7%83%AD%E8%AE%AE%E2%80%9C%E8%A6%81%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%BC%80%E6%94%BE%E2%80%9D",
+      "title": "探访“中国钢锹之乡” 小钢锹撬动全球大市场",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-03/10707619.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从“看展品”到“玩科技” 游客国庆假期打卡安徽省科技馆",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-03/10707617.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东西问｜阿克尔别克·奇梅罗夫：中吉工程教育如何在鲁班工坊找到“共同语言”？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-03/10707616.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "北京密云古北妙街开街 古韵新生点亮假日经济",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707604.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "浙江高速服务区焕新迎客 交旅融合激活假日消费",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707606.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI面试 恐怖谷",
+      "url": "https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95+%E6%81%90%E6%80%96%E8%B0%B7",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "国考"
+      ]
+    },
+    {
+      "title": "冷空气来袭 气温将大范围创新低",
+      "url": "https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD+%E6%B0%94%E6%B8%A9%E5%B0%86%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%88%9B%E6%96%B0%E4%BD%8E",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄等8国战略演习 普京前往视察",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%AD%898%E5%9B%BD%E6%88%98%E7%95%A5%E6%BC%94%E4%B9%A0+%E6%99%AE%E4%BA%AC%E5%89%8D%E5%BE%80%E8%A7%86%E5%AF%9F",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -66,8 +136,38 @@
       ]
     },
     {
-      "title": "外媒关注中国国庆假期：出游热度“拉满”，祝福远播至太空",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707507.shtml",
+      "title": "国庆出游用AI 第一批人已被坑惨",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中方欢迎普京总统出席APEC深圳峰会",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E6%80%BB%E7%BB%9F%E5%87%BA%E5%B8%ADAPEC%E6%B7%B1%E5%9C%B3%E5%B3%B0%E4%BC%9A",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄两军潜艇罕见同框",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E4%B8%A4%E5%86%9B%E6%BD%9C%E8%89%87%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "总票房破300亿！合家欢影片成为国庆档观影亮点",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707642.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +176,8 @@
       ]
     },
     {
-      "title": "山水雄关引客至　跨境文旅点亮中越边城",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707481.shtml",
+      "title": "中方：所谓新疆存在“种族灭绝”是赤裸裸的谎言",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707636.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +186,8 @@
       ]
     },
     {
-      "title": "（走进中国乡村）福州点洋村焕新迎客　闽台合力绘就乡村新图景",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707480.shtml",
+      "title": "“四季童读·书香校园行”启动 馆校协同让优质阅读资源走进校园",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707629.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +196,8 @@
       ]
     },
     {
-      "title": "（走进中国乡村）金秋蟹肥　黄河大闸蟹香飘海内外",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707466.shtml",
+      "title": "专家谈RCEP成员国深化经贸互利合作的十点建议",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-03/10707630.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +206,8 @@
       ]
     },
     {
-      "title": "浙江金华美妆出口：从“提篮小卖”到 “链通全球”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707469.shtml",
+      "title": "“北大仓”百余台农机昼夜不停抢收水稻 确保秋粮归仓",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707632.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +216,8 @@
       ]
     },
     {
-      "title": "2026年中国电影年度票房突破300亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707479.shtml",
+      "title": "九寨沟景区迎来2026年度第500万名游客",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707628.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +226,8 @@
       ]
     },
     {
-      "title": "48国选手报名参赛 2026芜湖湾沚·吴钩总决赛开幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707474.shtml",
+      "title": "国庆假期成都宽窄巷子景区游人如织",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-03/10707626.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,108 +236,8 @@
       ]
     },
     {
-      "title": "从城市街巷到戈壁牧区：内蒙古互嵌式社区里的“中华一家亲”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707489.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国年轻人“拼长假” “跳城游”火了",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707482.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西百色：红色地标迎来“通江达海”新机遇",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707486.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "10月2日，全社会跨区域人员流动量30550.4万人次",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707485.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国庆邂逅侨乡 文旅活动展别样侨韵",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-03/10707488.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "合肥至青岛全货机航线开通 “合肥智造”再添空中出海快通道",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707487.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026战马全能小将障碍跑挑战赛北京站开赛 赛事激活假日场景",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707484.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国队夺得亚运会高尔夫男子团体金牌",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707496.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第二届“守护者之歌—交响音乐会”在香港上演",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-03/10707467.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "冈本三成接任日本在野党公明党党首",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707492.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河北滦南：剪纸传雅韵 游客感受非遗魅力",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-03/10707476.shtml",
+      "title": "海南澄迈：国庆假期东坡公园引客来",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-03/10707623.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
