@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
-  "time": "18:01",
-  "generatedAt": "2026-10-03T18:01:16.210Z",
+  "time": "21:27",
+  "generatedAt": "2026-10-03T21:27:27.252Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -126,16 +126,6 @@
       ]
     },
     {
-      "title": "AI面试 恐怖谷",
-      "url": "https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95+%E6%81%90%E6%80%96%E8%B0%B7",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "国考"
-      ]
-    },
-    {
       "title": "女子靠AI婚庆培训年入200万",
       "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87",
       "source": "百度热搜",
@@ -146,23 +136,13 @@
       ]
     },
     {
-      "title": "中方欢迎普京总统出席APEC深圳峰会",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E6%80%BB%E7%BB%9F%E5%87%BA%E5%B8%ADAPEC%E6%B7%B1%E5%9C%B3%E5%B3%B0%E4%BC%9A",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "OpenAI安全系统团队负责人辞职",
-      "url": "https://www.baidu.com/s?wd=OpenAI%E5%AE%89%E5%85%A8%E7%B3%BB%E7%BB%9F%E5%9B%A2%E9%98%9F%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%BE%9E%E8%81%8C",
+      "title": "AI面试 恐怖谷",
+      "url": "https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95+%E6%81%90%E6%80%96%E8%B0%B7",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
-        "申论素材"
+        "国考"
       ]
     },
     {
@@ -238,6 +218,26 @@
     {
       "title": "（爱知·名古屋亚运会）亚运会霹雳舞比赛收官 中国选手郭朴获女子组冠军",
       "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707648.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）28年等待，中国男足带着亚运铜牌“回家”",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707647.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "假期文旅新动向：数字光影里重温红色历史",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707659.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
