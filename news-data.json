@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-03",
-  "time": "21:27",
-  "generatedAt": "2026-10-03T21:27:27.252Z",
+  "date": "2026-10-04",
+  "time": "00:46",
+  "generatedAt": "2026-10-04T00:46:26.427Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -76,29 +76,9 @@
       ]
     },
     {
-      "title": "学习进行时丨中国式现代化，民生为大",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707627.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中方：欢迎普京总统出席APEC领导人非正式会议",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707638.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国外交部：一贯反对将民用无人机用于军事目的",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707633.shtml",
-      "source": "中国新闻网",
+      "title": "中俄白等八国超4.7万人集结大练兵",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%99%BD%E7%AD%89%E5%85%AB%E5%9B%BD%E8%B6%854.7%E4%B8%87%E4%BA%BA%E9%9B%86%E7%BB%93%E5%A4%A7%E7%BB%83%E5%85%B5",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -106,43 +86,123 @@
       ]
     },
     {
-      "title": "国庆出游用AI 第一批人已被坑惨",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8",
+      "title": "曝俄罗斯谋划把基辅炸回“石器时代”",
+      "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%8B%E5%88%92%E6%8A%8A%E5%9F%BA%E8%BE%85%E7%82%B8%E5%9B%9E%E2%80%9C%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%E2%80%9D",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "冷空气来袭 气温将大范围创新低",
-      "url": "https://www.baidu.com/s?wd=%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD+%E6%B0%94%E6%B8%A9%E5%B0%86%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%88%9B%E6%96%B0%E4%BD%8E",
+      "title": "普京前顾问称俄正研究第二次向东转",
+      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%89%8D%E9%A1%BE%E9%97%AE%E7%A7%B0%E4%BF%84%E6%AD%A3%E7%A0%94%E7%A9%B6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%90%91%E4%B8%9C%E8%BD%AC",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "女子靠AI婚庆培训年入200万",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0AI%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD%E5%B9%B4%E5%85%A5200%E4%B8%87",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "广州歌舞剧院在曼谷演出大型民族舞剧《醒·狮》",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-04/1206912.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI面试 恐怖谷",
-      "url": "https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95+%E6%81%90%E6%80%96%E8%B0%B7",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "哈啰顺风车携手百度地图：双边开放重构顺风出行生态",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707678.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
-        "国考"
+        "申论素材"
+      ]
+    },
+    {
+      "title": "毕焜任爱知·名古屋亚运会闭幕式中国体育代表团旗手",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707677.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "印尼东努沙登加拉省发生6.1级地震 震源深度10公里",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "金正恩观摩中程战略导弹发射训练",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月4日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-04/10707674.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "秋天这颗“长寿果”健脾消食、止咳祛痰，但你千万别直接吃",
+      "url": "https://www.chinanews.com.cn/life/2026/10-04/10707672.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（爱知·名古屋亚运会）洪可新女子摔跤57公斤级夺冠 中国代表团169金收官创纪录",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707671.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中网综合：莱巴金娜首战爆冷出局 郑钦文、孙心然晋级女单32强",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707670.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
       ]
     },
     {
@@ -178,66 +238,6 @@
     {
       "title": "我国首个深水油田流花油田取得新突破 “国之重器”协同运转",
       "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707663.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国选手袁思俊晋级2026世界斯诺克·深圳公开赛决赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707656.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国香港队夺首届FIFA东盟挑战杯冠军 主教练称感觉“非常美妙”",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-03/10707655.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）综合消息：中国男足时隔28年再获亚运会铜牌 中国队创境外参加亚运会最佳战绩",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707654.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）亚运会霹雳舞比赛收官 中国选手郭朴获女子组冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707648.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（爱知·名古屋亚运会）28年等待，中国男足带着亚运铜牌“回家”",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-03/10707647.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "假期文旅新动向：数字光影里重温红色历史",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-03/10707659.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
