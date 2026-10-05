@@ -1,10 +1,20 @@
 {
-  "date": "2026-10-04",
-  "time": "21:38",
-  "generatedAt": "2026-10-04T21:38:33.397Z",
+  "date": "2026-10-05",
+  "time": "01:02",
+  "generatedAt": "2026-10-05T01:02:31.869Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "“八分饱”对新能源车有影响吗？假期返程充电避开这些繁忙时段",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708006.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "中外剧作家在沪谈AI：可辅助创作，难以替代舞台艺术",
       "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707983.shtml",
@@ -46,60 +56,10 @@
       ]
     },
     {
-      "title": "记者手记丨在中亚国家感受“中文热”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707977.shtml",
-      "source": "中国新闻网",
+      "title": "日本罕见1天3次强烈抗议美国",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%811%E5%A4%A93%E6%AC%A1%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE%E7%BE%8E%E5%9B%BD",
+      "source": "百度热搜",
       "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全球媒体聚焦 | 印度媒体：中国正在打造科技强国",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707976.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "商务部：国庆假期前四天全国消费市场平稳有序",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707975.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“心价比”崛起：情绪消费成国庆消费新主角",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707972.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "湖北重点城市和景区旅游接待创新高",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707969.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一张票根“链”起全域消费 演唱会经济燃动山东黄金周",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707955.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -126,11 +86,141 @@
       ]
     },
     {
-      "title": "国庆前3天高速新能源车充电近300万次",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%89%8D3%E5%A4%A9%E9%AB%98%E9%80%9F%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E8%BF%91300%E4%B8%87%E6%AC%A1",
+      "title": "“八分饱”对新能源车有影响吗",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AB%E5%88%86%E9%A5%B1%E2%80%9D%E5%AF%B9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%9C%89%E5%BD%B1%E5%93%8D%E5%90%97",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“跟着气象去旅行”成文旅新风尚",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708012.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "云南海南等地有较强降水 东部部分海区有大风",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708008.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "历史性突破！中国选手包揽斯诺克世界前二",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708009.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "巴西总统选举首轮投票无人胜出 将进行第二轮角逐",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708007.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多地推进景区结婚登记 在风景里说“我愿意”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708005.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "今起至假期结束我国大部晴好 总体利于外出与返程",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708004.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月5日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-05/10708003.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泰国洪灾持续 政府启动大范围救助",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10707997.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "巴西总统选举开启首轮投票",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中网综合：萨巴伦卡爆冷出局 德约科维奇逆转兹维列夫",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10707999.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国选手吴宜泽获得2026世界斯诺克·深圳公开赛冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708000.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "初步调查显示迪拜航空袭击者系单独作案",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708001.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -148,96 +238,6 @@
     {
       "title": "（爱知·名古屋亚运会）第20届亚运会在日本名古屋闭幕",
       "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707995.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "WTT中国大满贯赛：王曼昱单打首秀“开门红”",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707984.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "冲绳民众就驻日美军涉嫌杀人案发出愤怒声音",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707993.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗强调同时准备“谈判和战斗”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707982.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普提名约翰·科尔为美总统人质事务特使",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707991.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗军方称将提升导弹射程",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707989.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一代人有一代人的“西游记”",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707980.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普宣布成立“超级智能特别工作组”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707987.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“数”说亚运会：浙江健儿夺35金创境外参赛最佳战绩",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707979.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "好了好了这下坏了！别人都活力四射，只有我在倒立玩手机，这假白放了......",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707985.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
