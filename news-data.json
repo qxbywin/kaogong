@@ -1,14 +1,24 @@
 {
   "date": "2026-10-05",
-  "time": "07:11",
-  "generatedAt": "2026-10-05T07:11:36.832Z",
+  "time": "16:10",
+  "generatedAt": "2026-10-05T16:10:50.498Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "花香引客来 云南元江茉莉花产业成乡村振兴“芬芳引擎”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708133.shtml",
+      "title": "俄财政部将大幅增加外汇和黄金购买量",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708283.shtml",
       "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "专家：提高农民养老金可撬动三重消费",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%8F%90%E9%AB%98%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E5%8F%AF%E6%92%AC%E5%8A%A8%E4%B8%89%E9%87%8D%E6%B6%88%E8%B4%B9",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 2,
       "exams": [
@@ -16,19 +26,59 @@
       ]
     },
     {
-      "title": "从看风景到玩科技 AI催生浙江文旅消费新场景",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708128.shtml",
+      "title": "出行热 体验丰 门市旺——国庆假期消费市场观察",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708296.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "假期解锁“智能山水游” 科技赋能文旅新体验",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708131.shtml",
+      "title": "国庆档电影票房破8亿！“电影+文旅+美食”激活假日消费新动能",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708293.shtml",
       "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "出行注意！新疆喀纳斯景区部分路段实施道路交通临时管制",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708286.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国国庆假期带动泰国旅游市场",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708254.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年国际皮划艇联合会桨板世界杯在苏州开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708268.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "工人给乐山大佛掏耳朵鼻孔系AI生成",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E7%BB%99%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%8E%8F%E8%80%B3%E6%9C%B5%E9%BC%BB%E5%AD%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -36,18 +86,38 @@
       ]
     },
     {
-      "title": "国庆档票房破8亿！“电影+”新活力激发消费新增量",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708127.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
+      "title": "鱼跃医疗 千万级执行案",
+      "url": "https://www.baidu.com/s?wd=%E9%B1%BC%E8%B7%83%E5%8C%BB%E7%96%97+%E5%8D%83%E4%B8%87%E7%BA%A7%E6%89%A7%E8%A1%8C%E6%A1%88",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "俄罗斯人抢购中国电动车",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E6%8A%A2%E8%B4%AD%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6",
+      "title": "人在东北澡堂 没有AI的一天",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%BE%A1%E5%A0%82+%E6%B2%A1%E6%9C%89AI%E7%9A%84%E4%B8%80%E5%A4%A9",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "公交国有化改革 谁来托底",
+      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E4%BA%A4%E5%9B%BD%E6%9C%89%E5%8C%96%E6%94%B9%E9%9D%A9+%E8%B0%81%E6%9D%A5%E6%89%98%E5%BA%95",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际乒联最新世界排名公布",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%85%AC%E5%B8%83",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -56,28 +126,8 @@
       ]
     },
     {
-      "title": "用户投诉说脏话 AI客服回复也含脏话",
-      "url": "https://www.baidu.com/s?wd=%E7%94%A8%E6%88%B7%E6%8A%95%E8%AF%89%E8%AF%B4%E8%84%8F%E8%AF%9D+AI%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%A4%8D%E4%B9%9F%E5%90%AB%E8%84%8F%E8%AF%9D",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "女式凉鞋内藏海洛因被查",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%BC%8F%E5%87%89%E9%9E%8B%E5%86%85%E8%97%8F%E6%B5%B7%E6%B4%9B%E5%9B%A0%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第20届亚运会落幕 云南健儿夺5金创多项参赛历史",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708132.shtml",
+      "title": "国庆假期，游客体验“升级版”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708298.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +136,8 @@
       ]
     },
     {
-      "title": "人字洞旁窑烤香 古遗址边新村靓",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708130.shtml",
+      "title": "云岭大地谱新篇",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708297.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +146,8 @@
       ]
     },
     {
-      "title": "高原铁路人：把节日坚守“种”在海拔3600多米的大棚泥土里",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708129.shtml",
+      "title": "特写：一粒青稞，两代征途",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708295.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +156,8 @@
       ]
     },
     {
-      "title": "也门政府启动大规模军事行动收复胡塞武装控制区",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708106.shtml",
+      "title": "超三联赛首支单赛季三夺争霸赛冠军的球队诞生",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708294.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +166,8 @@
       ]
     },
     {
-      "title": "银川推出“100种玩法”读懂青年情绪需求",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708119.shtml",
+      "title": "WTT中国大满贯赛：孙颖莎晋级女单32强",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708292.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +176,8 @@
       ]
     },
     {
-      "title": "2026诺贝尔奖“开奖周”来了：创设125周年，奖金再上调",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708125.shtml",
+      "title": "2026年“村BA”球王争霸赛全国总决赛：广西柳州鹿寨镇队卫冕冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708291.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +186,8 @@
       ]
     },
     {
-      "title": "台湾斫琴师郑德宣：为古琴“延寿” 为技艺“传薪”",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-05/10708114.shtml",
+      "title": "首届“东北超”落幕：绿茵聚力，振兴起脚",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708290.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +196,8 @@
       ]
     },
     {
-      "title": "跨越海峡的台胞“娘家人”邱俊杰：无难事、悉心办",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-05/10708113.shtml",
+      "title": "英国警方在反移民抗议活动中逮捕12人",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708289.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +206,8 @@
       ]
     },
     {
-      "title": "（文化新纪行｜校馆弦歌）苏州大学图书馆：收藏传学百廿载 翰墨留香天下闻",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708110.shtml",
+      "title": "泰国洪灾已致31人遇难 水情趋缓仍需防强降雨",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708284.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "“殷墟之约”在小院，一片甲骨系两岸",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-05/10708111.shtml",
+      "title": "一艘船在黑海沉没 2人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708287.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "河南三门峡：地坑院里“晒”丰收 游客乐享假期",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-05/10708091.shtml",
+      "title": "2026上海劳力士大师赛男单抽签仪式举行",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708278.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "四川乐山：古镇夜游活动引客来",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-05/10708097.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青海拉面出海四十年：从民间谋生到官方推进",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708112.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "机器人在北京上“幼儿园”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708108.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "长三角铁路返程客流增多 10月5日预计发送旅客超380万人次",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-05/10708101.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（走进中国乡村）太行山深处康养民宿渐成风景",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708107.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "10月5日全国铁路预计发送旅客2105万人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708109.shtml",
+      "title": "英国伦敦大范围停电",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708282.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
