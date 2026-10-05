@@ -1,13 +1,33 @@
 {
   "date": "2026-10-05",
-  "time": "01:02",
-  "generatedAt": "2026-10-05T01:02:31.869Z",
+  "time": "07:11",
+  "generatedAt": "2026-10-05T07:11:36.832Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "“八分饱”对新能源车有影响吗？假期返程充电避开这些繁忙时段",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708006.shtml",
+      "title": "花香引客来 云南元江茉莉花产业成乡村振兴“芬芳引擎”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708133.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从看风景到玩科技 AI催生浙江文旅消费新场景",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708128.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "假期解锁“智能山水游” 科技赋能文旅新体验",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708131.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -16,38 +36,8 @@
       ]
     },
     {
-      "title": "中外剧作家在沪谈AI：可辅助创作，难以替代舞台艺术",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-04/10707983.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "江西南昌中亚班列实现常态化开行",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/10-04/10707981.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "联合国人道主义车队在苏丹南部遇袭 1名司机遇难",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707988.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "假期提示：遭遇霸王条款和消费陷阱 如何维权？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707986.shtml",
+      "title": "国庆档票房破8亿！“电影+”新活力激发消费新增量",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708127.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -56,8 +46,8 @@
       ]
     },
     {
-      "title": "日本罕见1天3次强烈抗议美国",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%811%E5%A4%A93%E6%AC%A1%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE%E7%BE%8E%E5%9B%BD",
+      "title": "俄罗斯人抢购中国电动车",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E6%8A%A2%E8%B4%AD%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -66,28 +56,8 @@
       ]
     },
     {
-      "title": "官方通报“阿尔山景区200一晚酒店”",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%98%BF%E5%B0%94%E5%B1%B1%E6%99%AF%E5%8C%BA200%E4%B8%80%E6%99%9A%E9%85%92%E5%BA%97%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一级市场风向变了",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA%E9%A3%8E%E5%90%91%E5%8F%98%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“八分饱”对新能源车有影响吗",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AB%E5%88%86%E9%A5%B1%E2%80%9D%E5%AF%B9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%9C%89%E5%BD%B1%E5%93%8D%E5%90%97",
+      "title": "用户投诉说脏话 AI客服回复也含脏话",
+      "url": "https://www.baidu.com/s?wd=%E7%94%A8%E6%88%B7%E6%8A%95%E8%AF%89%E8%AF%B4%E8%84%8F%E8%AF%9D+AI%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%A4%8D%E4%B9%9F%E5%90%AB%E8%84%8F%E8%AF%9D",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -96,8 +66,18 @@
       ]
     },
     {
-      "title": "“跟着气象去旅行”成文旅新风尚",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708012.shtml",
+      "title": "女式凉鞋内藏海洛因被查",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%BC%8F%E5%87%89%E9%9E%8B%E5%86%85%E8%97%8F%E6%B5%B7%E6%B4%9B%E5%9B%A0%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第20届亚运会落幕 云南健儿夺5金创多项参赛历史",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708132.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +86,8 @@
       ]
     },
     {
-      "title": "云南海南等地有较强降水 东部部分海区有大风",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708008.shtml",
+      "title": "人字洞旁窑烤香 古遗址边新村靓",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708130.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +96,8 @@
       ]
     },
     {
-      "title": "历史性突破！中国选手包揽斯诺克世界前二",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708009.shtml",
+      "title": "高原铁路人：把节日坚守“种”在海拔3600多米的大棚泥土里",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708129.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +106,8 @@
       ]
     },
     {
-      "title": "巴西总统选举首轮投票无人胜出 将进行第二轮角逐",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708007.shtml",
+      "title": "也门政府启动大规模军事行动收复胡塞武装控制区",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708106.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +116,8 @@
       ]
     },
     {
-      "title": "多地推进景区结婚登记 在风景里说“我愿意”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708005.shtml",
+      "title": "银川推出“100种玩法”读懂青年情绪需求",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708119.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +126,8 @@
       ]
     },
     {
-      "title": "今起至假期结束我国大部晴好 总体利于外出与返程",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708004.shtml",
+      "title": "2026诺贝尔奖“开奖周”来了：创设125周年，奖金再上调",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708125.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +136,8 @@
       ]
     },
     {
-      "title": "10月5日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-05/10708003.shtml",
+      "title": "台湾斫琴师郑德宣：为古琴“延寿” 为技艺“传薪”",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-05/10708114.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +146,8 @@
       ]
     },
     {
-      "title": "泰国洪灾持续 政府启动大范围救助",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10707997.shtml",
+      "title": "跨越海峡的台胞“娘家人”邱俊杰：无难事、悉心办",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-05/10708113.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +156,8 @@
       ]
     },
     {
-      "title": "巴西总统选举开启首轮投票",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml",
+      "title": "（文化新纪行｜校馆弦歌）苏州大学图书馆：收藏传学百廿载 翰墨留香天下闻",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708110.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "中网综合：萨巴伦卡爆冷出局 德约科维奇逆转兹维列夫",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10707999.shtml",
+      "title": "“殷墟之约”在小院，一片甲骨系两岸",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-05/10708111.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml",
+      "title": "河南三门峡：地坑院里“晒”丰收 游客乐享假期",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-05/10708091.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "中国选手吴宜泽获得2026世界斯诺克·深圳公开赛冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-05/10708000.shtml",
+      "title": "四川乐山：古镇夜游活动引客来",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-05/10708097.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "初步调查显示迪拜航空袭击者系单独作案",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708001.shtml",
+      "title": "青海拉面出海四十年：从民间谋生到官方推进",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708112.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "中尼科学家开展跨境巨灾应急联合科考",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707996.shtml",
+      "title": "机器人在北京上“幼儿园”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708108.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "（爱知·名古屋亚运会）第20届亚运会在日本名古屋闭幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-04/10707995.shtml",
+      "title": "长三角铁路返程客流增多 10月5日预计发送旅客超380万人次",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-05/10708101.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（走进中国乡村）太行山深处康养民宿渐成风景",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708107.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月5日全国铁路预计发送旅客2105万人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708109.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
