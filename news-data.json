@@ -1,23 +1,13 @@
 {
   "date": "2026-10-06",
-  "time": "03:07",
-  "generatedAt": "2026-10-06T03:07:23.123Z",
+  "time": "10:31",
+  "generatedAt": "2026-10-06T10:31:43.725Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "“饭困”“晕碳”就是胰岛素抵抗？",
-      "url": "https://www.chinanews.com.cn/life/2026/10-06/10708369.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "铜价连续刷新历史高点 铜产业需跳出结构性困局",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708368.shtml",
+      "title": "“票根经济”助力国庆文旅消费 把买票看戏升级为“艺食住行”",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-06/10708472.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -26,8 +16,8 @@
       ]
     },
     {
-      "title": "国庆假期出境游升温 外媒：中国释放旅游市场活力与消费潜力",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708357.shtml",
+      "title": "国庆档电影票房破10亿！银发观影市场迸发新活力",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-06/10708462.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,89 +26,9 @@
       ]
     },
     {
-      "title": "奔县游丨山水聚潮：赛事激活文旅消费新引擎",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708350.shtml",
+      "title": "“党的政策对老百姓好，才是真正的好”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708450.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "因麻疹疫情 美国纽约州宣布进入灾难紧急状态",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708345.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "升级交通服务 强化返程保障",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708342.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "攀升、焕新、升腾，国庆消费多点开花！火热假日市场为全年经济回升向好注入持久动能",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708337.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "民生为大 把老百姓的事办实办好",
-      "url": "https://www.baidu.com/s?wd=%E6%B0%91%E7%94%9F%E4%B8%BA%E5%A4%A7+%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E4%BA%8B%E5%8A%9E%E5%AE%9E%E5%8A%9E%E5%A5%BD",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "工人给乐山大佛掏耳朵鼻孔系AI生成",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E7%BB%99%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%8E%8F%E8%80%B3%E6%9C%B5%E9%BC%BB%E5%AD%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "公狗剧场靠“男色经济”1年狂卖1个亿",
-      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%8B%97%E5%89%A7%E5%9C%BA%E9%9D%A0%E2%80%9C%E7%94%B7%E8%89%B2%E7%BB%8F%E6%B5%8E%E2%80%9D1%E5%B9%B4%E7%8B%82%E5%8D%961%E4%B8%AA%E4%BA%BF",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "游客住学生宿舍 教育局：离开还打扫了",
-      "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%BD%8F%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D+%E6%95%99%E8%82%B2%E5%B1%80%EF%BC%9A%E7%A6%BB%E5%BC%80%E8%BF%98%E6%89%93%E6%89%AB%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "决议通过！多国向中方表示祝贺",
-      "url": "https://www.baidu.com/s?wd=%E5%86%B3%E8%AE%AE%E9%80%9A%E8%BF%87%EF%BC%81%E5%A4%9A%E5%9B%BD%E5%90%91%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%A5%9D%E8%B4%BA",
-      "source": "百度热搜",
       "cat": "policy",
       "score": 1,
       "exams": [
@@ -126,18 +36,18 @@
       ]
     },
     {
-      "title": "AI显示用户假期一天增重1.91万斤",
-      "url": "https://www.baidu.com/s?wd=AI%E6%98%BE%E7%A4%BA%E7%94%A8%E6%88%B7%E5%81%87%E6%9C%9F%E4%B8%80%E5%A4%A9%E5%A2%9E%E9%87%8D1.91%E4%B8%87%E6%96%A4",
+      "title": "专家建议把存量财富拿出给居民消费",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%AD%98%E9%87%8F%E8%B4%A2%E5%AF%8C%E6%8B%BF%E5%87%BA%E7%BB%99%E5%B1%85%E6%B0%91%E6%B6%88%E8%B4%B9",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中国代表驳斥少数国家诋毁中国人权状况",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708372.shtml",
+      "title": "昆明率先、滇中引领 云南勾勒“十五五”区域协同路线图",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-06/10708479.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +56,18 @@
       ]
     },
     {
-      "title": "国庆假期 天津杨柳青古镇民俗文旅吸引八方游客",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708353.shtml",
+      "title": "国庆假期第六天全社会跨区域人员流动量将超3亿人次",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708483.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年诺贝尔物理学奖揭晓：1名科学家收获殊荣",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708477.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +76,8 @@
       ]
     },
     {
-      "title": "三台风“共舞” 未来对我国海域无影响",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708371.shtml",
+      "title": "全国铁路迎来返程客流高峰",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-06/1207110.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +86,8 @@
       ]
     },
     {
-      "title": "返程注意！未来三天海南强降雨逐渐增多 局地有大暴雨或特大暴雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708370.shtml",
+      "title": "1名科学家获得2026年诺贝尔物理学奖",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708475.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +96,8 @@
       ]
     },
     {
-      "title": "江西庐山：实景演出引客来 光影盛宴点燃国庆假日夜游热潮",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708348.shtml",
+      "title": "浙BA点燃国庆观赛热：一张球票背后的“乘数效应”",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-06/10708471.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +106,8 @@
       ]
     },
     {
-      "title": "福建诏安：抗台风“硬核”大水门成国庆新晋打卡点",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708341.shtml",
+      "title": "南铁迎来国庆假期返程客流高峰 共加开旅客列车397列",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708473.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +116,8 @@
       ]
     },
     {
-      "title": "2026年“村BA”球王争霸赛全国总决赛冠亚军争夺战打响",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708340.shtml",
+      "title": "直播海报：国庆返程高峰进行时！一起“云看”路况",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708474.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +126,8 @@
       ]
     },
     {
-      "title": "游客下地割出9000碗米饭！年轻人新旅游项目是下地干活",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708367.shtml",
+      "title": "浙江古镇解锁新玩法 历史名人NPC邀游客“入戏”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708469.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +136,8 @@
       ]
     },
     {
-      "title": "“东北超”决赛在辽宁大连举行 长春夺冠",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708336.shtml",
+      "title": "澳大利亚陆军训练区发生事故致1死5伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708453.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +146,8 @@
       ]
     },
     {
-      "title": "网传稻城亚丁封闭是真的吗？高原景区如何保障游客安全？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708366.shtml",
+      "title": "秋日硫华菊花海惹人醉",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708467.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +156,88 @@
       ]
     },
     {
-      "title": "缅北电诈主犯随机杀人祭天、有受害者头骨7个弹孔 案件细节曝光",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708362.shtml",
+      "title": "“一起登场，共同尊重”2026赛季中国足球职业联赛文明行动月正式启动",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-06/10708470.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国庆假期 浙江绍兴古城旅游热",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708465.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国承建巴西“萨尔瓦多—伊塔帕里卡”大桥5艘配套工程船舶从洋山口岸出境",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708468.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆巴南：岩洞咖啡馆吸引游客慕名打卡享悠闲时光",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708464.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四川：国庆假期游客打卡都江堰钟书阁",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-06/10708463.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国庆假期重庆动物园人气旺 大熊猫憨态可掬引游人",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-06/1207106.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月5日全社会跨区域人员流动量30333.7万人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708460.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（走进中国乡村）畲乡“林中仙子”引客来 山村吃上“生态饭”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708455.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国庆假期广西特色民俗游“热”力足",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708452.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
