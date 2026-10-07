@@ -1,13 +1,23 @@
 {
   "date": "2026-10-07",
-  "time": "08:51",
-  "generatedAt": "2026-10-07T08:51:30.067Z",
+  "time": "16:39",
+  "generatedAt": "2026-10-07T16:39:16.356Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "广东河源佗城镇：数字化赋能千年古邑焕新“出圈”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708720.shtml",
+      "title": "国际货币基金组织预计高油价将持续至明年",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708822.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "量子精密测量实现新突破 我国科研团队研制出“核光钟”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708834.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -16,8 +26,18 @@
       ]
     },
     {
-      "title": "俄罗斯总统助理、海事委员会主席帕特鲁舍夫将访华",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708712.shtml",
+      "title": "（经济观察）流动中国释放假日经济新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708824.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄官方称鼠疫研究机构一名员工确诊“不明原因肺炎”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708812.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -26,48 +46,8 @@
       ]
     },
     {
-      "title": "非遗出彩“出圈”、传统戏曲焕新 多元文化体验激活假日文旅消费新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708695.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "金观平：历史经典产业要走好市场化新路",
-      "url": "https://www.chinanews.com.cn/ll/2026/10-07/10708693.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "滨海潮玩节成海口国庆假日文旅消费亮点",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708684.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "交通运输部提醒：免费时段即将结束",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E9%83%A8%E6%8F%90%E9%86%92%EF%BC%9A%E5%85%8D%E8%B4%B9%E6%97%B6%E6%AE%B5%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "郭台铭靠AI赚翻了",
-      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%8F%B0%E9%93%AD%E9%9D%A0AI%E8%B5%9A%E7%BF%BB%E4%BA%86",
+      "title": "中国新能源跑出四个“全球第一”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%B7%91%E5%87%BA%E5%9B%9B%E4%B8%AA%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E2%80%9D",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -76,8 +56,8 @@
       ]
     },
     {
-      "title": "死刑失败的美国女囚已恢复意识能说话",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%84%8F%E8%AF%86%E8%83%BD%E8%AF%B4%E8%AF%9D",
+      "title": "俄称鼠疫研究人员确诊不明原因肺炎",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E9%BC%A0%E7%96%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AF%8A%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -86,28 +66,18 @@
       ]
     },
     {
-      "title": "三国发声：同意立即在沙特部署军力",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%9B%BD%E5%8F%91%E5%A3%B0%EF%BC%9A%E5%90%8C%E6%84%8F%E7%AB%8B%E5%8D%B3%E5%9C%A8%E6%B2%99%E7%89%B9%E9%83%A8%E7%BD%B2%E5%86%9B%E5%8A%9B",
+      "title": "欧盟官员将访华",
+      "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E5%AE%98%E5%91%98%E5%B0%86%E8%AE%BF%E5%8D%8E",
       "source": "百度热搜",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "演员王星案牵出跨境人口贩卖集团",
-      "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E6%A1%88%E7%89%B5%E5%87%BA%E8%B7%A8%E5%A2%83%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%E9%9B%86%E5%9B%A2",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "台湾知名盐酥鸡品牌大陆开首店引食客“寻味”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708724.shtml",
+      "title": "分子也有“左右之分”，今年诺贝尔化学奖为何研究“偏心”？",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708836.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +86,8 @@
       ]
     },
     {
-      "title": "四川成都铁路地铁迎来国庆返程客流高峰",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-07/10708723.shtml",
+      "title": "尹锡悦接受免费舆论调查服务案二审改判无罪",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708835.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +96,8 @@
       ]
     },
     {
-      "title": "南铁迎国庆假期返程客流最高峰 预计发送旅客179万人次",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708722.shtml",
+      "title": "WTT中国大满贯赛：孙颖莎出局 中国台北小将淘汰梁靖崑",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708833.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +106,8 @@
       ]
     },
     {
-      "title": "南京大屠杀幸存者郭秀兰去世 在册在世幸存者仅剩20人",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708718.shtml",
+      "title": "国庆假期约140.6万人次内地旅客入境香港",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-07/10708832.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +116,8 @@
       ]
     },
     {
-      "title": "从墨尔本到悉尼，杨舒予继续“升级”",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708717.shtml",
+      "title": "泰国洪灾死亡人数升至60人 多地将迎新一轮强降雨",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708831.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +126,8 @@
       ]
     },
     {
-      "title": "国庆假期最后一天 全国铁路迎来返程客流最高峰",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708716.shtml",
+      "title": "国庆假期中国刑事警情同比下降23.7%",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708823.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +136,8 @@
       ]
     },
     {
-      "title": "湖北通山：千人踏秋登九宫 沿溪寻瀑观云海",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708714.shtml",
+      "title": "中国乒协：将推动建立赛场禁入名单制度",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708820.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +146,8 @@
       ]
     },
     {
-      "title": "在泰失联的上海音乐教师已安全回国",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708715.shtml",
+      "title": "食蟹正当时 如何兼顾美味与健康？",
+      "url": "https://www.chinanews.com.cn/life/2026/10-07/10708821.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +156,8 @@
       ]
     },
     {
-      "title": "访中国海军遵义舰：迈向深蓝新长征",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708713.shtml",
+      "title": "（长征胜利90周年）长征胜利90周年主题展览观展侧记：于回望中汲取前行力量",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708819.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +166,8 @@
       ]
     },
     {
-      "title": "中国央行连续23个月增持黄金",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708703.shtml",
+      "title": "中网四连胜！郑钦文晋级八强",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708818.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +176,8 @@
       ]
     },
     {
-      "title": "古厝变身戏台 非遗展演点亮福州三坊七巷",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708696.shtml",
+      "title": "福州地铁国庆推便民举措 设临时行李寄存区",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-07/10708817.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +186,8 @@
       ]
     },
     {
-      "title": "十余载奔走海峡两岸 六旬台胞以棒垒球传情",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-07/10708692.shtml",
+      "title": "国庆假期福建“好戏连连” 古厝街区成戏台",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708813.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +196,8 @@
       ]
     },
     {
-      "title": "在绿茵场上读懂“整装东北”",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708691.shtml",
+      "title": "韩国“世界”号运载火箭第五次发射取得成功",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708815.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +206,38 @@
       ]
     },
     {
-      "title": "写在长春2027第33届世界大学生冬季运动会倒计时100天之际",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-07/10708701.shtml",
+      "title": "从“看展”到“入戏” 河北特色博物馆国庆假期人气旺",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-07/10708814.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "票房超11.5亿元 2026年中国电影国庆档收官",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-07/10708811.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "三亚整治红树林保护区内涉嫌违法违规商业旅游行为",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708816.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国庆假期北京全市公园迎客超1381万人次",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708806.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
