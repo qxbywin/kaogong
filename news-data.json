@@ -1,10 +1,20 @@
 {
-  "date": "2026-10-06",
-  "time": "21:43",
-  "generatedAt": "2026-10-06T21:43:56.428Z",
+  "date": "2026-10-07",
+  "time": "01:39",
+  "generatedAt": "2026-10-07T01:39:03.345Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "美国8月贸易逆差达1056亿美元 创一年多来最高值",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708563.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "国际货币基金组织：对冲基金快速扩张或放大市场风险",
       "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708558.shtml",
@@ -16,11 +26,61 @@
       ]
     },
     {
-      "title": "中国商务部回应法德要求欧盟强化贸易防御等保护主义工具",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708543.shtml",
+      "title": "中央气象台：全国大部天气晴好 海南岛有较强降水",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708572.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中东部大部晴朗干燥持续 气温回升昼夜温差较大",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708576.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国庆假期第六天全国道路交通总体平稳",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708573.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "世界银行下调柬埔寨2026年经济增长预期至3.5%",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708566.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "德国选择党成员首次担任联邦州议会议长",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708564.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708569.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -36,58 +96,8 @@
       ]
     },
     {
-      "title": "香港继续获评为全球最自由经济体",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-06/10708544.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部：希望欧方同中方相向而行，通过对话协商解决彼此关切",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708541.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部：反对借战事关联抹黑中国",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708537.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "专家：RCEP为中小企业深耕亚太市场创造机遇",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-06/10708534.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第37届上海旅游节闭幕 “一节两季”激发消费新活力",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708531.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部回应台接收美战斗机",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%8E%A5%E6%94%B6%E7%BE%8E%E6%88%98%E6%96%97%E6%9C%BA",
+      "title": "26岁白俄罗斯模特被诱骗至缅甸杀害",
+      "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%A8%A1%E7%89%B9%E8%A2%AB%E8%AF%B1%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E6%9D%80%E5%AE%B3",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -96,8 +106,8 @@
       ]
     },
     {
-      "title": "外交部：美方应慎重处理台湾问题",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E6%85%8E%E9%87%8D%E5%A4%84%E7%90%86%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
+      "title": "中东历史性一幕正在上演",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%B9%95%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%BC%94",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -116,8 +126,8 @@
       ]
     },
     {
-      "title": "外交部：中方反对炒作“中国间谍”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%AF%B9%E7%82%92%E4%BD%9C%E2%80%9C%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E2%80%9D",
+      "title": "外交部回应台接收美战斗机",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%8E%A5%E6%94%B6%E7%BE%8E%E6%88%98%E6%96%97%E6%9C%BA",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -126,8 +136,38 @@
       ]
     },
     {
-      "title": "2032布里斯班奥运会和残奥会会徽揭晓",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708562.shtml",
+      "title": "医院回应logo含货币符号",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94logo%E5%90%AB%E8%B4%A7%E5%B8%81%E7%AC%A6%E5%8F%B7",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "香港继续获评为全球最自由经济体",
+      "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%BB%A7%E7%BB%AD%E8%8E%B7%E8%AF%84%E4%B8%BA%E5%85%A8%E7%90%83%E6%9C%80%E8%87%AA%E7%94%B1%E7%BB%8F%E6%B5%8E%E4%BD%93",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外交部：美方应慎重处理台湾问题",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E6%85%8E%E9%87%8D%E5%A4%84%E7%90%86%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "WTT中国大满贯赛：中国选手王曼昱晋级16强",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-07/1207137.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +176,8 @@
       ]
     },
     {
-      "title": "直播外链：国庆返程高峰进行时！一起“云看”路况",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-07/10708561.shtml",
+      "title": "驻冲绳美军最高负责人下令：对所有驻冲绳美军实施外出限制",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708593.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "澜湄合作专项基金支持泰缅边境洪水预警项目",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708560.shtml",
+      "title": "全国铁路今天预计发送旅客2415万人次",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708592.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "以色列政府发出旅行警告 提醒海外公民防范潜在安全风险",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708557.shtml",
+      "title": "网传“含姜片、喝姜水防晕车”靠谱吗？假期返程晕车必看→",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708589.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "WTT中国大满贯赛：王曼昱晋级16强 中国选手陈熠三线全胜",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-06/10708555.shtml",
+      "title": "高铁向北 林海“生金”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708584.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "《只此青绿》千场纪念在北京上演 足迹已达海内外近90城",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-06/10708546.shtml",
+      "title": "岗位更迭初心不改 铁路“老警”用细致守护民众国庆旅途",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708583.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708545.shtml",
+      "title": "“中国内地电影展2026”香港开幕 放映12部精选电影",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-07/1207134.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,48 +236,8 @@
       ]
     },
     {
-      "title": "拉脱维亚总统委托总理组建新内阁",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708554.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "10岁孩子玩飞拉达攀岩不慎脱手！带娃游玩这些坑别踩",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708552.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "秋季山野出行提示：科学规划防险情，远离网红野游路线谨防失温",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708550.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国庆返程必看！高速免费看出口时间 千万别卡点下高速",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708549.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "法国凡尔赛宫因大规模停电暂时关闭",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708548.shtml",
+      "title": "一种很新的婚礼火了！超10亿元大生意→",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708580.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
