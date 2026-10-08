@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "time": "16:37",
-  "generatedAt": "2026-10-08T16:37:45.355Z",
+  "time": "22:11",
+  "generatedAt": "2026-10-08T22:11:47.097Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -126,16 +126,6 @@
       ]
     },
     {
-      "title": "女子开超小养老院只收六人",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E8%B6%85%E5%B0%8F%E5%85%BB%E8%80%81%E9%99%A2%E5%8F%AA%E6%94%B6%E5%85%AD%E4%BA%BA",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "俄罗斯“不明原因肺炎”事件发酵",
       "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%8F%91%E9%85%B5",
       "source": "百度热搜",
@@ -146,10 +136,10 @@
       ]
     },
     {
-      "title": "俄导弹命中乌五层住宅楼 乌称将回应",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%AF%BC%E5%BC%B9%E5%91%BD%E4%B8%AD%E4%B9%8C%E4%BA%94%E5%B1%82%E4%BD%8F%E5%AE%85%E6%A5%BC+%E4%B9%8C%E7%A7%B0%E5%B0%86%E5%9B%9E%E5%BA%94",
+      "title": "女子开超小养老院只收六人",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E8%B6%85%E5%B0%8F%E5%85%BB%E8%80%81%E9%99%A2%E5%8F%AA%E6%94%B6%E5%85%AD%E4%BA%BA",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -166,10 +156,10 @@
       ]
     },
     {
-      "title": "特朗普宣布给未成年人开股市投资账户",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E7%BB%99%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%BC%80%E8%82%A1%E5%B8%82%E6%8A%95%E8%B5%84%E8%B4%A6%E6%88%B7",
+      "title": "俄导弹命中乌五层住宅楼 乌称将回应",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%AF%BC%E5%BC%B9%E5%91%BD%E4%B8%AD%E4%B9%8C%E4%BA%94%E5%B1%82%E4%BD%8F%E5%AE%85%E6%A5%BC+%E4%B9%8C%E7%A7%B0%E5%B0%86%E5%9B%9E%E5%BA%94",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -238,6 +228,16 @@
     {
       "title": "药没换、饭没改 血压却“莫名”升高了？科学控压这样做",
       "url": "https://www.chinanews.com.cn/jk/2026/10-08/10709409.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026济南林丹杯吸引1000余名选手参赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-08/10709403.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
