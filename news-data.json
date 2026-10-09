@@ -1,13 +1,33 @@
 {
   "date": "2026-10-09",
-  "time": "09:16",
-  "generatedAt": "2026-10-09T09:16:12.269Z",
+  "time": "16:20",
+  "generatedAt": "2026-10-09T16:20:41.112Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "“中亚跨境电商是蓝海市场”——百年口岸霍尔果斯跃动跨境电商“新动能”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709733.shtml",
+      "title": "（经济观察）发展新质生产力 中国明确企业做创新主角",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709953.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泰国以光影科技激活东北文化资源推动夜间旅游和地方经济",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709945.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709942.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,8 +36,8 @@
       ]
     },
     {
-      "title": "港城大举办首届国际文化论坛 多国艺术家共话艺术科技融合",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-09/10709649.shtml",
+      "title": "何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709929.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -26,18 +46,8 @@
       ]
     },
     {
-      "title": "张硕辅被查 广东：坚决拥护党中央决定",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%A1%95%E8%BE%85%E8%A2%AB%E6%9F%A5+%E5%B9%BF%E4%B8%9C%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "以镜为媒 重庆启动2026中外Z世代国际传播创客计划",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709743.shtml",
+      "title": "国际刑事法院强烈反对美国制裁 呼吁成员国支持其运作",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709960.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,18 +56,8 @@
       ]
     },
     {
-      "title": "山西体系化推进科技成果转化：打破惯性思维 实施六大行动",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709725.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "聚焦建设生育友好型社会 湖北省政协建言献策",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709641.shtml",
+      "title": "独联体国家元首理事会会议在土库曼斯坦举行",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709959.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -66,18 +66,8 @@
       ]
     },
     {
-      "title": "西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法被开除党籍",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709741.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东西问丨李光辉：中国边疆经济如何从“发展末端”变成“世界接口”",
-      "url": "https://www.chinanews.com.cn/dxw/2026/10-09/10709714.shtml",
+      "title": "马来西亚拟优化全球服务枢纽税收优惠 企业所得税率低至5%",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709950.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -86,19 +76,39 @@
       ]
     },
     {
-      "title": "中储粮集团广西分公司总经理余珂被查",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709721.shtml",
+      "title": "广西推进食品安全治理 建立地方特色食药物质目录制度",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709946.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "俄鼠疫实验室员工死亡 有无公卫风险",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E9%BC%A0%E7%96%AB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%91%98%E5%B7%A5%E6%AD%BB%E4%BA%A1+%E6%9C%89%E6%97%A0%E5%85%AC%E5%8D%AB%E9%A3%8E%E9%99%A9",
-      "source": "百度热搜",
+      "title": "“第一经济大省”广东吹响新集结号：向先进制造全面进军",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709949.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上海市文旅大数据创新实验室揭幕暨“海纳智算”Token 平台启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709951.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国官方：推动中医药国际合作更加贴近各国卫生健康需求",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/10-09/10709927.shtml",
+      "source": "中国新闻网",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -106,8 +116,38 @@
       ]
     },
     {
-      "title": "别让AI糟蹋了四大名著",
-      "url": "https://www.baidu.com/s?wd=%E5%88%AB%E8%AE%A9AI%E7%B3%9F%E8%B9%8B%E4%BA%86%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97",
+      "title": "中欧班列（武汉）开通新线路助湖北汽车产业“出海”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709908.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国驻英国使馆敦促英方立即撤销对有关中国实体的制裁",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709928.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际观察｜冲绳命案凸显日本倚美恶果",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709938.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "沥青价格再创新高",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%A5%E9%9D%92%E4%BB%B7%E6%A0%BC%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -116,18 +156,38 @@
       ]
     },
     {
-      "title": "泰国女富商控诉被儿子送铁笼养老院",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E5%AF%8C%E5%95%86%E6%8E%A7%E8%AF%89%E8%A2%AB%E5%84%BF%E5%AD%90%E9%80%81%E9%93%81%E7%AC%BC%E5%85%BB%E8%80%81%E9%99%A2",
+      "title": "周启豪4-2张禹珍 打爆日韩王牌",
+      "url": "https://www.baidu.com/s?wd=%E5%91%A8%E5%90%AF%E8%B1%AA4-2%E5%BC%A0%E7%A6%B9%E7%8F%8D+%E6%89%93%E7%88%86%E6%97%A5%E9%9F%A9%E7%8E%8B%E7%89%8C",
       "source": "百度热搜",
-      "cat": "society",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "探访河北大理石长城：从雄关险口到“长城风景道”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709749.shtml",
+      "title": "中小银行大额存单利率逆势上调",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E9%93%B6%E8%A1%8C%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E5%88%A9%E7%8E%87%E9%80%86%E5%8A%BF%E4%B8%8A%E8%B0%83",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "女局长被指出轨多人 湖南永州通报",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E6%8C%87%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA+%E6%B9%96%E5%8D%97%E6%B0%B8%E5%B7%9E%E9%80%9A%E6%8A%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "这个很多人晚上都在做的事，正在加速牙齿老化！还可能会变丑！",
+      "url": "https://www.chinanews.com.cn/life/2026/10-09/10709962.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +196,8 @@
       ]
     },
     {
-      "title": "断航140余天 乌江白马段航道恢复通航",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709748.shtml",
+      "title": "日本将强化太空运输能力 加速布局太空军事力量",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709961.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +206,8 @@
       ]
     },
     {
-      "title": "栾树挂“灯笼” 江西南昌秋意渐浓",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709703.shtml",
+      "title": "第35届飞天奖揭晓 宋佳同一角色集齐三大奖",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709958.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +216,8 @@
       ]
     },
     {
-      "title": "“2026年中华文化大乐园—澳大利亚墨尔本园”闭园仪式暨汇报演出隆重举行",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709731.shtml",
+      "title": "WTT中国大满贯赛：王曼昱女双、女单双线晋级",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709956.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +226,8 @@
       ]
     },
     {
-      "title": "电影《大改水》将在电影频道首映",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709747.shtml",
+      "title": "马来西亚明年拟将最低月工资提高17.6%",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709954.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,68 +236,8 @@
       ]
     },
     {
-      "title": "沉浸式互动引客来 江西滕王阁国庆假期接待游客98.42万人次",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709745.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "热度拉满！辽阳“襄联石榴籽”主题展 引爆十一观展热潮",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709737.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "江苏响水：路通港兴城乡美 灌河南岸展新颜",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709685.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国首个省级体育强省建设“十五五”规划出台",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709727.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北科大雄安校区明年9月投用 首批研究生将入住",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-09/10709724.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "楚雄禄丰：以“我们共同的节日”绘就民族团结新画卷",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709676.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "湖南出台支持存量土地盘活增效措施 从“增量扩张”转向“存量挖潜”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709701.shtml",
+      "title": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709955.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
