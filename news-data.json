@@ -1,13 +1,33 @@
 {
   "date": "2026-10-10",
-  "time": "07:16",
-  "generatedAt": "2026-10-10T07:16:21.207Z",
+  "time": "13:51",
+  "generatedAt": "2026-10-10T13:51:03.598Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "徐州鼓楼国庆假日消费新态势：把流量留住，让爆红长红",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710473.shtml",
+      "title": "食品安全法修订草案公开征求意见",
+      "url": "https://www.baidu.com/s?wd=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "快讯：胡塞武装称沙特战机四次空袭萨那国际机场",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710817.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上海民盟盟员共探脑机接口产业发展",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710801.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -16,9 +36,109 @@
       ]
     },
     {
-      "title": "建行国庆期间快速落地房贷贴息政策，服务居民及时享受贴息实惠",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710468.shtml",
+      "title": "从陪伴到助行 养老机器人守护“银发生活”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710806.shtml",
       "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河北举办国际A类冰雪赛事数量连续两年居世界第一",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710781.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新华社快讯：沙特首都国际机场传出爆炸声",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710803.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "证监会召开资本市场和金融形势专家座谈会",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710778.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "以创新赢未来",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%88%9B%E6%96%B0%E8%B5%A2%E6%9C%AA%E6%9D%A5",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "未来五年推进就业有哪些新变化",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%8E%A8%E8%BF%9B%E5%B0%B1%E4%B8%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "证监会主席吴清：更好回报广大投资者",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%90%B4%E6%B8%85%EF%BC%9A%E6%9B%B4%E5%A5%BD%E5%9B%9E%E6%8A%A5%E5%B9%BF%E5%A4%A7%E6%8A%95%E8%B5%84%E8%80%85",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "普京向美方转达伊朗方面解决冲突构想",
+      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%91%E7%BE%8E%E6%96%B9%E8%BD%AC%E8%BE%BE%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81%E6%9E%84%E6%83%B3",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "证监会召开资本市场和金融形势座谈会",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8F%AC%E5%BC%80%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E5%92%8C%E9%87%91%E8%9E%8D%E5%BD%A2%E5%8A%BF%E5%BA%A7%E8%B0%88%E4%BC%9A",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "游戏主机越来越贵 销量却创新低",
+      "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%9C%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5+%E9%94%80%E9%87%8F%E5%8D%B4%E5%88%9B%E6%96%B0%E4%BD%8E",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "雅思考试取消考生在考场外大哭",
+      "url": "https://www.baidu.com/s?wd=%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E5%8F%96%E6%B6%88%E8%80%83%E7%94%9F%E5%9C%A8%E8%80%83%E5%9C%BA%E5%A4%96%E5%A4%A7%E5%93%AD",
+      "source": "百度热搜",
       "cat": "policy",
       "score": 1,
       "exams": [
@@ -26,68 +146,8 @@
       ]
     },
     {
-      "title": "景区商场AI拍照机暗藏哪些安全风险？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710158.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710144.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "锦州市实施“链上工作法” 创新新的社会阶层人士统战工作",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710135.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平经济思想引领中国加快发展新质生产力",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710122.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "人社部：力争到2030年技能人才占就业人员比例升至35%",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710125.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "警方通报王皓遭围堵辱骂：3人被拘",
-      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%9A%93%E9%81%AD%E5%9B%B4%E5%A0%B5%E8%BE%B1%E9%AA%82%EF%BC%9A3%E4%BA%BA%E8%A2%AB%E6%8B%98",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI生成内容不受版权约束？错！",
-      "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B8%8D%E5%8F%97%E7%89%88%E6%9D%83%E7%BA%A6%E6%9D%9F%EF%BC%9F%E9%94%99%EF%BC%81",
+      "title": "男子婚礼使用AI生成婚纱照",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A9%9A%E7%A4%BC%E4%BD%BF%E7%94%A8AI%E7%94%9F%E6%88%90%E5%A9%9A%E7%BA%B1%E7%85%A7",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -96,38 +156,8 @@
       ]
     },
     {
-      "title": "雅思考试突发大范围停考",
-      "url": "https://www.baidu.com/s?wd=%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E7%AA%81%E5%8F%91%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%81%9C%E8%80%83",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "桑葚半盒都是海绵垫 消费者吐槽",
-      "url": "https://www.baidu.com/s?wd=%E6%A1%91%E8%91%9A%E5%8D%8A%E7%9B%92%E9%83%BD%E6%98%AF%E6%B5%B7%E7%BB%B5%E5%9E%AB+%E6%B6%88%E8%B4%B9%E8%80%85%E5%90%90%E6%A7%BD",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "00后“戒断”AI短剧：一个月卸载5次",
-      "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E2%80%9C%E6%88%92%E6%96%AD%E2%80%9DAI%E7%9F%AD%E5%89%A7%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%9C%88%E5%8D%B8%E8%BD%BD5%E6%AC%A1",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710483.shtml",
+      "title": "重磅文件发布，新质生产力发展有了清晰路线图",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710822.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +166,8 @@
       ]
     },
     {
-      "title": "山东枣庄：霞光映桥 绘就湖山画卷",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-10/news1071419.shtml",
+      "title": "10月10日新闻夜读",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-10/10710821.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +176,8 @@
       ]
     },
     {
-      "title": "澳大利亚一架轻型飞机坠毁 致2人受重伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710481.shtml",
+      "title": "藏北高原种出“黑珍珠” 索县308亩黑青稞藏着致富“粮”方",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710819.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +186,8 @@
       ]
     },
     {
-      "title": "民族交响戏剧音乐会《山河如愿》在京首演 将沿长征路线巡演全国",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710479.shtml",
+      "title": "第三次新疆综合科学考察成果发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710788.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +196,8 @@
       ]
     },
     {
-      "title": "成都公交首批网约公交车开启试运行",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710480.shtml",
+      "title": "宁夏枸杞鲜果首次经银川关区冷链直供香港",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710789.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +206,8 @@
       ]
     },
     {
-      "title": "新疆兵团团场啤酒花迎丰收年 产量效益双提升",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710477.shtml",
+      "title": "多国市长河南洛阳共话文化遗产古为今用之道",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710792.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +216,8 @@
       ]
     },
     {
-      "title": "2026金鸡海外影展开幕 五部佳片点亮首尔银幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710478.shtml",
+      "title": "广西建设国门疾控联合体 深化跨境传染病防控合作",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-10/10710795.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +226,8 @@
       ]
     },
     {
-      "title": "甘肃嘉峪关：雄关染秋色 清秋意正浓",
-      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207412.shtml",
+      "title": "桂南采茶剧《侨批树》专场演出在邕举行 诠释海外赤子家国情怀",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710783.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "3名美团骑手荣登全国见义勇为榜，美团回应：将加大奖励骑手好人好事",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710472.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第五届亚残运会中国体育代表团成立",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207407.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国七部门发文推动电商领域高水平开放",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710464.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "葛洲坝航运扩能主体工程开工",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710466.shtml",
+      "title": "2026年泉州市港澳台侨青年交流季启动",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710793.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
