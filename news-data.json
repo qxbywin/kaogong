@@ -1,10 +1,30 @@
 {
   "date": "2026-10-11",
-  "time": "15:48",
-  "generatedAt": "2026-10-11T15:48:29.477Z",
+  "time": "20:22",
+  "generatedAt": "2026-10-11T20:22:56.960Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“袁稻思源”杂交水稻智能育种平台长沙发布 AI赋能育种创新",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "中国·敦煌国际武术公开赛开幕 20余国选手“以武会友”",
       "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711146.shtml",
@@ -36,10 +56,20 @@
       ]
     },
     {
-      "title": "从草场放牧到高原种菊 西藏特色种养产业让群众致富增收",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711122.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
+      "title": "胖东来施工现场 干净得像AI",
+      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央考核巡查专家：你们这么挂灯没用",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%8C%82%E7%81%AF%E6%B2%A1%E7%94%A8",
+      "source": "百度热搜",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -56,21 +86,71 @@
       ]
     },
     {
-      "title": "胖东来施工现场 干净得像AI",
-      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI",
+      "title": "市监局通报烧烤店厨师吐漱口水",
+      "url": "https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%83%A7%E7%83%A4%E5%BA%97%E5%8E%A8%E5%B8%88%E5%90%90%E6%BC%B1%E5%8F%A3%E6%B0%B4",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中央考核巡查专家：你们这么挂灯没用",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%8C%82%E7%81%AF%E6%B2%A1%E7%94%A8",
+      "title": "江西立法杜绝 “新官不理旧账”",
+      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E7%AB%8B%E6%B3%95%E6%9D%9C%E7%BB%9D+%E2%80%9C%E6%96%B0%E5%AE%98%E4%B8%8D%E7%90%86%E6%97%A7%E8%B4%A6%E2%80%9D",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "郑钦文创造历史 首夺中网女单冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "吉布提沿海移民船只倾覆事故死亡人数升至139人",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全球媒体聚焦 | “长征是值得非洲探讨的国家发展理念”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "IMF和世行年会将在曼谷举行 泰国加强安保和城市保障",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711153.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中超第27轮：蓉城遭绝杀暂缓夺冠 海牛提前降级",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -158,86 +238,6 @@
     {
       "title": "郑钦文生涯首夺WTA1000级别赛事冠军",
       "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“外卖诗人”王计兵：普通人的笔，也能写下生活的重量",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711136.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东西问丨专访陆克文：我不认为自己是“中国通”",
-      "url": "https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "郑钦文成为中网首位本土女单冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广州天气晴好 游客登鸿鹄楼观景",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王沪宁会见越南国会主席陈青敏",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207540.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "云南40名选手以“路”为核心 讲述铸牢中华民族共同体意识故事",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-11/10711132.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "新疆新星市举办奇石文化旅游活动",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711131.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年河北省赛事资源策划运营对接洽谈会举行",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711129.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
