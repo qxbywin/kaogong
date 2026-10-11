@@ -1,63 +1,13 @@
 {
   "date": "2026-10-11",
-  "time": "01:59",
-  "generatedAt": "2026-10-11T01:59:09.039Z",
+  "time": "09:03",
+  "generatedAt": "2026-10-11T09:03:16.231Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "高频数据显示 三季度居民消费意愿稳步回暖",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710879.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "推动“智慧监管”等 食品安全法修订草案回应这些关切",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710875.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国新能源产业做对了什么",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%A7%E4%B8%9A%E5%81%9A%E5%AF%B9%E4%BA%86%E4%BB%80%E4%B9%88",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "藏羌山村结硕果 海外华媒点赞茂县苹果产业振兴路径",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-11/10710889.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海外华媒走进藏羌大地 探访理县乡村振兴鲜活实践",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-11/10710888.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普：美国可能加入沙特打击胡塞武装的行动",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710880.shtml",
+      "title": "霍启刚：香港可成为内地演艺行业走向国际的实务型枢纽",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711005.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -66,49 +16,19 @@
       ]
     },
     {
-      "title": "2026华盛顿国际青年艺术家音乐季收官",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710870.shtml",
+      "title": "卧龙大熊猫苑通报多起不文明行为 多人被终身禁入",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711012.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "300个名额超8000人报名 职业教育迎来哪些新变化？",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-11/10710874.shtml",
+      "title": "第六届易水学派传承创新发展大会在河北易县开幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711007.shtml",
       "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中央气象台：北方大部地区将有冷空气活动",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710868.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美俄达成能源合作 泽连斯基感到“遭背叛” 美总统建议乌更换领导人",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710865.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "以创新赢未来",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%88%9B%E6%96%B0%E8%B5%A2%E6%9C%AA%E6%9D%A5",
-      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -116,18 +36,18 @@
       ]
     },
     {
-      "title": "美国有可能加入沙特对胡塞打击行动",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%8F%AF%E8%83%BD%E5%8A%A0%E5%85%A5%E6%B2%99%E7%89%B9%E5%AF%B9%E8%83%A1%E5%A1%9E%E6%89%93%E5%87%BB%E8%A1%8C%E5%8A%A8",
-      "source": "百度热搜",
-      "cat": "international",
+      "title": "海峡两岸暨港澳地区高校现代书院制教育论坛在广州举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710999.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "雅思考试取消考生在考场外大哭",
-      "url": "https://www.baidu.com/s?wd=%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E5%8F%96%E6%B6%88%E8%80%83%E7%94%9F%E5%9C%A8%E8%80%83%E5%9C%BA%E5%A4%96%E5%A4%A7%E5%93%AD",
+      "title": "雅思考试突发取消 退费重考如何安排",
+      "url": "https://www.baidu.com/s?wd=%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E7%AA%81%E5%8F%91%E5%8F%96%E6%B6%88+%E9%80%80%E8%B4%B9%E9%87%8D%E8%80%83%E5%A6%82%E4%BD%95%E5%AE%89%E6%8E%92",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
@@ -136,8 +56,28 @@
       ]
     },
     {
-      "title": "美国一逃犯成名厨后上电视被捕",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%80%83%E7%8A%AF%E6%88%90%E5%90%8D%E5%8E%A8%E5%90%8E%E4%B8%8A%E7%94%B5%E8%A7%86%E8%A2%AB%E6%8D%95",
+      "title": "违规筹办越野跑 体育总局通报",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%9D%E8%A7%84%E7%AD%B9%E5%8A%9E%E8%B6%8A%E9%87%8E%E8%B7%91+%E4%BD%93%E8%82%B2%E6%80%BB%E5%B1%80%E9%80%9A%E6%8A%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央明确！发展新型研究型大学",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%98%8E%E7%A1%AE%EF%BC%81%E5%8F%91%E5%B1%95%E6%96%B0%E5%9E%8B%E7%A0%94%E7%A9%B6%E5%9E%8B%E5%A4%A7%E5%AD%A6",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄罗斯友人被新疆小羊“迷倒”",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%8B%E4%BA%BA%E8%A2%AB%E6%96%B0%E7%96%86%E5%B0%8F%E7%BE%8A%E2%80%9C%E8%BF%B7%E5%80%92%E2%80%9D",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -146,18 +86,8 @@
       ]
     },
     {
-      "title": "俄罗斯“鼠疫”疑云",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E9%BC%A0%E7%96%AB%E2%80%9D%E7%96%91%E4%BA%91",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平总书记同卫生健康工作者的故事",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710890.shtml",
+      "title": "【青春华章·强国少年】行走红色热土，青春与家国“双向奔赴”",
+      "url": "https://www.chinanews.com.cn/ll/2026/10-11/10711021.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +96,8 @@
       ]
     },
     {
-      "title": "【红星照耀中国】工业与自然相融，看江西制造的生态实践",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710893.shtml",
+      "title": "灼言 | 在田野上，读懂青春最好的打开方式",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711020.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +106,8 @@
       ]
     },
     {
-      "title": "“十五五”时期将开展补贴性职业技能培训五千万人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710892.shtml",
+      "title": "青春华章·强农报国丨青春执笔，绘就沃野新图景",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711019.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +116,8 @@
       ]
     },
     {
-      "title": "中新健康｜伏美替尼全球III期临床试验不达标？艾力斯市值蒸发超百亿",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-11/10710891.shtml",
+      "title": "“最亮小行星”冲日 十月夜空添看点",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711009.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +126,8 @@
       ]
     },
     {
-      "title": "逛古街、游龙门 ，一位意大利市长在古都洛阳“拍拍拍”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710887.shtml",
+      "title": "外国市长对话洛阳古城：城址何以“和鸣”？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711008.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +136,8 @@
       ]
     },
     {
-      "title": "同城景区“冷热不均”，文旅竞争从“拼资源”迈向“拼内容”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710886.shtml",
+      "title": "四川成都地铁武侯祠站以场景为“试验田”探索智慧车站建设",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711010.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +146,18 @@
       ]
     },
     {
-      "title": "特朗普：乌克兰该换个新总统了",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710885.shtml",
+      "title": "知名企业高管：跨国企业可成为中企出海“超级合伙人”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711011.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "第三届川渝集体婚礼在重庆举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711006.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +166,8 @@
       ]
     },
     {
-      "title": "手机下单、认证护士按约上门，破解“ 居家护理难 ”",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-11/10710884.shtml",
+      "title": "香港升旗队总会举行大型升旗礼 千余人参与仪式",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711004.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +176,68 @@
       ]
     },
     {
-      "title": "（长征胜利90周年）舌尖上的长征往事：“红军粉”销海内外",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710883.shtml",
+      "title": "尼泊尔北部突发洪水致4人失踪 多处房屋及水电设施受损",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710960.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "黄金玉米带的新考题：“吨粮田”之后，如何把丰产变成丰收",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710998.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西渝高铁高升二号隧道顺利贯通",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710997.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中法战略对话，走进千年古都大同",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710996.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "南京—欧洲滚装外贸航线开通 出海口“搬”到车企厂门口",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710987.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东北秋菜囤货悄然轻量化：留存一口秋日鲜",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710978.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国侨联成立70周年主题展在北京开幕",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-11/10710995.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
