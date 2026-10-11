@@ -1,10 +1,70 @@
 {
   "date": "2026-10-11",
-  "time": "20:22",
-  "generatedAt": "2026-10-11T20:22:56.960Z",
+  "time": "23:47",
+  "generatedAt": "2026-10-11T23:47:26.316Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "特朗普宣布俄乌进入“能源停火”，泽连斯基回应",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711169.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
+      "url": "https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI虚拟人代言产品“亲测有效”，是否站得住脚？专家说法",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗：美国接受伊方所提部分条件，但其回应“不够充分”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗称美国已接受伊方所提部分条件",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "沙特民航总局：达曼法赫德国王国际机场遭袭",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
       "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
@@ -46,20 +106,20 @@
       ]
     },
     {
-      "title": "（机遇香港）全球电竞市场升温 香港搭台对接全球买家觅商机",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711130.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
+      "title": "胖东来施工现场 干净得像AI",
+      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "胖东来施工现场 干净得像AI",
-      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI",
+      "title": "央视曝投资1.2亿项目仅建5个棚",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%8A%95%E8%B5%841.2%E4%BA%BF%E9%A1%B9%E7%9B%AE%E4%BB%85%E5%BB%BA5%E4%B8%AA%E6%A3%9A",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -76,10 +136,10 @@
       ]
     },
     {
-      "title": "特朗普：俄乌双方同意“能源停火”",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E2%80%9C%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E2%80%9D",
+      "title": "立法听证会上罕见病患者代表激动落泪",
+      "url": "https://www.baidu.com/s?wd=%E7%AB%8B%E6%B3%95%E5%90%AC%E8%AF%81%E4%BC%9A%E4%B8%8A%E7%BD%95%E8%A7%81%E7%97%85%E6%82%A3%E8%80%85%E4%BB%A3%E8%A1%A8%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -96,11 +156,61 @@
       ]
     },
     {
-      "title": "江西立法杜绝 “新官不理旧账”",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E7%AB%8B%E6%B3%95%E6%9D%9C%E7%BB%9D+%E2%80%9C%E6%96%B0%E5%AE%98%E4%B8%8D%E7%90%86%E6%97%A7%E8%B4%A6%E2%80%9D",
+      "title": "特朗普：俄乌双方同意“能源停火”",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E2%80%9C%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E2%80%9D",
       "source": "百度热搜",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "真相来了丨所谓“金卡社保卡”是电信诈骗 不要轻信“升级骗局”",
+      "url": "https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月12日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "连接深港两地 新皇岗口岸正式开通运行",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "一路闯关、创多项历史！回顾郑钦文2026中网冠军之路",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "苏丹北部矿区遇袭 已致72人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -128,116 +238,6 @@
     {
       "title": "全球媒体聚焦 | “长征是值得非洲探讨的国家发展理念”",
       "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "IMF和世行年会将在曼谷举行 泰国加强安保和城市保障",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711153.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中超第27轮：蓉城遭绝杀暂缓夺冠 海牛提前降级",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "澳大利亚前总理陆克文：呼吁共建平等开放的亚太共同体",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711147.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "WTT中国大满贯赛：王曼昱女单卫冕 国乒两冠收官",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711144.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "沙特主导联军称利雅得机场航站楼遭袭",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711149.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026上海网球大师赛：周意惜败胡尔卡奇 中国单打选手全部出局",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711143.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第三次中柬泰二轨对话会举行 推动落实抚仙会晤共识",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711142.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "长春书写生态“立体答卷”：虎豹归林　笑语满河",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711141.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（文化新纪行）从一座古城读懂千年吴越",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711140.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "音乐剧《四十天》重庆站大幕开启 演绎“宜昌大撤退”实业救国史诗",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711139.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "郑钦文生涯首夺WTA1000级别赛事冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
