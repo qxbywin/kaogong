@@ -1,73 +1,33 @@
 {
-  "date": "2026-10-11",
-  "time": "23:47",
-  "generatedAt": "2026-10-11T23:47:26.316Z",
+  "date": "2026-10-12",
+  "time": "06:10",
+  "generatedAt": "2026-10-12T06:10:35.927Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "特朗普宣布俄乌进入“能源停火”，泽连斯基回应",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711169.shtml",
+      "title": "重庆加快建设国际航空枢纽——前八个月进出口增速居全国主要航空口岸首位",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711944.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
-      "url": "https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
+      "title": "（乡村行·看振兴）江苏邗江“新北湖小志”展演：以新大众文艺探索乡村振兴新路径",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711981.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI虚拟人代言产品“亲测有效”，是否站得住脚？专家说法",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗：美国接受伊方所提部分条件，但其回应“不够充分”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗称美国已接受伊方所提部分条件",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "沙特民航总局：达曼法赫德国王国际机场遭袭",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
+      "title": "海口美兰机场海关2026-2028年公务用车定点维修保养服务项目公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711995.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -76,8 +36,18 @@
       ]
     },
     {
-      "title": "“袁稻思源”杂交水稻智能育种平台长沙发布 AI赋能育种创新",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
+      "title": "台湾经济的两面性：冰火两重天",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711977.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "乘联分会：9月新能源乘用车厂商出口55.8万辆，同比增长163.5%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711966.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -86,8 +56,8 @@
       ]
     },
     {
-      "title": "中国·敦煌国际武术公开赛开幕 20余国选手“以武会友”",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711146.shtml",
+      "title": "东西问丨为什么国际政坛的“中国履历”越来越常见？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-12/10711955.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,8 +66,18 @@
       ]
     },
     {
-      "title": "泰国前外长：乐见中方调停斡旋泰柬边境冲突",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711145.shtml",
+      "title": "海口海关技术中心2026年海关仪器设备购置及能力保障专项设备采购项目比选公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711967.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "沙特首都国际机场再遭袭 已致1死11伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711939.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -106,8 +86,28 @@
       ]
     },
     {
-      "title": "胖东来施工现场 干净得像AI",
-      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI",
+      "title": "重庆海关2026年进口牙刷及口腔器具、进口液体加热器风险监测服务项目中标公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711952.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "海洋经济持续提速，270多家企业，集体招人！这类人才急缺→",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-12/10711951.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王兴兴：犯的最大错误是还不够相信AI",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%EF%BC%9A%E7%8A%AF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%94%99%E8%AF%AF%E6%98%AF%E8%BF%98%E4%B8%8D%E5%A4%9F%E7%9B%B8%E4%BF%A1AI",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -126,8 +126,8 @@
       ]
     },
     {
-      "title": "中央考核巡查专家：你们这么挂灯没用",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%8C%82%E7%81%AF%E6%B2%A1%E7%94%A8",
+      "title": "中央暗访检查组质问：这儿怎么没铭牌",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%9A%97%E8%AE%BF%E6%A3%80%E6%9F%A5%E7%BB%84%E8%B4%A8%E9%97%AE%EF%BC%9A%E8%BF%99%E5%84%BF%E6%80%8E%E4%B9%88%E6%B2%A1%E9%93%AD%E7%89%8C",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
@@ -136,38 +136,28 @@
       ]
     },
     {
-      "title": "立法听证会上罕见病患者代表激动落泪",
-      "url": "https://www.baidu.com/s?wd=%E7%AB%8B%E6%B3%95%E5%90%AC%E8%AF%81%E4%BC%9A%E4%B8%8A%E7%BD%95%E8%A7%81%E7%97%85%E6%82%A3%E8%80%85%E4%BB%A3%E8%A1%A8%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA",
+      "title": "郑钦文3年商业收入追平李娜整个生涯",
+      "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%873%E5%B9%B4%E5%95%86%E4%B8%9A%E6%94%B6%E5%85%A5%E8%BF%BD%E5%B9%B3%E6%9D%8E%E5%A8%9C%E6%95%B4%E4%B8%AA%E7%94%9F%E6%B6%AF",
       "source": "百度热搜",
-      "cat": "policy",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "市监局通报烧烤店厨师吐漱口水",
-      "url": "https://www.baidu.com/s?wd=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%83%A7%E7%83%A4%E5%BA%97%E5%8E%A8%E5%B8%88%E5%90%90%E6%BC%B1%E5%8F%A3%E6%B0%B4",
+      "title": "人口“小普查”性别比回归合理区间",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%8F%A3%E2%80%9C%E5%B0%8F%E6%99%AE%E6%9F%A5%E2%80%9D%E6%80%A7%E5%88%AB%E6%AF%94%E5%9B%9E%E5%BD%92%E5%90%88%E7%90%86%E5%8C%BA%E9%97%B4",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "特朗普：俄乌双方同意“能源停火”",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E2%80%9C%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "真相来了丨所谓“金卡社保卡”是电信诈骗 不要轻信“升级骗局”",
-      "url": "https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
+      "title": "郑钦文退出2026年武汉网球公开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711980.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +166,8 @@
       ]
     },
     {
-      "title": "10月12日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
+      "title": "（走进中国乡村）湖南乡村马术“骑”出文旅新业态",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711979.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +176,8 @@
       ]
     },
     {
-      "title": "连接深港两地 新皇岗口岸正式开通运行",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
+      "title": "2026青少年游泳邀请赛暨CSA等级达标赛在南京收官",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711976.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +186,8 @@
       ]
     },
     {
-      "title": "一路闯关、创多项历史！回顾郑钦文2026中网冠军之路",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
+      "title": "蒙古国草原火蔓延 内蒙古2000余人正在堵截",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-12/10711947.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "苏丹北部矿区遇袭 已致72人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711160.shtml",
+      "title": "国民假期出行新标配，哈啰租车国庆订单增幅逾120%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711969.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "郑钦文创造历史 首夺中网女单冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
+      "title": "他山拾珍 新知共鉴——“新竹学堂”学习分享活动成功举办",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711968.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "吉布提沿海移民船只倾覆事故死亡人数升至139人",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
+      "title": "“电驴”带娃隐患多 别图方便存侥幸",
+      "url": "https://www.chinanews.com.cn/life/2026/10-12/10711972.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "全球媒体聚焦 | “长征是值得非洲探讨的国家发展理念”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
+      "title": "同心共筑田园梦！济南这片闲置大棚的“数智”蝶变",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711965.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "乘联分会：9月乘用车出口91.7万辆，同比增长73.7%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711962.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
