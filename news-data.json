@@ -1,13 +1,23 @@
 {
   "date": "2026-10-13",
-  "time": "11:56",
-  "generatedAt": "2026-10-13T11:56:01.270Z",
+  "time": "19:22",
+  "generatedAt": "2026-10-13T19:22:07.239Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "广西强化财政保障 赋能高等教育高质量发展",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713957.shtml",
+      "title": "第七届“一带一路”税收征管合作论坛在雅加达开幕",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/10-13/10714088.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "浙江交通观察：高速“穿针引线”催热“桂花经济”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714080.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -16,28 +26,8 @@
       ]
     },
     {
-      "title": "“中国第一龙乡”嘉荫赏秋正当时 游客打卡中俄边境风情",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713964.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "平陆运河荣膺绿色设计界“奥斯卡” 生态优先理念获国际肯定",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713953.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "李家超：发展创新科技引领新质生产力是必答题",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713951.shtml",
+      "title": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714095.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -46,18 +36,28 @@
       ]
     },
     {
-      "title": "“两会一展”首合体 2026世界摄影人大会10月下旬亮相浙江丽水",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713950.shtml",
+      "title": "2025年欧盟进口纯电动汽车逾四成来自中国",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714093.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "内蒙古自贸试验区TIR跨境运输迎来数字化新突破",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713942.shtml",
+      "title": "聚焦“急难愁盼” 广西织密医保民生保障网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714089.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国科技企业华为：未来10年逻辑折叠技术具备持续演进空间",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714086.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,8 +66,8 @@
       ]
     },
     {
-      "title": "打造产业发展新格局 中国绿色食品协会拟成立糯稻专业委员会",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713945.shtml",
+      "title": "新兴市场客商组团赴浙江金华“淘货” 意向订单超1亿元",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10714081.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -76,8 +76,8 @@
       ]
     },
     {
-      "title": "台湾医师扎根大陆二十载 致力“科技赋能中医”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713938.shtml",
+      "title": "海河流域AI短临预报模型在天津发布 每6分钟更新未来3小时预报",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714079.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -86,10 +86,90 @@
       ]
     },
     {
-      "title": "台湾教师高龄化 舆论忧影响学校运作及教育质量",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713936.shtml",
+      "title": "京津冀首趟“一单制”国际铁公联运班列石家庄首发",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714073.shtml",
       "source": "中国新闻网",
-      "cat": "society",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多国议员天津行：民声直达立法 技能联通世界",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714066.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "平陆运河荣膺绿色设计界“奥斯卡” 生态优先理念获国际肯定",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714087.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "内河航道国际组织主席：灵渠历经2000多年保存完好堪称典范",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714084.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "赵乐际分别会见博茨瓦纳总统博科、多哥部长会议主席福雷",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714075.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "4800元学习机AI讲题6遍讲出6个样",
+      "url": "https://www.baidu.com/s?wd=4800%E5%85%83%E5%AD%A6%E4%B9%A0%E6%9C%BAAI%E8%AE%B2%E9%A2%986%E9%81%8D%E8%AE%B2%E5%87%BA6%E4%B8%AA%E6%A0%B7",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "苹果正式进军智能家居市场",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%86%9B%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E5%B8%82%E5%9C%BA",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "争夺时间的生意从电视到AI短剧",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%89%E5%A4%BA%E6%97%B6%E9%97%B4%E7%9A%84%E7%94%9F%E6%84%8F%E4%BB%8E%E7%94%B5%E8%A7%86%E5%88%B0AI%E7%9F%AD%E5%89%A7",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI批量造星 真人明星还有何价值",
+      "url": "https://www.baidu.com/s?wd=AI%E6%89%B9%E9%87%8F%E9%80%A0%E6%98%9F+%E7%9C%9F%E4%BA%BA%E6%98%8E%E6%98%9F%E8%BF%98%E6%9C%89%E4%BD%95%E4%BB%B7%E5%80%BC",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -106,48 +186,8 @@
       ]
     },
     {
-      "title": "员工借助AI辅助办公遭辞退 法院判了",
-      "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%80%9F%E5%8A%A9AI%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC%E9%81%AD%E8%BE%9E%E9%80%80+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI女爱豆官宣怀孕被吐槽胡闹",
-      "url": "https://www.baidu.com/s?wd=AI%E5%A5%B3%E7%88%B1%E8%B1%86%E5%AE%98%E5%AE%A3%E6%80%80%E5%AD%95%E8%A2%AB%E5%90%90%E6%A7%BD%E8%83%A1%E9%97%B9",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“AI挂在嘴边 实际一事无成”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%8C%82%E5%9C%A8%E5%98%B4%E8%BE%B9+%E5%AE%9E%E9%99%85%E4%B8%80%E4%BA%8B%E6%97%A0%E6%88%90%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中方回应“特朗普不信中俄在帮伊朗”",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E4%BF%A1%E4%B8%AD%E4%BF%84%E5%9C%A8%E5%B8%AE%E4%BC%8A%E6%9C%97%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江“四无婚礼”火了！新娘父亲：想过大办一场，但尊重年轻人想法",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713971.shtml",
+      "title": "马达加斯加报告4例鼠疫确诊病例和5例疑似病例",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714099.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "打破“一刀切” 重庆专家全国首创血透导管继发血栓“分类诊疗”方案",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713966.shtml",
+      "title": "刚果（金）本轮埃博拉疫情确诊病例超9000例",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714098.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "观“一塔湖图”、读“行胜于言” 西藏青少年访北京高校",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713963.shtml",
+      "title": "日本叶菜价格大幅上涨 白菜成“高价菜”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714097.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "黑龙江青冈：金秋玉米丰收忙 颗粒归仓稳粮安",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713962.shtml",
+      "title": "也门首都萨那传出爆炸声",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714096.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +226,18 @@
       ]
     },
     {
-      "title": "香港“中环庭院”项目一期将于2027年落成 写字楼出租率超七成",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713961.shtml",
+      "title": "国考报名今开始：拟招3.57万人，打击“公考围岗”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714094.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
       "exams": [
-        "申论素材"
+        "国考"
       ]
     },
     {
-      "title": "信宇人：公司及实控人被证监会立案",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713960.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "80名中越钓手齐聚广西凭祥 以竿会友促进民心相通",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713956.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海南屯昌猪养殖系统为何能入选国家级名单？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713955.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "给药品安全装上“预警雷达” 海南构建事前预防型监管模式",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713954.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河南南阳力争“十五五”末高新技术企业达800家",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713946.shtml",
+      "title": "柬埔寨亡人节三天假期吸引国内外游客逾216万人次",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714092.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
