@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
-  "time": "19:22",
-  "generatedAt": "2026-10-13T19:22:07.239Z",
+  "time": "23:20",
+  "generatedAt": "2026-10-13T23:20:00.722Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -21,6 +21,16 @@
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714101.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -106,30 +116,10 @@
       ]
     },
     {
-      "title": "平陆运河荣膺绿色设计界“奥斯卡” 生态优先理念获国际肯定",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714087.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "内河航道国际组织主席：灵渠历经2000多年保存完好堪称典范",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714084.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赵乐际分别会见博茨瓦纳总统博科、多哥部长会议主席福雷",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714075.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
+      "title": "苹果、微软股价齐创新高",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E3%80%81%E5%BE%AE%E8%BD%AF%E8%82%A1%E4%BB%B7%E9%BD%90%E5%88%9B%E6%96%B0%E9%AB%98",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -176,11 +166,51 @@
       ]
     },
     {
-      "title": "重庆市原市长黄奇帆被查",
-      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%BF%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5",
+      "title": "15国当选联合国人权理事会成员",
+      "url": "https://www.baidu.com/s?wd=15%E5%9B%BD%E5%BD%93%E9%80%89%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E7%90%86%E4%BA%8B%E4%BC%9A%E6%88%90%E5%91%98",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "international",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "海军辽宁舰航母编队赴西太平洋相关海域开展训练",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714104.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外媒：美以领导人近日通话 讨论重启对伊战事的可能性",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714103.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月14日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-14/10714102.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "巴布亚新几内亚发生6.0级地震",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714100.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -208,36 +238,6 @@
     {
       "title": "日本叶菜价格大幅上涨 白菜成“高价菜”",
       "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714097.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "也门首都萨那传出爆炸声",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714096.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国考报名今开始：拟招3.57万人，打击“公考围岗”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714094.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "国考"
-      ]
-    },
-    {
-      "title": "柬埔寨亡人节三天假期吸引国内外游客逾216万人次",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714092.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
