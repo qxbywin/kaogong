@@ -1,53 +1,23 @@
 {
-  "date": "2026-10-12",
-  "time": "23:04",
-  "generatedAt": "2026-10-12T23:04:27.691Z",
+  "date": "2026-10-13",
+  "time": "03:38",
+  "generatedAt": "2026-10-13T03:38:42.792Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "欧盟将俄罗斯近1600名个人和实体列为制裁对象",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712342.shtml",
+      "title": "AI“越界”？国际社会探索设立“护栏”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713603.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "世界最大室外冰雪主题乐园今冬规划园区面积规模创新高",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712339.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "马来西亚教育部扩大烟霾停课范围",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712335.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712340.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712330.shtml",
+      "title": "涪陵海关2026年度机关在职职工健康体检服务项目比选公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713612.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -56,18 +26,8 @@
       ]
     },
     {
-      "title": "百余项成果将在2026金融街论坛年会首发",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712329.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "柬埔寨民众与国际游客共度传统“亡人节”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712295.shtml",
+      "title": "何立峰会见美中关系全国委员会负责人",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713594.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,9 +36,59 @@
       ]
     },
     {
-      "title": "外国游客爱上中国科技",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%88%B1%E4%B8%8A%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80",
-      "source": "百度热搜",
+      "title": "中央气象台：16-18日长江中下游以北有大范围降水",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713593.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "跨越千里再回访：山东口腔专家为喀什留下“带不走的医疗队”",
+      "url": "https://www.chinanews.com.cn/mz/2026/10-13/10713601.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“长城-2026”反恐国际论坛在北京开幕",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713597.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "山东地矿服务边疆生态治理 显民生温度筑发展“厚度”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713585.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆海关技术中心2026年实验室专用设备采购项目（第四批）比选公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713608.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上海市获评WIPO首届“创新城市奖”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713565.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -86,8 +96,38 @@
       ]
     },
     {
-      "title": "郑钦文收入97%来自品牌代言",
-      "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A597%25%E6%9D%A5%E8%87%AA%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80",
+      "title": "中央机关及其直属机构2027年度考试录用公务员报名即将开始",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713596.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "国考"
+      ]
+    },
+    {
+      "title": "南宁邮局海关2026年10月份“关领导接待日”公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713599.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "【红星照耀中国】让好山水变成好产业、好光景",
+      "url": "https://www.chinanews.com.cn/ll/2026/10-13/10713590.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "文旅市场消费活力十足",
+      "url": "https://www.baidu.com/s?wd=%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E5%8D%81%E8%B6%B3",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -96,8 +136,8 @@
       ]
     },
     {
-      "title": "内娱来了五位AI艺人",
-      "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA",
+      "title": "79岁陶华碧用AI一年赚了54亿",
+      "url": "https://www.baidu.com/s?wd=79%E5%B2%81%E9%99%B6%E5%8D%8E%E7%A2%A7%E7%94%A8AI%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%BA%8654%E4%BA%BF",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -106,8 +146,18 @@
       ]
     },
     {
-      "title": "香港：曾到访俄相关地区旅客主动申报",
-      "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%EF%BC%9A%E6%9B%BE%E5%88%B0%E8%AE%BF%E4%BF%84%E7%9B%B8%E5%85%B3%E5%9C%B0%E5%8C%BA%E6%97%85%E5%AE%A2%E4%B8%BB%E5%8A%A8%E7%94%B3%E6%8A%A5",
+      "title": "第二经济大省“开抢”年轻人",
+      "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E7%BB%8F%E6%B5%8E%E5%A4%A7%E7%9C%81%E2%80%9C%E5%BC%80%E6%8A%A2%E2%80%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄乌能源停火果然是一个大乌龙",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E6%9E%9C%E7%84%B6%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A4%A7%E4%B9%8C%E9%BE%99",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -116,18 +166,8 @@
       ]
     },
     {
-      "title": "把体重管理交给AI靠谱吗",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E4%BD%93%E9%87%8D%E7%AE%A1%E7%90%86%E4%BA%A4%E7%BB%99AI%E9%9D%A0%E8%B0%B1%E5%90%97",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "10月13日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-13/10712351.shtml",
+      "title": "弘扬长征精神 蔡威“新五个一”红色文化系列活动在福建宁德启动",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713609.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +176,8 @@
       ]
     },
     {
-      "title": "也门政府军称打死近千名胡塞武装人员",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712350.shtml",
+      "title": "【这个城市有点潮】江西于都：红土忆峥嵘，长征源头启新章",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207663.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "也门胡塞武装称沙特24小时内发动119次袭击",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712349.shtml",
+      "title": "以侨为桥联通四海 海外侨胞齐聚贵州建言高质量发展",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-13/10713607.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "西班牙一列高铁起火致线路中断 逾1万名旅客受影响",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712348.shtml",
+      "title": "李月汝将在WNBA休赛期加盟家乡球队山西女篮",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713605.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "尼日利亚军方称打死40余名“疑似恐怖分子”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712347.shtml",
+      "title": "家里翻新、门店装修产生的碎砖、水泥块，怎么处理才合规？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713575.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712346.shtml",
+      "title": "2026上海网球大师赛：阿尔卡拉斯爆冷出局 赞郑钦文是“顶尖球员”",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713604.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "胡塞武装称沙特空袭也门北部已致9死7伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712345.shtml",
+      "title": "习近平总书记引领健康中国建设",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713564.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,48 +236,8 @@
       ]
     },
     {
-      "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712344.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "尼日利亚西北部袭击事件致22人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712343.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "纪念中国侨联成立70周年专题音乐会在北京举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712338.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广交会首次推出境外采购商会员服务",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712337.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "武网首轮上演中国“金花”德比 王曦雨晋级次轮",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712336.shtml",
+      "title": "内蒙古霍林郭勒警方破获特大“数电票”虚开案 涉案金额近19亿元",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713602.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
