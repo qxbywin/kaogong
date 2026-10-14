@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "time": "18:43",
-  "generatedAt": "2026-10-14T18:43:20.557Z",
+  "time": "22:23",
+  "generatedAt": "2026-10-14T22:23:05.080Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -31,6 +31,16 @@
       "source": "百度热搜",
       "cat": "tech",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714748.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -126,6 +136,26 @@
       ]
     },
     {
+      "title": "“好莱坞”演员的中国短剧梦被AI截胡",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "用AI辅助办公被辞退冤不冤",
+      "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC%E8%A2%AB%E8%BE%9E%E9%80%80%E5%86%A4%E4%B8%8D%E5%86%A4",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "装修公司投身AI漫剧 市值暴涨16亿",
       "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%E6%8A%95%E8%BA%ABAI%E6%BC%AB%E5%89%A7+%E5%B8%82%E5%80%BC%E6%9A%B4%E6%B6%A816%E4%BA%BF",
       "source": "百度热搜",
@@ -208,36 +238,6 @@
     {
       "title": "倒计时击沉美舰：伊朗在海峡摆下非对称口袋，沙特阿美总部14日再度起火",
       "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714734.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广东发布总林长令加强森林防灭火与鸟类保护工作",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714733.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "低俗广告不能出现一次热议一次，要让品牌不敢发、不能发、不想发",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714739.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一条施工道路成为连接中资企业与柬埔寨民心的纽带",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714732.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
