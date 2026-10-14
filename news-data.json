@@ -1,13 +1,23 @@
 {
   "date": "2026-10-14",
-  "time": "13:51",
-  "generatedAt": "2026-10-14T13:51:02.250Z",
+  "time": "18:43",
+  "generatedAt": "2026-10-14T18:43:20.557Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国际货币基金组织与世界银行集团发布“曼谷蓝图”促打击网络金融诈骗",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714665.shtml",
+      "title": "柬埔寨新批两个新能源发电项目 总投资2.58亿美元",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714747.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国首批绿证跨境集中交易达成  联通香港国际绿色金融市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714731.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,38 +26,18 @@
       ]
     },
     {
-      "title": "广东阳江“蚝乡”农文旅融合带动乡村振兴",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714702.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外银：看好中国A股人工智能板块",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714704.shtml",
-      "source": "中国新闻网",
+      "title": "回老家有种没被AI“污染”过的美",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%9E%E8%80%81%E5%AE%B6%E6%9C%89%E7%A7%8D%E6%B2%A1%E8%A2%ABAI%E2%80%9C%E6%B1%A1%E6%9F%93%E2%80%9D%E8%BF%87%E7%9A%84%E7%BE%8E",
+      "source": "百度热搜",
       "cat": "tech",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "香港首次参与编制的7项氢能中国国家标准发布",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714668.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中期协：9月全国期货交易市场成交额同比增逾18%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714701.shtml",
+      "title": "（经济观察）70年广交会，见证中国与世界的双向奔赴",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714744.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -56,8 +46,38 @@
       ]
     },
     {
-      "title": "2026国际自盟场地自行车世锦赛首次在中国内地举行",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714696.shtml",
+      "title": "三季度中国对RCEP区域贸易稳中提质",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714743.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西里高糯香米饼：老手艺“揉”出乡村新产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714736.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从“煤焦重镇”到“智算高地”：解读山西临汾产业跃迁密码",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714735.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国杜立特突袭者子女协会代表在华寻历史“拼图”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714689.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -66,8 +86,18 @@
       ]
     },
     {
-      "title": "（投资中国）百隆中国总部迁址焕新 持续加码中国市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714663.shtml",
+      "title": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714688.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西加大生育支持力度 灵活就业人员纳入生育保险试点",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714724.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -86,10 +116,10 @@
       ]
     },
     {
-      "title": "用AI辅助办公被辞退冤不冤",
-      "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC%E8%A2%AB%E8%BE%9E%E9%80%80%E5%86%A4%E4%B8%8D%E5%86%A4",
+      "title": "成都警方通报女子持U型锁打人",
+      "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%8C%81U%E5%9E%8B%E9%94%81%E6%89%93%E4%BA%BA",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -106,18 +136,8 @@
       ]
     },
     {
-      "title": "月入过万的网红职业正被AI悄悄顶替",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E7%9A%84%E7%BD%91%E7%BA%A2%E8%81%8C%E4%B8%9A%E6%AD%A3%E8%A2%ABAI%E6%82%84%E6%82%84%E9%A1%B6%E6%9B%BF",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "投资24亿的大庸古城“复活”了吗",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%8424%E4%BA%BF%E7%9A%84%E5%A4%A7%E5%BA%B8%E5%8F%A4%E5%9F%8E%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D%E4%BA%86%E5%90%97",
+      "title": "IMF：日本GDP明年或降至全球第六",
+      "url": "https://www.baidu.com/s?wd=IMF%EF%BC%9A%E6%97%A5%E6%9C%ACGDP%E6%98%8E%E5%B9%B4%E6%88%96%E9%99%8D%E8%87%B3%E5%85%A8%E7%90%83%E7%AC%AC%E5%85%AD",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -126,8 +146,8 @@
       ]
     },
     {
-      "title": "2026环广西世巡赛完成崇左—靖西赛段",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714685.shtml",
+      "title": "以军称已向约旦河西岸增兵 处于高级别战备状态",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714746.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +156,8 @@
       ]
     },
     {
-      "title": "广西横州市云表镇20栋灾后新居集中交付",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714683.shtml",
+      "title": "两艘新加坡籍船只在霍尔木兹海峡遭袭",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714745.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +166,8 @@
       ]
     },
     {
-      "title": "邂逅“国宝”萌态 海外华媒实地探访四川卧龙大熊猫繁育保护一线",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-14/10714682.shtml",
+      "title": "内地险企在香港发行首宗“侧挂车”保险相连证券",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714742.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "香港赈灾基金援助广西宾阳 万余户民众获救助物资",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714680.shtml",
+      "title": "海峡两岸暨港澳地区人士香港座谈 传承中山精神共谋民族复兴",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714741.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "2025年度长三角G60科创走廊U30青年创业榜单在沪发布",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714679.shtml",
+      "title": "全国职工红色主题阅读活动走进甘肃会宁",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714737.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "广西2026年“世界标准日”主题活动发布多项重磅成果",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714677.shtml",
+      "title": "中国发现侏罗纪不会飞鸟类杨源츚츦 颠覆鸟类早期演化传统认知",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714740.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "迪拜商业论坛·中国在深圳举办 签署10项合作备忘录",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714676.shtml",
+      "title": "倒计时击沉美舰：伊朗在海峡摆下非对称口袋，沙特阿美总部14日再度起火",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714734.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "河北任丘巧用田间秸秆 发展绿色循环农业",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714692.shtml",
+      "title": "广东发布总林长令加强森林防灭火与鸟类保护工作",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714733.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "山东首条至格鲁吉亚TIR线路在上合示范区开通",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714669.shtml",
+      "title": "低俗广告不能出现一次热议一次，要让品牌不敢发、不能发、不想发",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714739.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714709.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "安徽建成的国家级幸福河湖数量位居全国第一",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714687.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "加拿大鹅福泉山拍摄遗留垃圾已清理 执法部门介入调查",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714675.shtml",
+      "title": "一条施工道路成为连接中资企业与柬埔寨民心的纽带",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714732.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
