@@ -1,10 +1,30 @@
 {
-  "date": "2026-10-14",
-  "time": "22:23",
-  "generatedAt": "2026-10-14T22:23:05.080Z",
+  "date": "2026-10-15",
+  "time": "00:39",
+  "generatedAt": "2026-10-15T00:39:27.567Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "国际能源署：全球柴油市场供应紧张状况加剧",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714765.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "前三季度金融数据出炉 融资渠道更多元 普通家庭如何打理手中资产？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714756.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "柬埔寨新批两个新能源发电项目 总投资2.58亿美元",
       "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714747.shtml",
@@ -16,21 +36,31 @@
       ]
     },
     {
-      "title": "中国首批绿证跨境集中交易达成  联通香港国际绿色金融市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714731.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "title": "回老家有种没被AI“污染”过的美",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%9E%E8%80%81%E5%AE%B6%E6%9C%89%E7%A7%8D%E6%B2%A1%E8%A2%ABAI%E2%80%9C%E6%B1%A1%E6%9F%93%E2%80%9D%E8%BF%87%E7%9A%84%E7%BE%8E",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "回老家有种没被AI“污染”过的美",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%9E%E8%80%81%E5%AE%B6%E6%9C%89%E7%A7%8D%E6%B2%A1%E8%A2%ABAI%E2%80%9C%E6%B1%A1%E6%9F%93%E2%80%9D%E8%BF%87%E7%9A%84%E7%BE%8E",
-      "source": "百度热搜",
+      "title": "美国9月CPI同比上涨3.7%",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714762.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "员工使用外部AI工具辅助办公遭辞退，法官提示",
+      "url": "https://www.chinanews.com.cn/fz/2026/10-15/10714760.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -66,56 +96,6 @@
       ]
     },
     {
-      "title": "广西里高糯香米饼：老手艺“揉”出乡村新产业",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714736.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从“煤焦重镇”到“智算高地”：解读山西临汾产业跃迁密码",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714735.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国杜立特突袭者子女协会代表在华寻历史“拼图”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714689.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714688.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西加大生育支持力度 灵活就业人员纳入生育保险试点",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714724.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "今年国庆消费 有啥不一样",
       "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%BA%86%E6%B6%88%E8%B4%B9+%E6%9C%89%E5%95%A5%E4%B8%8D%E4%B8%80%E6%A0%B7",
       "source": "百度热搜",
@@ -126,28 +106,8 @@
       ]
     },
     {
-      "title": "成都警方通报女子持U型锁打人",
-      "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%8C%81U%E5%9E%8B%E9%94%81%E6%89%93%E4%BA%BA",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“好莱坞”演员的中国短剧梦被AI截胡",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E8%8E%B1%E5%9D%9E%E2%80%9D%E6%BC%94%E5%91%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E6%A2%A6%E8%A2%ABAI%E6%88%AA%E8%83%A1",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "用AI辅助办公被辞退冤不冤",
-      "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC%E8%A2%AB%E8%BE%9E%E9%80%80%E5%86%A4%E4%B8%8D%E5%86%A4",
+      "title": "美股科技题材全线下挫 纳指跌近2%",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E9%A2%98%E6%9D%90%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -166,18 +126,8 @@
       ]
     },
     {
-      "title": "IMF：日本GDP明年或降至全球第六",
-      "url": "https://www.baidu.com/s?wd=IMF%EF%BC%9A%E6%97%A5%E6%9C%ACGDP%E6%98%8E%E5%B9%B4%E6%88%96%E9%99%8D%E8%87%B3%E5%85%A8%E7%90%83%E7%AC%AC%E5%85%AD",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "以军称已向约旦河西岸增兵 处于高级别战备状态",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714746.shtml",
+      "title": "第140届广交会今日开展 展期持续至11月4日",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +136,8 @@
       ]
     },
     {
-      "title": "两艘新加坡籍船只在霍尔木兹海峡遭袭",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714745.shtml",
+      "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714766.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +146,8 @@
       ]
     },
     {
-      "title": "内地险企在香港发行首宗“侧挂车”保险相连证券",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714742.shtml",
+      "title": "巴拿马7.6级地震致1人死亡20余人受伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714768.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +156,8 @@
       ]
     },
     {
-      "title": "海峡两岸暨港澳地区人士香港座谈 传承中山精神共谋民族复兴",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714741.shtml",
+      "title": "33年后，F1回非洲了！一场32亿美元的“豪赌”，卢旺达总统：今天属于非洲",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714767.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +166,8 @@
       ]
     },
     {
-      "title": "全国职工红色主题阅读活动走进甘肃会宁",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714737.shtml",
+      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714764.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +176,8 @@
       ]
     },
     {
-      "title": "中国发现侏罗纪不会飞鸟类杨源츚츦 颠覆鸟类早期演化传统认知",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714740.shtml",
+      "title": "英国首相伯纳姆会见泽连斯基 公布多项对乌支援措施",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714763.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +186,58 @@
       ]
     },
     {
-      "title": "倒计时击沉美舰：伊朗在海峡摆下非对称口袋，沙特阿美总部14日再度起火",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714734.shtml",
+      "title": "心血管不好的人，真心建议你吃点“高钾食物”",
+      "url": "https://www.chinanews.com.cn/life/2026/10-15/10714761.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "流感季将至，流感疫苗如何打？",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714759.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "超重、大件、爬楼订单有望多拿钱，外卖骑手额外劳动该如何定价？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714758.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "求职遭遇“限男性” 公益诉讼破歧视",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714757.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "职场“软监控”引担忧：“隐形监控”之下，隐私安全何在？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714755.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本农相因丑闻辞职 在野党批评：暴露高市政权深层问题",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714754.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
