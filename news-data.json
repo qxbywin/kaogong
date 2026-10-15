@@ -1,33 +1,13 @@
 {
   "date": "2026-10-15",
-  "time": "11:43",
-  "generatedAt": "2026-10-15T11:43:06.466Z",
+  "time": "17:10",
+  "generatedAt": "2026-10-15T17:10:32.118Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "打造零碳科技城市 福建宁德发布《零碳宁德行动方案》",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715198.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "平陆运河通航红利持续释放 广西贵港临港经济加速发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715206.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从身边故事到世界视野 中国青年作家国际推介会举办",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715203.shtml",
+      "title": "哥伦比亚一国际客运大巴翻车 致4死56伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715368.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,8 +16,18 @@
       ]
     },
     {
-      "title": "呼和浩特：总投资10亿元人民币金刚石材料项目加速建设",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715204.shtml",
+      "title": "一堂课、两场展、七十年——走进中央社会主义学院建院70周年开放日活动",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-15/10715364.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "共探海洋产业升级路径 福建东山举办“做好‘海’的文章”水产品购销暨海洋经济招商大会",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715363.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,8 +36,18 @@
       ]
     },
     {
-      "title": "湖南江永早香芋抢“鲜”上市 特色产业助民稳增收",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715195.shtml",
+      "title": "四川省达州市政协原党组书记陈文胜被“双开”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715201.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（投资中国）阿科玛集团董事长：中国市场对洞察应用趋势和客户需求尤为关键",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715352.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -56,8 +56,8 @@
       ]
     },
     {
-      "title": "（投资中国）在华扎根40载 中外运敦豪持续看好中国市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715192.shtml",
+      "title": "前三季度四川货物贸易进出口总值增长6.3%",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715354.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -66,48 +66,18 @@
       ]
     },
     {
-      "title": "第140届广交会迎客 “硬核”科技产品吸睛",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715191.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄安全局逮捕一企图对俄实施恐袭的瑞典公民",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715197.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国新能源车硬核实力横扫海外",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "山东卫健委通报纸尿裤事件处理结果",
-      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E7%BA%B8%E5%B0%BF%E8%A3%A4%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C",
+      "title": "香港警方通报珠宝大劫案：拘捕1男1女",
+      "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8F%A0%E5%AE%9D%E5%A4%A7%E5%8A%AB%E6%A1%88%EF%BC%9A%E6%8B%98%E6%8D%951%E7%94%B71%E5%A5%B3",
       "source": "百度热搜",
       "cat": "hot",
       "score": 1,
       "exams": [
-        "事业单位"
+        "申论素材"
       ]
     },
     {
-      "title": "“AI脸”看多了为什么烧心",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E8%84%B8%E2%80%9D%E7%9C%8B%E5%A4%9A%E4%BA%86%E4%B8%BA%E4%BB%80%E4%B9%88%E7%83%A7%E5%BF%83",
+      "title": "美光科技转涨 此前一度跌超6%",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%BD%AC%E6%B6%A8+%E6%AD%A4%E5%89%8D%E4%B8%80%E5%BA%A6%E8%B7%8C%E8%B6%856%25",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -126,18 +96,8 @@
       ]
     },
     {
-      "title": "官方通报两人赴泰国旅游意外死亡",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%A4%E4%BA%BA%E8%B5%B4%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%E6%84%8F%E5%A4%96%E6%AD%BB%E4%BA%A1",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "前三季度广西外贸进出口同比增10.1% 规模创历史同期新高",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715218.shtml",
+      "title": "也门官员称胡塞武装袭击亚丁总统府致3人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715372.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +106,8 @@
       ]
     },
     {
-      "title": "（乡村行·看振兴）山西和顺田间薯收正当时 小土豆撑起乡村致富业",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715215.shtml",
+      "title": "日本启动调查在东京附近设立核废料填埋场",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715370.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +116,8 @@
       ]
     },
     {
-      "title": "海口联通马来西亚航点增至四城",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715214.shtml",
+      "title": "沙特称胡塞武装对利雅得机场袭击致17死333伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715369.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +126,8 @@
       ]
     },
     {
-      "title": "2026年全国“我们的节日·重阳”主题文化示范活动在山西祁县举办",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715213.shtml",
+      "title": "国产剧出海“四剑客”齐发力：从“零星出海”走向“规模化登陆”",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715366.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "2026广东候鸟护飞行动正式启动",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715211.shtml",
+      "title": "海口海关完成海南首家AEO高级认证企业简易复核",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715362.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "从“酿得好”到“检得准” 山西食品工业技能大赛“上新”两工种",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715210.shtml",
+      "title": "探寻乡村发展变迁 海峡两岸媒体来湘联合采访启动",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715360.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "拼招商 海南澄迈向“兴产”“提质”跨越",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715209.shtml",
+      "title": "王毅会见巴勒斯坦外长：坚定支持巴人民争取恢复民族合法权利的正义事业",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715361.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "福建永定：千亩梯田稻花香  金秋美景迎客来",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715207.shtml",
+      "title": "深圳市退役军人无偿献血品牌活动启动",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715359.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "山西柳林林场红叶入佳境 山林生态引客来",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715212.shtml",
+      "title": "（活力中国）数智加持 “柳州造” 借平陆运河出海东盟",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715358.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "2026“北京超高清视听·行！视听奇境”公共服务主题活动启动“收官站”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715205.shtml",
+      "title": "西藏大学驻村工作队为高原群众免费筛查高原适应性调节功能",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715353.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "邯郸市丛台区紫山风景区粉黛烟霞染秋色",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715208.shtml",
+      "title": "8月台湾制造业加班工时创46年同月新高",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715351.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "武部新接任日本农林水产大臣",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715334.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "韩国股市遭遇“黑色星期四” 两大指数收跌超7%",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715332.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "两岸青年“随手拍”活动武汉开营 朱凤莲寄语台青投身两岸融合发展",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715357.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王毅同阿塞拜疆外长巴伊拉莫夫会谈",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715335.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
