@@ -1,10 +1,20 @@
 {
   "date": "2026-10-15",
-  "time": "17:10",
-  "generatedAt": "2026-10-15T17:10:32.118Z",
+  "time": "20:24",
+  "generatedAt": "2026-10-15T20:24:13.186Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "日本记者涉间谍活动在俄被捕 俄方驳回日方交涉",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715373.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "哥伦比亚一国际客运大巴翻车 致4死56伤",
       "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715368.shtml",
@@ -80,16 +90,6 @@
       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%BD%AC%E6%B6%A8+%E6%AD%A4%E5%89%8D%E4%B8%80%E5%BA%A6%E8%B7%8C%E8%B6%856%25",
       "source": "百度热搜",
       "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泽连斯基称乌克兰遭美国背叛",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0%E9%81%AD%E7%BE%8E%E5%9B%BD%E8%83%8C%E5%8F%9B",
-      "source": "百度热搜",
-      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
