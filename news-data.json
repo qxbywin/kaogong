@@ -1,23 +1,13 @@
 {
   "date": "2026-10-15",
-  "time": "00:39",
-  "generatedAt": "2026-10-15T00:39:27.567Z",
+  "time": "05:57",
+  "generatedAt": "2026-10-15T05:57:34.972Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国际能源署：全球柴油市场供应紧张状况加剧",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714765.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "前三季度金融数据出炉 融资渠道更多元 普通家庭如何打理手中资产？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714756.shtml",
+      "title": "增值税发票数据显示：今年前三季度广东人工智能产业发展动能充沛",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714964.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -26,38 +16,38 @@
       ]
     },
     {
-      "title": "柬埔寨新批两个新能源发电项目 总投资2.58亿美元",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714747.shtml",
+      "title": "深圳APEC会议期间精细化交通管控细则公布",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10714955.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "破解AI治理难题，立法该如何发力？",
+      "url": "https://www.chinanews.com.cn/fz/2026/10-15/10714941.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2025年中国地理信息产业总产值超9000亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714970.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "回老家有种没被AI“污染”过的美",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%9E%E8%80%81%E5%AE%B6%E6%9C%89%E7%A7%8D%E6%B2%A1%E8%A2%ABAI%E2%80%9C%E6%B1%A1%E6%9F%93%E2%80%9D%E8%BF%87%E7%9A%84%E7%BE%8E",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国9月CPI同比上涨3.7%",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714762.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "员工使用外部AI工具辅助办公遭辞退，法官提示",
-      "url": "https://www.chinanews.com.cn/fz/2026/10-15/10714760.shtml",
+      "title": "第二十六届工博会：当工业制造遇到火热的人工智能浪潮",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714948.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,8 +56,18 @@
       ]
     },
     {
-      "title": "美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714748.shtml",
+      "title": "陕西高校教师教学创新成果巡讲启动",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-15/10714956.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "APEC会议周深圳全市倡导灵活工作安排",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10714945.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -76,8 +76,18 @@
       ]
     },
     {
-      "title": "（经济观察）70年广交会，见证中国与世界的双向奔赴",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714744.shtml",
+      "title": "2026北京国际风能大会暨展览会在北京举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714942.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "聚焦可控核聚变 浙江“科学咖啡馆”共探产业差异化突围路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714947.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -86,8 +96,8 @@
       ]
     },
     {
-      "title": "三季度中国对RCEP区域贸易稳中提质",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714743.shtml",
+      "title": "织密新就业群体保障网，也要防住钻进来牟利的\"黄牛\"",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714854.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -96,28 +106,8 @@
       ]
     },
     {
-      "title": "今年国庆消费 有啥不一样",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%BA%86%E6%B6%88%E8%B4%B9+%E6%9C%89%E5%95%A5%E4%B8%8D%E4%B8%80%E6%A0%B7",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美股科技题材全线下挫 纳指跌近2%",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E9%A2%98%E6%9D%90%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "装修公司投身AI漫剧 市值暴涨16亿",
-      "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%E6%8A%95%E8%BA%ABAI%E6%BC%AB%E5%89%A7+%E5%B8%82%E5%80%BC%E6%9A%B4%E6%B6%A816%E4%BA%BF",
+      "title": "AI偶像官宣怀孕 为何让人感觉被冒犯",
+      "url": "https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E5%AE%98%E5%AE%A3%E6%80%80%E5%AD%95+%E4%B8%BA%E4%BD%95%E8%AE%A9%E4%BA%BA%E6%84%9F%E8%A7%89%E8%A2%AB%E5%86%92%E7%8A%AF",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -126,8 +116,28 @@
       ]
     },
     {
-      "title": "第140届广交会今日开展 展期持续至11月4日",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
+      "title": "男子突然四肢无法动弹用AI打120获救",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%AA%81%E7%84%B6%E5%9B%9B%E8%82%A2%E6%97%A0%E6%B3%95%E5%8A%A8%E5%BC%B9%E7%94%A8AI%E6%89%93120%E8%8E%B7%E6%95%91",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "深圳：APEC会议期间倡议带薪休假",
+      "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%EF%BC%9AAPEC%E4%BC%9A%E8%AE%AE%E6%9C%9F%E9%97%B4%E5%80%A1%E8%AE%AE%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "大同“十五五”文旅路线图出炉：从“过境观光”转向“深度体验”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714953.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +146,8 @@
       ]
     },
     {
-      "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714766.shtml",
+      "title": "寒潮来袭 吉林多地开栓供热",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714952.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "巴拿马7.6级地震致1人死亡20余人受伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714768.shtml",
+      "title": "土耳其伊斯坦布尔遭遇强降雨 引发城市内涝",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207877.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "33年后，F1回非洲了！一场32亿美元的“豪赌”，卢旺达总统：今天属于非洲",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714767.shtml",
+      "title": "长三角高校网球争霸赛在上海举办 以球会友促青年交流",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-15/10714951.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714764.shtml",
+      "title": "四川一西游主题公园因抽象画风走红 “榴莲果”成游客打卡暗号",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714961.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "英国首相伯纳姆会见泽连斯基 公布多项对乌支援措施",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714763.shtml",
+      "title": "118所大学336个学科点入选软科“中国顶尖学科”",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-15/10714963.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "心血管不好的人，真心建议你吃点“高钾食物”",
-      "url": "https://www.chinanews.com.cn/life/2026/10-15/10714761.shtml",
+      "title": "空箱来，满箱走：“China Haul”给广东出了道什么题？| 文旅开麦",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10714972.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "流感季将至，流感疫苗如何打？",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714759.shtml",
+      "title": "新疆兵团甜菜迎采收季 全程机械化助力提质增效",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714950.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "超重、大件、爬楼订单有望多拿钱，外卖骑手额外劳动该如何定价？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714758.shtml",
+      "title": "鱼油、辅酶Q10、钙、蛋白粉，这四样老人到底要不要补？",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714966.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "求职遭遇“限男性” 公益诉讼破歧视",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714757.shtml",
+      "title": "乌力格尔：四胡弦上，一首唱了千年的草原长歌",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-15/10714962.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "职场“软监控”引担忧：“隐形监控”之下，隐私安全何在？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714755.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "日本农相因丑闻辞职 在野党批评：暴露高市政权深层问题",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714754.shtml",
+      "title": "云南临沧发现中国大陆苔藓新记录种",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714943.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
