@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "time": "18:51",
-  "generatedAt": "2026-10-16T18:51:01.987Z",
+  "time": "22:08",
+  "generatedAt": "2026-10-16T22:08:29.386Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -10,16 +10,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716026.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "价格改革推动普惠养老服务提质扩面",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
       "score": 2,
       "exams": [
         "申论素材"
@@ -181,6 +171,16 @@
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "苏丹西部城市遭无人机袭击 造成至少30人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
