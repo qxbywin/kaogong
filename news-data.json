@@ -1,10 +1,20 @@
 {
   "date": "2026-10-16",
-  "time": "14:55",
-  "generatedAt": "2026-10-16T14:55:29.997Z",
+  "time": "18:51",
+  "generatedAt": "2026-10-16T18:51:01.987Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "天津REITs研究院揭牌 金融创新赋能实体经济发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716026.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "价格改革推动普惠养老服务提质扩面",
       "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
@@ -16,38 +26,8 @@
       ]
     },
     {
-      "title": "国际资管机构：中国金融开放向制度型纵深推进",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715989.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西钦州港单批工程机械出口创新高",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10716011.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026 AI Cloud 100 China榜单在沪发布：物理AI领域企业成最大“黑马”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716010.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国商务部回应欧盟峰会提出对华“双轨”思路",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716004.shtml",
+      "title": "特朗普称美国可能会对伊朗镐山核设施发动打击",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716047.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,28 +36,28 @@
       ]
     },
     {
-      "title": "甘肃文物数字化创新创意设计大赛：直面行业共性难题",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715999.shtml",
+      "title": "中新健康｜老人大量囤积废品被儿女“举报”，医生紧急提醒！",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716041.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "短短一周内，两位中国女演员斩获国际荣誉",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715997.shtml",
+      "title": "中央音乐学院举行“10·15”艺术节开幕音乐会",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716036.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "逢山开路、遇水架桥  五位交通一线代表讲述平凡岗位不凡担当",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715996.shtml",
+      "title": "海内外专家学者福州研讨余潜士教育思想",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716020.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -86,50 +66,60 @@
       ]
     },
     {
-      "title": "2026第四届福建国际海洋装备博览会开幕",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715980.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国杜立特突袭者子女协会代表在衢州重温历史",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715979.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青海：“十五五”农牧区劳动力转移就业500万人次",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715987.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "四川天全：深山养鲟鱼 “游”出大产业",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715973.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI历史短剧观察：严肃叙事如何跨越算法“流量墙”？",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715983.shtml",
+      "title": "中国官方确定14个“人工智能+文化和旅游”试点项目",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716015.shtml",
       "source": "中国新闻网",
       "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第二十六届中国国际工业博览会在上海闭幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716016.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际自行车联盟主席：将增加在华赛事数量，提升民众参与度",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716017.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "马来西亚第三季度经济同比增5.3%",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716033.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中外嘉宾福州共探全球海洋产业合作新路径",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716035.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“第十二届世界旅游经济论坛·澳门2026”举行",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-17/10716045.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -166,10 +156,20 @@
       ]
     },
     {
-      "title": "曲家文被查 已退休三年多",
-      "url": "https://www.baidu.com/s?wd=%E6%9B%B2%E5%AE%B6%E6%96%87%E8%A2%AB%E6%9F%A5+%E5%B7%B2%E9%80%80%E4%BC%91%E4%B8%89%E5%B9%B4%E5%A4%9A",
+      "title": "长鑫科技预计前三季度净利超1300亿",
+      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E9%A2%84%E8%AE%A1%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E8%B6%851300%E4%BA%BF",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI偶像怀孕 把全网都“耍了”",
+      "url": "https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -186,18 +186,8 @@
       ]
     },
     {
-      "title": "长鑫科技预计前三季度净利超1300亿",
-      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E9%A2%84%E8%AE%A1%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E8%B6%851300%E4%BA%BF",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国汽车质量信誉不能被刹车踏板踩断",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716038.shtml",
+      "title": "沙特主导联军称拦截3枚导弹和4架无人机",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "全国主流媒体走进雅安摄影采风 循茶香寻访茶乡新图景",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716009.shtml",
+      "title": "樟树“药交会”观察：“05后”大学生让中医药“潮起来”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716032.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "四川雅安：探访国家级非遗荥经砂器烧制技艺",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-16/1208046.shtml",
+      "title": "哈尔滨芭蕾舞团原创芭蕾舞剧《我们的北大荒》建组启动",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716031.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "青海多部门协同打击非法进入三江源国家公园行为",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-16/10716008.shtml",
+      "title": "中国清洁能源装备供给能力持续跃升",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716029.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "浙江金华面向非洲38国展播中国优秀影视作品",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715984.shtml",
+      "title": "河南漯河港中心港区召陵作业区一期工程开工",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716028.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "黑龙江秋粮收购有序展开 1271亿斤仓容待“秋粮归仓”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716025.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
