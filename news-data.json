@@ -1,33 +1,13 @@
 {
   "date": "2026-10-17",
-  "time": "05:41",
-  "generatedAt": "2026-10-17T05:41:25.548Z",
+  "time": "10:57",
+  "generatedAt": "2026-10-17T10:57:17.006Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "美媒：美国2026年麻疹确诊病例已达4410例",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716199.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国研发全球农情遥感监测平台获联合国粮农组织成就奖",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716164.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "湖南探索可持续城市更新模式 盘活存量空间打造新消费地标",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716168.shtml",
+      "title": "招商银行举办“聚力共链 产业启航”2026年度活动",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716310.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,8 +16,8 @@
       ]
     },
     {
-      "title": "俄使馆举办文学舞会 俄中青年共舞华尔兹",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716181.shtml",
+      "title": "19国作品亮相今日丝绸之路国际艺术邀请展",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716300.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,28 +26,8 @@
       ]
     },
     {
-      "title": "喀秋莎“遇见”茉莉花  重庆举办中俄文化交流专场音乐会",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716172.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（长征胜利90周年）榜罗镇会议历久弥新的“十件往事”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716141.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海外华媒探访全球最大美洲大蠊养殖基地 解锁中医药创新密码",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-17/10716160.shtml",
+      "title": "第140届广交会新能源汽车及智慧出行展区人气旺",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208121.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -76,39 +36,19 @@
       ]
     },
     {
-      "title": "粤港澳游艇自由行实现双向畅游 助力大湾区游艇产业链加速发展",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-17/10716157.shtml",
+      "title": "科技点亮非遗 新阶层人士助力焕新“老手艺”",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716278.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "黄奇帆被查 中纪委网站发文",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5+%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%91%E7%AB%99%E5%8F%91%E6%96%87",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "78家加油站“偷油”被查",
-      "url": "https://www.baidu.com/s?wd=78%E5%AE%B6%E5%8A%A0%E6%B2%B9%E7%AB%99%E2%80%9C%E5%81%B7%E6%B2%B9%E2%80%9D%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国特斯拉撞上警车致两名警员重伤",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E4%B8%8A%E8%AD%A6%E8%BD%A6%E8%87%B4%E4%B8%A4%E5%90%8D%E8%AD%A6%E5%91%98%E9%87%8D%E4%BC%A4",
-      "source": "百度热搜",
+      "title": "24个国家和地区选手竞技环贵州国际公路自行车赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716279.shtml",
+      "source": "中国新闻网",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -116,8 +56,38 @@
       ]
     },
     {
-      "title": "海南省第八届少数民族传统体育运动会表演项目展现民族文化风采",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716189.shtml",
+      "title": "国家出手 养老账单要变了",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E5%85%BB%E8%80%81%E8%B4%A6%E5%8D%95%E8%A6%81%E5%8F%98%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "男子为女友母亲养老送终获500万遗产",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A5%B3%E5%8F%8B%E6%AF%8D%E4%BA%B2%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88%E8%8E%B7500%E4%B8%87%E9%81%97%E4%BA%A7",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "芯片股暴跌做空者7天获利320亿美元",
+      "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%81%9A%E7%A9%BA%E8%80%857%E5%A4%A9%E8%8E%B7%E5%88%A9320%E4%BA%BF%E7%BE%8E%E5%85%83",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "让民营企业敢投、愿投、能投",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716341.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +96,8 @@
       ]
     },
     {
-      "title": "打通为老服务“最后一公里” 各地出招便利老年人生活",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716198.shtml",
+      "title": "王沪宁在四川调研时强调 坚持为推进中国式现代化凝心聚力 扎实做好新时代党的民族宗教工作",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716329.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +106,8 @@
       ]
     },
     {
-      "title": "云南省第五届传统戏剧曲艺汇演在昆明启幕",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716158.shtml",
+      "title": "在发展中留住记忆，在更新中延续文脉",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716340.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +116,8 @@
       ]
     },
     {
-      "title": "首届新疆青年企业家大会暨新疆青年企业家商会成立大会举行",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716191.shtml",
+      "title": "李强抵达塔什干开始对乌兹别克斯坦进行正式访问",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716331.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +126,8 @@
       ]
     },
     {
-      "title": "河南三门峡：黄河滩区黑豆抢收忙",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716169.shtml",
+      "title": "好评中国｜让长征精神在薪火相传中绽放光芒",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716339.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +136,8 @@
       ]
     },
     {
-      "title": "直播外链：长征路上学党史｜重返延安 回望窑洞灯火长明",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-17/10716195.shtml",
+      "title": "2026世界传统医药大会在北京开幕",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208129.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +146,8 @@
       ]
     },
     {
-      "title": "四川石棉：安顺场红色地标引客来",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208088.shtml",
+      "title": "河南信阳南湾湖秋捕 丰收场景喜人",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716322.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +156,8 @@
       ]
     },
     {
-      "title": "自愿放弃无效 用人单位欠缴社保最高罚3倍 新规即将施行",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716192.shtml",
+      "title": "四川雅安：大熊猫玩耍显萌态",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208133.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +166,8 @@
       ]
     },
     {
-      "title": "“审理一案、治理一片” 甘肃法院破题有“+”号",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716177.shtml",
+      "title": "成都：近4000名“小勇士”挑战斯巴达勇士儿童赛",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716308.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +176,8 @@
       ]
     },
     {
-      "title": "鹤岗萝北：跨江传友谊 研学品风情",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716163.shtml",
+      "title": "哈尔滨文庙银杏迎来最佳观赏季",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716313.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +186,8 @@
       ]
     },
     {
-      "title": "第四届中国非物质文化遗产保护年会在辽宁朝阳启幕",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716166.shtml",
+      "title": "第十四届石壁客家论坛在宁化举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716314.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +196,8 @@
       ]
     },
     {
-      "title": "四川石棉：川矿记忆陈列馆里感受工业精神",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208083.shtml",
+      "title": "核安全监管升级护航核电高质量发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716306.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +206,38 @@
       ]
     },
     {
-      "title": "潮涌海之南 民族一家亲",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716161.shtml",
+      "title": "传承闽南文脉 泉州人类非物质文化遗产综合展启幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716276.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "粤闽开展2026年第三次海上联合执法行动",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716301.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全国近4000名“小勇士”齐聚成都挑战斯巴达勇士儿童赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716303.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "内蒙古集宁生态蝶变记：玄武岩上“绣”出满城绿",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716304.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
