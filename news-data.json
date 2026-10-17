@@ -1,13 +1,43 @@
 {
   "date": "2026-10-17",
-  "time": "10:57",
-  "generatedAt": "2026-10-17T10:57:17.006Z",
+  "time": "14:16",
+  "generatedAt": "2026-10-17T14:16:15.650Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "招商银行举办“聚力共链 产业启航”2026年度活动",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716310.shtml",
+      "title": "2026珠江国际贸易论坛举行 聚焦中国企业出海新赛道",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "专家学者汇聚昆明 探讨教育博士培养模式改革与质量提升",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716404.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广东中华职业教育社养老护理员初级公益培训班落地阳春",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716435.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -16,18 +46,8 @@
       ]
     },
     {
-      "title": "19国作品亮相今日丝绸之路国际艺术邀请展",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716300.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第140届广交会新能源汽车及智慧出行展区人气旺",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208121.shtml",
+      "title": "当AI开始替人做决定，谁在杀死“租流量”的品牌？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716410.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -36,20 +56,80 @@
       ]
     },
     {
-      "title": "科技点亮非遗 新阶层人士助力焕新“老手艺”",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716278.shtml",
+      "title": "美国青年贵州行：在社区看见真实中国 在抗战公路读懂合作共赢",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716400.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "24个国家和地区选手竞技环贵州国际公路自行车赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716279.shtml",
+      "title": "第二十五届中国上海国际艺术节与上海大歌剧院同步开幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716443.shtml",
       "source": "中国新闻网",
       "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国医学专家：西方医学可借鉴传统医药“以人为本”",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716444.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国养老业从“照料”转向“智慧” 年轻人成新生力量",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716395.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中美绿色海事服务合作研讨会在福州举行 共推航运低碳转型",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716455.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国首家白俄罗斯产品馆落户黑河 推动中白合作从“握手”走向“携手”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716441.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "丝绸之路国际艺术节联盟年会在沪举办 签署多领域合作协议",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716399.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "京城学子上演人工智能科创实践秀",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716448.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -66,28 +146,38 @@
       ]
     },
     {
-      "title": "男子为女友母亲养老送终获500万遗产",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A5%B3%E5%8F%8B%E6%AF%8D%E4%BA%B2%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88%E8%8E%B7500%E4%B8%87%E9%81%97%E4%BA%A7",
+      "title": "俄宇航员：中国的变化从太空清晰可见",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%AE%87%E8%88%AA%E5%91%98%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8F%98%E5%8C%96%E4%BB%8E%E5%A4%AA%E7%A9%BA%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81",
       "source": "百度热搜",
-      "cat": "society",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "芯片股暴跌做空者7天获利320亿美元",
-      "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%81%9A%E7%A9%BA%E8%80%857%E5%A4%A9%E8%8E%B7%E5%88%A9320%E4%BA%BF%E7%BE%8E%E5%85%83",
+      "title": "黄子韬徐艺洋被指消费信任",
+      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E8%A2%AB%E6%8C%87%E6%B6%88%E8%B4%B9%E4%BF%A1%E4%BB%BB",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "让民营企业敢投、愿投、能投",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716341.shtml",
+      "title": "全球人形机器人收入前5全是中国企业",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B6%E5%85%A5%E5%89%8D5%E5%85%A8%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "克罗地亚总理普连科维奇会见王毅",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716470.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +186,8 @@
       ]
     },
     {
-      "title": "王沪宁在四川调研时强调 坚持为推进中国式现代化凝心聚力 扎实做好新时代党的民族宗教工作",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716329.shtml",
+      "title": "上海市侨联“为侨服务 康养资讯”平台上线",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-17/10716453.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +196,8 @@
       ]
     },
     {
-      "title": "在发展中留住记忆，在更新中延续文脉",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716340.shtml",
+      "title": "宁波网球公开赛：网球名将探访甬城 感知城市魅力",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716405.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +206,8 @@
       ]
     },
     {
-      "title": "李强抵达塔什干开始对乌兹别克斯坦进行正式访问",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716331.shtml",
+      "title": "云南民族传统体育逾300项 美美与共促团结",
+      "url": "https://www.chinanews.com.cn/mz/2026/10-17/10716442.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +216,8 @@
       ]
     },
     {
-      "title": "好评中国｜让长征精神在薪火相传中绽放光芒",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716339.shtml",
+      "title": "全国堆肥专家齐聚呼和浩特 探索绿色农牧循环新路径",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716402.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +226,8 @@
       ]
     },
     {
-      "title": "2026世界传统医药大会在北京开幕",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208129.shtml",
+      "title": "韩国学者：朱子家礼海外本土化为多元文明互鉴提供古老智慧",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716460.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,98 +236,8 @@
       ]
     },
     {
-      "title": "河南信阳南湾湖秋捕 丰收场景喜人",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716322.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "四川雅安：大熊猫玩耍显萌态",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208133.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "成都：近4000名“小勇士”挑战斯巴达勇士儿童赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716308.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "哈尔滨文庙银杏迎来最佳观赏季",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716313.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第十四届石壁客家论坛在宁化举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716314.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "核安全监管升级护航核电高质量发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716306.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "传承闽南文脉 泉州人类非物质文化遗产综合展启幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716276.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "粤闽开展2026年第三次海上联合执法行动",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716301.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全国近4000名“小勇士”齐聚成都挑战斯巴达勇士儿童赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716303.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "内蒙古集宁生态蝶变记：玄武岩上“绣”出满城绿",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716304.shtml",
+      "title": "“救援先锋”王晓成：洪水中驾动力舟桥转移广西贵港被困师生",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716398.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
