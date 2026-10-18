@@ -1,23 +1,13 @@
 {
   "date": "2026-10-18",
-  "time": "11:22",
-  "generatedAt": "2026-10-18T11:22:45.868Z",
+  "time": "14:41",
+  "generatedAt": "2026-10-18T14:41:55.110Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "专家学者福州共话海洋文旅多元化发展 海洋文旅产业协同创新联盟成立",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716764.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "行业精英齐聚四川内江 聚力打造泛半导体及数据产业生态高地",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716762.shtml",
+      "title": "（活力中国调研行）借力自贸港 海南科技企业向海向天拓市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716844.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -36,59 +26,9 @@
       ]
     },
     {
-      "title": "机器科学家2.2系统在合肥发布 “AI造物”按下加速键",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716745.shtml",
+      "title": "以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716878.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "最高人民法院公布2026年前三季度司法审判工作主要数据",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716723.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中外专家：AI可为传统医学提供现代科学语言“翻译”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716739.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "辽宁省装备制造领域数据标注先行先试工作大会在沈阳召开",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716738.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黄金市场大变化：年轻人成买金大户",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA%E5%A4%A7%E5%8F%98%E5%8C%96%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%88%90%E4%B9%B0%E9%87%91%E5%A4%A7%E6%88%B7",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国60岁以上人口超3.23亿",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD60%E5%B2%81%E4%BB%A5%E4%B8%8A%E4%BA%BA%E5%8F%A3%E8%B6%853.23%E4%BA%BF",
-      "source": "百度热搜",
       "cat": "society",
       "score": 1,
       "exams": [
@@ -96,8 +36,98 @@
       ]
     },
     {
-      "title": "第五届亚洲残疾人运动会主火炬点燃",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716767.shtml",
+      "title": "云南数字影视产业园开园 多语种译制助力文化出海",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716877.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西国际中文教师比拼教学技能：让留学生读懂中国",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716868.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "北京同仁医院建院140周年高质量发展大会举办 一批重点创新平台名单发布",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716866.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国原创AI赋能技术为传统针灸疗法提供“可视化证据”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716863.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "首都西南物流枢纽先导示范项目——深国际京西南综合物流枢纽开园投运",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716796.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“最牛文科生”赌中AI",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E7%89%9B%E6%96%87%E7%A7%91%E7%94%9F%E2%80%9D%E8%B5%8C%E4%B8%ADAI",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外交部回应“China Haul”",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9CChina+Haul%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际乒联回应来自中国的举报信",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%9B%9E%E5%BA%94%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%BE%E6%8A%A5%E4%BF%A1",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI手机为何被各大应用说“不”",
+      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E5%90%84%E5%A4%A7%E5%BA%94%E7%94%A8%E8%AF%B4%E2%80%9C%E4%B8%8D%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国家级极弱磁标准化工作组落户浙江 体系化发展提速",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716876.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +136,8 @@
       ]
     },
     {
-      "title": "要“降糖”也要“排酸”，专家给出糖尿病合并高尿酸患者“饮食指南”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716766.shtml",
+      "title": "科创板多赛道龙头业绩、研发、回购“密集报喜”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716875.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +146,8 @@
       ]
     },
     {
-      "title": "超强台风“蔷琵”最新路径公布 21日前对我国海区无影响",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716765.shtml",
+      "title": "（乡村行·看振兴）浙江义乌：重阳节里赶一场靠山市集",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716874.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +156,8 @@
       ]
     },
     {
-      "title": "双预警齐发！安徽河南等地可能发生山洪灾害 注意防范",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716701.shtml",
+      "title": "“大象拔河”藏妙趣  “押加”牵起民族情谊",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716873.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +166,8 @@
       ]
     },
     {
-      "title": "2000余名泳者齐聚贵州沿河 乌江河中逐浪竞速",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716761.shtml",
+      "title": "高海拔云端竞速 近800名越野健儿登顶“滇中第一山”",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716870.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +176,8 @@
       ]
     },
     {
-      "title": "西藏民族大学《聚焦“四件大事” 聚力“四个创建”丛书》正式出版发行",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716759.shtml",
+      "title": "第三届全国新闻媒体匹克球邀请赛在衡水收拍",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716869.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +186,8 @@
       ]
     },
     {
-      "title": "第五届亚洲残疾人运动会开幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716763.shtml",
+      "title": "丙午（2026）年重阳民祭轩辕黄帝活动在陕西黄陵举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716867.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +196,8 @@
       ]
     },
     {
-      "title": "2026北京人才山地徒步大会在门头沟举办",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716757.shtml",
+      "title": "前海博物馆将于10月30日正式开放 十件展品来自国博",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716864.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +206,8 @@
       ]
     },
     {
-      "title": "海内外信众齐聚妈祖故里共祭妈祖",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716749.shtml",
+      "title": "香港律政司司长：拟成立专组加快推进粤港澳大湾区规则和机制对接",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-18/10716862.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +216,8 @@
       ]
     },
     {
-      "title": "广交会观察：境外采购商青睐中国绿色智能电器“新品”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716750.shtml",
+      "title": "皇岗口岸重阳节迎客流高峰 单小时最高9728人次从香港出境",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-18/10716858.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +226,8 @@
       ]
     },
     {
-      "title": "广交会人气爆棚！国外客商为“中国智造”当场下单",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716756.shtml",
+      "title": "“陶瓷之城”遇上“千年瓷都” 中西陶艺家景德镇觅合作",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716857.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "陕西镇坪县遭遇强降雨 累计转移121户537人",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716742.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全球传统医学联盟成立 中外专家冀更多成果惠及民众",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716740.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江嘉兴南湖机场通航首年旅客吞吐量突破百万",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716737.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（活力中国调研行）海关念好“三字经” 推进海南自贸港高水平开放",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716735.shtml",
+      "title": "2026中国公路自行车公开赛（眉山彭山站）鸣枪开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716855.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
