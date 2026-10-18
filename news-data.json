@@ -1,23 +1,33 @@
 {
   "date": "2026-10-18",
-  "time": "01:12",
-  "generatedAt": "2026-10-18T01:12:06.966Z",
+  "time": "06:03",
+  "generatedAt": "2026-10-18T06:03:37.388Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "程序员会消失吗？第四届远程开发者峰会热议AI下的职业去向",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-18/news1072146.shtml",
+      "title": "广西壮族自治区政协原副主席黄日波接受国家监委监察调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716601.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "暹粒吴哥国际机场通航3年旅客吞吐量超463万人次",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716473.shtml",
+      "title": "AI手机一句话办事 为何被各大应用说“不”？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716588.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "首次落地中国西南 国际汽联TCR世界巡回赛成都站开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716577.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -26,10 +36,30 @@
       ]
     },
     {
-      "title": "辽宁省本溪市政协原党组副书记、副主席邵涛被“双开”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716464.shtml",
+      "title": "2026年“一带一路”记者组织论坛聚焦“交汇融通·向新向前·世界变局中的媒体变革”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716572.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国60岁以上人口超3.23亿",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD60%E5%B2%81%E4%BB%A5%E4%B8%8A%E4%BA%BA%E5%8F%A3%E8%B6%853.23%E4%BA%BF",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "周末打虎！黄日波被查",
+      "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9C%AB%E6%89%93%E8%99%8E%EF%BC%81%E9%BB%84%E6%97%A5%E6%B3%A2%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -46,38 +76,8 @@
       ]
     },
     {
-      "title": "广西大学通报一学生校内死亡",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国际乒联回应来自中国的举报信",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%9B%9E%E5%BA%94%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%BE%E6%8A%A5%E4%BF%A1",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄外交部：为中国取得瞩目成就而高兴",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%8F%96%E5%BE%97%E7%9E%A9%E7%9B%AE%E6%88%90%E5%B0%B1%E8%80%8C%E9%AB%98%E5%85%B4",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "纽约突发枪击事件 致一人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716506.shtml",
+      "title": "东西问丨伊薇特·范德梅尔韦、约翰·巴克：世界葡萄与葡萄酒大会缘何首次落地中国？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-18/10716609.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "title": "第四届“良渚论坛”开幕",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716504.shtml",
+      "title": "日本一副市长参与庆典活动时被重约3吨太鼓台压住 不幸身亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716597.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +96,8 @@
       ]
     },
     {
-      "title": "海南各族运动健儿徒手攀椰“秒”登顶",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716496.shtml",
+      "title": "印度踩踏事故致19死35伤 莫迪哀悼",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716537.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +106,8 @@
       ]
     },
     {
-      "title": "五城律协会长聚首福州 共话智能时代律师行业新发展",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716494.shtml",
+      "title": "习言道｜这场会上，习近平说“今天可能要让你们失望了”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716605.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +116,8 @@
       ]
     },
     {
-      "title": "安徽秋粮收获进度近九成 近200万台（套）农机具与天气“赛跑”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716493.shtml",
+      "title": "（文化新纪行｜校馆弦歌）厦门大学德旺图书馆：“玩”启数学之趣 “修”中触摸传承",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716607.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +126,8 @@
       ]
     },
     {
-      "title": "河北大学，105岁生日快乐！",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716501.shtml",
+      "title": "2026海洋保护大会在海口举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716606.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +136,8 @@
       ]
     },
     {
-      "title": "李强出席2026世界传统医药大会开幕式并致辞",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-18/1208150.shtml",
+      "title": "前三季度中国铁路发送旅客超37亿人次 创历史同期新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716603.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +146,8 @@
       ]
     },
     {
-      "title": "中新网直播：2026北马鸣枪开跑 用脚步丈量“双奥之城”",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-18/10716495.shtml",
+      "title": "（走进中国乡村）“中国小杂粮之乡”甘肃会宁的“康养密码”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716604.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "title": "2026年粤港澳大湾区青少年足球交流赛在佛山举行",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716492.shtml",
+      "title": "一条微信打开招标项目“内定”之门",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716602.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "title": "第五届成渝双城科幻研究论坛在重庆开幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716490.shtml",
+      "title": "水平高、氛围好！2026北马诞生新纪录，赛事组织获选手认可",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716599.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "title": "2026“喀什杯”足球超级邀请赛开幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716489.shtml",
+      "title": "黑龙江大兴安岭多地气象部门发布暴雪、道路结冰预警",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716600.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "title": "海南省民族体育盛会开赛首日：特色项目轮番登场",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716488.shtml",
+      "title": "2026北京马拉松开跑",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-18/1208164.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "铁人三项“双赛”北京怀柔启幕 多国选手雁栖湖畔对决",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716486.shtml",
+      "title": "白云机场重回榜首 航空枢纽格局生变",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716591.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "四川成都：一部糖画江湖的“史记”在天府书展首发",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716485.shtml",
+      "title": "中新健康|更年期不是病，为什么还需要看医生？",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-18/10716593.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "2026年中国攀岩联赛（河北邯郸肥乡站）开赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716484.shtml",
+      "title": "合规风暴下，“万亿帝国”向何处去",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716595.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "人这一辈子，一定要去一趟良渚！",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716487.shtml",
+      "title": "万米高空惊魂：一次失败的“自杀式袭击”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716594.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "10月18日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-18/10716483.shtml",
+      "title": "巴媒：巴基斯坦打击阿富汗武装边境军营，打死数名阿武装人员",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716590.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
