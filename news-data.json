@@ -1,33 +1,43 @@
 {
   "date": "2026-10-19",
-  "time": "01:25",
-  "generatedAt": "2026-10-19T01:25:54.148Z",
+  "time": "07:55",
+  "generatedAt": "2026-10-19T07:55:03.505Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "广交会观察：中国企业深耕共建“一带一路”国家市场",
-      "url": "http://www.chinanews.com.cn/cj/shipin/cns/2026/10-19/news1072214.shtml",
+      "title": "发往吉尔吉斯斯坦 江西井冈蜜橘首次出口中亚市场",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/10-19/10717189.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
       "exams": [
-        "事业单位"
+        "申论素材"
       ]
     },
     {
-      "title": "新一股冷空气接踵而至 中东部气温将持续低迷",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716944.shtml",
+      "title": "国家统计局：人工智能成为中国经济增长新引擎",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717183.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国家石油天然气管网集团有限公司北京管道公司副总经理、安全总监肖华平被查",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717182.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "首都经济贸易大学建校70周年高质量发展大会举行",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-19/10716943.shtml",
+      "title": "聚焦“放心消费”等 全国“优化消费环境月”活动11月启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717196.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,8 +46,8 @@
       ]
     },
     {
-      "title": "新一股冷空气将影响我国中东部大部地区",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716932.shtml",
+      "title": "外交部：坚决反对菲方个别人恶意炒作涉华议题",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717191.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,38 +56,8 @@
       ]
     },
     {
-      "title": "中央档案馆向社会集中开放5000余件长征专题档案",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716931.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "老年人口逐年增加 城乡多元模式破解照护难题",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716930.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI越“懂你”，青年越需要“我再想想”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716927.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄乌“能源停火”未果 美调转矛头对伊施压 伊朗：“7日方案”仍可谈",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716922.shtml",
+      "title": "外交部：严厉谴责日方涉靖国神社消极动向",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717190.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -86,28 +66,18 @@
       ]
     },
     {
-      "title": "被曝光后 江苏丹阳连夜通报",
-      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%8B%8F%E4%B8%B9%E9%98%B3%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
-      "source": "百度热搜",
-      "cat": "hot",
+      "title": "中美俄元首将举行会晤以讨论结束俄乌冲突？外交部回应",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717188.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "“最牛文科生”赌中AI",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E7%89%9B%E6%96%87%E7%A7%91%E7%94%9F%E2%80%9D%E8%B5%8C%E4%B8%ADAI",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国驻以色列使馆提醒中国公民切勿参与非法入境以色列务工",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-19/10716948.shtml",
+      "title": "冯远征戳破艺考单一标准：满台“高富帅”，却找不到《茶馆》“黄胖子”",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717212.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +86,8 @@
       ]
     },
     {
-      "title": "刷短剧弹出小额付费弹窗 点一下就自动续费？不少老人已踩坑",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716949.shtml",
+      "title": "吴璟：房地产趋稳的积极因素正不断积累",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717199.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +96,8 @@
       ]
     },
     {
-      "title": "体育“饭圈化”是对竞技精神的围剿",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716941.shtml",
+      "title": "前三季度大连市出口增长18% 外贸规模占辽宁省62.5%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717194.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +106,8 @@
       ]
     },
     {
-      "title": "中超联赛：北京国安1比0战胜青岛西海岸",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208214.shtml",
+      "title": "全面排查整治 河北石家庄对相关企业进行立案调查",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717209.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +116,8 @@
       ]
     },
     {
-      "title": "长江流域维持阴雨模式 新一股较强冷空气携大风降温来袭",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716935.shtml",
+      "title": "商务部新闻发言人就优化调整无人机相关物项出口管制措施答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717208.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +126,8 @@
       ]
     },
     {
-      "title": "零门槛、低成本 创业服务让岗位直通“家门口”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716934.shtml",
+      "title": "30分钟“极速维权”这样跑出来",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717207.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +136,8 @@
       ]
     },
     {
-      "title": "直播外链：长征路上学党史｜云聚陕甘宁 看星火映山河",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10716929.shtml",
+      "title": "鞍山市新联会服务基层治理联络站正式运行",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717203.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +146,8 @@
       ]
     },
     {
-      "title": "一杯奶茶钱的惠民保如何更有吸引力？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716928.shtml",
+      "title": "第39届中国电影金鸡奖评委会提名名单发布",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717202.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +156,8 @@
       ]
     },
     {
-      "title": "多期限大额存单上新 大额存单缘何重启？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716926.shtml",
+      "title": "商务部新闻发言人就盾构机等物项实施出口管制、优化调整挖泥船相关物项出口管制措施答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717205.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +166,8 @@
       ]
     },
     {
-      "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml",
+      "title": "打通预警信息传播“末梢” 重庆推动气象预警响应直达基层",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717195.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +176,8 @@
       ]
     },
     {
-      "title": "学生个人信息成为黑灰产交易筹码 记者实测注册校园交友软件后骚扰电话频繁",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716924.shtml",
+      "title": "专业学位研究生凭实践成果申请学位，5个专业学位类别先行先试",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717193.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +186,8 @@
       ]
     },
     {
-      "title": "网传高铁座椅是HPV感染来源？无需过度恐慌",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716923.shtml",
+      "title": "或将登陆我国？超强台风“蔷琵”移动路径成悬念",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717204.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +196,8 @@
       ]
     },
     {
-      "title": "泽连斯基：若乌克兰被要求举行战时选举，他将竞选连任",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716921.shtml",
+      "title": "两部门：进一步优化两用物项出口管制质疑和鉴别工作",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717198.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +206,38 @@
       ]
     },
     {
-      "title": "以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml",
+      "title": "（近观中国）习近平说长征：红军和少数民族同胞“就像兄弟姐妹一样”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717151.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月19日“农产品批发价格200指数”比上周五下降0.55个点",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717150.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本首相高市早苗向靖国神社供奉祭祀费",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717184.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中方：坚决反对菲方个别人恶意炒作涉华议题",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717192.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
