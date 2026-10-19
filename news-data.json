@@ -1,35 +1,95 @@
 {
-  "date": "2026-10-18",
-  "time": "23:21",
-  "generatedAt": "2026-10-18T23:21:55.659Z",
+  "date": "2026-10-19",
+  "time": "01:25",
+  "generatedAt": "2026-10-19T01:25:54.148Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "广西区运会航空航天模型项目上演空中较量",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716872.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "韩国学者田炳郁：AI时代朱子学“修身”仍有现实意义",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716889.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "何立峰会见中投公司国际咨询委员会委员",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716887.shtml",
+      "title": "广交会观察：中国企业深耕共建“一带一路”国家市场",
+      "url": "http://www.chinanews.com.cn/cj/shipin/cns/2026/10-19/news1072214.shtml",
       "source": "中国新闻网",
       "cat": "international",
+      "score": 2,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "新一股冷空气接踵而至 中东部气温将持续低迷",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716944.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "首都经济贸易大学建校70周年高质量发展大会举行",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-19/10716943.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新一股冷空气将影响我国中东部大部地区",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716932.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716931.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "老年人口逐年增加 城乡多元模式破解照护难题",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716930.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI越“懂你”，青年越需要“我再想想”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716927.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄乌“能源停火”未果 美调转矛头对伊施压 伊朗：“7日方案”仍可谈",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716922.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "被曝光后 江苏丹阳连夜通报",
+      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%8B%8F%E4%B8%B9%E9%98%B3%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
+      "source": "百度热搜",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
@@ -46,41 +106,131 @@
       ]
     },
     {
-      "title": "国际乒联回应来自中国的举报信",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%9B%9E%E5%BA%94%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%BE%E6%8A%A5%E4%BF%A1",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "中国驻以色列使馆提醒中国公民切勿参与非法入境以色列务工",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-19/10716948.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI手机为何被各大应用说“不”",
-      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E5%90%84%E5%A4%A7%E5%BA%94%E7%94%A8%E8%AF%B4%E2%80%9C%E4%B8%8D%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "刷短剧弹出小额付费弹窗 点一下就自动续费？不少老人已踩坑",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716949.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "外交部回应“China Haul”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9CChina+Haul%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "体育“饭圈化”是对竞技精神的围剿",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716941.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI仿冒号不能光靠吴越们喊打",
-      "url": "https://www.baidu.com/s?wd=AI%E4%BB%BF%E5%86%92%E5%8F%B7%E4%B8%8D%E8%83%BD%E5%85%89%E9%9D%A0%E5%90%B4%E8%B6%8A%E4%BB%AC%E5%96%8A%E6%89%93",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "中超联赛：北京国安1比0战胜青岛西海岸",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208214.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "长江流域维持阴雨模式 新一股较强冷空气携大风降温来袭",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716935.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "零门槛、低成本 创业服务让岗位直通“家门口”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716934.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "直播外链：长征路上学党史｜云聚陕甘宁 看星火映山河",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10716929.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "一杯奶茶钱的惠民保如何更有吸引力？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716928.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多期限大额存单上新 大额存单缘何重启？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716926.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "学生个人信息成为黑灰产交易筹码 记者实测注册校园交友软件后骚扰电话频繁",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716924.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "网传高铁座椅是HPV感染来源？无需过度恐慌",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716923.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泽连斯基：若乌克兰被要求举行战时选举，他将竞选连任",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716921.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -88,156 +238,6 @@
     {
       "title": "以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
       "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "加拿大军事基地火灾致4人死数十人伤 总理卡尼发声",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716919.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "10月19日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10716918.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716917.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "沙特称胡塞武装投射物落入居民区 致6人受伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716916.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "乌克兰首都基辅响起强烈爆炸声",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716915.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "睡觉时身体会突然抽动？这几种表现可能是疾病信号",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-19/10716914.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黑山总理斯帕伊奇会见王毅",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716913.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "尼泊尔一客运吉普车坠河致3人遇难3人失踪",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716912.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王毅同黑山副总理兼外长伊布拉希莫维奇会谈",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716911.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "厄尔尼诺加剧干旱风险 菲律宾强化森林保护与修复",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716910.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中超第28轮：蓉城负海港再失冠军点 英博三连胜紧追",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716909.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "CBA一周综述：升降级归来 四川队获新赛季“开门红”",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716908.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "CBA常规赛：布朗0.4秒三分绝杀吉林 北京首钢斩获赛季开门红",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716907.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“良渚论坛”配套双展开幕：“艺汇丝路”与“源浚者流长”绘文明互鉴",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716882.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中国公路自行车公开赛（眉山彭山站）鸣枪开赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716865.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
