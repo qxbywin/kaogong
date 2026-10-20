@@ -1,13 +1,23 @@
 {
-  "date": "2026-10-19",
-  "time": "21:09",
-  "generatedAt": "2026-10-19T21:09:06.606Z",
+  "date": "2026-10-20",
+  "time": "00:26",
+  "generatedAt": "2026-10-20T00:26:43.771Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "欧盟今年前9个月非法入境人次同比下降近三分之一",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717538.shtml",
+      "title": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717560.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国战略石油储备原油库存降至1982年以来最低",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717571.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -16,58 +26,18 @@
       ]
     },
     {
-      "title": "柬埔寨正式启动“超级污染物减排加速计划”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717534.shtml",
+      "title": "泽连斯基：美国推迟对乌武器交付等决定“难以解释”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717569.shtml",
       "source": "中国新闻网",
-      "cat": "society",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "8国学者齐聚重庆研讨“人工智能时代的肿瘤免疫学”",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717529.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全国统一大市场下的郑州经开区以何招商？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717526.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏芒康举办葡萄酒产业高质量发展座谈暨产销对接会",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717522.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“世界瓷都”福建德化力推陶瓷历史经典产业高质量发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717520.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "当电影遇上AI：影视工业重塑“新质生产力”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717515.shtml",
+      "title": "以场带产 产城融合 商业航天发展持续提速",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717567.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -76,18 +46,8 @@
       ]
     },
     {
-      "title": "西藏拉萨“两会”即将开幕 过去五年履职答卷亮眼",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717512.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（乡村行·看振兴）河南新县“新侨”回归办实体 为乡村振兴注入“新侨”力",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717513.shtml",
+      "title": "智慧养老何时真正“落到老年人床头”？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717564.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -96,8 +56,18 @@
       ]
     },
     {
-      "title": "海南加快建设国家级交通零碳服务区 推动行业绿色转型",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717511.shtml",
+      "title": "“双11”购物节上新 服务消费成亮点",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717561.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西南宁探索“代际共居”——年轻人每月在养老院服务可减免房租",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717558.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -106,8 +76,48 @@
       ]
     },
     {
-      "title": "乌镇峰会前瞻：“一展一会一赛一论坛”将绘智能互联新图景",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717510.shtml",
+      "title": "没撞上就不用赔？“无接触”交通事故，这些情形要担责",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717555.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从柴油吵到“星链” 俄油输美之际 美乌总统继续“隔空互怼”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717554.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第二届东盟华商菁英峰会在马尼拉举行 聚焦区域经贸合作",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717551.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泽连斯基称俄无人机袭击哈尔科夫州一公园致6死14伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717550.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国俄亥俄州哥伦布市东北部发生枪击事件 至少1人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717548.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -146,20 +156,10 @@
       ]
     },
     {
-      "title": "国际乒联最新排名：男单王楚钦第5",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E6%9C%80%E6%96%B0%E6%8E%92%E5%90%8D%EF%BC%9A%E7%94%B7%E5%8D%95%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%AC%AC5",
+      "title": "美股收盘：费城半导体指数结束下跌",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E7%BB%93%E6%9D%9F%E4%B8%8B%E8%B7%8C",
       "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "巴黎骚乱街头有人cos美国队长",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E9%AA%9A%E4%B9%B1%E8%A1%97%E5%A4%B4%E6%9C%89%E4%BA%BAcos%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF",
-      "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "title": "泰国拟追加105.08亿泰铢洪灾救助资金",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717543.shtml",
+      "title": "骨质疏松不再是老年病 骨骼“变脆”身体会“报警”",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717574.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "title": "亚残运会首日：崔哲获中国代表团首金 郭玲玲刷新世界纪录",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-20/10717542.shtml",
+      "title": "颈椎牵引器能否“拯救低头族”？颈椎不舒服该如何缓解？医生解答",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717572.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "2026VCT上海冠军赛收官 新英雄遐思亮相",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717540.shtml",
+      "title": "膝盖的“隐形杀手”不是跑步而是它！很多人天天在做",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717570.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "CBA常规赛次轮：北控主场不敌卫冕冠军上海队",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717539.shtml",
+      "title": "打破“唯论文”标尺！5个专业推行用实践成果申请硕博学位",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717568.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "韩国总统李在明：必须尽快收回战时作战指挥权",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717535.shtml",
+      "title": "减脂餐的“洋食材”成土特产",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717566.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "青海举办第二届藏传佛教寺庙消防技能竞赛活动",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717533.shtml",
+      "title": "CBA常规赛：北京控股队负于上海久事队",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208276.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "多国学者以东南亚华人与海外视角研讨中国式现代化",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717530.shtml",
+      "title": "点外卖、拍Vlog、喝咖啡……“新老人”的需求值得被看见",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717562.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
