@@ -1,63 +1,43 @@
 {
   "date": "2026-10-20",
-  "time": "00:26",
-  "generatedAt": "2026-10-20T00:26:43.771Z",
+  "time": "06:07",
+  "generatedAt": "2026-10-20T06:07:38.435Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717560.shtml",
+      "title": "七部门联合印发《广告产业发展“十五五”规划》",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717768.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国战略石油储备原油库存降至1982年以来最低",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717571.shtml",
+      "title": "不等同降息！权威解读央行货币政策目标利率择机“换锚”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717753.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
+      "cat": "policy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "泽连斯基：美国推迟对乌武器交付等决定“难以解释”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717569.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
+      "title": "让创新势能进一步激发消费潜能",
+      "url": "https://www.baidu.com/s?wd=%E8%AE%A9%E5%88%9B%E6%96%B0%E5%8A%BF%E8%83%BD%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%BF%80%E5%8F%91%E6%B6%88%E8%B4%B9%E6%BD%9C%E8%83%BD",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "以场带产 产城融合 商业航天发展持续提速",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717567.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "智慧养老何时真正“落到老年人床头”？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717564.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“双11”购物节上新 服务消费成亮点",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717561.shtml",
+      "title": "中国银行推出20项举措 为基础研究提供全周期金融支持",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717748.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -66,8 +46,8 @@
       ]
     },
     {
-      "title": "广西南宁探索“代际共居”——年轻人每月在养老院服务可减免房租",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717558.shtml",
+      "title": "京东健康与重医附一院战略签约，共建“心理康复与医疗智能体实验室”",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717746.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -76,18 +56,8 @@
       ]
     },
     {
-      "title": "没撞上就不用赔？“无接触”交通事故，这些情形要担责",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717555.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从柴油吵到“星链” 俄油输美之际 美乌总统继续“隔空互怼”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717554.shtml",
+      "title": "中国最高法发布典型案例 服务保障共建“一带一路”绿色发展",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/10-20/10717737.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,38 +66,28 @@
       ]
     },
     {
-      "title": "第二届东盟华商菁英峰会在马尼拉举行 聚焦区域经贸合作",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717551.shtml",
+      "title": "工信部等三部门印发《氢能综合应用试点工作管理办法》",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717714.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "泽连斯基称俄无人机袭击哈尔科夫州一公园致6死14伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717550.shtml",
+      "title": "山东聊城打造“水城法桥”工作品牌 以法治护航民营经济发展",
+      "url": "https://www.chinanews.com.cn/fz/2026/10-20/10717719.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国俄亥俄州哥伦布市东北部发生枪击事件 至少1人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717548.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "读懂中国经济的韧性和活力",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%9F%A7%E6%80%A7%E5%92%8C%E6%B4%BB%E5%8A%9B",
+      "title": "星巴克回应“消费才能入座”提示牌",
+      "url": "https://www.baidu.com/s?wd=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%9B%9E%E5%BA%94%E2%80%9C%E6%B6%88%E8%B4%B9%E6%89%8D%E8%83%BD%E5%85%A5%E5%BA%A7%E2%80%9D%E6%8F%90%E7%A4%BA%E7%89%8C",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -136,8 +96,28 @@
       ]
     },
     {
-      "title": "女子离婚6天用AI救了前夫一命",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD",
+      "title": "针对DeepSeek 美国政府下黑手",
+      "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9DeepSeek+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E9%BB%91%E6%89%8B",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "山东淄博市副市长沙向东被查",
+      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%B7%84%E5%8D%9A%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E6%B2%99%E5%90%91%E4%B8%9C%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“不烧心”的台词 “烧心”的AI短剧",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E7%83%A7%E5%BF%83%E2%80%9D%E7%9A%84%E5%8F%B0%E8%AF%8D+%E2%80%9C%E7%83%A7%E5%BF%83%E2%80%9D%E7%9A%84AI%E7%9F%AD%E5%89%A7",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -146,8 +126,8 @@
       ]
     },
     {
-      "title": "商用车这碗饭 新能源快分走一半",
-      "url": "https://www.baidu.com/s?wd=%E5%95%86%E7%94%A8%E8%BD%A6%E8%BF%99%E7%A2%97%E9%A5%AD+%E6%96%B0%E8%83%BD%E6%BA%90%E5%BF%AB%E5%88%86%E8%B5%B0%E4%B8%80%E5%8D%8A",
+      "title": "建议花几秒钟跟AI抬个杠",
+      "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E8%8A%B1%E5%87%A0%E7%A7%92%E9%92%9F%E8%B7%9FAI%E6%8A%AC%E4%B8%AA%E6%9D%A0",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -156,28 +136,8 @@
       ]
     },
     {
-      "title": "美股收盘：费城半导体指数结束下跌",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E7%BB%93%E6%9D%9F%E4%B8%8B%E8%B7%8C",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "老人去见苦命“小海” 上车才知是AI",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "骨质疏松不再是老年病 骨骼“变脆”身体会“报警”",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717574.shtml",
+      "title": "新建重庆至万州高速铁路启动联调联试",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717750.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "颈椎牵引器能否“拯救低头族”？颈椎不舒服该如何缓解？医生解答",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717572.shtml",
+      "title": "飒智智能CIIF 2026工博会收官",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717751.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "膝盖的“隐形杀手”不是跑步而是它！很多人天天在做",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717570.shtml",
+      "title": "古巴谴责美方对劳尔·卡斯特罗发出逮捕令",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717752.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "打破“唯论文”标尺！5个专业推行用实践成果申请硕博学位",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717568.shtml",
+      "title": "中国工商银行发布中非人民币跨境使用十大举措",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717749.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "减脂餐的“洋食材”成土特产",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717566.shtml",
+      "title": "不吃压力，吃好饭：十月稻田×伊利把“暂停”还给年轻人",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717745.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "CBA常规赛：北京控股队负于上海久事队",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208276.shtml",
+      "title": "“十五五”时期我国将加强中外联合考古项目统筹管理",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717743.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "点外卖、拍Vlog、喝咖啡……“新老人”的需求值得被看见",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717562.shtml",
+      "title": "拜靖国神社，日本再次撕下自己的“和平伪装”（钟声）",
+      "url": "https://www.chinanews.com.cn/ll/2026/10-20/10717747.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "法国巴黎部分地区实施宵禁",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208307.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多省份用户访问异常跳转至博彩网站 调查报告公布",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717732.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "柬埔寨大米年内出口量首破百万吨 刷新历史纪录",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717741.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "我国各级非遗代表性项目超过10万项",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717721.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
