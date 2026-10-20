@@ -1,23 +1,43 @@
 {
   "date": "2026-10-20",
-  "time": "11:50",
-  "generatedAt": "2026-10-20T11:50:44.792Z",
+  "time": "17:19",
+  "generatedAt": "2026-10-20T17:19:50.863Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "李强出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718037.shtml",
+      "title": "报告称高碳行业转型、气候适应与生态保护蕴藏巨大投资就业潜力",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718198.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美以窃取商业秘密为由制裁中企 中国商务部回应",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718214.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "一卡搞定入境“第一站” 广东入境游AI卡亮相",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718038.shtml",
+      "title": "2026中国品牌国际化论坛在海口开幕 探讨中国品牌出海路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718202.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全国医保影像AI识图大赛决赛将在广西南宁举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718201.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,68 +46,8 @@
       ]
     },
     {
-      "title": "第25届中国（阳江）国际五金刀剪博览会启幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718036.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "走进中亚地区首家鲁班工坊 与塔吉克斯坦师生同上“技能课”",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718027.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "台湾拟巨资采购美国天然气引争议 舆论指忽视商业可行性",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718031.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "活化千年古遗址 河北邯郸让历史文脉赋能文旅新经济",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718025.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "慕田峪长城年接待入境游客突破百万人次 升级国际化服务",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718020.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海南酝酿出台多项要素保障政策推动建筑业高质量发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718018.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北京城市副中心建成养老服务驿站200家 15分钟品质养老圈纵深成型",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718017.shtml",
+      "title": "全国教育系统关工委主题教育活动成果展示在北京举办",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718200.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -96,9 +56,29 @@
       ]
     },
     {
-      "title": "武汉“微改造”焕新老街区 在地文化激活文旅消费",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718016.shtml",
+      "title": "沪港机场国际航空人才培训中心在沪揭牌 2026北外滩国际航空论坛同日举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718192.shtml",
       "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "联合国旅游组织/亚太旅游协会旅游趋势与展望大会在桂林举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718189.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "前三季度中国经济“成绩单”来了",
+      "url": "https://www.baidu.com/s?wd=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E2%80%9C%E6%88%90%E7%BB%A9%E5%8D%95%E2%80%9D%E6%9D%A5%E4%BA%86",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -106,40 +86,20 @@
       ]
     },
     {
-      "title": "新央企！国家数据集团成立",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A4%AE%E4%BC%81%EF%BC%81%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E5%9B%A2%E6%88%90%E7%AB%8B",
+      "title": "商务部回应“美方制裁中国5家企业”",
+      "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E6%96%B9%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD5%E5%AE%B6%E4%BC%81%E4%B8%9A%E2%80%9D",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "星巴克消费入座获支持 消费者变了",
-      "url": "https://www.baidu.com/s?wd=%E6%98%9F%E5%B7%B4%E5%85%8B%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7%E8%8E%B7%E6%94%AF%E6%8C%81+%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%98%E4%BA%86",
+      "title": "理想汽车发布电池保障政策",
+      "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E7%94%B5%E6%B1%A0%E4%BF%9D%E9%9A%9C%E6%94%BF%E7%AD%96",
       "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "三亚市副市长陈克伯任上被查",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E9%99%88%E5%85%8B%E4%BC%AF%E4%BB%BB%E4%B8%8A%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI神曲《过来人》刷屏 创作者回应",
-      "url": "https://www.baidu.com/s?wd=AI%E7%A5%9E%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E5%88%B7%E5%B1%8F+%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94",
-      "source": "百度热搜",
-      "cat": "tech",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -156,8 +116,48 @@
       ]
     },
     {
-      "title": "国家花样滑冰等级测试沈阳站举行",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-20/10718042.shtml",
+      "title": "中东酋长要把国产飞行汽车“飞”回家",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E9%85%8B%E9%95%BF%E8%A6%81%E6%8A%8A%E5%9B%BD%E4%BA%A7%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%A3%9E%E2%80%9D%E5%9B%9E%E5%AE%B6",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "年轻人每月在养老院服务可减免房租",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AF%8F%E6%9C%88%E5%9C%A8%E5%85%BB%E8%80%81%E9%99%A2%E6%9C%8D%E5%8A%A1%E5%8F%AF%E5%87%8F%E5%85%8D%E6%88%BF%E7%A7%9F",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美俄为何改装“爷爷辈”轰炸机",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BF%84%E4%B8%BA%E4%BD%95%E6%94%B9%E8%A3%85%E2%80%9C%E7%88%B7%E7%88%B7%E8%BE%88%E2%80%9D%E8%BD%B0%E7%82%B8%E6%9C%BA",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "DeepSeek一张卡每小时收入38美元",
+      "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "商务部回应美发布针对中企的联邦采购排除和移除命令通知",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718216.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "title": "广交会带动入境旅游热潮 高端住宿需求旺盛",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718041.shtml",
+      "title": "香港特区选举委员会界别分组一般选举提名期结束　接获1155份提名",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718215.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,28 +176,18 @@
       ]
     },
     {
-      "title": "北京城市副中心将保障市属国企总部等项目加速落地",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718040.shtml",
+      "title": "国考报名时间过半，热门岗位报录比超2800:1",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718213.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
       "exams": [
-        "事业单位"
+        "国考"
       ]
     },
     {
-      "title": "台湾今年前三季度接大陆订单同比增38.9%",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718034.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重庆永川：大熊猫“爱莲”迎7周岁生日",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208349.shtml",
+      "title": "李家超：APEC财长会在港举办是香港历史性时刻",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10718212.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "台湾媒体人探访湖南乡村热土 记录时代发展与变迁",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718033.shtml",
+      "title": "刘海星分别会见意大利、阿联酋客人",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718211.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "（乡村行·看振兴）“北魏重镇”上新 冷凉蔬菜端上海外餐桌",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718032.shtml",
+      "title": "文化观察：从良渚看文化遗产如何点亮大众旅游？",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718207.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "草原小城新市民安家记",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718030.shtml",
+      "title": "邯郸涉县“独臂信使”：五十载坚守报答乡土恩情",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718206.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "光影叙事 信仰铸魂：皮影小戏《信仰》开展巡演",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718028.shtml",
+      "title": "2026年农村创业大赛全国总决赛在浙江举行 技术赋能作用凸显",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718205.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026第八届“文化北海”建设活动周启幕 以文润城",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718204.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
