@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
-  "time": "19:25",
-  "generatedAt": "2026-10-21T19:25:04.560Z",
+  "time": "23:26",
+  "generatedAt": "2026-10-21T23:26:53.615Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,46 @@
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国宣布制裁与伊朗相关的多家外国实体",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从奥斯陆到圣彼得堡 美特使密集斡旋 美俄乌三方会谈酝酿重启",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718822.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国对伊朗实施新一轮制裁",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄国防部：俄军继续打击乌物流中心及港口基础设施",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718818.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -116,50 +156,10 @@
       ]
     },
     {
-      "title": "中央安全生产考核巡查二、三季度明查暗访发现重大事故隐患950项",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718789.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "261个港澳台项目参加广州科技创新创业大赛",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718788.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "首届湖南安全应急装备产业博览会开幕 全链条装备亮相",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718785.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "年轻人盯上养老院里的新职业",
       "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%85%BB%E8%80%81%E9%99%A2%E9%87%8C%E7%9A%84%E6%96%B0%E8%81%8C%E4%B8%9A",
       "source": "百度热搜",
       "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "流水线式AI艺人能挣到谁的钱",
-      "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%B0%B4%E7%BA%BF%E5%BC%8FAI%E8%89%BA%E4%BA%BA%E8%83%BD%E6%8C%A3%E5%88%B0%E8%B0%81%E7%9A%84%E9%92%B1",
-      "source": "百度热搜",
-      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -176,8 +176,28 @@
       ]
     },
     {
-      "title": "香港《2026年法治指数》排名保持前列",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718814.shtml",
+      "title": "中国体操女队终结美国连冠",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD%E8%BF%9E%E5%86%A0",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "流水线式AI艺人能挣到谁的钱",
+      "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%B0%B4%E7%BA%BF%E5%BC%8FAI%E8%89%BA%E4%BA%BA%E8%83%BD%E6%8C%A3%E5%88%B0%E8%B0%81%E7%9A%84%E9%92%B1",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "乌克兰首都基辅遭弹道导弹袭击",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "四川搭建欧资企业政企沟通平台 以对话回应关切",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718798.shtml",
+      "title": "10月22日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718823.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "第四届海洋负排放开放科学大会厦门举行 推进全球气候治理行动",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718801.shtml",
+      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718821.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "舞剧《长联·大观》昆明首演 180字“天下第一长联”跃然舞台",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718803.shtml",
+      "title": "沙特一油田设施遭无人机袭击 致2死2伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "多位司法行政一线代表共话平安中国、法治中国建设",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718805.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "神秘丹尼索瓦人有何共性特征？中国科学家最新研究许家窑人揭秘",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718809.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“香港连场好戏”旅游项目启动 推介50部电影逾百个取景地",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718795.shtml",
+      "title": "泽连斯基：乌方支持尽快启动新一轮三方会谈",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718817.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
