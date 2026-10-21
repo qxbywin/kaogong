@@ -1,16 +1,86 @@
 {
   "date": "2026-10-21",
-  "time": "15:22",
-  "generatedAt": "2026-10-21T15:22:13.855Z",
+  "time": "19:25",
+  "generatedAt": "2026-10-21T19:25:04.560Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "全国碳排放权交易市场累计成交量突破10亿吨",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718769.shtml",
+      "title": "2026金融街论坛年会金融科技大会在京举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄总统助理：俄方原则同意下月重启俄美乌三方谈判",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718813.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“致敬国家丰碑” 国情教育宣讲活动在港举行 厚植青年家国情怀",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718796.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄界湖秋色“出圈” 兴凯湖五彩林海成千里打卡“目的地”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718799.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "桂台经贸融合发展与玉林产业发展对接会在广西玉林举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718800.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "深化陕台科创协同 政企学者西安共探具身智能产业发展新路径",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718802.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台青周代祥南宁别样创业：从“玩泥巴”到“玩AI”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718804.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "联合国旅游组织/亚太旅游协会旅游趋势与展望大会在桂林闭幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718806.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -76,50 +146,10 @@
       ]
     },
     {
-      "title": "聚焦物理AI与世界模型 前沿科技成果集中亮相南京",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718774.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中外青年走进浙江宁波 探访海洋经济发展实践",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718773.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国科学院理化所王树涛研究员获国际仿生工程奖最高奖",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718780.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "年轻人盯上养老院里的新职业",
       "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%85%BB%E8%80%81%E9%99%A2%E9%87%8C%E7%9A%84%E6%96%B0%E8%81%8C%E4%B8%9A",
       "source": "百度热搜",
       "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中俄等18国发表联合声明",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%AD%8918%E5%9B%BD%E5%8F%91%E8%A1%A8%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
-      "source": "百度热搜",
-      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -146,21 +176,51 @@
       ]
     },
     {
-      "title": "南宁车务段通报女子错过检票失控哀求",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E8%BD%A6%E5%8A%A1%E6%AE%B5%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%94%99%E8%BF%87%E6%A3%80%E7%A5%A8%E5%A4%B1%E6%8E%A7%E5%93%80%E6%B1%82",
-      "source": "百度热搜",
+      "title": "香港《2026年法治指数》排名保持前列",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718814.shtml",
+      "source": "中国新闻网",
       "cat": "hot",
-      "score": 1,
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "雷军：在汽车产业没有安全其它都是0",
-      "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%9C%A8%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E6%B2%A1%E6%9C%89%E5%AE%89%E5%85%A8%E5%85%B6%E5%AE%83%E9%83%BD%E6%98%AF0",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
+      "title": "四川搭建欧资企业政企沟通平台 以对话回应关切",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718798.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第四届海洋负排放开放科学大会厦门举行 推进全球气候治理行动",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718801.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "舞剧《长联·大观》昆明首演 180字“天下第一长联”跃然舞台",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718803.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多位司法行政一线代表共话平安中国、法治中国建设",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718805.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -178,66 +238,6 @@
     {
       "title": "“香港连场好戏”旅游项目启动 推介50部电影逾百个取景地",
       "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718795.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "长春大冬会吉林市分赛区雪上项目赛道基础施工收官",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718794.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中华文学基金会“育才图书室”捐赠仪式在广西三江举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718793.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "香港邮政将发行“二十四节气——冬”特别邮票",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718792.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中华农耕文明与时代新生主题版画巡展（哈尔滨站）开展",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718791.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“绿茵逐梦 青春同行”2026苏澳青少年融媒体行动在澳门启动",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718790.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "法国一架“幻影-2000”战斗机坠毁 致1人丧生1人失踪",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718786.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
