@@ -1,16 +1,66 @@
 {
   "date": "2026-10-22",
-  "time": "19:19",
-  "generatedAt": "2026-10-22T19:19:17.166Z",
+  "time": "22:29",
+  "generatedAt": "2026-10-22T22:29:03.387Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "青海都兰：10万余亩藜麦迎丰收 特色产业赋能乡村振兴",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719410.shtml",
+      "title": "中方：安理会改革要改变发达国家代表性过剩的局面",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719458.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国或于明年开始扩建格陵兰岛军事设施",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719455.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "普京：重启俄美乌三方会谈不是仅为短暂停火",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719453.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "德国逮捕一名涉嫌为俄罗斯从事间谍活动的乌克兰籍男子",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719449.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "菲律宾央行加息50个基点应对通胀 比索再创历史新低",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719450.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "联合国应对损失与损害基金为尼泊尔预留2000万美元",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719452.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -86,66 +136,6 @@
       ]
     },
     {
-      "title": "法治护航幸福河湖 《杭州市河湖保护治理条例》将施行",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719419.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年联合国日活动在北京举行 吁各国携手合作捍卫多边主义",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719415.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "珠江委会商部署台风“蔷琵”防御及枯水期供水保障工作",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719417.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "香港国际眼镜展11月揭幕 展商冀“借港出海”",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719416.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全国医保影像AI识图大赛决赛启动",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719414.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "芯片人才百万年薪一将难求",
-      "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "美股芯片、光通信股深夜跳水",
       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
       "source": "百度热搜",
@@ -166,6 +156,16 @@
       ]
     },
     {
+      "title": "芯片人才百万年薪一将难求",
+      "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "国际米兰胜顿涅茨克矿工",
       "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%E8%83%9C%E9%A1%BF%E6%B6%85%E8%8C%A8%E5%85%8B%E7%9F%BF%E5%B7%A5",
       "source": "百度热搜",
@@ -176,68 +176,68 @@
       ]
     },
     {
+      "title": "AI让大学生抬头率更低了吗",
+      "url": "https://www.baidu.com/s?wd=AI%E8%AE%A9%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%AC%E5%A4%B4%E7%8E%87%E6%9B%B4%E4%BD%8E%E4%BA%86%E5%90%97",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西藏启动自然灾害救助三级应急响应",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719457.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "3-0击败韩国！国乒获乒乓球亚锦赛男团冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719456.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西藏那曲巴青7.0级地震已造成16人遇难 46人受伤",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719454.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "法国发现全球首例人类感染沙蒙达病毒病例 患者已病故",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719451.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西藏那曲巴青7.0级地震 已造成16人遇难 32人受伤",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719448.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "北京队主场大胜深圳队 收获CBA常规赛三连胜",
       "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719445.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "CBA：山西队主场力克上海队 送卫冕冠军赛季首败",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719444.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "两部门启动国家地震灾害四级应急响应",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719441.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国地震局对西藏那曲市巴青县地震启动二级应急响应",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719438.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "非遗新唱 布朗族古调叙新事",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719431.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“手术发型”医生走红之后：一家公立医院如何“组织化”培养党外人才",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719429.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏那曲市巴青县发生7.0级地震 震源深度10千米",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719432.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
