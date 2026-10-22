@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "time": "15:23",
-  "generatedAt": "2026-10-22T15:23:01.621Z",
+  "time": "19:19",
+  "generatedAt": "2026-10-22T19:19:17.166Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -136,6 +136,16 @@
       ]
     },
     {
+      "title": "芯片人才百万年薪一将难求",
+      "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "美股芯片、光通信股深夜跳水",
       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
       "source": "百度热搜",
@@ -156,21 +166,51 @@
       ]
     },
     {
-      "title": "人民日报评星巴克消费入座",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%98%9F%E5%B7%B4%E5%85%8B%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7",
+      "title": "国际米兰胜顿涅茨克矿工",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%E8%83%9C%E9%A1%BF%E6%B6%85%E8%8C%A8%E5%85%8B%E7%9F%BF%E5%B7%A5",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "这档医学综艺惹怒医疗圈",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%A1%A3%E5%8C%BB%E5%AD%A6%E7%BB%BC%E8%89%BA%E6%83%B9%E6%80%92%E5%8C%BB%E7%96%97%E5%9C%88",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
+      "title": "北京队主场大胜深圳队 收获CBA常规赛三连胜",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719445.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "CBA：山西队主场力克上海队 送卫冕冠军赛季首败",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719444.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "两部门启动国家地震灾害四级应急响应",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719441.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国地震局对西藏那曲市巴青县地震启动二级应急响应",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719438.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -198,46 +238,6 @@
     {
       "title": "西藏那曲市巴青县发生7.0级地震 震源深度10千米",
       "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719432.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏那曲市巴青县附近发生6.7级左右地震",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719430.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全国台企联西南西北区第六十届会长联谊会在广西玉林举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719426.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "直面山区百姓就医难题 浙江常山探索县域均衡健康服务路径",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719425.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "台商黄一成：让台湾养殖技术在广西北海渔村“落地生根”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719424.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
