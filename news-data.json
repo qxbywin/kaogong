@@ -1,73 +1,93 @@
 {
-  "date": "2026-10-21",
-  "time": "23:26",
-  "generatedAt": "2026-10-21T23:26:53.615Z",
+  "date": "2026-10-22",
+  "time": "05:02",
+  "generatedAt": "2026-10-22T05:02:52.330Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "2026金融街论坛年会金融科技大会在京举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml",
+      "title": "国际金融协会总裁安德慕：AI将以积极方式改变世界",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718923.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 3,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "《广播电视和网络视听“十五五”规划》印发",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-22/10718966.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美媒：美以制定计划 拟美国中期选举后再次打击伊朗",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新阶层·新经济 | “老爸评测”创始人魏文锋：流量是后面的“0”，企业的“1”是做好自己",
+      "url": "http://www.chinanews.com.cn/cj/shipin/2026/10-22/news1072620.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国宣布制裁与伊朗相关的多家外国实体",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "从奥斯陆到圣彼得堡 美特使密集斡旋 美俄乌三方会谈酝酿重启",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718822.shtml",
+      "title": "民进中央、民进上海市委会到毕节开展“地域+领域”组团式帮扶调研",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718954.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国对伊朗实施新一轮制裁",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
+      "title": "青海省玉树州政协党组成员、副主席刘中接受审查调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718935.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "俄国防部：俄军继续打击乌物流中心及港口基础设施",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718818.shtml",
+      "title": "（乡村行·看振兴）“参”藏长白山：千年老行当育出百亿新产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718924.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "俄总统助理：俄方原则同意下月重启俄美乌三方谈判",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718813.shtml",
+      "title": "粤脑机接口产业居全国第一梯队",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718933.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "“致敬国家丰碑” 国情教育宣讲活动在港举行 厚植青年家国情怀",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718796.shtml",
+      "title": "庄河市知联会开展乡村振兴专题研学调研",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718913.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -76,9 +96,9 @@
       ]
     },
     {
-      "title": "中俄界湖秋色“出圈” 兴凯湖五彩林海成千里打卡“目的地”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718799.shtml",
-      "source": "中国新闻网",
+      "title": "新华社在美国找到红军长征时珍贵照片",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%89%BE%E5%88%B0%E7%BA%A2%E5%86%9B%E9%95%BF%E5%BE%81%E6%97%B6%E7%8F%8D%E8%B4%B5%E7%85%A7%E7%89%87",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -86,9 +106,9 @@
       ]
     },
     {
-      "title": "桂台经贸融合发展与玉林产业发展对接会在广西玉林举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718800.shtml",
-      "source": "中国新闻网",
+      "title": "揭露骗局 红军伟大长征不容消费",
+      "url": "https://www.baidu.com/s?wd=%E6%8F%AD%E9%9C%B2%E9%AA%97%E5%B1%80+%E7%BA%A2%E5%86%9B%E4%BC%9F%E5%A4%A7%E9%95%BF%E5%BE%81%E4%B8%8D%E5%AE%B9%E6%B6%88%E8%B4%B9",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -96,9 +116,9 @@
       ]
     },
     {
-      "title": "深化陕台科创协同 政企学者西安共探具身智能产业发展新路径",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718802.shtml",
-      "source": "中国新闻网",
+      "title": "星巴克“消费入座”新规已实施",
+      "url": "https://www.baidu.com/s?wd=%E6%98%9F%E5%B7%B4%E5%85%8B%E2%80%9C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7%E2%80%9D%E6%96%B0%E8%A7%84%E5%B7%B2%E5%AE%9E%E6%96%BD",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -106,50 +126,10 @@
       ]
     },
     {
-      "title": "台青周代祥南宁别样创业：从“玩泥巴”到“玩AI”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718804.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "联合国旅游组织/亚太旅游协会旅游趋势与展望大会在桂林闭幕",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718806.shtml",
-      "source": "中国新闻网",
+      "title": "中国体操女队终结美国7连冠",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD7%E8%BF%9E%E5%86%A0",
+      "source": "百度热搜",
       "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河北怀安：“一只羊”到“一条链”的产业致富经",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718807.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广东举行2026年度全省海洋产业高质量发展推进工作会",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718808.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国团队创新突破分子筛催化 推动羰基化反应“百年老树发新枝”",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718810.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -166,18 +146,8 @@
       ]
     },
     {
-      "title": "AI模特图占领女装行业",
-      "url": "https://www.baidu.com/s?wd=AI%E6%A8%A1%E7%89%B9%E5%9B%BE%E5%8D%A0%E9%A2%86%E5%A5%B3%E8%A3%85%E8%A1%8C%E4%B8%9A",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国体操女队终结美国连冠",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD%E8%BF%9E%E5%86%A0",
+      "title": "大量金条正离开美国去往新加坡",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E9%87%91%E6%9D%A1%E6%AD%A3%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD%E5%8E%BB%E5%BE%80%E6%96%B0%E5%8A%A0%E5%9D%A1",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -186,18 +156,78 @@
       ]
     },
     {
-      "title": "流水线式AI艺人能挣到谁的钱",
-      "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%B0%B4%E7%BA%BF%E5%BC%8FAI%E8%89%BA%E4%BA%BA%E8%83%BD%E6%8C%A3%E5%88%B0%E8%B0%81%E7%9A%84%E9%92%B1",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "应急管理领域4个项目入选首批标志性重大应用场景项目",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718959.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "截至9月底我国电动汽车充电基础设施(枪)总数达2477.7万个",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718958.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国女团时隔20年再夺体操世锦赛金牌 获洛杉矶奥运会资格",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718960.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "水利部针对4省市启动洪水防御Ⅳ级应急响应",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718963.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "A股午评：超3900只个股飘绿，三大指数集体收跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718957.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中欧班列累计开行突破14万列 发送货值超5600亿美元",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/10-22/10718948.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "没有路，那就走出一条路！",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718950.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
       "title": "乌克兰首都基辅遭弹道导弹袭击",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208515.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "10月22日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718823.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718821.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "沙特一油田设施遭无人机袭击 致2死2伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泽连斯基：乌方支持尽快启动新一轮三方会谈",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718817.shtml",
+      "title": "中移互联网有限公司原党委书记洪小勤被开除党籍",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718932.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
