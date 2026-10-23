@@ -1,144 +1,24 @@
 {
-  "date": "2026-10-22",
-  "time": "22:29",
-  "generatedAt": "2026-10-22T22:29:03.387Z",
+  "date": "2026-10-23",
+  "time": "01:38",
+  "generatedAt": "2026-10-23T01:38:11.598Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "中方：安理会改革要改变发达国家代表性过剩的局面",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719458.shtml",
+      "title": "从教育到政务，从硬件互联互通到企业日常运营——AI智能体从概念走进场景",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719477.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
+      "cat": "tech",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国或于明年开始扩建格陵兰岛军事设施",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719455.shtml",
+      "title": "2025年中国创新指数比上年增长6.4%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719528.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "普京：重启俄美乌三方会谈不是仅为短暂停火",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719453.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "德国逮捕一名涉嫌为俄罗斯从事间谍活动的乌克兰籍男子",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719449.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "菲律宾央行加息50个基点应对通胀 比索再创历史新低",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719450.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "联合国应对损失与损害基金为尼泊尔预留2000万美元",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719452.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "火灾烟霾污染空气 印尼急性呼吸道感染病例超33万例",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719434.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "侨青赵建舟：扎根宁夏沃土 深耕“电竞+”产业",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-22/10719433.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“讲好中国故事——觉醒年代”国情教育讲座在澳门举行",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719428.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中国·安平国际丝网博览会开幕 海外客商点赞“数字智造”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719427.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中国海洋经济博览会开幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719422.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "制冷产业掀起出海“热” 100余国客商赴浙江展会淘货",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719421.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江绘就全民健康新图景 构筑全周期民生健康守护网",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719420.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美股芯片、光通信股深夜跳水",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
-      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -146,10 +26,30 @@
       ]
     },
     {
-      "title": "夏林茂被查 北京市委表态",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%8F%E6%9E%97%E8%8C%82%E8%A2%AB%E6%9F%A5+%E5%8C%97%E4%BA%AC%E5%B8%82%E5%A7%94%E8%A1%A8%E6%80%81",
-      "source": "百度热搜",
-      "cat": "hot",
+      "title": "援柬埔寨中国医疗队为当地民众带来健康福祉",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208601.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "九三学社沈阳市委会开展纪念长征胜利90周年学习教育活动",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719488.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "261个港澳台项目参赛广州科技创新创业大赛",
+      "url": "http://www.chinanews.com.cn/ga/shipin/cns/2026/10-23/news1072724.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -166,18 +66,8 @@
       ]
     },
     {
-      "title": "国际米兰胜顿涅茨克矿工",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%E8%83%9C%E9%A1%BF%E6%B6%85%E8%8C%A8%E5%85%8B%E7%9F%BF%E5%B7%A5",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI让大学生抬头率更低了吗",
-      "url": "https://www.baidu.com/s?wd=AI%E8%AE%A9%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%AC%E5%A4%B4%E7%8E%87%E6%9B%B4%E4%BD%8E%E4%BA%86%E5%90%97",
+      "title": "宇树十年 王兴兴的下一关是物理AI",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8D%81%E5%B9%B4+%E7%8E%8B%E5%85%B4%E5%85%B4%E7%9A%84%E4%B8%8B%E4%B8%80%E5%85%B3%E6%98%AF%E7%89%A9%E7%90%86AI",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -186,8 +76,8 @@
       ]
     },
     {
-      "title": "西藏启动自然灾害救助三级应急响应",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719457.shtml",
+      "title": "浙江海事局启动浙南海域II级防台应急响应",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719499.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +86,8 @@
       ]
     },
     {
-      "title": "3-0击败韩国！国乒获乒乓球亚锦赛男团冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719456.shtml",
+      "title": "江西举行纪念中国工农红军长征胜利90周年交响音乐会",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719523.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +96,8 @@
       ]
     },
     {
-      "title": "西藏那曲巴青7.0级地震已造成16人遇难 46人受伤",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719454.shtml",
+      "title": "西藏巴青7.0级地震 中国地震局启动二级应急响应",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719514.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +106,8 @@
       ]
     },
     {
-      "title": "法国发现全球首例人类感染沙蒙达病毒病例 患者已病故",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719451.shtml",
+      "title": "9月中国跨境收支规模环比增长9%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719527.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +116,8 @@
       ]
     },
     {
-      "title": "西藏那曲巴青7.0级地震 已造成16人遇难 32人受伤",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719448.shtml",
+      "title": "香港举办“优专大讲堂”首场论坛　聚焦文化赋能湾区人才融合",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719520.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +126,118 @@
       ]
     },
     {
-      "title": "北京队主场大胜深圳队 收获CBA常规赛三连胜",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719445.shtml",
+      "title": "青春在“火焰蓝”中淬炼",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719521.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "临朐县工商联：轮值“动起来” 履职“活起来”",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719491.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台风“蔷琵”将向西北方向移动 新疆北部仍有大风降温和雨雪天气",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719480.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西藏那曲发生7.0级地震 中国安能专业救援力量紧急出动",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719519.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国红十字会总会紧急向西藏地震灾区调拨救灾物资",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719508.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台商台企代表探访广西最大侨乡玉林",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208606.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西藏巴青7.0级地震 国家地震灾害应急响应提升至三级",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719507.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "荒唐一幕：年轻人谎报120，现场对急救人员比耶……生命通道，容不得半点儿戏",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719512.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "网传家电国补正在退场是假的！“双十一”将至 谁在制造抢购焦虑？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719511.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "【循着节气看山河】霜降：霜染山河秀 层林已斑斓",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-23/news1072725.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "直播：西藏巴青“7.0”级地震 救援全力进行中",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-23/10719509.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "濠江海河情相牵 津澳青年话同心｜澳门大学访津交流团参访侧记",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719489.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
