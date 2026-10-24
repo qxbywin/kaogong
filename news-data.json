@@ -1,53 +1,23 @@
 {
   "date": "2026-10-24",
-  "time": "00:50",
-  "generatedAt": "2026-10-24T00:50:47.445Z",
+  "time": "06:00",
+  "generatedAt": "2026-10-24T06:00:13.252Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "俄军宣布27日在赫尔松方向实施停火",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
+      "title": "国务院定调：减缓AI应用就业替代影响",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%9A%E8%B0%83%EF%BC%9A%E5%87%8F%E7%BC%93AI%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 3,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国能源部将氦气认定为关键材料",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720163.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泽连斯基确认乌美俄三方会谈将于11月上半月举行",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720158.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赛事流量如何变产业增量？亦庄构筑电竞生态底座",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720156.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黄仁勋在哈萨克斯坦谈AI发展：能源与人才成关键词",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720155.shtml",
+      "title": "从于右任出发：中外书法家沪上办展，以笔墨作答AI时代",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720284.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -56,8 +26,8 @@
       ]
     },
     {
-      "title": "撂荒土地溢菊香 青海民和山村撑起“金”产业",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720151.shtml",
+      "title": "韩国济州代表团访渝考察智能制造  冀深化两地产业合作",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720290.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -66,20 +36,10 @@
       ]
     },
     {
-      "title": "2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720147.shtml",
+      "title": "第四届传统体育国际交流大赛在江苏启东开幕",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720292.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泰国教育代表团访问广西 冀深化基础教育交流合作",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-23/10720146.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -96,8 +56,8 @@
       ]
     },
     {
-      "title": "白宫称第一夫人促成俄乌局部停火",
-      "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E4%BF%83%E6%88%90%E4%BF%84%E4%B9%8C%E5%B1%80%E9%83%A8%E5%81%9C%E7%81%AB",
+      "title": "杜兰特福克斯爆发冲突",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%9C%E5%85%B0%E7%89%B9%E7%A6%8F%E5%85%8B%E6%96%AF%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -106,8 +66,58 @@
       ]
     },
     {
-      "title": "西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720181.shtml",
+      "title": "官方通报女孩卖掉妈妈金项链被熔化",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%A9%E5%8D%96%E6%8E%89%E5%A6%88%E5%A6%88%E9%87%91%E9%A1%B9%E9%93%BE%E8%A2%AB%E7%86%94%E5%8C%96",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "首部龙标AI电影正式上映",
+      "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8%E9%BE%99%E6%A0%87AI%E7%94%B5%E5%BD%B1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E6%98%A0",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "《令人心动的offer》引医疗圈众怒",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer%E3%80%8B%E5%BC%95%E5%8C%BB%E7%96%97%E5%9C%88%E4%BC%97%E6%80%92",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄军宣布将在赫尔松方向实施停火",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%86%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E6%96%B9%E5%90%91%E5%AE%9E%E6%96%BD%E5%81%9C%E7%81%AB",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际油价飙涨",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%A3%99%E6%B6%A8",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国石化西藏分公司紧急驰援巴青地震灾区 首批油品及生活物资启运",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720298.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +126,8 @@
       ]
     },
     {
-      "title": "2027考研报名今天截止！@考生们：这些事项需关注",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720175.shtml",
+      "title": "“永远的红星”——纪念红军长征胜利90周年群众合唱荟在桂林全州唱响",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720297.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +136,8 @@
       ]
     },
     {
-      "title": "台风“蔷琵”逼近 多地积极应对提前转移安置避险",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720172.shtml",
+      "title": "以声传经典 诗文诵中山",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720296.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +146,8 @@
       ]
     },
     {
-      "title": "10月24日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720171.shtml",
+      "title": "207金117银111铜 中国队亚残运圆满收官",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720295.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "年轻人开始流行“喝大水” 极简养生的背后怎么喝才更健康？",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720170.shtml",
+      "title": "小小啤酒花 走进新疆兵团“做强特色农业”账本里",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720282.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720169.shtml",
+      "title": "话剧《钦差大臣》亮相2026桂林艺术节舞台",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720285.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
+      "title": "台风“蔷琵”移入东海南部海域 4地防汛防台风四级应急响应持续",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720291.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "“共振：中德当代艺术展”在柏林开幕",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720167.shtml",
+      "title": "嘉峪关机务段数智赋能守护兰新丝路运输通道",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720280.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "法国巴黎大区发生枪击事件致一死多伤 官方定性为恐袭",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720165.shtml",
+      "title": "纪念台湾光复81周年 海南各界传承共同记忆",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720278.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "全国短池游泳锦标赛开赛 张展硕、于子迪摘金",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720164.shtml",
+      "title": "受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720270.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "CBA常规赛：北控队主场战胜江苏队",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720162.shtml",
+      "title": "菲律宾空军两架教练机训练飞行时发生事故",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720268.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "王毅宣布中方进一步落实全球治理倡议的务实行动",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720161.shtml",
+      "title": "中欧班列“东通道”年内通行量突破6000列",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720267.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "两名日本登山者在尼泊尔失联多日后遗体被发现",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720160.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "以军总参谋长：已在所有战线进入最高戒备状态",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720159.shtml",
+      "title": "甘肃“金色田野”里的乡村舞者",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720266.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
