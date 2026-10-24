@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-23",
-  "time": "22:21",
-  "generatedAt": "2026-10-23T22:21:44.223Z",
+  "date": "2026-10-24",
+  "time": "00:50",
+  "generatedAt": "2026-10-24T00:50:47.445Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "中英业内人士伦敦研讨医疗AI规模化应用",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720143.shtml",
+      "title": "俄军宣布27日在赫尔松方向实施停火",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
-      "score": 2,
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -86,9 +86,9 @@
       ]
     },
     {
-      "title": "上海推动人工智能赋能工业服务业",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
-      "source": "中国新闻网",
+      "title": "数十万辆新能源“孤儿车”谁负责修",
+      "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -96,38 +96,8 @@
       ]
     },
     {
-      "title": "今年前三季度唐山港京唐港区保税物流中心（B型）进口贸易额居中国首位",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720136.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（活力中国调研行）给水稻写一本带照片的“成长日记”：科技赋能南繁育种",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720138.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "港交所推出人工智能及半导体指数",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720140.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "与美国妻子离婚外卖员不知何为绿卡",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%A6%BB%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%A4%96%E5%8D%96%E5%91%98%E4%B8%8D%E7%9F%A5%E4%BD%95%E4%B8%BA%E7%BB%BF%E5%8D%A1",
+      "title": "白宫称第一夫人促成俄乌局部停火",
+      "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E4%BF%83%E6%88%90%E4%BF%84%E4%B9%8C%E5%B1%80%E9%83%A8%E5%81%9C%E7%81%AB",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -136,11 +106,101 @@
       ]
     },
     {
-      "title": "老人未消费要热水 因没倒满辱骂店员",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%9C%AA%E6%B6%88%E8%B4%B9%E8%A6%81%E7%83%AD%E6%B0%B4+%E5%9B%A0%E6%B2%A1%E5%80%92%E6%BB%A1%E8%BE%B1%E9%AA%82%E5%BA%97%E5%91%98",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
+      "title": "西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720181.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2027考研报名今天截止！@考生们：这些事项需关注",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720175.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台风“蔷琵”逼近 多地积极应对提前转移安置避险",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720172.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月24日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720171.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "年轻人开始流行“喝大水” 极简养生的背后怎么喝才更健康？",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720170.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720169.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“共振：中德当代艺术展”在柏林开幕",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720167.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "法国巴黎大区发生枪击事件致一死多伤 官方定性为恐袭",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720165.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全国短池游泳锦标赛开赛 张展硕、于子迪摘金",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720164.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -178,66 +238,6 @@
     {
       "title": "以军总参谋长：已在所有战线进入最高戒备状态",
       "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720159.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "CBA常规赛：辽宁队迎来新赛季三连胜",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720157.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720153.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720154.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "武汉经开区强化“内功” “车谷造”加速出海",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720152.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "秦汉考古研究新成果暨汉阳陵与汉文化学术研讨会举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-23/10720150.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国电建成都院驰援西藏巴青抗震救灾 调运40套板房100套取暖器",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720149.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
