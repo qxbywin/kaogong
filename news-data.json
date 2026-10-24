@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "time": "20:58",
-  "generatedAt": "2026-10-24T20:58:28.921Z",
+  "time": "23:22",
+  "generatedAt": "2026-10-24T23:22:53.017Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -21,6 +21,26 @@
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄乌将为阿列什基人道主义行动同步停火",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泽连斯基：不会为结束冲突放弃更多领土",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -46,16 +66,6 @@
       ]
     },
     {
-      "title": "京津冀400余组家庭“燃动”首都教育系统第三届亲子欢乐跑",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720495.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "水库发现被掩埋医疗垃圾 当地回应",
       "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%BA%93%E5%8F%91%E7%8E%B0%E8%A2%AB%E6%8E%A9%E5%9F%8B%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
       "source": "百度热搜",
@@ -71,6 +81,36 @@
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "10月25日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-25/10720544.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "也门胡塞武装称沙特一天内发动百次空袭",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "马里军方在梅纳卡市附近发现54具遗体",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720540.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -198,46 +238,6 @@
     {
       "title": "工科赋能区域国别学：学界业界共探企业出海“导航图”",
       "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720504.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "震后排查无异常 青藏铁路受地震影响区段全面恢复正常运行",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720505.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第20届倡棋杯决赛落幕 辜梓豪夺冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720502.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026全国小剧场京剧“群英会”剧目展演启幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720501.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026“郑洁杯”青少年网球巡回赛总决赛开拍",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720499.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
