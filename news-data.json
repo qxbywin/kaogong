@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "time": "14:39",
-  "generatedAt": "2026-10-24T14:39:13.807Z",
+  "time": "18:14",
+  "generatedAt": "2026-10-24T18:14:02.200Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720487.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
+      "title": "水库发现被掩埋医疗垃圾 当地回应",
+      "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%BA%93%E5%8F%91%E7%8E%B0%E8%A2%AB%E6%8E%A9%E5%9F%8B%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -76,21 +76,31 @@
       ]
     },
     {
-      "title": "人工智能都卷到收废品赛道了",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%83%BD%E5%8D%B7%E5%88%B0%E6%94%B6%E5%BA%9F%E5%93%81%E8%B5%9B%E9%81%93%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "第五届亚洲残疾人运动会在日本名古屋闭幕",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720538.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国公布新一批UFO文件",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E6%96%B0%E4%B8%80%E6%89%B9UFO%E6%96%87%E4%BB%B6",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "2027国考报名截止，多职位数千人竞争一岗",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720536.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "国考"
+      ]
+    },
+    {
+      "title": "全国短池游泳锦标赛：徐嘉余一晚两破仰泳纪录",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720535.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -228,16 +238,6 @@
     {
       "title": "2026“郑洁杯”青少年网球巡回赛总决赛开拍",
       "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720499.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720464.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
