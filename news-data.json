@@ -1,23 +1,63 @@
 {
   "date": "2026-10-24",
-  "time": "06:00",
-  "generatedAt": "2026-10-24T06:00:13.252Z",
+  "time": "11:16",
+  "generatedAt": "2026-10-24T11:16:11.604Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国务院定调：减缓AI应用就业替代影响",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%9A%E8%B0%83%EF%BC%9A%E5%87%8F%E7%BC%93AI%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D",
-      "source": "百度热搜",
+      "title": "广州举办安全救援机器人大赛  探索超大城市应急科技新路",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720440.shtml",
+      "source": "中国新闻网",
       "cat": "policy",
-      "score": 3,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "从于右任出发：中外书法家沪上办展，以笔墨作答AI时代",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720284.shtml",
+      "title": "适老化医疗器械产业生态交流会在福州举行 共探“银发浪潮”医老赋能新路径",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720438.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "CEIC2026消费电子创新大会发布《消费电子十大趋势》",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720425.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全国场车安全监管会议鼓励推广数字化手段防事故",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720399.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新华社权威快报｜二十届中央第八轮巡视对象公布",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720443.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "香港“创新科技嘉年华2026”开幕 全方位推广创科文化",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720431.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,8 +66,28 @@
       ]
     },
     {
-      "title": "韩国济州代表团访渝考察智能制造  冀深化两地产业合作",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720290.shtml",
+      "title": "重庆国际人才交流大会·第二届武陵山人才节开幕 赋能片区协同发展",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720434.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王卫星：“一国两制”台湾方案不会照搬港澳模式",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720430.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新马泰央行携手推动数字货币跨境支付",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720418.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,10 +96,20 @@
       ]
     },
     {
-      "title": "第四届传统体育国际交流大赛在江苏启东开幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720292.shtml",
-      "source": "中国新闻网",
+      "title": "美国版“我不是药神”",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%89%88%E2%80%9C%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E2%80%9D",
+      "source": "百度热搜",
       "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "31省份2025年人口出生率公布",
+      "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E4%BA%BA%E5%8F%A3%E5%87%BA%E7%94%9F%E7%8E%87%E5%85%AC%E5%B8%83",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -56,8 +126,8 @@
       ]
     },
     {
-      "title": "杜兰特福克斯爆发冲突",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%9C%E5%85%B0%E7%89%B9%E7%A6%8F%E5%85%8B%E6%96%AF%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
+      "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%AB%E6%B3%AA%E8%B0%88%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%EF%BC%9A%E6%88%91%E5%A4%9C%E4%B8%8D%E8%83%BD%E5%AF%90",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -66,18 +136,8 @@
       ]
     },
     {
-      "title": "官方通报女孩卖掉妈妈金项链被熔化",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%A9%E5%8D%96%E6%8E%89%E5%A6%88%E5%A6%88%E9%87%91%E9%A1%B9%E9%93%BE%E8%A2%AB%E7%86%94%E5%8C%96",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "首部龙标AI电影正式上映",
-      "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8%E9%BE%99%E6%A0%87AI%E7%94%B5%E5%BD%B1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E6%98%A0",
+      "title": "31省份2025年婚姻数据公布",
+      "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -86,38 +146,8 @@
       ]
     },
     {
-      "title": "《令人心动的offer》引医疗圈众怒",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer%E3%80%8B%E5%BC%95%E5%8C%BB%E7%96%97%E5%9C%88%E4%BC%97%E6%80%92",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄军宣布将在赫尔松方向实施停火",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%86%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E6%96%B9%E5%90%91%E5%AE%9E%E6%96%BD%E5%81%9C%E7%81%AB",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国际油价飙涨",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%A3%99%E6%B6%A8",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国石化西藏分公司紧急驰援巴青地震灾区 首批油品及生活物资启运",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720298.shtml",
+      "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720442.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +156,8 @@
       ]
     },
     {
-      "title": "“永远的红星”——纪念红军长征胜利90周年群众合唱荟在桂林全州唱响",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720297.shtml",
+      "title": "拼多多紧急捐赠1000万元    驰援西藏那曲抗震救灾",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720441.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +166,8 @@
       ]
     },
     {
-      "title": "以声传经典 诗文诵中山",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720296.shtml",
+      "title": "福州各界缅怀吴石等在台牺牲英烈",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720439.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +176,8 @@
       ]
     },
     {
-      "title": "207金117银111铜 中国队亚残运圆满收官",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720295.shtml",
+      "title": "第140届广交会第二期：东方美学饰品“圈粉”采购商",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720426.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +186,8 @@
       ]
     },
     {
-      "title": "小小啤酒花 走进新疆兵团“做强特色农业”账本里",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720282.shtml",
+      "title": "粤港澳大湾区移民管理研讨会在广州举办",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720436.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +196,8 @@
       ]
     },
     {
-      "title": "话剧《钦差大臣》亮相2026桂林艺术节舞台",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720285.shtml",
+      "title": "广西“看禾选种”活动开幕 781个农作物新品种集中亮相",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720437.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +206,8 @@
       ]
     },
     {
-      "title": "台风“蔷琵”移入东海南部海域 4地防汛防台风四级应急响应持续",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720291.shtml",
+      "title": "两岸学者安徽追思台静农 赓续文教薪火",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720428.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +216,8 @@
       ]
     },
     {
-      "title": "嘉峪关机务段数智赋能守护兰新丝路运输通道",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720280.shtml",
+      "title": "非遗技艺融入中国时尚饰品　东方美学“圈粉”境外采购商",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720432.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +226,8 @@
       ]
     },
     {
-      "title": "纪念台湾光复81周年 海南各界传承共同记忆",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720278.shtml",
+      "title": "广西畅通“桂字号”农机走向东盟通道",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-24/10720423.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720270.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "菲律宾空军两架教练机训练飞行时发生事故",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720268.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中欧班列“东通道”年内通行量突破6000列",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720267.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "甘肃“金色田野”里的乡村舞者",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720266.shtml",
+      "title": "全国首个美妆国家级技贸评议基地落地广州开发区",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720422.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
