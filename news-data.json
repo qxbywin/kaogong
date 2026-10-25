@@ -1,53 +1,13 @@
 {
   "date": "2026-10-25",
-  "time": "11:49",
-  "generatedAt": "2026-10-25T11:49:56.413Z",
+  "time": "16:34",
+  "generatedAt": "2026-10-25T16:34:39.817Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "第35届金犊奖在北京颁奖 逾半数作品应用AI辅助创作",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720778.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "安徽省蚌埠市人大常委会原副主任高尚被开除党籍",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720757.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "把学校“嵌”进养老园区 浙江温州探索产教融合新模式",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720783.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "二十届中央第七轮巡视完成反馈",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720768.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上合组织国家“亮相”陕西杨凌 “双展”启幕深化农业国际合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720755.shtml",
+      "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720864.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,8 +16,58 @@
       ]
     },
     {
-      "title": "央视曝AI人哭着卖惨带货",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9DAI%E4%BA%BA%E5%93%AD%E7%9D%80%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7",
+      "title": "27支队伍角逐2026年中国—东盟国际龙舟公开赛",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-25/10720854.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台湾专家：从“养老”到“享老”为两岸康养融合提供新机遇",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720822.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI赋能、丝弦入药：上海推动音乐疗愈纳入临床多学科治疗",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720814.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河北省第十四届人民代表大会常务委员会公告",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720832.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "黑熊横渡中俄界江“入境”中国",
+      "url": "https://www.baidu.com/s?wd=%E9%BB%91%E7%86%8A%E6%A8%AA%E6%B8%A1%E4%B8%AD%E4%BF%84%E7%95%8C%E6%B1%9F%E2%80%9C%E5%85%A5%E5%A2%83%E2%80%9D%E4%B8%AD%E5%9B%BD",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "丈母娘也开始抢AI人了",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -66,8 +76,18 @@
       ]
     },
     {
-      "title": "河南汝阳：“巧媳妇”蒸馍比赛尽显乡村烟火气",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720785.shtml",
+      "title": "美国UFO文件披露神秘“黑三角”",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDUFO%E6%96%87%E4%BB%B6%E6%8A%AB%E9%9C%B2%E7%A5%9E%E7%A7%98%E2%80%9C%E9%BB%91%E4%B8%89%E8%A7%92%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "CBA：山西主场101:79战胜江苏 迎新赛季三连胜",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720865.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +96,8 @@
       ]
     },
     {
-      "title": "中国地震台网正式测定：西藏那曲市巴青县发生5.7级地震，震源深度10千米",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720792.shtml",
+      "title": "乒乓球亚锦赛：中国队4金4银收官",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720866.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +106,8 @@
       ]
     },
     {
-      "title": "第四届粤港澳大湾区人才高质量发展大会在广东东莞开幕",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720777.shtml",
+      "title": "全国短池游泳锦标赛：潘展乐赢百米“飞鱼大战”",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720863.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +116,8 @@
       ]
     },
     {
-      "title": "中国地震台网自动测定：青海玉树州杂多县附近发生5.6级左右地震",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720791.shtml",
+      "title": "银杏果落地发臭还能捡吗？这些食用误区一定要避开",
+      "url": "https://www.chinanews.com.cn/life/2026/10-25/10720861.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +126,8 @@
       ]
     },
     {
-      "title": "中国地震局：追踪调查首次发现西藏巴青7.0级地震地表破裂带",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720784.shtml",
+      "title": "今晚不再睡帐篷！西藏巴青7.0级震后 安置板房迎来新主人",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-25/news1072949.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +136,8 @@
       ]
     },
     {
-      "title": "沙特首都机场拟恢复运营 也门胡塞武装紧急警告",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720739.shtml",
+      "title": "西藏那曲巴青7.0级地震震区玛如乡二村受灾群众安置点活动板房顺利通电",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720856.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +146,8 @@
       ]
     },
     {
-      "title": "海归在大湾区人才大会看到另一种可能",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720780.shtml",
+      "title": "两岸同忆台静农：渡海传薪续文脉 “歇脚庵”里话古今",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720855.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +156,8 @@
       ]
     },
     {
-      "title": "广西推介水果新品种 为不同气候带产区提供特色品种",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720775.shtml",
+      "title": "守千年技艺 绘傣陶新章：一位西双版纳女陶艺师的“新纹样”",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720844.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +166,8 @@
       ]
     },
     {
-      "title": "逾3万名跑者竞速宝鸡马拉松 多项赛会纪录被刷新",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720774.shtml",
+      "title": "在榕台青于非遗与新媒体碰撞中感悟闽都文脉",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720843.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "全国约3300名“泳士”齐聚广东清远横渡北江",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720772.shtml",
+      "title": "草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720842.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "银川凤凰公园赴秋约：书香市集解锁阅读新体验",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720776.shtml",
+      "title": "2026年闽台青少年街舞展演在福州举办",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720840.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "陈少波同志任河北省委常委",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720779.shtml",
+      "title": "粤港澳大湾区青少年选手齐聚深圳“以球会友”",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720839.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "第140届广交会第二期：境外采购商挑选“中国好礼”",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720749.shtml",
+      "title": "广交会观察：中国陶瓷企业靠原创设计拿下海外订单",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720830.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "大天鹅“夫妇”携宝宝飞抵河南三门峡越冬",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720740.shtml",
+      "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +226,18 @@
       ]
     },
     {
-      "title": "两百余名飞盘选手青海西宁上演精彩角逐",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720721.shtml",
+      "title": "探访广交会进口展：从印度锅到越南篮 外国企业组团觅商机",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/10-25/10720829.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
       "exams": [
-        "申论素材"
+        "事业单位"
       ]
     },
     {
-      "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720763.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026全球治理论坛（雄安）闭幕 圆满完成所有既定议程",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720767.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720753.shtml",
+      "title": "2026重庆开州汉丰湖马拉松开跑 近8000名选手驰骋环湖PB赛道",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720818.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
