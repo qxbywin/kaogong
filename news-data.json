@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "time": "16:34",
-  "generatedAt": "2026-10-25T16:34:39.817Z",
+  "time": "19:45",
+  "generatedAt": "2026-10-25T19:45:35.017Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -50,16 +50,6 @@
       "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720832.shtml",
       "source": "中国新闻网",
       "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黑熊横渡中俄界江“入境”中国",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%91%E7%86%8A%E6%A8%AA%E6%B8%A1%E4%B8%AD%E4%BF%84%E7%95%8C%E6%B1%9F%E2%80%9C%E5%85%A5%E5%A2%83%E2%80%9D%E4%B8%AD%E5%9B%BD",
-      "source": "百度热搜",
-      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -238,6 +228,16 @@
     {
       "title": "2026重庆开州汉丰湖马拉松开跑 近8000名选手驰骋环湖PB赛道",
       "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720818.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026二沙岛户外音乐季开幕 香港中乐团将首度亮相",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720835.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
