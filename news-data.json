@@ -1,10 +1,20 @@
 {
   "date": "2026-10-25",
-  "time": "19:45",
-  "generatedAt": "2026-10-25T19:45:35.017Z",
+  "time": "22:39",
+  "generatedAt": "2026-10-25T22:39:15.691Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "废旧设备可能藏着关键数据 国家安全机关提示",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720869.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
       "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720864.shtml",
@@ -46,10 +56,20 @@
       ]
     },
     {
-      "title": "河北省第十四届人民代表大会常务委员会公告",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720832.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
+      "title": "美国UFO文件披露神秘“黑三角”",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDUFO%E6%96%87%E4%BB%B6%E6%8A%AB%E9%9C%B2%E7%A5%9E%E7%A7%98%E2%80%9C%E9%BB%91%E4%B8%89%E8%A7%92%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "黑熊横渡中俄界江“入境”中国",
+      "url": "https://www.baidu.com/s?wd=%E9%BB%91%E7%86%8A%E6%A8%AA%E6%B8%A1%E4%B8%AD%E4%BF%84%E7%95%8C%E6%B1%9F%E2%80%9C%E5%85%A5%E5%A2%83%E2%80%9D%E4%B8%AD%E5%9B%BD",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -66,11 +86,51 @@
       ]
     },
     {
-      "title": "美国UFO文件披露神秘“黑三角”",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDUFO%E6%96%87%E4%BB%B6%E6%8A%AB%E9%9C%B2%E7%A5%9E%E7%A7%98%E2%80%9C%E9%BB%91%E4%B8%89%E8%A7%92%E2%80%9D",
+      "title": "卫星视角下的“丰收调色盘”",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E2%80%9C%E4%B8%B0%E6%94%B6%E8%B0%83%E8%89%B2%E7%9B%98%E2%80%9D",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "塞尔维亚“学生名单-学生获胜”宣布议会选举获胜",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720871.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中朝举行中国人民志愿军烈士陵园修缮工程竣工仪式",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720870.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "法国极右翼领导人勒庞正式启动总统竞选活动",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720868.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "CBA一周综述：北京、辽宁四连胜 卫冕冠军遇挑战",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720867.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -178,66 +238,6 @@
     {
       "title": "2026年闽台青少年街舞展演在福州举办",
       "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720840.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "粤港澳大湾区青少年选手齐聚深圳“以球会友”",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720839.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广交会观察：中国陶瓷企业靠原创设计拿下海外订单",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720830.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "探访广交会进口展：从印度锅到越南篮 外国企业组团觅商机",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/10-25/10720829.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "事业单位"
-      ]
-    },
-    {
-      "title": "2026重庆开州汉丰湖马拉松开跑 近8000名选手驰骋环湖PB赛道",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720818.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026二沙岛户外音乐季开幕 香港中乐团将首度亮相",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720835.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
