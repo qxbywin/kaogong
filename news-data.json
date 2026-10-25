@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-24",
-  "time": "23:22",
-  "generatedAt": "2026-10-24T23:22:53.017Z",
+  "date": "2026-10-25",
+  "time": "01:21",
+  "generatedAt": "2026-10-25T01:21:53.664Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -16,11 +16,31 @@
       ]
     },
     {
-      "title": "竹产业创新联盟大会在南平举行 两岸院校共谋竹产业创新发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720500.shtml",
+      "title": "AI换脸明星带货泛滥，维权难点到底在哪？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720562.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "沙特首都利雅得国际机场将于25日部分恢复运营",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720548.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国记协第十届理事会第八次常务理事会议在京召开",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720545.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -76,11 +96,111 @@
       ]
     },
     {
-      "title": "牙膏不得宣传医疗功效",
-      "url": "https://www.baidu.com/s?wd=%E7%89%99%E8%86%8F%E4%B8%8D%E5%BE%97%E5%AE%A3%E4%BC%A0%E5%8C%BB%E7%96%97%E5%8A%9F%E6%95%88",
+      "title": "31省份2025年人口出生率公布",
+      "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E4%BA%BA%E5%8F%A3%E5%87%BA%E7%94%9F%E7%8E%87%E5%85%AC%E5%B8%83",
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "杜兰特福克斯爆发冲突",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%9C%E5%85%B0%E7%89%B9%E7%A6%8F%E5%85%8B%E6%96%AF%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄乌局部同步停火时间敲定",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%B1%80%E9%83%A8%E5%90%8C%E6%AD%A5%E5%81%9C%E7%81%AB%E6%97%B6%E9%97%B4%E6%95%B2%E5%AE%9A",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "湖北宜昌：潮起峡江 新三峡文旅启新程",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720557.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“兴隆星”小行星命名仪式在河北兴隆举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720558.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台湾青年学者许志宏：守住民族根脉，从祖先牌位读懂台湾光复",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720547.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新一股冷空气上线！北方多地迎立秋后最冷一天 华北西北有明显雨雪",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720559.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "西藏那曲巴青地震震区电力供应全面恢复",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720556.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "靳伟同志任中共湖南省委副书记",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720553.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "铭记光复历史，捍卫山河一统！东部战区发布台湾光复纪念日主题海报",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720550.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全球媒体聚焦｜长征精神为中国式现代化注入动力 为全球繁荣发展注入强大精神动能",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720546.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -118,126 +238,6 @@
     {
       "title": "第五届亚洲残疾人运动会在日本名古屋闭幕",
       "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720538.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2027国考报名截止，多职位数千人竞争一岗",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720536.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "国考"
-      ]
-    },
-    {
-      "title": "全国短池游泳锦标赛：徐嘉余一晚两破仰泳纪录",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720535.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中超第29轮：蓉城负英博无缘提前夺冠 三镇不敌泰山确认降级",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720527.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "西藏巴青地震现场：救援力量帮助受灾信众找回唐卡经书等物品",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720524.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中美文博专家：文物也可联结不同文明",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720523.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中外专家学者在北庭故地探讨北庭学发展新径",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720520.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中外专家谈港澳五年规划：转变角色 融入大局",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720518.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一字纳山河 笔墨润香江——香港举办中国书法体验活动",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720503.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "16小时完成 水电基础局驰援巴青地震灾区板房搭建任务收官",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720508.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "20类救灾物资已陆续运往西藏巴青地震灾区",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720506.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "亚残运会中国队创境外参赛最好成绩 展现残疾人体育事业新篇章",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720507.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "工科赋能区域国别学：学界业界共探企业出海“导航图”",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720504.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
