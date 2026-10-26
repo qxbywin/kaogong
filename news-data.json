@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-25",
-  "time": "22:39",
-  "generatedAt": "2026-10-25T22:39:15.691Z",
+  "date": "2026-10-26",
+  "time": "01:20",
+  "generatedAt": "2026-10-26T01:20:39.739Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "废旧设备可能藏着关键数据 国家安全机关提示",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720869.shtml",
+      "title": "国家数据集团成立 如何加快释放数据要素价值",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -16,9 +16,49 @@
       ]
     },
     {
-      "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720864.shtml",
+      "title": "废旧设备里，藏着“活数据”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720894.shtml",
       "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720890.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "护航对外投资高质量发展，新办法12月1日起施行",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720882.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国客户一口气在广州买200套房",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%E4%B8%80%E5%8F%A3%E6%B0%94%E5%9C%A8%E5%B9%BF%E5%B7%9E%E4%B9%B0200%E5%A5%97%E6%88%BF",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -26,29 +66,9 @@
       ]
     },
     {
-      "title": "27支队伍角逐2026年中国—东盟国际龙舟公开赛",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-25/10720854.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "台湾专家：从“养老”到“享老”为两岸康养融合提供新机遇",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720822.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI赋能、丝弦入药：上海推动音乐疗愈纳入临床多学科治疗",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720814.shtml",
-      "source": "中国新闻网",
+      "title": "浙江宣传：AI短剧真的“降智”吗",
+      "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9AAI%E7%9F%AD%E5%89%A7%E7%9C%9F%E7%9A%84%E2%80%9C%E9%99%8D%E6%99%BA%E2%80%9D%E5%90%97",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -58,16 +78,6 @@
     {
       "title": "美国UFO文件披露神秘“黑三角”",
       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDUFO%E6%96%87%E4%BB%B6%E6%8A%AB%E9%9C%B2%E7%A5%9E%E7%A7%98%E2%80%9C%E9%BB%91%E4%B8%89%E8%A7%92%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黑熊横渡中俄界江“入境”中国",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%91%E7%86%8A%E6%A8%AA%E6%B8%A1%E4%B8%AD%E4%BF%84%E7%95%8C%E6%B1%9F%E2%80%9C%E5%85%A5%E5%A2%83%E2%80%9D%E4%B8%AD%E5%9B%BD",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -86,18 +96,58 @@
       ]
     },
     {
-      "title": "卫星视角下的“丰收调色盘”",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E2%80%9C%E4%B8%B0%E6%94%B6%E8%B0%83%E8%89%B2%E7%9B%98%E2%80%9D",
+      "title": "虞书欣菜市场里走红毯",
+      "url": "https://www.baidu.com/s?wd=%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%8F%9C%E5%B8%82%E5%9C%BA%E9%87%8C%E8%B5%B0%E7%BA%A2%E6%AF%AF",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "塞尔维亚“学生名单-学生获胜”宣布议会选举获胜",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720871.shtml",
+      "title": "住房支持生育还有几张牌",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%88%BF%E6%94%AF%E6%8C%81%E7%94%9F%E8%82%B2%E8%BF%98%E6%9C%89%E5%87%A0%E5%BC%A0%E7%89%8C",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "去不去养老院 老人子女谁说了算",
+      "url": "https://www.baidu.com/s?wd=%E5%8E%BB%E4%B8%8D%E5%8E%BB%E5%85%BB%E8%80%81%E9%99%A2+%E8%80%81%E4%BA%BA%E5%AD%90%E5%A5%B3%E8%B0%81%E8%AF%B4%E4%BA%86%E7%AE%97",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "气旋撞击喜马拉雅？中央气象台回应",
+      "url": "https://www.baidu.com/s?wd=%E6%B0%94%E6%97%8B%E6%92%9E%E5%87%BB%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%EF%BC%9F%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%9B%9E%E5%BA%94",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "U17女足世界杯中国队战胜美国队",
+      "url": "https://www.baidu.com/s?wd=U17%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%88%98%E8%83%9C%E7%BE%8E%E5%9B%BD%E9%98%9F",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上证系列综合指数新规今起实施！将带来哪些变化？详细解读→",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720908.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +156,8 @@
       ]
     },
     {
-      "title": "中朝举行中国人民志愿军烈士陵园修缮工程竣工仪式",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720870.shtml",
+      "title": "从“视听之窗”到“合作之桥” 中国—东盟视听周推动“视界”同频",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720905.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +166,8 @@
       ]
     },
     {
-      "title": "法国极右翼领导人勒庞正式启动总统竞选活动",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720868.shtml",
+      "title": "10亿千瓦时背后：中老电力互联的价值不止于跨境送电",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720903.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +176,8 @@
       ]
     },
     {
-      "title": "CBA一周综述：北京、辽宁四连胜 卫冕冠军遇挑战",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720867.shtml",
+      "title": "外媒：巴西总统卢拉赢得连任",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +186,8 @@
       ]
     },
     {
-      "title": "CBA：山西主场101:79战胜江苏 迎新赛季三连胜",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720865.shtml",
+      "title": "巴西总统选举开启第二轮投票",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208871.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +196,8 @@
       ]
     },
     {
-      "title": "乒乓球亚锦赛：中国队4金4银收官",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720866.shtml",
+      "title": "西湖申遗成功十五年，交出保护发展的独特答卷",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720899.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +206,8 @@
       ]
     },
     {
-      "title": "全国短池游泳锦标赛：潘展乐赢百米“飞鱼大战”",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720863.shtml",
+      "title": "直击巴西大选：选情胶着 投票有序",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720889.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "银杏果落地发臭还能捡吗？这些食用误区一定要避开",
-      "url": "https://www.chinanews.com.cn/life/2026/10-25/10720861.shtml",
+      "title": "2026年全国游泳锦标赛（25米）：唐钱婷获得女子100米蛙泳冠军",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208868.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "今晚不再睡帐篷！西藏巴青7.0级震后 安置板房迎来新主人",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-25/news1072949.shtml",
+      "title": "巴西总统卢拉赢得连任",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720896.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "西藏那曲巴青7.0级地震震区玛如乡二村受灾群众安置点活动板房顺利通电",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720856.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "两岸同忆台静农：渡海传薪续文脉 “歇脚庵”里话古今",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720855.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "守千年技艺 绘傣陶新章：一位西双版纳女陶艺师的“新纹样”",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720844.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "在榕台青于非遗与新媒体碰撞中感悟闽都文脉",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720843.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720842.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年闽台青少年街舞展演在福州举办",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720840.shtml",
+      "title": "日本民众集会抗议：“不要导弹”“反对战争”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720895.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
