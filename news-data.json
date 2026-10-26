@@ -1,13 +1,23 @@
 {
   "date": "2026-10-26",
-  "time": "06:27",
-  "generatedAt": "2026-10-26T06:27:34.420Z",
+  "time": "14:23",
+  "generatedAt": "2026-10-26T14:23:54.661Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "第四届中国—东盟及周边国家大数据警务国际交流合作论坛将在贵阳举行",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721076.shtml",
+      "title": "科技赋能油茶采收 湖南祁阳老产业解锁空中转运新模式",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721395.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "数智赋能护理创新 国际交流共探学科发展新路径",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721384.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,18 +26,18 @@
       ]
     },
     {
-      "title": "华侨大学新传学院建院十周年：聚焦自主知识体系建设 探索国际传播创新路径",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721031.shtml",
+      "title": "触达未来 南京聚力打造智能体创新展示窗口",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721418.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "“双十一”促销季警惕降价假象！中消协发布消费提示",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721096.shtml",
+      "title": "侨乡江门对APEC其他经济体出口逾740亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721405.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,18 +46,8 @@
       ]
     },
     {
-      "title": "前三季度郑州GDP逾11862亿元 同比增长4.9％",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721085.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全新岗位快速涌现 职业教育如何“跟得上”？",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-26/10721086.shtml",
+      "title": "中国援赤几医疗队开展抗疟专项培训",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721403.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -56,18 +56,8 @@
       ]
     },
     {
-      "title": "第三十三届杨凌农高会一线观察：农业新科技吹响“集结号”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721074.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东北林业大学两大实验林场获联合国教科文组织授牌",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721068.shtml",
+      "title": "第七届中国—中东欧国家（沧州）中小企业合作论坛开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721400.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,18 +66,8 @@
       ]
     },
     {
-      "title": "人工智能越“聪明”，就越需要算力吗？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721066.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "银川至西安航线正式复航 搭建高效空中国际中转通道",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721032.shtml",
+      "title": "2026中国国际农业机械展览会天津开幕 首次全馆室内办展",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721388.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,10 +76,60 @@
       ]
     },
     {
-      "title": "去不去养老院 老人子女谁说了算",
-      "url": "https://www.baidu.com/s?wd=%E5%8E%BB%E4%B8%8D%E5%8E%BB%E5%85%BB%E8%80%81%E9%99%A2+%E8%80%81%E4%BA%BA%E5%AD%90%E5%A5%B3%E8%B0%81%E8%AF%B4%E4%BA%86%E7%AE%97",
+      "title": "广东以赛带训 推动智能机器人等技能培训与产业升级同频",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721390.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东盟留学生人工智能+创业孵化训练营在广西南宁开营",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721393.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "15个中央巡视组组长公布",
+      "url": "https://www.baidu.com/s?wd=15%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E5%85%AC%E5%B8%83",
       "source": "百度热搜",
-      "cat": "society",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "老干妈回应“用AI把600人裁到48人”",
+      "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "超级电力市场来了 居民电价不受影响",
+      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E6%9D%A5%E4%BA%86+%E5%B1%85%E6%B0%91%E7%94%B5%E4%BB%B7%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "外交部：中方尊重巴西人民的选择",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%B0%8A%E9%87%8D%E5%B7%B4%E8%A5%BF%E4%BA%BA%E6%B0%91%E7%9A%84%E9%80%89%E6%8B%A9",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -116,18 +146,8 @@
       ]
     },
     {
-      "title": "“娱乐至死”的医疗真人秀该叫停了",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%B1%E4%B9%90%E8%87%B3%E6%AD%BB%E2%80%9D%E7%9A%84%E5%8C%BB%E7%96%97%E7%9C%9F%E4%BA%BA%E7%A7%80%E8%AF%A5%E5%8F%AB%E5%81%9C%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "气旋撞击喜马拉雅？中央气象台回应",
-      "url": "https://www.baidu.com/s?wd=%E6%B0%94%E6%97%8B%E6%92%9E%E5%87%BB%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%EF%BC%9F%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%9B%9E%E5%BA%94",
+      "title": "部署地距中国台湾110公里 日美想干嘛",
+      "url": "https://www.baidu.com/s?wd=%E9%83%A8%E7%BD%B2%E5%9C%B0%E8%B7%9D%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE110%E5%85%AC%E9%87%8C+%E6%97%A5%E7%BE%8E%E6%83%B3%E5%B9%B2%E5%98%9B",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
@@ -136,48 +156,8 @@
       ]
     },
     {
-      "title": "美国飞北京航班起飞后突然返航",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A3%9E%E5%8C%97%E4%BA%AC%E8%88%AA%E7%8F%AD%E8%B5%B7%E9%A3%9E%E5%90%8E%E7%AA%81%E7%84%B6%E8%BF%94%E8%88%AA",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "安徽一政务直播暂停：观看数据不太好",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E6%94%BF%E5%8A%A1%E7%9B%B4%E6%92%AD%E6%9A%82%E5%81%9C%EF%BC%9A%E8%A7%82%E7%9C%8B%E6%95%B0%E6%8D%AE%E4%B8%8D%E5%A4%AA%E5%A5%BD",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多地幼儿园改为养老院",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B9%E4%B8%BA%E5%85%BB%E8%80%81%E9%99%A2",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI生成视频已能逃过人脸识别系统",
-      "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E5%B7%B2%E8%83%BD%E9%80%83%E8%BF%87%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "土耳其“泛突厥”野心的虚妄历史与骨感现实",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721091.shtml",
+      "title": "云南省第十三届少数民族传统体育运动会：表演项目精彩纷呈",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721415.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "第九届进博会首批展品进馆",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721084.shtml",
+      "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "25年累计发行超1700万册 《中国儿童百科全书》打造“中国孩子自己的百科全书”",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721082.shtml",
+      "title": "全国劳动模范和大国工匠代表团访港 寄语青年立足岗位持续精进",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721410.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "2026年陕西省攀岩公开赛落幕 百名选手岩壁竞逐展风采",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721083.shtml",
+      "title": "四川成都：商品房预售门槛提高 购房款全部纳入监管账户",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721409.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "长征路上学党史丨陕西吴起：长征胜利“落脚点”的“红绿融合”富民路",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721081.shtml",
+      "title": "前三季度中国国内居民出游人次超53亿",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721407.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "从一名博士的创业选择看“孔雀湾区飞”",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721073.shtml",
+      "title": "宁夏泾源：做强“精字号” 让山里好物身价看涨",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721406.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "2026年世界乒乓球健康嘉年华在沪落幕",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721072.shtml",
+      "title": "11万吨铁矿粉进口 福建漳州破单船铁矿载运量纪录",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721404.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青海：拓宽各民族全方位嵌入路径 推动广泛交往全面交流深度交融",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721401.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "共赴丝路艺术之约 美术馆之夜活动举办",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721402.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
