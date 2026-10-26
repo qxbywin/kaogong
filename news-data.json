@@ -1,26 +1,76 @@
 {
   "date": "2026-10-26",
-  "time": "14:23",
-  "generatedAt": "2026-10-26T14:23:54.661Z",
+  "time": "20:36",
+  "generatedAt": "2026-10-26T20:36:09.979Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "科技赋能油茶采收 湖南祁阳老产业解锁空中转运新模式",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721395.shtml",
+      "title": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "international",
+      "score": 3,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "数智赋能护理创新 国际交流共探学科发展新路径",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721384.shtml",
+      "title": "德国总统施泰因迈尔抵达安徽开始访华",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“理响中国·讲好‘中国式商量’故事”网络主题采访活动走进上海市政协",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721429.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河北滦州小花生“长”出富民大产业",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721425.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "《青海省促进民族团结进步“十五五”规划》系统部署未来五年民族工作",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721421.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄专家共研头颈肿瘤诊疗 把前沿医术带到患者身边",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721416.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从老旧厂房到潮流地标 长沙老城更新激活消费新业态",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721412.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -46,56 +96,6 @@
       ]
     },
     {
-      "title": "中国援赤几医疗队开展抗疟专项培训",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721403.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第七届中国—中东欧国家（沧州）中小企业合作论坛开幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721400.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中国国际农业机械展览会天津开幕 首次全馆室内办展",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721388.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广东以赛带训 推动智能机器人等技能培训与产业升级同频",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721390.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东盟留学生人工智能+创业孵化训练营在广西南宁开营",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721393.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "15个中央巡视组组长公布",
       "url": "https://www.baidu.com/s?wd=15%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E5%85%AC%E5%B8%83",
       "source": "百度热搜",
@@ -106,8 +106,8 @@
       ]
     },
     {
-      "title": "老干妈回应“用AI把600人裁到48人”",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D",
+      "title": "AI伪人广告正在集体“霸凌”人类",
+      "url": "https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -116,18 +116,8 @@
       ]
     },
     {
-      "title": "超级电力市场来了 居民电价不受影响",
-      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E6%9D%A5%E4%BA%86+%E5%B1%85%E6%B0%91%E7%94%B5%E4%BB%B7%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部：中方尊重巴西人民的选择",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%B0%8A%E9%87%8D%E5%B7%B4%E8%A5%BF%E4%BA%BA%E6%B0%91%E7%9A%84%E9%80%89%E6%8B%A9",
+      "title": "冰岛外交部长将访华",
+      "url": "https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E5%B0%86%E8%AE%BF%E5%8D%8E",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -136,28 +126,18 @@
       ]
     },
     {
-      "title": "美国客户一口气在广州买200套房",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%E4%B8%80%E5%8F%A3%E6%B0%94%E5%9C%A8%E5%B9%BF%E5%B7%9E%E4%B9%B0200%E5%A5%97%E6%88%BF",
+      "title": "AI短剧出海跑得更快钱却没多赚",
+      "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%87%BA%E6%B5%B7%E8%B7%91%E5%BE%97%E6%9B%B4%E5%BF%AB%E9%92%B1%E5%8D%B4%E6%B2%A1%E5%A4%9A%E8%B5%9A",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "部署地距中国台湾110公里 日美想干嘛",
-      "url": "https://www.baidu.com/s?wd=%E9%83%A8%E7%BD%B2%E5%9C%B0%E8%B7%9D%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE110%E5%85%AC%E9%87%8C+%E6%97%A5%E7%BE%8E%E6%83%B3%E5%B9%B2%E5%98%9B",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "云南省第十三届少数民族传统体育运动会：表演项目精彩纷呈",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721415.shtml",
+      "title": "中国新发现或完全海生两栖动物化石 距今逾2.3亿年命名海异螈",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +146,8 @@
       ]
     },
     {
-      "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
+      "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +156,8 @@
       ]
     },
     {
-      "title": "全国劳动模范和大国工匠代表团访港 寄语青年立足岗位持续精进",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721410.shtml",
+      "title": "美官员透露称美军已准备好再次大规模打击伊朗",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "四川成都：商品房预售门槛提高 购房款全部纳入监管账户",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721409.shtml",
+      "title": "第一观察｜以信心汇聚力量，以合作破解难题",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721375.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "前三季度中国国内居民出游人次超53亿",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721407.shtml",
+      "title": "尼泊尔公布水文气象白皮书 拟加强洪水预警和冰湖风险治理",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721424.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "宁夏泾源：做强“精字号” 让山里好物身价看涨",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721406.shtml",
+      "title": "小新Talkshow：西藏震后安置点飘出糌粑牛肉粥香：板房通了电 冰柜进了户",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-26/news1073043.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "11万吨铁矿粉进口 福建漳州破单船铁矿载运量纪录",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721404.shtml",
+      "title": "郑州市主城区，如何实现旧城新貌、老区新业？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "青海：拓宽各民族全方位嵌入路径 推动广泛交往全面交流深度交融",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721401.shtml",
+      "title": "山河同根 烈士后人与台青北京话家国传承",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721422.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "共赴丝路艺术之约 美术馆之夜活动举办",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721402.shtml",
+      "title": "北师大教授郑日昌新书《辩证观心》发布 建言提升自我心理觉察",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721420.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青海：把民族事务治理全面纳入法治轨道",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721419.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河南举办“侨见会客厅”  邀请5位侨联负责人畅聊侨情新变化",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721417.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
