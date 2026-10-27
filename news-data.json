@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-26",
-  "time": "20:36",
-  "generatedAt": "2026-10-26T20:36:09.979Z",
+  "date": "2026-10-27",
+  "time": "00:34",
+  "generatedAt": "2026-10-27T00:34:45.271Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,76 @@
       "source": "中国新闻网",
       "cat": "international",
       "score": 3,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721440.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721437.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208961.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "人民币国际化的“下一个十年”怎么走",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721443.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI创业浪潮的主角，正从“经验派”转向“新生代”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721442.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "景区NPC爆火背后，藏着怎样的文旅消费密码？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721435.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -46,39 +116,9 @@
       ]
     },
     {
-      "title": "《青海省促进民族团结进步“十五五”规划》系统部署未来五年民族工作",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721421.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中俄专家共研头颈肿瘤诊疗 把前沿医术带到患者身边",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721416.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从老旧厂房到潮流地标 长沙老城更新激活消费新业态",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721412.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "触达未来 南京聚力打造智能体创新展示窗口",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721418.shtml",
-      "source": "中国新闻网",
+      "title": "史上最大IPO 史上最亏AI公司",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO+%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BA%8FAI%E5%85%AC%E5%8F%B8",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -86,20 +126,10 @@
       ]
     },
     {
-      "title": "侨乡江门对APEC其他经济体出口逾740亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721405.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "15个中央巡视组组长公布",
-      "url": "https://www.baidu.com/s?wd=15%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E5%85%AC%E5%B8%83",
+      "title": "德国总统抵达安徽开启访华行程",
+      "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E5%AE%89%E5%BE%BD%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B",
       "source": "百度热搜",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -116,8 +146,18 @@
       ]
     },
     {
-      "title": "冰岛外交部长将访华",
-      "url": "https://www.baidu.com/s?wd=%E5%86%B0%E5%B2%9B%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E5%B0%86%E8%AE%BF%E5%8D%8E",
+      "title": "15个中央巡视组组长公布",
+      "url": "https://www.baidu.com/s?wd=15%E4%B8%AA%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E5%85%AC%E5%B8%83",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄警告日本：走复仇主义路线后果严重",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%EF%BC%9A%E8%B5%B0%E5%A4%8D%E4%BB%87%E4%B8%BB%E4%B9%89%E8%B7%AF%E7%BA%BF%E5%90%8E%E6%9E%9C%E4%B8%A5%E9%87%8D",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -126,8 +166,8 @@
       ]
     },
     {
-      "title": "AI短剧出海跑得更快钱却没多赚",
-      "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%87%BA%E6%B5%B7%E8%B7%91%E5%BE%97%E6%9B%B4%E5%BF%AB%E9%92%B1%E5%8D%B4%E6%B2%A1%E5%A4%9A%E8%B5%9A",
+      "title": "人工智能时代 如何减缓岗位替代",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3+%E5%A6%82%E4%BD%95%E5%87%8F%E7%BC%93%E5%B2%97%E4%BD%8D%E6%9B%BF%E4%BB%A3",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -136,8 +176,18 @@
       ]
     },
     {
-      "title": "中国新发现或完全海生两栖动物化石 距今逾2.3亿年命名海异螈",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
+      "title": "央行发公告 设立新工具",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%8F%91%E5%85%AC%E5%91%8A+%E8%AE%BE%E7%AB%8B%E6%96%B0%E5%B7%A5%E5%85%B7",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "名字带“鳕”就是鳕鱼吗？怎么吃更健康？一文讲明白",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721452.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +196,8 @@
       ]
     },
     {
-      "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
+      "title": "投喂候鸟，是“爱鸟”还是“害鸟”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721451.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +206,8 @@
       ]
     },
     {
-      "title": "美官员透露称美军已准备好再次大规模打击伊朗",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
+      "title": "用人造钻石散热，为啥“热”起来",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721449.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "第一观察｜以信心汇聚力量，以合作破解难题",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721375.shtml",
+      "title": "读懂了“和合文化”，就读懂了年轻人，也读懂了世界",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721448.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "尼泊尔公布水文气象白皮书 拟加强洪水预警和冰湖风险治理",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721424.shtml",
+      "title": "以规划引领遗产保护 用法治守护文化根脉",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721447.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "小新Talkshow：西藏震后安置点飘出糌粑牛肉粥香：板房通了电 冰柜进了户",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-26/news1073043.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "郑州市主城区，如何实现旧城新貌、老区新业？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "山河同根 烈士后人与台青北京话家国传承",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721422.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北师大教授郑日昌新书《辩证观心》发布 建言提升自我心理觉察",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721420.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "青海：把民族事务治理全面纳入法治轨道",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721419.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河南举办“侨见会客厅”  邀请5位侨联负责人畅聊侨情新变化",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721417.shtml",
+      "title": "救人反被索赔46万元？“好人条款”守住朴素正义",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721445.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
