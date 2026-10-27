@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
-  "time": "18:46",
-  "generatedAt": "2026-10-27T18:46:45.621Z",
+  "time": "23:00",
+  "generatedAt": "2026-10-27T23:00:03.181Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -11,6 +11,46 @@
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721965.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "民政部部署“寒冬送温暖”专项救助行动",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721963.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "矿产资源“户口簿”30年来首次大修订 174个矿种为何要重新登记",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721962.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721961.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -76,16 +116,6 @@
       ]
     },
     {
-      "title": "“越来越好”国际设计大赛探索中国设计出海新路径",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721933.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "外交部回应“姆巴佩遭中国公司解约”",
       "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D",
       "source": "百度热搜",
@@ -116,20 +146,20 @@
       ]
     },
     {
-      "title": "胡润百富榜每10位上榜者就有1位靠AI",
-      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%E7%99%BE%E5%AF%8C%E6%A6%9C%E6%AF%8F10%E4%BD%8D%E4%B8%8A%E6%A6%9C%E8%80%85%E5%B0%B1%E6%9C%891%E4%BD%8D%E9%9D%A0AI",
+      "title": "德国总统抵达安徽开启访华行程",
+      "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E5%AE%89%E5%BE%BD%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "德国总统抵达安徽开启访华行程",
-      "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E5%AE%89%E5%BE%BD%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B",
+      "title": "胡润百富榜每10位上榜者就有1位靠AI",
+      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%E7%99%BE%E5%AF%8C%E6%A6%9C%E6%AF%8F10%E4%BD%8D%E4%B8%8A%E6%A6%9C%E8%80%85%E5%B0%B1%E6%9C%891%E4%BD%8D%E9%9D%A0AI",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -151,6 +181,26 @@
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中方呼吁各方推进美伊止战促谈",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721966.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "出口民调显示两大阵营席位均未过半 利库德集团仍为以议会最大党",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721964.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -188,56 +238,6 @@
     {
       "title": "全球和合文化实践案例发布 “和合之花”跨越山海次第开",
       "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721954.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从佛塔到酒香：泰国东北部传统文化焕发新活力",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721953.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中欧企业家青岛论坛在青岛西海岸新区举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721952.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "贵州：“爱心厨房”暖了医院门口 百余份午餐免费送病患",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721950.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "九旬老兵大别山守墓58年：“他们没有亲人，我就做他们的亲人”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721947.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "女子网坛传奇选手大威廉姆斯征战广网女单正赛",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721876.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
