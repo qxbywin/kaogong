@@ -1,13 +1,13 @@
 {
   "date": "2026-10-28",
-  "time": "02:24",
-  "generatedAt": "2026-10-28T02:24:19.080Z",
+  "time": "09:50",
+  "generatedAt": "2026-10-28T09:50:32.191Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722019.shtml",
+      "title": "河北制造与中东欧市场在云端“握手”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722292.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,8 +16,18 @@
       ]
     },
     {
-      "title": "中山投资控股集团有限公司原高级顾问罗锐鸿被“双开”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721998.shtml",
+      "title": "今年前三季度同江对俄进出口总值57亿元 同比增长235.5%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722301.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广州脑谷·天河（筹）脑机接口产业园启动",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722290.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -26,8 +36,28 @@
       ]
     },
     {
-      "title": "改名“搬运”AI微短剧是否构成侵权？",
-      "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722016.shtml",
+      "title": "两部门部署西藏强降雪天气防范应对工作",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722278.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四川省旅游景区发展大会召开 聚焦国有景区改革",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722277.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "北京计划“十五五”时期新能源汽车保有量达240万辆",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722275.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -36,18 +66,28 @@
       ]
     },
     {
-      "title": "2026中欧微短剧峰会在巴黎举办",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722002.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "title": "把反腐败斗争进行到底",
+      "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E5%8F%8D%E8%85%90%E8%B4%A5%E6%96%97%E4%BA%89%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95",
+      "source": "百度热搜",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "不断开创新时代管党治党新局面",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2",
+      "title": "坚持用严明的纪律管全党治全党",
+      "url": "https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%94%A8%E4%B8%A5%E6%98%8E%E7%9A%84%E7%BA%AA%E5%BE%8B%E7%AE%A1%E5%85%A8%E5%85%9A%E6%B2%BB%E5%85%A8%E5%85%9A",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "基层演员成AI“刀下第一鬼”",
+      "url": "https://www.baidu.com/s?wd=%E5%9F%BA%E5%B1%82%E6%BC%94%E5%91%98%E6%88%90AI%E2%80%9C%E5%88%80%E4%B8%8B%E7%AC%AC%E4%B8%80%E9%AC%BC%E2%80%9D",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -56,8 +96,18 @@
       ]
     },
     {
-      "title": "美媒：特朗普批准博索纳罗入境美国",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E5%87%86%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD",
+      "title": "男子借助AI买彩票中508万",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E5%8A%A9AI%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD508%E4%B8%87",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中方强烈要求美国立即停止封锁古巴",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%B0%81%E9%94%81%E5%8F%A4%E5%B7%B4",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -66,28 +116,8 @@
       ]
     },
     {
-      "title": "博索纳罗及其子女已飞往美国",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%8F%8A%E5%85%B6%E5%AD%90%E5%A5%B3%E5%B7%B2%E9%A3%9E%E5%BE%80%E7%BE%8E%E5%9B%BD",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "博索纳罗被曝前往美国“流亡”",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E8%A2%AB%E6%9B%9D%E5%89%8D%E5%BE%80%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%B5%81%E4%BA%A1%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "15位中央巡视组组长亮相 有位新面孔",
-      "url": "https://www.baidu.com/s?wd=15%E4%BD%8D%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E7%BB%84%E9%95%BF%E4%BA%AE%E7%9B%B8+%E6%9C%89%E4%BD%8D%E6%96%B0%E9%9D%A2%E5%AD%94",
+      "title": "篡改答案 150人参加考试149人通过",
+      "url": "https://www.baidu.com/s?wd=%E7%AF%A1%E6%94%B9%E7%AD%94%E6%A1%88+150%E4%BA%BA%E5%8F%82%E5%8A%A0%E8%80%83%E8%AF%95149%E4%BA%BA%E9%80%9A%E8%BF%87",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
@@ -96,18 +126,28 @@
       ]
     },
     {
-      "title": "俄称对乌大规模打击 乌称击退俄进攻",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E5%AF%B9%E4%B9%8C%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB+%E4%B9%8C%E7%A7%B0%E5%87%BB%E9%80%80%E4%BF%84%E8%BF%9B%E6%94%BB",
+      "title": "卡位“太空经济” 经济第一城出手",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%A1%E4%BD%8D%E2%80%9C%E5%A4%AA%E7%A9%BA%E7%BB%8F%E6%B5%8E%E2%80%9D+%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%80%E5%9F%8E%E5%87%BA%E6%89%8B",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "从东盟到“塞上江南”：宁夏侨商马成军的出海观察与反哺实践",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722030.shtml",
+      "title": "日活1.68亿AI短剧只赚一块钱",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%B4%BB1.68%E4%BA%BFAI%E7%9F%AD%E5%89%A7%E5%8F%AA%E8%B5%9A%E4%B8%80%E5%9D%97%E9%92%B1",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "黄埔全球供应链中心前三季度监管货值超63亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722299.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +156,8 @@
       ]
     },
     {
-      "title": "第九届进博会布展启动 展品直通最快仅需35分钟",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722028.shtml",
+      "title": "水鸟作“生态考官”：吉林松花江治理下沉至排污口",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722302.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +166,8 @@
       ]
     },
     {
-      "title": "中方发布加强外空治理立场文件传递何种信号？",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722027.shtml",
+      "title": "千年文脉生生不息 和合文化能为当下带来什么？",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722297.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +176,8 @@
       ]
     },
     {
-      "title": "荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721976.shtml",
+      "title": "西班牙高速铁路列车相撞造成至少46人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722303.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "日本“25式地对舰导弹”首次参加大规模军演",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722026.shtml",
+      "title": "西班牙高速铁路列车相撞造成至少39人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722300.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "长征路上学党史丨六盘山下，一群守护红色记忆的人",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722025.shtml",
+      "title": "广西防城港锚地智慧电讯检疫常态化运行",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722295.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "雄安新区12345热线搭建起四级诉求办理体系",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722024.shtml",
+      "title": "（乡村行·看振兴）山东莱阳：四百年梨园“甜进”直播间",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722296.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "中国驻乌干达大使馆提醒旅乌中国公民遵守乌方应对埃博拉疫情管控措施",
-      "url": "https://www.chinanews.com.cn/hr/2026/10-28/10721997.shtml",
+      "title": "平陆运河通航以来游船接待乘客超5万人次 三大船闸运行稳定",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722291.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "从广交会爆款展品看中国外贸新图景",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722023.shtml",
+      "title": "江西省以“我的井冈行”为重点的青少年思政实践活动在井冈山启动",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722285.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,48 +236,8 @@
       ]
     },
     {
-      "title": "违停让9岁孩子下车取餐 “开门杀”致人死亡 司机获刑→",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722022.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "CBA常规赛：浙江队81比75战胜新疆队",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722006.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722014.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "关注中国，就是关注未来",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722021.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "每天坚持做这8个“长寿动作”，身体会感谢你！",
-      "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722020.shtml",
+      "title": "烟台港成功接卸安哥拉进口石材荒料",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722288.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
