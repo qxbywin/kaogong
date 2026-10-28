@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
-  "time": "16:42",
-  "generatedAt": "2026-10-28T16:42:41.942Z",
+  "time": "21:43",
+  "generatedAt": "2026-10-28T21:43:53.580Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -90,6 +90,16 @@
       "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
       "source": "中国新闻网",
       "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "《过来人》爆火 AI“像人”越来越值钱",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E7%88%86%E7%81%AB+AI%E2%80%9C%E5%83%8F%E4%BA%BA%E2%80%9D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%80%BC%E9%92%B1",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -228,16 +238,6 @@
     {
       "title": "2026年全国游泳锦标赛（25米）：张展硕获得男子200米自由泳冠军",
       "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209167.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年全国游泳锦标赛（25米）：张雨霏获得女子50米自由泳冠军",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209164.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
