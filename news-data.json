@@ -1,13 +1,13 @@
 {
   "date": "2026-10-29",
-  "time": "08:38",
-  "generatedAt": "2026-10-29T08:38:52.432Z",
+  "time": "16:14",
+  "generatedAt": "2026-10-29T16:14:59.969Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "普京称赞马斯克是天才 称俄正打造对标“星链”的卫星系统",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722738.shtml",
+      "title": "广西加快打造国内国际双循环市场经营便利地",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,19 +16,129 @@
       ]
     },
     {
-      "title": "小厕所里的大民生，百年校里的青春梦——看上海政协如何让民意照进现实",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722779.shtml",
+      "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "《华侨青年》暨南大学预科教育百年纪念特刊发布",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722795.shtml",
+      "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
       "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "共探“人工智能+”  “十五五·同心聚力自贸港”六期沙龙举行",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723078.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“中国蓝色海湾整治行动”获评2026年联合国“世界生态恢复旗舰项目”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723076.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“北京太古坊”正式启用，为太古地产在中国内地单体投资额最高项目",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723071.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "前三季度海南货物贸易跨境人民币收付同比增长超五成",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723070.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中宣部组织召开学习宣传贯彻党的二十届五中全会精神电视电话会议",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723073.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "天津：2030年数字经济综合发展水平位居全国第一梯队",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723062.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "公路织网串起广西横州茉莉花百亿产业",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723058.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆开州发布城市投资机会清单 总投资超500亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723056.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗称捕获一架美国间谍无人机",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10723054.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "海南金融资源加速向重点产业与特色领域倾斜",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723053.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "养老金要崩盘？用三本账穿越认知迷雾",
+      "url": "https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E9%87%91%E8%A6%81%E5%B4%A9%E7%9B%98%EF%BC%9F%E7%94%A8%E4%B8%89%E6%9C%AC%E8%B4%A6%E7%A9%BF%E8%B6%8A%E8%AE%A4%E7%9F%A5%E8%BF%B7%E9%9B%BE",
+      "source": "百度热搜",
       "cat": "society",
       "score": 1,
       "exams": [
@@ -36,78 +146,8 @@
       ]
     },
     {
-      "title": "南航2026年冬春航季新开加密多条国际航线",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722783.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "60多年前曾卷入也门冲突，埃及出兵沙特强调只做“护盾”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722760.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河北部署20项具体任务打造绿色港航示范区",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722788.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI智能体“上岗”今年进博会！24小时保障场馆通信顺畅",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722806.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“一查就准”破解选址难题 沈阳数字化环评助企业跨省“搬家”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722787.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "411项重点任务清单 湖南以“四个一批”推进重点产业链建设",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722786.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "专家学者武汉热议智算产业生态协同发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722749.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国是三丽鸥至关重要的海外市场",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%89%E4%B8%BD%E9%B8%A5%E8%87%B3%E5%85%B3%E9%87%8D%E8%A6%81%E7%9A%84%E6%B5%B7%E5%A4%96%E5%B8%82%E5%9C%BA",
+      "title": "女高管隆胸死亡 7个月消费108万元",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E9%AB%98%E7%AE%A1%E9%9A%86%E8%83%B8%E6%AD%BB%E4%BA%A1+7%E4%B8%AA%E6%9C%88%E6%B6%88%E8%B4%B9108%E4%B8%87%E5%85%83",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -116,18 +156,18 @@
       ]
     },
     {
-      "title": "外交部回应三丽鸥取消Vivant联名",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%8F%96%E6%B6%88Vivant%E8%81%94%E5%90%8D",
+      "title": "31省份居民花钱数据出炉",
+      "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%E5%B1%85%E6%B0%91%E8%8A%B1%E9%92%B1%E6%95%B0%E6%8D%AE%E5%87%BA%E7%82%89",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中国国防部：敦促日方正视和反省侵略历史",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722811.shtml",
+      "title": "桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +176,8 @@
       ]
     },
     {
-      "title": "2026年京津冀铸牢中华民族共同体意识研讨会在津举办",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722781.shtml",
+      "title": "2023年以来江西法院共办理司法救助案件1.1万余件",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "导演黄军：好电影关键在能否真正打动人心",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722780.shtml",
+      "title": "粤港澳大湾区青年在穗交流助残助老志愿服务经验",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723074.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "“智造+品牌”   汕头澄海玩具加速链接全球",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722734.shtml",
+      "title": "“行走的川菜非遗”美食推介在伦敦举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723072.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "稻谷渐黄 福建南靖迎来秋日限定美景",
-      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-29/1209212.shtml",
+      "title": "CBA常规赛：北控队主场大胜四川队",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-29/10723075.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "演员刘端端首执导筒带来爱情主题话剧《今宵酒·醒何处》",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722798.shtml",
+      "title": "天津开展巾帼宣讲员风采展示活动 讲好巾帼建功奋斗故事",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723069.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "（乡村行·看振兴）从田间到茶饮 河南沁阳养生茶开出“致富花”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722736.shtml",
+      "title": "古韵新声引客来 傣族章哈成西双版纳文旅名片",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723068.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,48 +236,8 @@
       ]
     },
     {
-      "title": "以美食为媒 第二十七届中国美食节开幕",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722796.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《武舞融韵·沪上风华》专场演出在德国汉堡举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722791.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河北任丘：传承百年的古建青砖制作技艺",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722782.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "今年台风为什么这么多？厄尔尼诺是“头号推手”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722799.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国防部：敦促日方正视和反省侵略历史",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722797.shtml",
+      "title": "王毅同冰岛外长贡纳尔斯多蒂尔会谈",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723067.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
