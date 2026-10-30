@@ -1,13 +1,13 @@
 {
   "date": "2026-10-30",
-  "time": "14:19",
-  "generatedAt": "2026-10-30T14:19:42.521Z",
+  "time": "19:29",
+  "generatedAt": "2026-10-30T19:29:56.358Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "证监会：全力稳市场稳预期，深化投融资综合改革",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723649.shtml",
+      "title": "四川省凉山州布拖县政协党组书记、主席黄西虎接受纪律审查和监察调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723697.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 2,
@@ -16,18 +16,38 @@
       ]
     },
     {
-      "title": "西藏持续加大民生财政投入 筑牢各族群众幸福底线",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723645.shtml",
+      "title": "医疗健康数字孪生联盟在沪成立 发布5000万人健康数字孪生计划",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723712.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "society",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "商务部就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723659.shtml",
+      "title": "四川省宜宾市生态环境局原党委书记、局长周永富接受纪律审查和监察调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723699.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河北以数智化改革提升生态环境执法服务质效",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723692.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄方：俄美乌三方会谈有“决定性意义”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723698.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,60 +56,20 @@
       ]
     },
     {
-      "title": "三部门增加调拨1000套中央救灾物资板房 保障西藏受灾群众安全温暖过冬",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723655.shtml",
+      "title": "民盟乡村振兴骨干培训班在上海举行",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723691.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "文脉共续、产业共兴、邻里共融：探访云南民族团结的生动实践",
-      "url": "https://www.chinanews.com.cn/mz/2026/10-30/10723646.shtml",
+      "title": "前三季度中国文化企业营业收入同比增长4.3%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723686.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《2026年贵金属蓝皮书》：五年间全球贵金属市场规模增长近80%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723640.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国家级“AI+工程机械”专业赛在江苏徐州收官 向全球发出行动邀约",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723642.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从明代窑火到广交会展台 唐山“老瓷区”闯出“新市场”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723641.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（乡村行·看振兴）山西柳林：红粱开镰迎秋收 科技兴农谷满仓",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723639.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -126,58 +106,8 @@
       ]
     },
     {
-      "title": "停药身亡女子每周给AI发1500条信息",
-      "url": "https://www.baidu.com/s?wd=%E5%81%9C%E8%8D%AF%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%91%A8%E7%BB%99AI%E5%8F%911500%E6%9D%A1%E4%BF%A1%E6%81%AF",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "男子在星巴克不消费占座被劝离后报警",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%8D%E6%B6%88%E8%B4%B9%E5%8D%A0%E5%BA%A7%E8%A2%AB%E5%8A%9D%E7%A6%BB%E5%90%8E%E6%8A%A5%E8%AD%A6",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国内首部AI院线片遇冷 但别急着否定",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%99%A2%E7%BA%BF%E7%89%87%E9%81%87%E5%86%B7+%E4%BD%86%E5%88%AB%E6%80%A5%E7%9D%80%E5%90%A6%E5%AE%9A",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "长鑫科技前三季营收暴涨7倍",
-      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%89%8D%E4%B8%89%E5%AD%A3%E8%90%A5%E6%94%B6%E6%9A%B4%E6%B6%A87%E5%80%8D",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "证监会：全力稳市场稳预期",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%85%A8%E5%8A%9B%E7%A8%B3%E5%B8%82%E5%9C%BA%E7%A8%B3%E9%A2%84%E6%9C%9F",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄代表团飞超20小时抵美参加G20活动",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A3%9E%E8%B6%8520%E5%B0%8F%E6%97%B6%E6%8A%B5%E7%BE%8E%E5%8F%82%E5%8A%A0G20%E6%B4%BB%E5%8A%A8",
+      "title": "日访华团参访731部队罪证陈列馆",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E8%AE%BF%E5%8D%8E%E5%9B%A2%E5%8F%82%E8%AE%BF731%E9%83%A8%E9%98%9F%E7%BD%AA%E8%AF%81%E9%99%88%E5%88%97%E9%A6%86",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -186,8 +116,8 @@
       ]
     },
     {
-      "title": "赵乐际会见德国总统施泰因迈尔",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209282.shtml",
+      "title": "奥地利合唱团走进乐山 江边放歌感受山水",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723714.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +126,8 @@
       ]
     },
     {
-      "title": "习近平同德国总统施泰因迈尔会谈",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209279.shtml",
+      "title": "《八闽文化与中国式现代化》丛书在福州发布",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723713.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +136,8 @@
       ]
     },
     {
-      "title": "习近平会见瑞士联邦主席帕姆兰",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209281.shtml",
+      "title": "李强会见德国总统施泰因迈尔",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723715.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +146,8 @@
       ]
     },
     {
-      "title": "10月30日夜读",
-      "url": "https://www.chinanews.com.cn/iframe/2026/10-30/10723658.shtml",
+      "title": "纪录片《感恩东来爱香江》将在香港多校播出",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723708.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +156,8 @@
       ]
     },
     {
-      "title": "合肥秋色次第铺展 水上“小提琴”层林尽染",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723623.shtml",
+      "title": "小赛场增进大团结 云南以体育促进各民族交往交流交融",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723711.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +166,78 @@
       ]
     },
     {
-      "title": "中国最北滑雪场开板迎客",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723654.shtml",
+      "title": "青海都兰：“蚕豆+”轮作解锁高原农业“绿色密码”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723710.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“长征星火照东城”主题展览在北京开幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723709.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "名家讲经典：万方、王可然谈经典戏剧的当代生命力",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723707.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "蓬皮杜中心等三家机构在港缔结文化联盟 推动多元文化对话",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723706.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "知名高校校友杭州行活动启幕 侨青“朋友圈”再扩容",
+      "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723704.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广东省制造业赋能陶瓷卫浴专场对接活动在潮州启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723703.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "宁夏：力争2027年底实现各级银龄志愿服务队伍全域覆盖",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723701.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "安全、生态、智能 水利专家共论大坝新发展",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723700.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
