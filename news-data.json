@@ -1,13 +1,23 @@
 {
-  "date": "2026-10-29",
-  "time": "21:13",
-  "generatedAt": "2026-10-29T21:13:44.254Z",
+  "date": "2026-10-30",
+  "time": "01:08",
+  "generatedAt": "2026-10-30T01:08:39.547Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "广西加快打造国内国际双循环市场经营便利地",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
+      "title": "专家吁推动新能源车险从“政策驱动”走向“法治定型”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723110.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国第三季度经济增长3.4% 好于市场预期",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723102.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,11 +26,121 @@
       ]
     },
     {
-      "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
+      "title": "美媒：美国一高级将领被解职，涉嫌泄露涉伊朗战争机密",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723106.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "欧盟向毛里塔尼亚提供2000万欧元军事援助",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723101.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中共中央今天上午10时将举行新闻发布会，介绍和解读党的二十届五中全会精神",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723104.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2025年欧盟和欧元区宏观税负水平双双走高",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723100.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国稀土计划遭重挫",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723095.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "普京警告：若俄罗斯与欧洲真走到战争那一步，将不会有赢家",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723099.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从机械臂到无线光通信技术 我国深海装备加快创新突破",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723093.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "兼职意外受伤，副业收入损失能计入误工费吗？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723092.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "自主性不断增强 AI智能体如何守住安全边界",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723090.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际殊荣+1！“中国蓝色海湾整治行动”获评意义几何",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723089.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "以媒：超10架美国军机飞抵以色列空军基地",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723088.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美军中央司令部司令向特朗普汇报对伊朗军事选项",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723083.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -30,106 +150,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "共探“人工智能+”  “十五五·同心聚力自贸港”六期沙龙举行",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723078.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“中国蓝色海湾整治行动”获评2026年联合国“世界生态恢复旗舰项目”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723076.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“北京太古坊”正式启用，为太古地产在中国内地单体投资额最高项目",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723071.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "前三季度海南货物贸易跨境人民币收付同比增长超五成",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723070.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中宣部组织召开学习宣传贯彻党的二十届五中全会精神电视电话会议",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723073.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "天津：2030年数字经济综合发展水平位居全国第一梯队",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723062.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "公路织网串起广西横州茉莉花百亿产业",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723058.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重庆开州发布城市投资机会清单 总投资超500亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723056.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗称捕获一架美国间谍无人机",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-29/10723054.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海南金融资源加速向重点产业与特色领域倾斜",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723053.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
+      "title": "西藏降雪进入核心影响时段 两股冷空气接连来袭北方多地冷上加冷",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723111.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "2023年以来江西法院共办理司法救助案件1.1万余件",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml",
+      "title": "去年共培育61.36万人 高素质农民助力乡村全面振兴",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723109.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "粤港澳大湾区青年在穗交流助残助老志愿服务经验",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723074.shtml",
+      "title": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723103.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "“行走的川菜非遗”美食推介在伦敦举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723072.shtml",
+      "title": "公安网安部门公布5起涉“那曲巴青地震”网络谣言典型案例",
+      "url": "https://www.chinanews.com.cn/fz/2026/10-30/10723105.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "CBA常规赛：北控队主场大胜四川队",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-29/10723075.shtml",
+      "title": "身份证到期社保卡要换吗？关于社保卡这些知识需掌握→",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723098.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "天津开展巾帼宣讲员风采展示活动 讲好巾帼建功奋斗故事",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723069.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "古韵新声引客来 傣族章哈成西双版纳文旅名片",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723068.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王毅同冰岛外长贡纳尔斯多蒂尔会谈",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723067.shtml",
+      "title": "这种“感冒”，千万不能大意",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723097.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
