@@ -1,16 +1,96 @@
 {
   "date": "2026-10-30",
-  "time": "19:29",
-  "generatedAt": "2026-10-30T19:29:56.358Z",
+  "time": "23:53",
+  "generatedAt": "2026-10-30T23:53:43.301Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "四川省凉山州布拖县政协党组书记、主席黄西虎接受纪律审查和监察调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723697.shtml",
+      "title": "今年广西消费品以旧换新政策已带动消费额超400亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723729.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723723.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "央行定调货币政策",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%9A%E8%B0%83%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄界江漠河段流冰期迎降雪",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723733.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全球治理与国际传播：人类命运共同体国际智库论坛（2026）在京举办",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723727.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中欧两大商会举办对话会 探讨推动中欧贸易向上平衡",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723725.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "奥列什基人道主义任务完成 俄乌均未违反停火制度",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723722.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际金价跌破每盎司3900美元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723718.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄罗斯总统助理：俄美已开始磋商三方会谈的具体日期",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723717.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -20,56 +100,6 @@
       "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723712.shtml",
       "source": "中国新闻网",
       "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "四川省宜宾市生态环境局原党委书记、局长周永富接受纪律审查和监察调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723699.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河北以数智化改革提升生态环境执法服务质效",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723692.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄方：俄美乌三方会谈有“决定性意义”",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723698.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "民盟乡村振兴骨干培训班在上海举行",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723691.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "前三季度中国文化企业营业收入同比增长4.3%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723686.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -106,6 +136,26 @@
       ]
     },
     {
+      "title": "中国爆款AI漫剧全球“刷屏”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%88%86%E6%AC%BEAI%E6%BC%AB%E5%89%A7%E5%85%A8%E7%90%83%E2%80%9C%E5%88%B7%E5%B1%8F%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本访华代表团鞠躬谢罪",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%BF%E5%8D%8E%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%9E%A0%E8%BA%AC%E8%B0%A2%E7%BD%AA",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "日访华团参访731部队罪证陈列馆",
       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E8%AE%BF%E5%8D%8E%E5%9B%A2%E5%8F%82%E8%AE%BF731%E9%83%A8%E9%98%9F%E7%BD%AA%E8%AF%81%E9%99%88%E5%88%97%E9%A6%86",
       "source": "百度热搜",
@@ -116,8 +166,8 @@
       ]
     },
     {
-      "title": "奥地利合唱团走进乐山 江边放歌感受山水",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723714.shtml",
+      "title": "“中国最冷小镇”呼中迎暴雪 正式开启入冬模式",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723732.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +176,8 @@
       ]
     },
     {
-      "title": "《八闽文化与中国式现代化》丛书在福州发布",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723713.shtml",
+      "title": "近800名粤港澳青少年齐聚深圳“以武会友”",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723737.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +186,8 @@
       ]
     },
     {
-      "title": "李强会见德国总统施泰因迈尔",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723715.shtml",
+      "title": "依托二十四节气 河南深化与东盟粮农合作",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723736.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +196,8 @@
       ]
     },
     {
-      "title": "纪录片《感恩东来爱香江》将在香港多校播出",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723708.shtml",
+      "title": "天冷蜱虫活跃度下降 专家提醒防范意识勿“降温”",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723735.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +206,8 @@
       ]
     },
     {
-      "title": "小赛场增进大团结 云南以体育促进各民族交往交流交融",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723711.shtml",
+      "title": "“水、陆、铁”轮番接力！渝黔背靠背联网工程首台换流变压器运抵施工现场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723734.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "青海都兰：“蚕豆+”轮作解锁高原农业“绿色密码”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723710.shtml",
+      "title": "广西防城港海警局查获走私案 查扣香烟2.9万余条",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723731.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "“长征星火照东城”主题展览在北京开幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723709.shtml",
+      "title": "第四届哈尔滨文化时尚周启幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723730.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "名家讲经典：万方、王可然谈经典戏剧的当代生命力",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723707.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "蓬皮杜中心等三家机构在港缔结文化联盟 推动多元文化对话",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723706.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "知名高校校友杭州行活动启幕 侨青“朋友圈”再扩容",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723704.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广东省制造业赋能陶瓷卫浴专场对接活动在潮州启动",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723703.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "宁夏：力争2027年底实现各级银龄志愿服务队伍全域覆盖",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723701.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "安全、生态、智能 水利专家共论大坝新发展",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723700.shtml",
+      "title": "华南首个“邮轮无目的地海上游”航次启航",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723728.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
