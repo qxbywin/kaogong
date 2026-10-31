@@ -1,73 +1,23 @@
 {
   "date": "2026-10-31",
-  "time": "05:56",
-  "generatedAt": "2026-10-31T05:56:38.887Z",
+  "time": "12:47",
+  "generatedAt": "2026-10-31T12:47:37.050Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "内地与澳门签约：支持澳门参与“一带一路”科技创新行动计划",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723845.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "title": "环保博主遭村支书死亡威胁 当地通报",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%AF%E4%BF%9D%E5%8D%9A%E4%B8%BB%E9%81%AD%E6%9D%91%E6%94%AF%E4%B9%A6%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026第四届广州塔国际时尚周开幕式在穗举行",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723832.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "灯火映碧波 湖北通城“两河四岸”激活夜经济",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723828.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "突发：美国加州一处购物中心发生枪击事件 至少7人受伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723875.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国加州发生枪击致至少7人受伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723869.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（第九届进博会）前瞻：历“九”弥新，进博会规模再创新高",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723858.shtml",
+      "title": "香港举办生成式人工智能创作大赛 展现青少年眼中的航运业",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724048.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -76,18 +26,8 @@
       ]
     },
     {
-      "title": "俄罗斯百年经典《天鹅湖》亮相桂林 开启中俄艺术跨文化对话",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723848.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "澳门车展以金融联动文旅场景 助力内地车企出海",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723844.shtml",
+      "title": "2026年铸造产业集群年会暨产业集群高质量发展经验交流会在河北鸡泽召开",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724034.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -96,8 +36,28 @@
       ]
     },
     {
-      "title": "AI赋能古生物研究与文旅内容出海学术交流会在广西南宁举行",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723839.shtml",
+      "title": "海南自贸港政策加持 澄迈助企扬帆出海",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724035.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "聚焦“影像环保” 高校环境课程交流会在北京大学举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724026.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "江苏常熟：探访世界领先的AI领航羽绒服科创中心",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209329.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -106,28 +66,28 @@
       ]
     },
     {
-      "title": "多餐饮品牌要求“消费才可入座”，合规吗？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723840.shtml",
+      "title": "减肥不是戒掉碳水 吃对碳水才是体重管理的关键",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-31/10724011.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI加速科研，如何让答案经得起检验？",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723831.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
+      "title": "原中国石化董事长傅成玉被查",
+      "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E8%91%A3%E4%BA%8B%E9%95%BF%E5%82%85%E6%88%90%E7%8E%89%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "注射死刑失败一个月后 美国女囚发声",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%A8%E5%B0%84%E6%AD%BB%E5%88%91%E5%A4%B1%E8%B4%A5%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E+%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%9B%9A%E5%8F%91%E5%A3%B0",
+      "title": "美国中期选举提前现场投票进入尾声",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%8F%90%E5%89%8D%E7%8E%B0%E5%9C%BA%E6%8A%95%E7%A5%A8%E8%BF%9B%E5%85%A5%E5%B0%BE%E5%A3%B0",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -136,8 +96,8 @@
       ]
     },
     {
-      "title": "“0713再就业男团”再度合体",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C0713%E5%86%8D%E5%B0%B1%E4%B8%9A%E7%94%B7%E5%9B%A2%E2%80%9D%E5%86%8D%E5%BA%A6%E5%90%88%E4%BD%93",
+      "title": "明起这些个人收入由单位代缴增值税",
+      "url": "https://www.baidu.com/s?wd=%E6%98%8E%E8%B5%B7%E8%BF%99%E4%BA%9B%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%85%A5%E7%94%B1%E5%8D%95%E4%BD%8D%E4%BB%A3%E7%BC%B4%E5%A2%9E%E5%80%BC%E7%A8%8E",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -146,8 +106,18 @@
       ]
     },
     {
-      "title": "消费入座后第一批投诉的人出现了",
-      "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7%E5%90%8E%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%95%E8%AF%89%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "title": "继女养老送终 亲闺女分走50万",
+      "url": "https://www.baidu.com/s?wd=%E7%BB%A7%E5%A5%B3%E5%85%BB%E8%80%81%E9%80%81%E7%BB%88+%E4%BA%B2%E9%97%BA%E5%A5%B3%E5%88%86%E8%B5%B050%E4%B8%87",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第30个GDP万亿城市要来了",
+      "url": "https://www.baidu.com/s?wd=%E7%AC%AC30%E4%B8%AAGDP%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -156,18 +126,28 @@
       ]
     },
     {
-      "title": "全国居民人均可支配收入43377元",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%B1%85%E6%B0%91%E4%BA%BA%E5%9D%87%E5%8F%AF%E6%94%AF%E9%85%8D%E6%94%B6%E5%85%A543377%E5%85%83",
+      "title": "日方要求俄立即放人 俄“已读不回”",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E8%A6%81%E6%B1%82%E4%BF%84%E7%AB%8B%E5%8D%B3%E6%94%BE%E4%BA%BA+%E4%BF%84%E2%80%9C%E5%B7%B2%E8%AF%BB%E4%B8%8D%E5%9B%9E%E2%80%9D",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "涵盖自行车、独轮车等 两项儿童用品国标明起实施",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723874.shtml",
+      "title": "G20外长会合影取消 俄德外长交锋",
+      "url": "https://www.baidu.com/s?wd=G20%E5%A4%96%E9%95%BF%E4%BC%9A%E5%90%88%E5%BD%B1%E5%8F%96%E6%B6%88+%E4%BF%84%E5%BE%B7%E5%A4%96%E9%95%BF%E4%BA%A4%E9%94%8B",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "禁毒曲剧《林则徐在北京》全国公益巡演活动在京启动",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724042.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +156,8 @@
       ]
     },
     {
-      "title": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723872.shtml",
+      "title": "八百余名青少年角逐赛场 陕西构建击剑一体化青训体系",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724053.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +166,8 @@
       ]
     },
     {
-      "title": "梵智长老：中国佛教三大语系并存互鉴 为各国提供参照",
-      "url": "https://www.chinanews.com.cn/zj/2026/10-31/10723857.shtml",
+      "title": "进博会展台之外 上海虹桥把“相遇”变成“机遇”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724041.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "10月中国制造业PMI回落至49.3%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723856.shtml",
+      "title": "章太炎逝世九十周年学术交流活动在杭举行",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724038.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "黄河岸边的异国忠魂",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723854.shtml",
+      "title": "宁夏盐池哈巴湖迎金秋盛景：沙海林海绘就治沙答卷",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724050.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "中国—东盟溪山论坛“区域国别研究分论坛”在贵州举行",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723853.shtml",
+      "title": "西泠印社丙午秋季雅集系列展览在杭州开幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724039.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "理响中国·一笔一画｜量质齐升，为绿色中国再添10亿好“风光”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723859.shtml",
+      "title": "《图说中国古代物质文化常识》从器物读懂中国",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724052.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "大范围雨雪降温影响中国 局地降温10℃以上",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723855.shtml",
+      "title": "湖北当枝松高速通过交工验收 10万岛民将圆过江梦",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724037.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026北京西山永定河文化节主会场活动举办",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724036.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "四川华蓥大摆荡项目事故调查报告公布",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724049.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
