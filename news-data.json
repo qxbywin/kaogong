@@ -1,33 +1,83 @@
 {
-  "date": "2026-10-31",
-  "time": "21:43",
-  "generatedAt": "2026-10-31T21:43:46.359Z",
+  "date": "2026-11-01",
+  "time": "01:17",
+  "generatedAt": "2026-11-01T01:17:06.038Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "农业农村部黄土高原蔬菜种质创新重点实验室在山西新绛揭牌",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724102.shtml",
+      "title": "2026视觉健康创新发展国际秋季会议在温州举行",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724140.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 3,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国发明创新成果亮相纽伦堡国际发明展",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209347.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "在纽伦堡国际发明展感受中国创新活力",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724129.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "医生和AI说的不一样，该听谁的？",
+      "url": "https://www.chinanews.com.cn/ll/2026/11-01/10724160.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "2026年亚太地区人口老龄化会议在浙江杭州举办",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724086.shtml",
+      "title": "聚焦医险协同  2026全生命周期健康创新发展论坛在穗举行",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724148.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 2,
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "伊朗外长：目前没有与美国官员会面的计划",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
+      "title": "当AI唱起“过来人”，谁才是情绪的主人？",
+      "url": "https://www.chinanews.com.cn/ll/2026/11-01/10724151.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "三大创新特征显现！2027年度中国汽车十大技术趋势发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724134.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中东部地区有大风降温 四川盆地江淮江南北部有中到大雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724131.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,58 +86,8 @@
       ]
     },
     {
-      "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海内外学者：阳明心学为AI时代提供东方智慧",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724110.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "港大卓越人才论坛在北京举行 聚焦AI时代下人才挑战等议题",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724106.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "首届文化润疆理论与实践创新学术研讨会在乌鲁木齐举办",
-      "url": "https://www.chinanews.com.cn/txy/2026/10-31/10724103.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中瑞创新战略伙伴关系建立10周年 将推动科技创新务实合作",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724100.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国际金价跌回一年前，发生了什么？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
+      "title": "俄联邦安全局：从美方获得策划恐袭情报 相关部门正在处置",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724128.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,18 +96,8 @@
       ]
     },
     {
-      "title": "“十四五”时期广西财政累计下达水库移民相关资金181.79亿元",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724093.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "湖南株洲以“市+集+秀”激活时尚消费新生态",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724087.shtml",
+      "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -126,10 +116,20 @@
       ]
     },
     {
-      "title": "DeepSeek重磅发布：AI开始指挥AI干活",
-      "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB",
+      "title": "美国中期选举最大“十月惊奇”出现了",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%9C%80%E5%A4%A7%E2%80%9C%E5%8D%81%E6%9C%88%E6%83%8A%E5%A5%87%E2%80%9D%E5%87%BA%E7%8E%B0%E4%BA%86",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄称从美方获悉莫斯科可能发生恐袭",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E4%BB%8E%E7%BE%8E%E6%96%B9%E8%8E%B7%E6%82%89%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E6%81%90%E8%A2%AD",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -146,6 +146,16 @@
       ]
     },
     {
+      "title": "欧盟与加拿大宣布“结盟”",
+      "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%A3%E5%B8%83%E2%80%9C%E7%BB%93%E7%9B%9F%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "31省份居民消费榜：谁最能花钱",
       "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%E5%B1%85%E6%B0%91%E6%B6%88%E8%B4%B9%E6%A6%9C%EF%BC%9A%E8%B0%81%E6%9C%80%E8%83%BD%E8%8A%B1%E9%92%B1",
       "source": "百度热搜",
@@ -156,38 +166,8 @@
       ]
     },
     {
-      "title": "第30个GDP万亿城市要来了",
-      "url": "https://www.baidu.com/s?wd=%E7%AC%AC30%E4%B8%AAGDP%E4%B8%87%E4%BA%BF%E5%9F%8E%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "这个村委会 获建筑国际大奖",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E6%9D%91%E5%A7%94%E4%BC%9A+%E8%8E%B7%E5%BB%BA%E7%AD%91%E5%9B%BD%E9%99%85%E5%A4%A7%E5%A5%96",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄乌会在冬季停火吗",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E4%BC%9A%E5%9C%A8%E5%86%AC%E5%AD%A3%E5%81%9C%E7%81%AB%E5%90%97",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泰国着手制定第四个国家旅游发展计划",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
+      "title": "中瑞自贸协定升级 瑞士商会人士看好合作新机遇",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724153.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +176,8 @@
       ]
     },
     {
-      "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724111.shtml",
+      "title": "流感高发季来临 专家提醒：儿童防护莫松懈 尽早接种疫苗",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724155.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +186,8 @@
       ]
     },
     {
-      "title": "舞剧《妈祖》于福建莆田开启全球首演",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724112.shtml",
+      "title": "“巅峰湖南·2026”收官赛落户桑植 助力老区“体育+”融合发展",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724149.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,18 @@
       ]
     },
     {
-      "title": "景德镇等中外五座城市获全球可持续发展城市奖（上海奖）",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724108.shtml",
+      "title": "提醒！2027国考今起报名确认",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724157.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "国考"
+      ]
+    },
+    {
+      "title": "风驰“矿野”  百余名越野摩托车手齐聚重庆竞速",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724137.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "中外学者乌鲁木齐共话龟兹学新发展",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724107.shtml",
+      "title": "2026年中国女子飞盘公开赛在重庆开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724141.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "海派原创IP讲述上海故事 城市脉动文创展在沪展出",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724105.shtml",
+      "title": "专家跨省到黑龙江授艺 助力珍贵织绣文物重焕光彩",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724142.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "大湾区精准医学发展共识发布 海内外专家共话前沿合作",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724139.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
