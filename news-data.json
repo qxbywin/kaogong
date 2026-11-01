@@ -1,23 +1,13 @@
 {
   "date": "2026-11-01",
-  "time": "07:39",
-  "generatedAt": "2026-11-01T07:39:12.703Z",
+  "time": "15:17",
+  "generatedAt": "2026-11-01T15:17:34.978Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "湖南江华深耕微电机制造 小家电零部件走向国际市场",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724307.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄罗斯联邦委员会主席将访华",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724306.shtml",
+      "title": "乌称俄袭击基辅能源设施 城区多地面临停水",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -26,79 +16,59 @@
       ]
     },
     {
-      "title": "广交会观察：AI玩具陪伴交互功能助企业收获海外订单",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724304.shtml",
+      "title": "考古学家：史前治水是长江文明鲜明特征 彰显先民生存智慧",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724503.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中俄界江黑龙江黑河段“跑冰排”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724299.shtml",
+      "title": "“理财产品要变相保本了”是误读政策",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724506.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "陈茂波：香港全年经济增长预测可望再上调",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724295.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "几十秒出一份攻略，AI当“旅游搭子”靠谱吗？",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724294.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美媒：伊朗袭击中东地区超20处美军基地 造成数十亿美元装备损失",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724259.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国家公务员局发布郑重提醒",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%8A%A1%E5%91%98%E5%B1%80%E5%8F%91%E5%B8%83%E9%83%91%E9%87%8D%E6%8F%90%E9%86%92",
-      "source": "百度热搜",
       "cat": "policy",
       "score": 1,
       "exams": [
-        "国考"
+        "申论素材"
       ]
     },
     {
-      "title": "一条红色预警 9名公职人员被查",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6+9%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
+      "title": "胶囊胃镜、手术机器人亮相广交会 中国医疗设备加速出海",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国中期选举最大“十月惊奇”出现了",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%9C%80%E5%A4%A7%E2%80%9C%E5%8D%81%E6%9C%88%E6%83%8A%E5%A5%87%E2%80%9D%E5%87%BA%E7%8E%B0%E4%BA%86",
-      "source": "百度热搜",
+      "title": "新华社受权全文播发《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》和习近平总书记所作的《关于〈中共中央关于持之以恒推进全面从严治党若干重大问题的决定〉的说明》",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724499.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十三届中韩住宅与城市合作会议在福州举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "阿曼苏丹海赛姆抵达北京开始访华",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724487.shtml",
+      "source": "中国新闻网",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -106,8 +76,18 @@
       ]
     },
     {
-      "title": "金价波动 水贝市场像“菜市场”",
-      "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8+%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E5%83%8F%E2%80%9C%E8%8F%9C%E5%B8%82%E5%9C%BA%E2%80%9D",
+      "title": "施劲松：史前治水是长江文明鲜明特征 彰显史前先民生存智慧",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724485.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "A股迎利好！金融监管部门将开座谈会",
+      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%8E%E5%88%A9%E5%A5%BD%EF%BC%81%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B0%86%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -116,8 +96,78 @@
       ]
     },
     {
-      "title": "第三届“人民艺术论坛”举办 成立红色美育共同体",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724302.shtml",
+      "title": "贷款利率尺子要变了",
+      "url": "https://www.baidu.com/s?wd=%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E5%B0%BA%E5%AD%90%E8%A6%81%E5%8F%98%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄“过江神器”再现界江",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E2%80%9C%E8%BF%87%E6%B1%9F%E7%A5%9E%E5%99%A8%E2%80%9D%E5%86%8D%E7%8E%B0%E7%95%8C%E6%B1%9F",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "央行证监会将研究支持资本市场工具",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%AF%81%E7%9B%91%E4%BC%9A%E5%B0%86%E7%A0%94%E7%A9%B6%E6%94%AF%E6%8C%81%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E5%B7%A5%E5%85%B7",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "金价下跌消费者提前买30g金饰过年",
+      "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E6%8F%90%E5%89%8D%E4%B9%B030g%E9%87%91%E9%A5%B0%E8%BF%87%E5%B9%B4",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "30g以下投资金条断货",
+      "url": "https://www.baidu.com/s?wd=30g%E4%BB%A5%E4%B8%8B%E6%8A%95%E8%B5%84%E9%87%91%E6%9D%A1%E6%96%AD%E8%B4%A7",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆坠亡幼童妈妈回应消费网友质疑",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%9D%A0%E4%BA%A1%E5%B9%BC%E7%AB%A5%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E6%B6%88%E8%B4%B9%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "比亚迪10月新能源车销量49.02万辆",
+      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%94%80%E9%87%8F49.02%E4%B8%87%E8%BE%86",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "代办“超级签”落地后发现竟是旅游签 中介该如何赔偿？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724513.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +176,8 @@
       ]
     },
     {
-      "title": "杭州北山街上的“秘密花园”：别墅群见证西湖近代风云",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724305.shtml",
+      "title": "中国驻美大使馆举办纪念孙中山先生诞辰160周年活动",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724512.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +186,8 @@
       ]
     },
     {
-      "title": "“浙里幸福荟”集体婚礼在杭州举行 百位新人以宋礼传情",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724300.shtml",
+      "title": "中欧班列沿线国家代表在敦煌共话丝路交融与当代合作",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724511.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +196,8 @@
       ]
     },
     {
-      "title": "纵览十八座城市风采 2026年《城市风华录》启播",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724296.shtml",
+      "title": "（粤港澳大湾区）深圳莲塘口岸出入境客流突破一亿人次",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724505.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +206,8 @@
       ]
     },
     {
-      "title": "遗产与发展如何共生？专家学者杭州共话融合路径",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724303.shtml",
+      "title": "海内外专家聚首“妈祖故里”谈妈祖文化减灾智慧",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724501.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +216,8 @@
       ]
     },
     {
-      "title": "APEC“中国年”：专家热议中国高水平开放赋能亚太区域合作",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724297.shtml",
+      "title": "法国新一轮示威活动中已有779人被捕",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724507.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +226,8 @@
       ]
     },
     {
-      "title": "西藏巴青震区首批589名师生今赴拉萨异地复课",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724301.shtml",
+      "title": "2026杭马赛道上的“硬核”浪漫与“无感”守护",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724502.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,58 +236,8 @@
       ]
     },
     {
-      "title": "机器人爬泰山要练哪些功夫？裁判跟不上怎么办？",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724298.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海11月第一天最高气温27℃ 下周将迎阵雨降温",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724282.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "沈阳秋假期间游客游览沈阳故宫",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724281.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "千余名韩国青年访山东潍坊：盼从相识走向携手同行",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724285.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "登山省下三分之一力气 中国产可穿戴机器人让行走像“开挂”",
-      "url": "http://www.chinanews.com.cn/cj/shipin/cns/2026/11-01/news1073506.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国铁路部门启动“双11”网购高峰期快件运输服务",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724288.shtml",
+      "title": "以一座城的名义致敬企业家 海内外宁商齐聚福建宁德叙乡谊话发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724500.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
