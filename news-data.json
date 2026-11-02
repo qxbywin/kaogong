@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
-  "time": "17:13",
-  "generatedAt": "2026-11-02T17:13:56.287Z",
+  "time": "23:55",
+  "generatedAt": "2026-11-02T23:55:37.880Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -36,11 +36,51 @@
       ]
     },
     {
-      "title": "2026国际版权论坛敦煌开幕  聚焦数智时代版权与创意产业",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725011.shtml",
+      "title": "纳指收跌1% AI投资回报疑虑升温",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E6%94%B6%E8%B7%8C1%25+AI%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%96%91%E8%99%91%E5%8D%87%E6%B8%A9",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "年轻人爱上云养“AI宠物”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725100.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "也门胡塞武装称塔伊兹省一市场遭袭 造成多人死伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中美国家公园影像展在华盛顿举办",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725084.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -76,46 +116,6 @@
       ]
     },
     {
-      "title": "云南三季度以工代赈带动近30万人就业 发放劳务报酬超73亿元",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725006.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第二届上海老年学习课程展开幕 银发AI课程成亮点",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725048.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "首届国际事务专业“全球治理”案例大赛在沪收官 搭建学界与实务对话平台",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725050.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "浙江文旅观察：AI时代，旅游服务如何更有温度？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725004.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "乌镇峰会年年刷屏 今年看什么",
       "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%B9%B4%E5%B9%B4%E5%88%B7%E5%B1%8F+%E4%BB%8A%E5%B9%B4%E7%9C%8B%E4%BB%80%E4%B9%88",
       "source": "百度热搜",
@@ -126,10 +126,20 @@
       ]
     },
     {
-      "title": "央行：再贷款利率由1.25%降至1%",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%94%B11.25%25%E9%99%8D%E8%87%B31%25",
+      "title": "河北省邢台市委书记杨猛被查",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9C%81%E9%82%A2%E5%8F%B0%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9D%A8%E7%8C%9B%E8%A2%AB%E6%9F%A5",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "江苏教育厅厅长回应学生在校时间超长",
+      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2%E5%8E%85%E5%8E%85%E9%95%BF%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%A0%A1%E6%97%B6%E9%97%B4%E8%B6%85%E9%95%BF",
+      "source": "百度热搜",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
@@ -146,18 +156,28 @@
       ]
     },
     {
-      "title": "汽车芯片巨头宣布涨价",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7",
+      "title": "证监会最新部署 哪些增量资金买入了",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E9%83%A8%E7%BD%B2+%E5%93%AA%E4%BA%9B%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91%E4%B9%B0%E5%85%A5%E4%BA%86",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "证监会最新部署 哪些增量资金买入了",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E9%83%A8%E7%BD%B2+%E5%93%AA%E4%BA%9B%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91%E4%B9%B0%E5%85%A5%E4%BA%86",
+      "title": "央行：再贷款利率由1.25%降至1%",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%94%B11.25%25%E9%99%8D%E8%87%B31%25",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "央行一天连开两场重要会议",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E4%B8%80%E5%A4%A9%E8%BF%9E%E5%BC%80%E4%B8%A4%E5%9C%BA%E9%87%8D%E8%A6%81%E4%BC%9A%E8%AE%AE",
       "source": "百度热搜",
       "cat": "policy",
       "score": 1,
@@ -176,48 +196,18 @@
       ]
     },
     {
-      "title": "美股三大指数高开 科技股普遍反弹",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A7%91%E6%8A%80%E8%82%A1%E6%99%AE%E9%81%8D%E5%8F%8D%E5%BC%B9",
+      "title": "国际油价大幅下跌",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "河北省邢台市委书记杨猛被查",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9C%81%E9%82%A2%E5%8F%B0%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9D%A8%E7%8C%9B%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "海南公布4起涉及老人死亡交通事故",
-      "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E5%85%AC%E5%B8%834%E8%B5%B7%E6%B6%89%E5%8F%8A%E8%80%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《影之刃零》收入已超10亿元",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E6%94%B6%E5%85%A5%E5%B7%B2%E8%B6%8510%E4%BA%BF%E5%85%83",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "冰箱变烤箱 欧洲多国超市冷柜再遭网络攻击",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
+      "title": "算力用电年均新增一千亿度以上，怎么接住？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725099.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "西藏那曲市巴青县发生4.2级地震",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
+      "title": "Token登上“双十一”货架",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725098.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "港交所扩大人民币债券抵押品适用范围 首日抵押总值超4亿元人民币",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725078.shtml",
+      "title": "酒店长租业务，法律关系待厘清",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725097.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“炸药包”突然扔向人群？沉浸式体验不能吓着观众",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725096.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
