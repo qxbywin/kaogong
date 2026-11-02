@@ -1,23 +1,43 @@
 {
-  "date": "2026-11-01",
-  "time": "23:41",
-  "generatedAt": "2026-11-01T23:41:30.290Z",
+  "date": "2026-11-02",
+  "time": "06:26",
+  "generatedAt": "2026-11-02T06:26:04.094Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "行测、性格测试、智力测评、AI面试……找工作怎么成了无尽的“刷题闯关”？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724532.shtml",
+      "title": "“香港金融科技周及StartmeupHK2026”开幕 聚焦金融赋能等创造机遇",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724741.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "economy",
       "score": 2,
       "exams": [
-        "国考"
+        "申论素材"
       ]
     },
     {
-      "title": "“不赚钱”的街边“会客厅”，为何能聚起人才、创新和资本",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724534.shtml",
+      "title": "教育部教师工作司原副司长韩劲红被查",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E6%95%99%E5%B8%88%E5%B7%A5%E4%BD%9C%E5%8F%B8%E5%8E%9F%E5%89%AF%E5%8F%B8%E9%95%BF%E9%9F%A9%E5%8A%B2%E7%BA%A2%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河北乐亭建筑支护产业集群“组队升级” “架”起外贸“出海桥”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724721.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "首届中国（广西）—东盟科技翻译大赛成果展示活动在南宁举行",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-02/10724732.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,8 +46,8 @@
       ]
     },
     {
-      "title": "俄安全部门调查莫斯科恐袭情报期间逮捕一名未成年人",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724526.shtml",
+      "title": "国际金价创一年来新低 店员“忙到没空回消息”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724729.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,58 +56,18 @@
       ]
     },
     {
-      "title": "中外顶尖剑客聚首西安 格鲁吉亚与美国选手分获佩剑、花剑冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724525.shtml",
+      "title": "“互联网之光”博览会乌镇启幕 展示6G等多项前沿科技",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724723.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国佛州一飞机坠毁并爆炸  机上9人全部遇难",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724528.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国际移民组织：也门流离失所者已超30万人",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724519.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗外长：磋商是否能取得成果取决于美国的答复",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724518.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "乌称俄袭击基辅能源设施 城区多地面临停水",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "考古学家：史前治水是长江文明鲜明特征 彰显先民生存智慧",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724503.shtml",
+      "title": "广交会观察：智能与环保成中国母婴产品“出海”新卖点",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724696.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -96,48 +76,18 @@
       ]
     },
     {
-      "title": "“理财产品要变相保本了”是误读政策",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724506.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "胶囊胃镜、手术机器人亮相广交会 中国医疗设备加速出海",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "A股迎利好！金融监管部门将开座谈会",
-      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%8E%E5%88%A9%E5%A5%BD%EF%BC%81%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B0%86%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A",
+      "title": "将反腐败斗争进行到底",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%86%E5%8F%8D%E8%85%90%E8%B4%A5%E6%96%97%E4%BA%89%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中俄“过江神器”再现界江",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E2%80%9C%E8%BF%87%E6%B1%9F%E7%A5%9E%E5%99%A8%E2%80%9D%E5%86%8D%E7%8E%B0%E7%95%8C%E6%B1%9F",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "比亚迪10月新能源车销量49.02万辆",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%94%80%E9%87%8F49.02%E4%B8%87%E8%BE%86",
+      "title": "KTV靠AI“发癫”续命",
+      "url": "https://www.baidu.com/s?wd=KTV%E9%9D%A0AI%E2%80%9C%E5%8F%91%E7%99%AB%E2%80%9D%E7%BB%AD%E5%91%BD",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -146,8 +96,8 @@
       ]
     },
     {
-      "title": "阿曼苏丹海赛姆抵京 开启访华行程",
-      "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%9B%BC%E8%8B%8F%E4%B8%B9%E6%B5%B7%E8%B5%9B%E5%A7%86%E6%8A%B5%E4%BA%AC+%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B",
+      "title": "俄罗斯感谢美方提供莫斯科恐袭情报",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%84%9F%E8%B0%A2%E7%BE%8E%E6%96%B9%E6%8F%90%E4%BE%9B%E8%8E%AB%E6%96%AF%E7%A7%91%E6%81%90%E8%A2%AD%E6%83%85%E6%8A%A5",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -156,18 +106,18 @@
       ]
     },
     {
-      "title": "30g以下投资金条断货",
-      "url": "https://www.baidu.com/s?wd=30g%E4%BB%A5%E4%B8%8B%E6%8A%95%E8%B5%84%E9%87%91%E6%9D%A1%E6%96%AD%E8%B4%A7",
+      "title": "河北省邢台市委书记杨猛被查",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E7%9C%81%E9%82%A2%E5%8F%B0%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9D%A8%E7%8C%9B%E8%A2%AB%E6%9F%A5",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "习言道｜全面从严治党关键在严",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724510.shtml",
+      "title": "刘奇凡任云南省副省长、代省长",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724739.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +126,8 @@
       ]
     },
     {
-      "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
+      "title": "西班牙列车相撞事故66名遇难者身份已确认",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724747.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +136,8 @@
       ]
     },
     {
-      "title": "伊朗革命卫队情报机构宣布逮捕一名间谍",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724531.shtml",
+      "title": "2026湖南（秋季）百公里徒步活动落幕 青年徒步致敬长征精神",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724746.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +146,8 @@
       ]
     },
     {
-      "title": "外媒：特朗普与内塔尼亚胡就美伊谈判进行通话",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724530.shtml",
+      "title": "灯塔引航·e起寻美中山 大连市中山区开展新阶层人士同心行主题活动",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-02/10724702.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +156,8 @@
       ]
     },
     {
-      "title": "11月2日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724529.shtml",
+      "title": "刘海龙：播客是一种“剩余媒介”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724740.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +166,8 @@
       ]
     },
     {
-      "title": "把地球冷冻一下，温室效应会得到缓解吗？答案出乎意料",
-      "url": "https://www.chinanews.com.cn/life/2026/11-02/10724527.shtml",
+      "title": "南京外秦淮河上演13.14公里赛艇马拉松 全国两百余名桨手竞逐",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724731.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +176,8 @@
       ]
     },
     {
-      "title": "“欧佩克+”主要产油国决定12月维持产量不变",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
+      "title": "重商、亲商、安商、富商 福建宁德打造一方近悦远来的营商沃土",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724730.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +186,58 @@
       ]
     },
     {
-      "title": "CBA一周综述：北京一骑绝尘 宁波一胜难求",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724523.shtml",
+      "title": "印度“蟑螂运动”的第二季",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724738.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中越将举行“合作—2026”反恐联合训练",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724712.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东北话陆剧火到台湾！台湾网友追剧上头，发起“东北话听力”挑战",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724735.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "给超充连接器“退烧” 沪高校本科生团队破解充电热安全难题",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724711.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上海自然博物馆70周年展启幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724709.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "大庆油田杏南开发区破解老区块注水治理难题",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724707.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
