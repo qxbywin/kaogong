@@ -1,23 +1,33 @@
 {
   "date": "2026-11-03",
-  "time": "06:59",
-  "generatedAt": "2026-11-03T06:59:03.434Z",
+  "time": "15:19",
+  "generatedAt": "2026-11-03T15:19:23.139Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "国家发改委：对人工智能就业替代风险强化监测预警",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725288.shtml",
+      "title": "乌镇峰会观察：中国开源AI大模型持续“圈粉”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725639.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 3,
+      "cat": "international",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "警方通报九寨沟游客打架：拍照起冲突",
-      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%B8%B8%E5%AE%A2%E6%89%93%E6%9E%B6%EF%BC%9A%E6%8B%8D%E7%85%A7%E8%B5%B7%E5%86%B2%E7%AA%81",
+      "title": "（机遇香港）国际金融领袖齐聚香江 持续看好香港金融动能",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725634.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "蔡崇信乌镇峰会谈AI",
+      "url": "https://www.baidu.com/s?wd=%E8%94%A1%E5%B4%87%E4%BF%A1%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E8%B0%88AI",
       "source": "百度热搜",
       "cat": "international",
       "score": 2,
@@ -26,8 +36,18 @@
       ]
     },
     {
-      "title": "西藏大学联合上海交通大学开展巡边实践活动",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725334.shtml",
+      "title": "让数据可用可信可流通 北大医学部等新建联合实验室",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725651.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "骗子冒充公检法“接力”演戏 银行柜员报警保住养老钱",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725647.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -36,8 +56,8 @@
       ]
     },
     {
-      "title": "我国广电视听形成“两个10亿”超大规模市场格局",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725332.shtml",
+      "title": "香港财库局局长：香港可为内地企业“出海”提供全链条金融支持",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725635.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,48 +66,8 @@
       ]
     },
     {
-      "title": "“我天天学你们多喝热水！” 俄罗斯人三亚生活很“中式”",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-03/news1073673.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "联合国第十五届能源可持续发展国际论坛在西安开幕",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725314.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "金融机构外汇存款准备金率提高到6%有何意义？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725310.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "合肥开通首条直飞南亚国际货运航线",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725290.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "何立峰同越共中央政治局委员、中央书记处书记、中央政策战略部部长阮青毅会谈",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725304.shtml",
+      "title": "学习贯彻党的二十届五中全会精神中央宣讲团首场报告会在京举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725631.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -96,8 +76,8 @@
       ]
     },
     {
-      "title": "“十五五”末中国新兴支柱产业产值有望超10万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725289.shtml",
+      "title": "积极融入全国统一大市场建设 “十五五”时期重庆明确四项任务",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725624.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -106,28 +86,8 @@
       ]
     },
     {
-      "title": "建设银行携手伦敦金融城就自贸离岸债业务开展工作交流",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725294.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "九寨沟游客冲突",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%B8%B8%E5%AE%A2%E5%86%B2%E7%AA%81",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美坠机遇难者含科技大亨一家",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE%E8%80%85%E5%90%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E4%BA%A8%E4%B8%80%E5%AE%B6",
+      "title": "10月新能源汽车销量榜：特斯拉跌至第8",
+      "url": "https://www.baidu.com/s?wd=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -136,18 +96,8 @@
       ]
     },
     {
-      "title": "警方回应九寨沟冲突：年轻一方先动手",
-      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%9D%E5%AF%A8%E6%B2%9F%E5%86%B2%E7%AA%81%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%B8%80%E6%96%B9%E5%85%88%E5%8A%A8%E6%89%8B",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《持械入宋》 划时代的AI短剧",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E3%80%8B+%E5%88%92%E6%97%B6%E4%BB%A3%E7%9A%84AI%E7%9F%AD%E5%89%A7",
+      "title": "吧友用数据说话：郑钦文进化了",
+      "url": "https://www.baidu.com/s?wd=%E5%90%A7%E5%8F%8B%E7%94%A8%E6%95%B0%E6%8D%AE%E8%AF%B4%E8%AF%9D%EF%BC%9A%E9%83%91%E9%92%A6%E6%96%87%E8%BF%9B%E5%8C%96%E4%BA%86",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -156,18 +106,8 @@
       ]
     },
     {
-      "title": "江苏教育厅厅长回应学生在校时间超长",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2%E5%8E%85%E5%8E%85%E9%95%BF%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%A0%A1%E6%97%B6%E9%97%B4%E8%B6%85%E9%95%BF",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "九寨沟游客肢体冲突伤者已送医",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%B8%B8%E5%AE%A2%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81%E4%BC%A4%E8%80%85%E5%B7%B2%E9%80%81%E5%8C%BB",
+      "title": "乌镇峰会吸引全球媒体目光",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%90%B8%E5%BC%95%E5%85%A8%E7%90%83%E5%AA%92%E4%BD%93%E7%9B%AE%E5%85%89",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -176,28 +116,8 @@
       ]
     },
     {
-      "title": "追梦和狄龙爆发冲突互掐脖颈",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E6%A2%A6%E5%92%8C%E7%8B%84%E9%BE%99%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81%E4%BA%92%E6%8E%90%E8%84%96%E9%A2%88",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "警方回应九寨沟游客冲突：双方都有责",
-      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%B8%B8%E5%AE%A2%E5%86%B2%E7%AA%81%EF%BC%9A%E5%8F%8C%E6%96%B9%E9%83%BD%E6%9C%89%E8%B4%A3",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《听见中轴·看见北京》音乐会带观众聆听700年北京中轴线",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725322.shtml",
+      "title": "（机遇香港）试点“港通天下” 香港助力国家航空网络发展再提速",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725640.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +126,8 @@
       ]
     },
     {
-      "title": "大连空港口岸今年出入境客流总量突破100万人次",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725321.shtml",
+      "title": "幽门螺杆菌没症状≠不用治！查出阳性应及时找医生评估",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725663.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +136,8 @@
       ]
     },
     {
-      "title": "河北博物院亚美尼亚文物展 百余件珍品见证中外文明互鉴",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725327.shtml",
+      "title": "京港两地签署备忘录深化商务领域合作",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725650.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +146,8 @@
       ]
     },
     {
-      "title": "家中座机拨出“诈骗电话”？幕后操控者究竟是谁",
-      "url": "https://www.chinanews.com.cn/fz/2026/11-03/10725329.shtml",
+      "title": "上海联交所：一年多来助中国18个省份68家产废企业成交超3500万吨工业固废",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725648.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +156,88 @@
       ]
     },
     {
-      "title": "求职测评层层加码，招聘岂能变成“漫长闯关”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725317.shtml",
+      "title": "特朗普称将停止向以色列提供每年总额约40亿美元的军援",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725649.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "香港5所高校跻身2027年QS亚洲十强",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725638.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从悬崖到杯中 广西平乐千年石崖茶成新式茶饮“黄金配角”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725643.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国家能源集团：全力做好迎峰度冬时期能源保供工作",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725637.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "为飞机心脏的心脏“加油” 中国航发红林实现动力控制系统产品全覆盖",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725636.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王毅同菲律宾外长拉扎罗通电话",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725633.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新疆：探索绿色算力发展新路径",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209693.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中宣部举办学习贯彻党的二十届五中全会精神研讨班 学习领会全会精神 培训基层宣讲骨干",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725630.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "你的狂欢，凭什么堆在别人车上？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725629.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
