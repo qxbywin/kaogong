@@ -1,13 +1,23 @@
 {
-  "date": "2026-11-03",
-  "time": "21:06",
-  "generatedAt": "2026-11-03T21:06:48.553Z",
+  "date": "2026-11-04",
+  "time": "01:28",
+  "generatedAt": "2026-11-04T01:28:41.923Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "2026年中亚经济合作天山论坛在哈萨克斯坦举行",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725692.shtml",
+      "title": "中国人民银行加力实施股票回购增持再贷款政策",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725746.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国举行2026年中期选举 经济议题备受选民关注",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725722.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,38 +26,8 @@
       ]
     },
     {
-      "title": "南宁建设国际文化旅游聚集区 拓展东盟入境游市场",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725683.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "蔡崇信乌镇峰会谈AI",
-      "url": "https://www.baidu.com/s?wd=%E8%94%A1%E5%B4%87%E4%BF%A1%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E8%B0%88AI",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "对话敦煌：全球代表共话视听与艺术产业版权发展",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725690.shtml",
+      "title": "市场监管总局出台《市场监督管理行政处罚裁量规定》",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725745.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -56,8 +36,8 @@
       ]
     },
     {
-      "title": "“京港国际会客厅”在北京揭牌",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725688.shtml",
+      "title": "乌镇峰会第三天 2026年世界互联网大会蓝皮书将发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725747.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -66,8 +46,8 @@
       ]
     },
     {
-      "title": "亚洲演出娱乐行业峰会2026春城启幕 400余名嘉宾共探演艺新局",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725684.shtml",
+      "title": "国际锐评丨“China+”热词持续迭代 中国引力从何而来？",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725736.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,18 +56,8 @@
       ]
     },
     {
-      "title": "宁夏健全奶产业标准体系筑牢质量防线 21家乳企取得HACCP等体系认证",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725682.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "昆明长水国际机场T2航站楼主体混凝土结构实现全面封顶",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725678.shtml",
+      "title": "中国搭台 全球共享！乌镇峰会首次全方位呈现“智能互联网”图景",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725734.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,38 +66,18 @@
       ]
     },
     {
-      "title": "泰国（第四届）HSK留学中国与就业展在曼谷举办",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725676.shtml",
+      "title": "特朗普：美国对伊朗发动了“小规模攻击”",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725721.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "一栋楼链全球 广州南沙打造跨境贸易“一站式”出海枢纽",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725673.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "展贸融合激活产业动能 中部农博会赋能湖南农业高质量发展",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725671.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "纺织业“牵手”广交会探寻科技赋能新路径",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725669.shtml",
+      "title": "AI眼镜厂商主动“做减法” 用户体验成为关键",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725720.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -136,8 +86,28 @@
       ]
     },
     {
-      "title": "宁夏特色农产品亮相全国粮油和大豆产业博览会 产销对接收获颇丰",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725666.shtml",
+      "title": "19城细化落实商品住房销售制度",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725719.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "钻石“长”出新本领 金刚石闪耀芯片散热新赛道",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725718.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "车市增速换挡之后 谁才有资格跑得更远",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725717.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -146,8 +116,8 @@
       ]
     },
     {
-      "title": "数字科技激活苗乡文化 湖南城步拓展文旅融合新场景",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725664.shtml",
+      "title": "AI酒吧遇到创业大街",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725716.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -156,38 +126,8 @@
       ]
     },
     {
-      "title": "浙江海事金融探索迎新突破 落地首笔自贸区船舶授信业务",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725661.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "10月新能源汽车销量榜：特斯拉跌至第8",
-      "url": "https://www.baidu.com/s?wd=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "吧友用数据说话：郑钦文进化了",
-      "url": "https://www.baidu.com/s?wd=%E5%90%A7%E5%8F%8B%E7%94%A8%E6%95%B0%E6%8D%AE%E8%AF%B4%E8%AF%9D%EF%BC%9A%E9%83%91%E9%92%A6%E6%96%87%E8%BF%9B%E5%8C%96%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "乌镇峰会吸引全球媒体目光",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%90%B8%E5%BC%95%E5%85%A8%E7%90%83%E5%AA%92%E4%BD%93%E7%9B%AE%E5%85%89",
+      "title": "美国举行中期选举投票",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -196,8 +136,38 @@
       ]
     },
     {
-      "title": "从价格到服务再到隐私保护 这份陪诊首项国标为你划重点",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
+      "title": "10万亿元大产业来了",
+      "url": "https://www.baidu.com/s?wd=10%E4%B8%87%E4%BA%BF%E5%85%83%E5%A4%A7%E4%BA%A7%E4%B8%9A%E6%9D%A5%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "这轮AI行情给所有人上了一课",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E8%BD%AEAI%E8%A1%8C%E6%83%85%E7%BB%99%E6%89%80%E6%9C%89%E4%BA%BA%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美股AI科技巨头集体回暖",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E5%9B%9E%E6%9A%96",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "11月4日人民币对美元中间价报6.7180 下调30个基点",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725750.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +176,8 @@
       ]
     },
     {
-      "title": "CBA常规赛：山西队险胜新疆队取得三连胜",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725691.shtml",
+      "title": "不签纸质劳动合同只签电子劳动合同可以吗？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725743.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +186,8 @@
       ]
     },
     {
-      "title": "宁夏出台安全生产执法检查重点事项指导目录 规范精准执法",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725689.shtml",
+      "title": "功能花哨、联动不畅……智能家居规范发展需“标准+法律”双轨并进",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-04/10725752.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +196,8 @@
       ]
     },
     {
-      "title": "世界市长在宁波对话：常来常往 融通共生",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725687.shtml",
+      "title": "人这一辈子，一定要在冬天来一次敦煌！",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725748.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +206,38 @@
       ]
     },
     {
-      "title": "天津警方打掉涉黑恶犯罪团伙56个 抓获嫌疑人309人",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725686.shtml",
+      "title": "第140届广交会今日闭展",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725744.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "冷空气侵袭北方 贵州湖南江西降雨较强",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725741.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "两股冷空气接连影响我国 南方大范围阴雨持续",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725739.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725740.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
