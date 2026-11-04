@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "time": "18:04",
-  "generatedAt": "2026-11-04T18:04:24.473Z",
+  "time": "23:46",
+  "generatedAt": "2026-11-04T23:46:25.513Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -10,16 +10,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726325.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“十五五”时期 重庆将加快就业等“AI+”综合场景上线",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726307.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
       "score": 2,
       "exams": [
         "申论素材"
@@ -41,6 +31,66 @@
       "source": "百度热搜",
       "cat": "international",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "秋招面试AI攻防大战，究竟谁是赢家",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726354.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "国考"
+      ]
+    },
+    {
+      "title": "信医生还是信AI？这是一个问题",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726352.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "小心AI“谄媚”！ 60.4%受访者建议重要决定多在现实中征询不同人意见",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726350.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国突发直升机坠毁事故 致1死2伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726349.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "泰国总理提出“重塑泰国”构想 强调增强经济自主能力",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726337.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "各项筹备工作就绪 一组数据带你提前了解进博会亮点",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726342.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -76,76 +126,6 @@
       ]
     },
     {
-      "title": "侨商侨企投资广州：当好超级联系人 链接全球大市场",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726328.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "星展银行报告：人民币在多个亚洲市场已有较高使用率",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726319.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国与东盟南宁共探AI赋能防震减灾区域合作",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-04/10726318.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国电视剧制作产业协会传播工作委员会正式揭牌",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726312.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全球创意经济与创意生态可持续发展合作中心（成都）落地成都高新区",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726310.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重庆办人工智能OPC创业资源对接赋能活动  助力打造创业生态",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726308.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "服务创新发展 京港业界人士冀加强知识产权协作",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726303.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "中国智能经济新形态加速崛起",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BD%A2%E6%80%81%E5%8A%A0%E9%80%9F%E5%B4%9B%E8%B5%B7",
       "source": "百度热搜",
@@ -166,26 +146,6 @@
       ]
     },
     {
-      "title": "马斯克：AI算力将100%搬上太空",
-      "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E7%AE%97%E5%8A%9B%E5%B0%86100%25%E6%90%AC%E4%B8%8A%E5%A4%AA%E7%A9%BA",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "字节AI开发平台“扣子”企业版下架",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82AI%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E2%80%9C%E6%89%A3%E5%AD%90%E2%80%9D%E4%BC%81%E4%B8%9A%E7%89%88%E4%B8%8B%E6%9E%B6",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "中方回应“如何看待美国中期选举”",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E2%80%9D",
       "source": "百度热搜",
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "最高50亿元！长鑫科技加码回购创纪录",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%9850%E4%BA%BF%E5%85%83%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8A%A0%E7%A0%81%E5%9B%9E%E8%B4%AD%E5%88%9B%E7%BA%AA%E5%BD%95",
+      "title": "马斯克：AI算力将100%搬上太空",
+      "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E7%AE%97%E5%8A%9B%E5%B0%86100%25%E6%90%AC%E4%B8%8A%E5%A4%AA%E7%A9%BA",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -206,8 +166,28 @@
       ]
     },
     {
-      "title": "进博会接力广交会 合作共赢如何再走深？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726333.shtml",
+      "title": "美股科技上演“次贷危机”",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E4%B8%8A%E6%BC%94%E2%80%9C%E6%AC%A1%E8%B4%B7%E5%8D%B1%E6%9C%BA%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国中期选举的四个“意外”",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%9A%84%E5%9B%9B%E4%B8%AA%E2%80%9C%E6%84%8F%E5%A4%96%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "投保者身故却无法定继承人 非亲扶养者能分保险金吗？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726361.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "“十五五”时期中国将新建约1.5万公里铁路",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726322.shtml",
+      "title": "探访哈萨克斯坦欧亚大学孔子学院",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209824.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "电动自行车违停难禁 “管不住”究竟卡在哪？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726331.shtml",
+      "title": "入职前必须先租房？当心骗局！",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726359.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "火灾烟霾致印尼急性呼吸道感染病例超40万例",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726324.shtml",
+      "title": "卖脸卖声的“躺赚”噱头后，藏着诸多风险",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726358.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "WTA250香港公开赛：威廉姆斯/徐一璠晋级女双八强",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209820.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "大学生“副业潮”：尝试赚钱，更是认识自己",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726356.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
