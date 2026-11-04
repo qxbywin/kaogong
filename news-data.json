@@ -1,103 +1,63 @@
 {
   "date": "2026-11-04",
-  "time": "09:28",
-  "generatedAt": "2026-11-04T09:28:43.471Z",
+  "time": "18:04",
+  "generatedAt": "2026-11-04T18:04:24.473Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "资本市场政策加力稳预期",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726090.shtml",
+      "title": "（经济观察）香港渐成中企“跨境架构中枢”和“国际标准试验场”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726325.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "国际金价反弹，A股黄金股批量涨停",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726091.shtml",
+      "title": "“十五五”时期 重庆将加快就业等“AI+”综合场景上线",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726307.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
+      "cat": "economy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中国AIMS望远镜发现耀斑爆发期间太阳大气磁场明显减弱现象",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726085.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "凸显“海岛特色”风貌 海南出台城市更新条例明年起实施",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726084.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "宇树科技王兴兴预判明年或是机器人行业临界点",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726081.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "粤港跨境医疗服务合作联盟成立，爱康助力打造粤港双向健康新通路",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-04/10726005.shtml",
-      "source": "中国新闻网",
+      "title": "陕西教育厅通报“延安大学教师离世”",
+      "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E6%95%99%E8%82%B2%E5%8E%85%E9%80%9A%E6%8A%A5%E2%80%9C%E5%BB%B6%E5%AE%89%E5%A4%A7%E5%AD%A6%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%E2%80%9D",
+      "source": "百度热搜",
       "cat": "society",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "云南玉溪警方通报“球迷投掷鼓槌击中球员”：肇事球迷已被行拘",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726071.shtml",
+      "title": "美国10月ADP就业人数增8.6万",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD10%E6%9C%88ADP%E5%B0%B1%E4%B8%9A%E4%BA%BA%E6%95%B0%E5%A2%9E8.6%E4%B8%87",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中东欧四国总统峰会在斯洛伐克举行",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726334.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "Token登上消费货架 明码标价是底线不是奢求",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726070.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国央行下调股票回购增持再贷款利率至1%",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726046.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "成都新型显示产业规模位居国内第一梯队",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726058.shtml",
+      "title": "“十五五”末中国社会消费品零售总额预计达60万亿元左右",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726323.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -106,8 +66,38 @@
       ]
     },
     {
-      "title": "乌镇照见AI走进生活",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726063.shtml",
+      "title": "亚洲杯延期一年 中东紧张局势如何搅动全球体育赛历",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-04/10726332.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "侨商侨企投资广州：当好超级联系人 链接全球大市场",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726328.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "星展银行报告：人民币在多个亚洲市场已有较高使用率",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726319.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国与东盟南宁共探AI赋能防震减灾区域合作",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-04/10726318.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -116,8 +106,28 @@
       ]
     },
     {
-      "title": "世界互联网大会副理事长高锐：中国是科技领域的引领者 任何明智的人都希望与中国合作",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726065.shtml",
+      "title": "中国电视剧制作产业协会传播工作委员会正式揭牌",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726312.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全球创意经济与创意生态可持续发展合作中心（成都）落地成都高新区",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726310.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆办人工智能OPC创业资源对接赋能活动  助力打造创业生态",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726308.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -126,8 +136,18 @@
       ]
     },
     {
-      "title": "“做强做优做大实体经济”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%E2%80%9D",
+      "title": "服务创新发展 京港业界人士冀加强知识产权协作",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726303.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国智能经济新形态加速崛起",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BD%A2%E6%80%81%E5%8A%A0%E9%80%9F%E5%B4%9B%E8%B5%B7",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -136,8 +156,8 @@
       ]
     },
     {
-      "title": "中国外交又干了件大事",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%8F%88%E5%B9%B2%E4%BA%86%E4%BB%B6%E5%A4%A7%E4%BA%8B",
+      "title": "河南奶奶用废品做墩墩卖到美国",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A5%B6%E5%A5%B6%E7%94%A8%E5%BA%9F%E5%93%81%E5%81%9A%E5%A2%A9%E5%A2%A9%E5%8D%96%E5%88%B0%E7%BE%8E%E5%9B%BD",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -146,10 +166,20 @@
       ]
     },
     {
-      "title": "中方就中俄美元首会晤保持着沟通",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%B1%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
+      "title": "马斯克：AI算力将100%搬上太空",
+      "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E7%AE%97%E5%8A%9B%E5%B0%86100%25%E6%90%AC%E4%B8%8A%E5%A4%AA%E7%A9%BA",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "字节AI开发平台“扣子”企业版下架",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82AI%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E2%80%9C%E6%89%A3%E5%AD%90%E2%80%9D%E4%BC%81%E4%B8%9A%E7%89%88%E4%B8%8B%E6%9E%B6",
+      "source": "百度热搜",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -166,8 +196,8 @@
       ]
     },
     {
-      "title": "半导体板块集体爆发",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E7%88%86%E5%8F%91",
+      "title": "最高50亿元！长鑫科技加码回购创纪录",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%9850%E4%BA%BF%E5%85%83%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8A%A0%E7%A0%81%E5%9B%9E%E8%B4%AD%E5%88%9B%E7%BA%AA%E5%BD%95",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -176,8 +206,8 @@
       ]
     },
     {
-      "title": "从“本地办”到“异地办” 陕西法院交叉执行破局“执行难”",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726098.shtml",
+      "title": "进博会接力广交会 合作共赢如何再走深？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726333.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +216,8 @@
       ]
     },
     {
-      "title": "秋粮丰收已成定局",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726095.shtml",
+      "title": "“十五五”时期中国将新建约1.5万公里铁路",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726322.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +226,8 @@
       ]
     },
     {
-      "title": "在乌镇，找一找本届互联网大会的“新面孔”",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726088.shtml",
+      "title": "电动自行车违停难禁 “管不住”究竟卡在哪？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726331.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "江西鄱阳湖南矶湿地首次记录到靴隼雕 刷新南昌市鸟类纪录",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726083.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "兑现气候承诺，呼唤实打实行动",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726087.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "词元首登电商货架 中国“探路”算力走入寻常",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726082.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "合肥田埂上的“台北大叔”：把两岸的风味与人情连在一起",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726073.shtml",
+      "title": "火灾烟霾致印尼急性呼吸道感染病例超40万例",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726324.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
