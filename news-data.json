@@ -1,13 +1,13 @@
 {
   "date": "2026-11-05",
-  "time": "07:00",
-  "generatedAt": "2026-11-05T07:00:07.284Z",
+  "time": "15:36",
+  "generatedAt": "2026-11-05T15:36:49.506Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "侨商侨企投资广州：航空国际货机中心将落户花都",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726598.shtml",
+      "title": "受国际科技股回调等冲击 台股连续6个交易日下跌",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726958.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,8 +16,8 @@
       ]
     },
     {
-      "title": "Sanya Haul焕发三亚国际旅游消费新活力",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726589.shtml",
+      "title": "邯郸（鸡泽）国际物流产业园十年“织”就出海路",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726953.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -26,8 +26,38 @@
       ]
     },
     {
-      "title": "国际金价连续两日大涨",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726596.shtml",
+      "title": "贵州12部门联合印发高价值专利培育工程实施方案",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726954.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“外籍人士进政协”暨“中外艺术家看重庆”展览在渝开展",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726951.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "通江达海向海而兴 广西南宁产业园区加速集聚临港产业",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726948.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "黑龙江省首个中俄跨境综合办事大厅正式运营",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726944.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,8 +66,18 @@
       ]
     },
     {
-      "title": "中国首个商业高轨中继卫星系统NTN关键技术通过验收评审",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726574.shtml",
+      "title": "大理建州70年：经济总量是建州时1285倍 绿色发展成底色",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726933.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（第九届进博会）香港企业参展进博会数量、规模创新高",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726925.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -46,38 +86,8 @@
       ]
     },
     {
-      "title": "（第九届进博会）第九届中国国际进口博览会开幕式在上海举行",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209866.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“短剧一姐”李柯以聊AI冲击",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9F%AD%E5%89%A7%E4%B8%80%E5%A7%90%E2%80%9D%E6%9D%8E%E6%9F%AF%E4%BB%A5%E8%81%8AAI%E5%86%B2%E5%87%BB",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《嫁金钗》忘删AI水印背后的真问题",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E8%83%8C%E5%90%8E%E7%9A%84%E7%9C%9F%E9%97%AE%E9%A2%98",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国中期选举共和党败选引发震动",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%85%B1%E5%92%8C%E5%85%9A%E8%B4%A5%E9%80%89%E5%BC%95%E5%8F%91%E9%9C%87%E5%8A%A8",
+      "title": "普京签令：俄方临时接管日本4座工厂",
+      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%EF%BC%9A%E4%BF%84%E6%96%B9%E4%B8%B4%E6%97%B6%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC4%E5%BA%A7%E5%B7%A5%E5%8E%82",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -86,8 +96,28 @@
       ]
     },
     {
-      "title": "狄龙利拉德冲突",
-      "url": "https://www.baidu.com/s?wd=%E7%8B%84%E9%BE%99%E5%88%A9%E6%8B%89%E5%BE%B7%E5%86%B2%E7%AA%81",
+      "title": "多名医生涉论文造假 国家卫健委通报",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F%E6%B6%89%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87+%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "旅客携带3条熊牙吊坠入境被查",
+      "url": "https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E6%90%BA%E5%B8%A63%E6%9D%A1%E7%86%8A%E7%89%99%E5%90%8A%E5%9D%A0%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际足联致敬C罗",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E8%87%B4%E6%95%ACC%E7%BD%97",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -96,8 +126,8 @@
       ]
     },
     {
-      "title": "奥迪营销翻车 不能怪消费者",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%AA%E8%90%A5%E9%94%80%E7%BF%BB%E8%BD%A6+%E4%B8%8D%E8%83%BD%E6%80%AA%E6%B6%88%E8%B4%B9%E8%80%85",
+      "title": "黑龙江发放1亿元冰雪消费券",
+      "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E6%94%BE1%E4%BA%BF%E5%85%83%E5%86%B0%E9%9B%AA%E6%B6%88%E8%B4%B9%E5%88%B8",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -106,28 +136,8 @@
       ]
     },
     {
-      "title": "森林狼火箭爆发冲突",
-      "url": "https://www.baidu.com/s?wd=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多名中国公民檀香山入境美国被盘查",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%AA%80%E9%A6%99%E5%B1%B1%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD%E8%A2%AB%E7%9B%98%E6%9F%A5",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从血染湘江到长眠草地，两张泛黄薄纸藏着红军长征震撼细节",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726597.shtml",
+      "title": "广东电白茂南对口帮扶广西金秀十年：山海协作，瑶山蝶变",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726960.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +146,8 @@
       ]
     },
     {
-      "title": "这个故事会，读懂一位统一战线先行者的同心之道",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726593.shtml",
+      "title": "第八届海外侨团合作论坛在上海举行 发布《企业出海指引》",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726959.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +156,8 @@
       ]
     },
     {
-      "title": "眼面防护具特殊防护强制性国家标准正式发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726575.shtml",
+      "title": "泰国下调部分汽油及汽油醇价格",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726957.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +166,8 @@
       ]
     },
     {
-      "title": "成都网约公交正式投入运营",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726570.shtml",
+      "title": "报告：中国以实际行动提升全球南方蓝色实力",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726956.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "东西问丨微短剧有了专属英文名，现在全世界开始说“duanju”",
-      "url": "https://www.chinanews.com.cn/dxw/2026/11-05/10726579.shtml",
+      "title": "从三亚崖州古城阅千年文脉",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726952.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +186,8 @@
       ]
     },
     {
-      "title": "新疆阿克苏：冰糖心苹果迎来采摘季",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726566.shtml",
+      "title": "韩国拟扩大清海部队任务区域至霍尔木兹海峡附近海域",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726955.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +196,8 @@
       ]
     },
     {
-      "title": "“文学点亮生活”拉美作家走访交流活动在桂林启幕",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726578.shtml",
+      "title": "潜心科研聚力转化 西大团队让超疏自洁涂层“走出”实验室",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726950.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "山西大同专项巡查长城 守护明代烽燧遗存",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726587.shtml",
+      "title": "中国青年展示风采 通过青奥会增进理解",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726949.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "重庆成立智能装备及智能制造产研融合服务联合体",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726584.shtml",
+      "title": "2026天门山云纵天梯跑酷大赛收官 中国选手获两项冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726947.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "张健任浙江衢州市委书记",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726582.shtml",
+      "title": "北京男女排新阵容出征新赛季排超联赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726946.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,20 +236,10 @@
       ]
     },
     {
-      "title": "广东男篮更换主教练 何塞普·玛丽亚·贝罗卡尔担任主教练",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726580.shtml",
+      "title": "APEC海洋素养行动计划启动 为未来海洋合作构建“社会赋能”支柱",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726945.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "《伟大的长征》如何让年轻观众主动考据历史",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726561.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
+      "cat": "society",
       "score": 0,
       "exams": [
         "申论素材"
