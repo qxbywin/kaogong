@@ -1,10 +1,20 @@
 {
   "date": "2026-11-05",
-  "time": "15:36",
-  "generatedAt": "2026-11-05T15:36:49.506Z",
+  "time": "22:06",
+  "generatedAt": "2026-11-05T22:06:33.738Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "（第九届进博会）从“展示窗口”到“创新加速器”：进博会医疗创新孵化专区强力链接全球双循环",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726967.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "受国际科技股回调等冲击 台股连续6个交易日下跌",
       "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726958.shtml",
@@ -21,6 +31,36 @@
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726973.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第三届澳门家乡市集开幕 以乡情助力社区经济",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726962.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年中国国际拳击公开赛在贵州遵义开幕",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726961.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -66,26 +106,6 @@
       ]
     },
     {
-      "title": "大理建州70年：经济总量是建州时1285倍 绿色发展成底色",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726933.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（第九届进博会）香港企业参展进博会数量、规模创新高",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726925.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "普京签令：俄方临时接管日本4座工厂",
       "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%EF%BC%9A%E4%BF%84%E6%96%B9%E4%B8%B4%E6%97%B6%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC4%E5%BA%A7%E5%B7%A5%E5%8E%82",
       "source": "百度热搜",
@@ -106,31 +126,81 @@
       ]
     },
     {
-      "title": "旅客携带3条熊牙吊坠入境被查",
-      "url": "https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E6%90%BA%E5%B8%A63%E6%9D%A1%E7%86%8A%E7%89%99%E5%90%8A%E5%9D%A0%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5",
-      "source": "百度热搜",
+      "title": "中国科学家打破人类低温纪录 宇宙最冷点“落户”中国空间站",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726970.shtml",
+      "source": "中国新闻网",
       "cat": "hot",
-      "score": 1,
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "国际足联致敬C罗",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E8%87%B4%E6%95%ACC%E7%BD%97",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "新疆和田地区和康县发生4.8级地震 震源深度60千米",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726977.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "黑龙江发放1亿元冰雪消费券",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E6%94%BE1%E4%BA%BF%E5%85%83%E5%86%B0%E9%9B%AA%E6%B6%88%E8%B4%B9%E5%88%B8",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
+      "title": "新疆和田地区和康县附近发生5.1级左右地震",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726976.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "我国成功发射遥感五十一号07-09星",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726975.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国央行三年多来首度加息",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726974.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "让癌细胞“忙中出错”自我引爆 浙大团队成果登《自然》",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726966.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "黑龙江电力外送签约电量首破200亿千瓦时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726965.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第四届广西农民工创业大赛收官 创业成果集中亮相",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726963.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -170,76 +240,6 @@
       "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726956.shtml",
       "source": "中国新闻网",
       "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从三亚崖州古城阅千年文脉",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726952.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "韩国拟扩大清海部队任务区域至霍尔木兹海峡附近海域",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726955.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "潜心科研聚力转化 西大团队让超疏自洁涂层“走出”实验室",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726950.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国青年展示风采 通过青奥会增进理解",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726949.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026天门山云纵天梯跑酷大赛收官 中国选手获两项冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726947.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北京男女排新阵容出征新赛季排超联赛",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726946.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "APEC海洋素养行动计划启动 为未来海洋合作构建“社会赋能”支柱",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726945.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
       "score": 0,
       "exams": [
         "申论素材"
