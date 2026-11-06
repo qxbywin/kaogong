@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
-  "time": "18:06",
-  "generatedAt": "2026-11-06T18:06:47.183Z",
+  "time": "23:17",
+  "generatedAt": "2026-11-06T23:17:09.240Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -36,21 +36,31 @@
       ]
     },
     {
-      "title": "AI电商合规治理与消费环境共建行动在浙江启动",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727699.shtml",
+      "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "international",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "白皮书：数字化平台与AI成汽车消费服务业升级关键变量",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727693.shtml",
+      "title": "菲律宾妇女团体抗议美国扩大军事存在 反对“硅和平”倡议",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727730.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央气象台发布暴雪黄色预警 京津冀等局地有大到暴雪",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727734.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -116,40 +126,10 @@
       ]
     },
     {
-      "title": "我国首个海山数字化空间地理信息成果发布",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727695.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "前三季度云南昭通苹果出口1300余吨 香飘东南亚市场",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727694.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第三届“长高赛”方案在专交会发布 助力专利从“赛场”走向“市场”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727690.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国股市为何暴跌",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C",
+      "title": "美股AI概念股止跌反弹",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E6%A6%82%E5%BF%B5%E8%82%A1%E6%AD%A2%E8%B7%8C%E5%8F%8D%E5%BC%B9",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -166,13 +146,63 @@
       ]
     },
     {
-      "title": "国家卫健委党组：坚决拥护党中央决定",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%85%9A%E7%BB%84%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
+      "title": "网友自称“花260万元登顶珠峰”系谣言！",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727737.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
-        "事业单位"
+        "申论素材"
+      ]
+    },
+    {
+      "title": "11月7日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-07/10727736.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "德国一小型飞机坠毁 机上2人遇难",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727731.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普宣布任命斯蒂芬·米勒为白宫幕僚长",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727732.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "秋冬降温，为什么老年人更容易感冒、咳嗽？",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727733.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727729.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
       ]
     },
     {
@@ -213,36 +243,6 @@
       "score": 0,
       "exams": [
         "申论素材"
-      ]
-    },
-    {
-      "title": "2026年宁夏推动22个城乡社区(村)创建达标老年友好型社区",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727714.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "探讨当代亲密关系话剧《今宵酒·醒何处》首演",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727710.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727712.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "事业单位"
       ]
     }
   ]
