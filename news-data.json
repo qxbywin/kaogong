@@ -1,23 +1,83 @@
 {
   "date": "2026-11-06",
-  "time": "11:09",
-  "generatedAt": "2026-11-06T11:09:30.462Z",
+  "time": "18:06",
+  "generatedAt": "2026-11-06T18:06:47.183Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "反跨境腐败法表决通过 完善中国反腐败涉外法律体系",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727427.shtml",
+      "title": "微改革微创新破局 广西防城港现代化临港产业提速突破",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727701.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
+      "cat": "policy",
+      "score": 3,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "刘海星同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727715.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI评测技术赋能教育 助学生提升英语口语",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727702.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI电商合规治理与消费环境共建行动在浙江启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727699.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "白皮书：数字化平台与AI成汽车消费服务业升级关键变量",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727693.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "首次在城市场景完成放飞试验 看一台“空中电站”如何诞生",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727726.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI制药、量子真随机数、水下机器人等前沿科技“抢滩”粤北",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727405.shtml",
+      "title": "港浸大举办药食同源会议 助力中医药科研成果转化",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727713.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,28 +86,8 @@
       ]
     },
     {
-      "title": "科技赋能高寒山区筑坝 林海水库枢纽全部坝段封顶",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727406.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "辽宁省数据要素创新应用实验室启动",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727401.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国际高定“遇见”中国面料：2026柯桥时尚周（秋季）在浙启幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727400.shtml",
+      "title": "闽南师范大学举办第二季“美美与共”国际文化市集",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727707.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,38 +96,8 @@
       ]
     },
     {
-      "title": "内蒙古发布冬季旅游产品 将发放500万元冰雪消费券",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727423.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "把路演会搬进校园：航天桥科创孵化论坛首场路演会圆满落幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727388.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "下沉市场赋能对接会举办 途虎养车分享县域汽车服务供给实践",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727387.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国对涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯发起反倾销调查",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727381.shtml",
+      "title": "我国南极活动与环境保护法出台 对国际南极治理意义几何？",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727716.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -96,19 +106,29 @@
       ]
     },
     {
-      "title": "养老心愿 进博“接单”",
-      "url": "https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E5%BF%83%E6%84%BF+%E8%BF%9B%E5%8D%9A%E2%80%9C%E6%8E%A5%E5%8D%95%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "society",
+      "title": "丝线与石刻间，国际摄影师看见广元苍溪的时间痕迹",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727704.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "“黑色星期五”席卷亚太市场",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D%E5%B8%AD%E5%8D%B7%E4%BA%9A%E5%A4%AA%E5%B8%82%E5%9C%BA",
-      "source": "百度热搜",
+      "title": "我国首个海山数字化空间地理信息成果发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727695.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "前三季度云南昭通苹果出口1300余吨 香飘东南亚市场",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727694.shtml",
+      "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -116,10 +136,10 @@
       ]
     },
     {
-      "title": "英伟达价值7605万元芯片被劫",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BB%B7%E5%80%BC7605%E4%B8%87%E5%85%83%E8%8A%AF%E7%89%87%E8%A2%AB%E5%8A%AB",
-      "source": "百度热搜",
-      "cat": "tech",
+      "title": "第三届“长高赛”方案在专交会发布 助力专利从“赛场”走向“市场”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727690.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -136,8 +156,28 @@
       ]
     },
     {
-      "title": "（第九届进博会）报告：中国具身智能产品出海将呈现阶梯式升级路径",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727429.shtml",
+      "title": "森林狼火箭爆发冲突",
+      "url": "https://www.baidu.com/s?wd=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国家卫健委党组：坚决拥护党中央决定",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%85%9A%E7%BB%84%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "穿不穿秋裤和“老寒腿”“抗冻基因”有关系吗？",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727724.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "中国出台检察公益诉讼法 明确可对外国组织违法行为提起公益诉讼",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727428.shtml",
+      "title": "泰国拟推五项外籍劳工管理新措施",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727718.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "中国移动发布6G智能应用共创行动",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727426.shtml",
+      "title": "入冬标准如何确定？为何多地秋天越来越短？详解来了",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727723.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "“甘味”苹果的“非”常之旅：秦安鲜果首次飘香加蓬",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727421.shtml",
+      "title": "从酒店到校园，从偷拍到交易：谁在把女性隐私明码标价？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727717.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "890余个非遗代表性项目亮相第九届中国非物质文化遗产博览会",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727420.shtml",
+      "title": "2026年宁夏推动22个城乡社区(村)创建达标老年友好型社区",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727714.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "手机变“新农具” 重庆江津乡村主播孵化驿站培育“新农人”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727412.shtml",
+      "title": "探讨当代亲密关系话剧《今宵酒·醒何处》首演",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727710.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,53 +236,13 @@
       ]
     },
     {
-      "title": "日本关东地区以东海域发生6.1级地震",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727456.shtml",
+      "title": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727712.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
       "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "20年联动接力 民主党派赋能浙西南老区振兴",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727409.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "陕西商南一刑事案件犯罪嫌疑人自杀身亡",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727408.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北京严厉打击欠薪行为 公布五起侵害劳动者合法权益典型案例",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727407.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中国电影节在澳大利亚开幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727404.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
+        "事业单位"
       ]
     }
   ]
