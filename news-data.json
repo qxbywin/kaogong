@@ -1,73 +1,23 @@
 {
-  "date": "2026-11-06",
-  "time": "23:17",
-  "generatedAt": "2026-11-06T23:17:09.240Z",
+  "date": "2026-11-07",
+  "time": "02:55",
+  "generatedAt": "2026-11-07T02:55:14.245Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "微改革微创新破局 广西防城港现代化临港产业提速突破",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727701.shtml",
+      "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727777.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 3,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "刘海星同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727715.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "AI评测技术赋能教育 助学生提升英语口语",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727702.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "菲律宾妇女团体抗议美国扩大军事存在 反对“硅和平”倡议",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727730.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中央气象台发布暴雪黄色预警 京津冀等局地有大到暴雪",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727734.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "首次在城市场景完成放飞试验 看一台“空中电站”如何诞生",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727726.shtml",
+      "title": "五支毛笔四支来自这里，千年小镇“写”出百亿元产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727788.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -76,8 +26,18 @@
       ]
     },
     {
-      "title": "港浸大举办药食同源会议 助力中医药科研成果转化",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727713.shtml",
+      "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727786.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727781.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -86,8 +46,8 @@
       ]
     },
     {
-      "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
+      "title": "中国空间站将迎来首位外籍航天员",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727783.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -96,8 +56,18 @@
       ]
     },
     {
-      "title": "闽南师范大学举办第二季“美美与共”国际文化市集",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727707.shtml",
+      "title": "从“十五五”专项规划看以金融服务发展大局",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727779.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“粮安天下 智链未来” 中国国际粮油博览会在厦门开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727771.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -106,28 +76,88 @@
       ]
     },
     {
-      "title": "我国南极活动与环境保护法出台 对国际南极治理意义几何？",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727716.shtml",
+      "title": "商务部新闻发言人就美制裁中国企业答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727763.shtml",
       "source": "中国新闻网",
       "cat": "international",
+      "score": 1,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在重庆宣讲",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727761.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "丝线与石刻间，国际摄影师看见广元苍溪的时间痕迹",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727704.shtml",
+      "title": "学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在河南宣讲",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727748.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美股AI概念股止跌反弹",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E6%A6%82%E5%BF%B5%E8%82%A1%E6%AD%A2%E8%B7%8C%E5%8F%8D%E5%BC%B9",
+      "title": "学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在江苏宣讲",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727747.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在天津宣讲",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727746.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "商务部回应美制裁中国企业：尽快纠正",
+      "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%EF%BC%9A%E5%B0%BD%E5%BF%AB%E7%BA%A0%E6%AD%A3",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "中央气象台发布暴雪黄色预警",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "男子花光积蓄投资7斤黄金 净亏114万",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E6%8A%95%E8%B5%847%E6%96%A4%E9%BB%84%E9%87%91+%E5%87%80%E4%BA%8F114%E4%B8%87",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“天宫”将迎首位外籍航天员",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A9%E5%AE%AB%E2%80%9D%E5%B0%86%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -136,18 +166,8 @@
       ]
     },
     {
-      "title": "森林狼火箭爆发冲突",
-      "url": "https://www.baidu.com/s?wd=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "网友自称“花260万元登顶珠峰”系谣言！",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727737.shtml",
+      "title": "巴拉圭前总统遭弹劾后被软禁，数十名抗议者聚集其住所外",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727797.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "11月7日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/11-07/10727736.shtml",
+      "title": "他们的“进博第一天”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727792.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "德国一小型飞机坠毁 机上2人遇难",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727731.shtml",
+      "title": "开“新”进博会丨“全勤生”与“新面孔”，都用行动投下信任票！",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727791.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "特朗普宣布任命斯蒂芬·米勒为白宫幕僚长",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727732.shtml",
+      "title": "第三届C Art艺术节在武汉举行 以当代艺术探索城市更新",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727773.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "秋冬降温，为什么老年人更容易感冒、咳嗽？",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727733.shtml",
+      "title": "校馆弦歌｜一座千年书院，读懂湖南大学经世致用的百年新篇",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727790.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727729.shtml",
+      "title": "旅美大熊猫“平平”“福双”亮相亚特兰大动物园",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210082.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "穿不穿秋裤和“老寒腿”“抗冻基因”有关系吗？",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727724.shtml",
+      "title": "夏季“超长待机”、冷空气“一步到位”，如何“跟上”季节变化节奏？ | 梳理↓",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727785.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "泰国拟推五项外籍劳工管理新措施",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727718.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "入冬标准如何确定？为何多地秋天越来越短？详解来了",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727723.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从酒店到校园，从偷拍到交易：谁在把女性隐私明码标价？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727717.shtml",
+      "title": "神舟二十四号载人飞行任务标识发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727784.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
