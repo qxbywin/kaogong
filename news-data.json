@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
-  "time": "15:22",
-  "generatedAt": "2026-11-08T15:22:32.147Z",
+  "time": "19:49",
+  "generatedAt": "2026-11-08T19:49:29.101Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -71,6 +71,16 @@
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -228,16 +238,6 @@
     {
       "title": "（第九届进博会）上海澳门联谊会会长：借进博东风，沪澳携手创未来",
       "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728541.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "港澳及东盟康养旅行首发团12月赴桂 文旅跨境合作再提速",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728537.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
