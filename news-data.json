@@ -1,54 +1,114 @@
 {
   "date": "2026-11-08",
-  "time": "00:46",
-  "generatedAt": "2026-11-08T00:46:26.104Z",
+  "time": "07:29",
+  "generatedAt": "2026-11-08T07:29:33.892Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "聚焦AI等前沿科技领域 中欧青年创新产业对接活动在北京举办",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728209.shtml",
+      "title": "国际锐评丨进博之约让世界共享开放红利",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728355.shtml",
       "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "数据中心回收服务器余热 为供暖提供“热源”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728353.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "综述｜从亲历到读懂：国际媒体人士共话真实中国",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728352.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026年世界国际跳棋青少年锦标赛收官 中国队斩获四金",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728326.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "成渝地区“一带一路”国际技术转移中心白俄罗斯节点建设正式启动",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/11-08/10728322.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际最新研发出能检测高血压智能手表 灵敏度与传统诊室测量相当",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728315.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全国法语教育界专家在渝探讨学科发展新路径",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-08/10728330.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（第九届进博会）跨国企业借中国创新力链接全球机遇",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728314.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "事业单位"
+      ]
+    },
+    {
+      "title": "上芭舞剧《梁山伯与祝英台》亮相美国弗吉尼亚州",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728311.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "消费“新故事”背后有一共同底色",
+      "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E6%95%85%E4%BA%8B%E2%80%9D%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%80%E5%85%B1%E5%90%8C%E5%BA%95%E8%89%B2",
+      "source": "百度热搜",
       "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728193.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "近百名专家聚海南研讨海洋地震科技 赋能自贸港安全发展",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728214.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中东部雨雪天气明显缩减 北方多地最低温将下半年来首次跌破冰点",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728233.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（第九届进博会）上海杨浦与老挝携手推进贸易往来",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728207.shtml",
-      "source": "中国新闻网",
+      "title": "中国县城消费崛起",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8E%BF%E5%9F%8E%E6%B6%88%E8%B4%B9%E5%B4%9B%E8%B5%B7",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -56,58 +116,8 @@
       ]
     },
     {
-      "title": "本周末中东部地区有大范围降水 今日为雨雪最强时段",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728222.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI生成负面动漫等 一批违法违规涉军“自媒体”账号被关闭",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728197.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "菲律宾9月失业人数升至286万 就业市场承压",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728178.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "落马干部被留置当天仍在收礼",
-      "url": "https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%95%99%E7%BD%AE%E5%BD%93%E5%A4%A9%E4%BB%8D%E5%9C%A8%E6%94%B6%E7%A4%BC",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI面试逼疯打工人",
-      "url": "https://www.baidu.com/s?wd=AI%E9%9D%A2%E8%AF%95%E9%80%BC%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "国考"
-      ]
-    },
-    {
-      "title": "AI漫剧多赚钱？从业者：播放1万挣5块",
-      "url": "https://www.baidu.com/s?wd=AI%E6%BC%AB%E5%89%A7%E5%A4%9A%E8%B5%9A%E9%92%B1%EF%BC%9F%E4%BB%8E%E4%B8%9A%E8%80%85%EF%BC%9A%E6%92%AD%E6%94%BE1%E4%B8%87%E6%8C%A35%E5%9D%97",
+      "title": "大三男生宿舍制作AI漫剧 营收超300万",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E5%88%B6%E4%BD%9CAI%E6%BC%AB%E5%89%A7+%E8%90%A5%E6%94%B6%E8%B6%85300%E4%B8%87",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -116,28 +126,8 @@
       ]
     },
     {
-      "title": "被问到AI对电影影响 张艺谋难掩担忧",
-      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E5%88%B0AI%E5%AF%B9%E7%94%B5%E5%BD%B1%E5%BD%B1%E5%93%8D+%E5%BC%A0%E8%89%BA%E8%B0%8B%E9%9A%BE%E6%8E%A9%E6%8B%85%E5%BF%A7",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄称对乌实施大规模打击",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E5%AF%B9%E4%B9%8C%E5%AE%9E%E6%96%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中欧非·绿色能源发展论坛在浙江温州举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728210.shtml",
+      "title": "以更优服务解决群众急难愁盼（贯彻五中全会精神一线见闻）",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728356.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +136,8 @@
       ]
     },
     {
-      "title": "沪武高速驼岭隧道附近发生多车追尾事故 致1死4伤",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728221.shtml",
+      "title": "波兰克拉科夫发生枪击事件 已致6死16伤",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210194.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +146,8 @@
       ]
     },
     {
-      "title": "英国组合夺得中国杯世界花样滑冰大奖赛冰上舞蹈冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728208.shtml",
+      "title": "全国消防日 | 火灾调查行家说：冷静判断、科学逃生是保命根本",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728351.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +156,8 @@
       ]
     },
     {
-      "title": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728232.shtml",
+      "title": "住宅楼起火如何正确逃生？2个避险误区要警惕",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728344.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +166,8 @@
       ]
     },
     {
-      "title": "雨雪降温来袭 天津部分高速封闭限行",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728231.shtml",
+      "title": "全国119消防奖先进个人阳剑华：一只“蓝色背包”把安全背进村里",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728321.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +176,8 @@
       ]
     },
     {
-      "title": "浙江西塘上演国风主题活动 传统文化在水乡“活”起来",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728206.shtml",
+      "title": "不靠海却通江达海 重庆开州以港口为牵引构建现代化集疏运体系",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728317.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +186,8 @@
       ]
     },
     {
-      "title": "河北秦皇岛凌晨发布暴雪红色预警 降雪仍在持续",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728229.shtml",
+      "title": "西藏考古的话语权，如何从西方学者逐渐转移到中国学者手中？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/11-08/10728343.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +196,8 @@
       ]
     },
     {
-      "title": "（第九届进博会）中欧商界寻找合作共振点",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728205.shtml",
+      "title": "南宁粉纸扇扮靓城市 游客驻足打卡",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728333.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +206,8 @@
       ]
     },
     {
-      "title": "“光影聚智·两岸共生”影视文化沙龙分享会在厦门举办",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728213.shtml",
+      "title": "纪念孙中山先生诞辰160周年活动在菲律宾马尼拉举行",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-08/10728335.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +216,8 @@
       ]
     },
     {
-      "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728204.shtml",
+      "title": "广西规范华侨事务预算专项经费管理 推动侨务工作发展",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-08/10728328.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +226,18 @@
       ]
     },
     {
-      "title": "日本静冈县西部发生5.7级地震",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
+      "title": "2025年我国海洋工程建筑业实现增加值2110亿元 同比增长0.3%",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728316.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从留学生到“中间人”：泰国教师黄可莹的鲁班工坊“搭桥记”",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-08/10728324.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
