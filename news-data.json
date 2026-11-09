@@ -1,63 +1,33 @@
 {
-  "date": "2026-11-08",
-  "time": "23:48",
-  "generatedAt": "2026-11-08T23:48:41.962Z",
+  "date": "2026-11-09",
+  "time": "06:51",
+  "generatedAt": "2026-11-09T06:51:58.554Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
+      "title": "重庆海关物流数据开放互联试点场景建设数据服务项目中标公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728794.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "policy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
+      "title": "印度中央邦排灯节期间发生两起火灾 致12人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728800.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "婚介服务市场调查：说好“精准匹配”，实则名不副实",
-      "url": "https://www.chinanews.com.cn/fz/2026/11-09/10728588.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国一大学接连发生两起枪击事件 致1死3伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "我国成功发射卫星互联网低轨29组卫星",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728582.shtml",
+      "title": "2026基层社会治理创新座谈会聚焦新质生产力赋能基层治理",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728788.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,8 +36,38 @@
       ]
     },
     {
-      "title": "美国一大学校园发生两起枪击事件 致1死3伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728580.shtml",
+      "title": "桂林通报“部分天桥扶梯运行不稳定”问题：已成立调查组开展核查",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728767.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆海关缉私局移动警务服务项目中标公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728796.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第十二届深圳摄影作品年度展呈现生态人文科技交织画卷",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728771.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "寒潮主体南下！今天降温核心转移至南方 中东部逐步开启升温模式",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728785.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,19 +76,39 @@
       ]
     },
     {
-      "title": "WTA250香港公开赛收官  美国选手刘婧文击败菲律宾选手埃亚拉夺得女单冠军",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728566.shtml",
+      "title": "匠心护老暖桑榆 沈阳市“工匠杯”养老护理员职工职业技能竞赛完赛",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728780.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "专访美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml",
+      "title": "峒中海关关于开展2026年11月份“关领导接待日”的公告",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728776.shtml",
       "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "医药领域专家学者齐聚“中华药港” 共商人工智能赋能医药创新",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728772.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "消费三姐妹 为什么不香了",
+      "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E4%B8%89%E5%A7%90%E5%A6%B9+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E9%A6%99%E4%BA%86",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -96,8 +116,28 @@
       ]
     },
     {
-      "title": "满屏“人生赢家”，不是你的标准答案",
-      "url": "https://www.chinanews.com.cn/ll/2026/11-09/10728591.shtml",
+      "title": "宇树科技盘中涨超15% 市值重回3000亿",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%9B%98%E4%B8%AD%E6%B6%A8%E8%B6%8515%25+%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E3000%E4%BA%BF",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上海一老人将百万遗产赠养老院院长",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%80%81%E4%BA%BA%E5%B0%86%E7%99%BE%E4%B8%87%E9%81%97%E4%BA%A7%E8%B5%A0%E5%85%BB%E8%80%81%E9%99%A2%E9%99%A2%E9%95%BF",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "移民后裔寒衣节齐聚“华人老家”山西洪洞大槐树祭祖",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728783.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +146,8 @@
       ]
     },
     {
-      "title": "今天，想请你重新认识一下“蓝朋友”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728590.shtml",
+      "title": "（第九届进博会）“新阶层·建设力”链接进博会 共筑“出海桥梁”",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728804.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +156,8 @@
       ]
     },
     {
-      "title": "不明来历快递里的二维码，扫完会通向哪里",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728589.shtml",
+      "title": "中国海警舰艇编队在中国钓鱼岛及其附属岛屿领海内维权巡航",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728781.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +166,8 @@
       ]
     },
     {
-      "title": "日本宫城县近海发生4.5级地震 多地有震感",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728585.shtml",
+      "title": "逾千名徒步爱好者齐聚清远连南 徒步穿越瑶乡赏秋景",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728779.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +176,8 @@
       ]
     },
     {
-      "title": "11月9日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/11-09/10728583.shtml",
+      "title": "广东东莞：广深改扩建项目加紧施工",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210323.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
+      "title": "长春举办动力伞编队展演 庆祝人民空军成立77周年",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728782.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "埃及列车脱轨事故已致7死112伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
+      "title": "河北邯郸凝聚“五老”银发力量巧解乡村纠纷",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728774.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "南非地方选举计票结束 非国大保住第一大党地位",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728578.shtml",
+      "title": "习近平致电祝贺约托娃当选保加利亚总统",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728775.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728577.shtml",
+      "title": "暨南大学公共管理学院举行建院15周年高质量发展大会",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728778.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "伊拉克库尔德自治区天然气田遭不明来源无人机袭击",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
+      "title": "从“渔花子村”到“网红渔村”：江苏扬州沿湖村的美丽蝶变",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728777.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,48 +236,8 @@
       ]
     },
     {
-      "title": "加沙中部流离失所者营地发生沙土塌方 已致5人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728574.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普称“铁门”特遣行动正全面展开 几乎没有物资能进出伊朗",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728573.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "举重世锦赛落幕：中国队夺得17金10银6铜",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "山西太原一公寓发生火灾 致5人遇难",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728568.shtml",
+      "title": "中国12月起推行进口小客车新车上牌“一件事”等5项便民新措施",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728766.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
