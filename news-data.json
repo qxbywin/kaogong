@@ -1,73 +1,33 @@
 {
   "date": "2026-11-09",
-  "time": "06:51",
-  "generatedAt": "2026-11-09T06:51:58.554Z",
+  "time": "17:39",
+  "generatedAt": "2026-11-09T17:39:23.220Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "重庆海关物流数据开放互联试点场景建设数据服务项目中标公告",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728794.shtml",
+      "title": "泰国商务部与泰国商会加强合作应对全球贸易挑战",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10729156.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "印度中央邦排灯节期间发生两起火灾 致12人死亡",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728800.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "2026基层社会治理创新座谈会聚焦新质生产力赋能基层治理",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728788.shtml",
+      "title": "克莱恩斯欧洲环保协会龙迪：中国是全球气候行动“最坚定的支持者”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729151.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "桂林通报“部分天桥扶梯运行不稳定”问题：已成立调查组开展核查",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728767.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重庆海关缉私局移动警务服务项目中标公告",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728796.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第十二届深圳摄影作品年度展呈现生态人文科技交织画卷",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728771.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "寒潮主体南下！今天降温核心转移至南方 中东部逐步开启升温模式",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728785.shtml",
+      "title": "2026国际山地旅游暨户外运动大会在贵州兴义开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729145.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,28 +36,18 @@
       ]
     },
     {
-      "title": "匠心护老暖桑榆 沈阳市“工匠杯”养老护理员职工职业技能竞赛完赛",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728780.shtml",
+      "title": "安徽砀山警方通报一起持刀伤人案：4人受伤，嫌犯被抓获",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729144.shtml",
       "source": "中国新闻网",
-      "cat": "society",
+      "cat": "hot",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "峒中海关关于开展2026年11月份“关领导接待日”的公告",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728776.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "医药领域专家学者齐聚“中华药港” 共商人工智能赋能医药创新",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728772.shtml",
+      "title": "（第九届进博会）进博会成全球前沿科技“首秀场”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729139.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -106,9 +56,19 @@
       ]
     },
     {
-      "title": "消费三姐妹 为什么不香了",
-      "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E4%B8%89%E5%A7%90%E5%A6%B9+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E9%A6%99%E4%BA%86",
-      "source": "百度热搜",
+      "title": "香港学者李成：粤港澳大湾区有望建成全球首个“AI湾区”",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-09/10729135.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（第九届进博会）路易达孚全球首席执行官：贴近中国市场能更早发现新需求",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729120.shtml",
+      "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -116,9 +76,29 @@
       ]
     },
     {
-      "title": "宇树科技盘中涨超15% 市值重回3000亿",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%9B%98%E4%B8%AD%E6%B6%A8%E8%B6%8515%25+%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E3000%E4%BA%BF",
-      "source": "百度热搜",
+      "title": "“黄河入晋第一县”山西偏关：依托资源优势 做强农业能源文旅特色产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729119.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（第九届进博会）进博会捕捉中国银发消费新需求",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729133.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "20家海外华媒走读安徽 探科技寻文脉",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-09/10729128.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -126,8 +106,8 @@
       ]
     },
     {
-      "title": "上海一老人将百万遗产赠养老院院长",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%80%81%E4%BA%BA%E5%B0%86%E7%99%BE%E4%B8%87%E9%81%97%E4%BA%A7%E8%B5%A0%E5%85%BB%E8%80%81%E9%99%A2%E9%99%A2%E9%95%BF",
+      "title": "养老金要崩盘？有压力≠会崩盘",
+      "url": "https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E9%87%91%E8%A6%81%E5%B4%A9%E7%9B%98%EF%BC%9F%E6%9C%89%E5%8E%8B%E5%8A%9B%E2%89%A0%E4%BC%9A%E5%B4%A9%E7%9B%98",
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
@@ -136,8 +116,48 @@
       ]
     },
     {
-      "title": "移民后裔寒衣节齐聚“华人老家”山西洪洞大槐树祭祖",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728783.shtml",
+      "title": "一批违法违规涉军自媒体被通报",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E6%B6%89%E5%86%9B%E8%87%AA%E5%AA%92%E4%BD%93%E8%A2%AB%E9%80%9A%E6%8A%A5",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河南大学生用AI做短剧营收超百万",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E5%81%9A%E7%9F%AD%E5%89%A7%E8%90%A5%E6%94%B6%E8%B6%85%E7%99%BE%E4%B8%87",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "过度依赖数据也是一种形式主义",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%87%E5%BA%A6%E4%BE%9D%E8%B5%96%E6%95%B0%E6%8D%AE%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI短剧不该再去赌一部爆款",
+      "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%8D%E8%AF%A5%E5%86%8D%E5%8E%BB%E8%B5%8C%E4%B8%80%E9%83%A8%E7%88%86%E6%AC%BE",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "德国总理默茨正式提名艾格纳竞选总统",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10729157.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +166,8 @@
       ]
     },
     {
-      "title": "（第九届进博会）“新阶层·建设力”链接进博会 共筑“出海桥梁”",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728804.shtml",
+      "title": "新西兰作家尤金·道尔：全球气候行动中，中国是“房间里成熟的大人”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729152.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "中国海警舰艇编队在中国钓鱼岛及其附属岛屿领海内维权巡航",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728781.shtml",
+      "title": "送别翻译家谢莹莹：明亮的生命之歌将永远回响",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729148.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "逾千名徒步爱好者齐聚清远连南 徒步穿越瑶乡赏秋景",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728779.shtml",
+      "title": "（第九届进博会）华商话进博：这里是“入海口”更是“加油站”",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-09/10729147.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "广东东莞：广深改扩建项目加紧施工",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210323.shtml",
+      "title": "云南多地迎来今冬初雪 高海拔山区银装素裹",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729146.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "长春举办动力伞编队展演 庆祝人民空军成立77周年",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728782.shtml",
+      "title": "2026年10月份我国CPI同比上涨0.7%",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729143.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "河北邯郸凝聚“五老”银发力量巧解乡村纠纷",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728774.shtml",
+      "title": "中欧班列（长沙）双枢纽班列首发 驶入“枢纽对枢纽”阶段",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/11-09/10729141.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "习近平致电祝贺约托娃当选保加利亚总统",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728775.shtml",
+      "title": "（第九届进博会）进博会“首发效应”凸显 展品加速变爆款",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729142.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "暨南大学公共管理学院举行建院15周年高质量发展大会",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728778.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从“渔花子村”到“网红渔村”：江苏扬州沿湖村的美丽蝶变",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728777.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国12月起推行进口小客车新车上牌“一件事”等5项便民新措施",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728766.shtml",
+      "title": "澳门青少年赴四川北川研学 体验羌族非遗感知民族文化魅力",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-09/10729140.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
