@@ -1,43 +1,23 @@
 {
   "date": "2026-11-10",
-  "time": "10:01",
-  "generatedAt": "2026-11-10T10:01:43.907Z",
+  "time": "17:57",
+  "generatedAt": "2026-11-10T17:57:49.239Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "司法部、民政部就《基金会管理条例》修订答记者问",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729602.shtml",
+      "title": "2026广州轨道交通产业生态大会双向落地一批项目",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729819.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
+      "cat": "economy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "划定四大方面 卫星导航定位基准站网强制性国标出台",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729601.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国牵头制定的光栅扫描激光显示国际标准发布",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729550.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "甘肃民勤：沙乡产业“微工厂”成农民就业“容纳器”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729552.shtml",
+      "title": "胡军：产业向新向绿让中国经济增长动能更加强劲",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729860.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,18 +26,8 @@
       ]
     },
     {
-      "title": "广西南宁至越南海防国际客运航线复航",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729568.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "急难愁盼现场处置 沈阳“科长值班窗口”兜底解决办事难题",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729555.shtml",
+      "title": "北京一零一中教育集团校长熊永昌：让生态文明扎根孩子心中",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729857.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -66,49 +36,9 @@
       ]
     },
     {
-      "title": "湖北出土音乐文物在美国展出 再现中华礼乐文明",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729556.shtml",
+      "title": "生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729847.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中新健康｜业内人士：影像AI需不只会“找病灶”，还要会“写报告”",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-10/10729594.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "幼儿园、小学、初中学龄人口已经达峰",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E3%80%81%E5%B0%8F%E5%AD%A6%E3%80%81%E5%88%9D%E4%B8%AD%E5%AD%A6%E9%BE%84%E4%BA%BA%E5%8F%A3%E5%B7%B2%E7%BB%8F%E8%BE%BE%E5%B3%B0",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "发改委：照顾老人孩子压力实实在在",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E7%85%A7%E9%A1%BE%E8%80%81%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%8E%8B%E5%8A%9B%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "A股收盘：全市场近百股涨停",
-      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%91%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
-      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -116,68 +46,38 @@
       ]
     },
     {
-      "title": "国产AI短剧火到海外",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
-      "source": "百度热搜",
-      "cat": "tech",
+      "title": "王沪宁会见老挝建国阵线中央委员会副主席布沙迪",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210503.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "1688元的快乐，8元搞定！这份东北冬日文旅体验值得“全款拿下”",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729604.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "点外卖、网约车真实手机号将隐藏 首批700专用码号服务业务试点获批",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729606.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "药房联手MCN私域“坑老”被曝光 长沙三部门连夜取证查处",
-      "url": "https://www.chinanews.com.cn/fz/2026/11-10/10729605.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海迪士尼第三座主题酒店即将开门迎客",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729535.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "事关民法典继承编的解释 最高法向社会公开征求意见",
-      "url": "https://www.chinanews.com.cn/fz/2026/11-10/10729597.shtml",
+      "title": "海南推进城乡建设低碳转型 全面推广绿色建筑",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729843.shtml",
       "source": "中国新闻网",
       "cat": "society",
-      "score": 0,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "微短剧《侨批生命线》广西东兴开机 再现东兴汇路烽火往事",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729546.shtml",
+      "title": "2026年全国重庆商会会长会议举行 张兴海呼吁擦亮“渝商”金字招牌",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729827.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "马来西亚前总理纳吉布开始居家服刑",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729865.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +86,8 @@
       ]
     },
     {
-      "title": "直播海报：致敬人民空军成立77周年 体验飞行员的一天",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729598.shtml",
+      "title": "商家呼吁“取消外卖”？实为MCN制造对立、虚假摆拍引流",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729864.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +96,8 @@
       ]
     },
     {
-      "title": "展示电影资源与成果 金鸡百花电影节专场推介福建电影",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729551.shtml",
+      "title": "2026年度邵逸夫奖在港颁奖 获奖者：合作是成功关键",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729853.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +106,8 @@
       ]
     },
     {
-      "title": "苏州境内外上市公司总数达300家",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729534.shtml",
+      "title": "以味为桥 80名厨师烹制西部陆海新通道沿线美食",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729839.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +116,8 @@
       ]
     },
     {
-      "title": "陕西榆林新发现秦代行宫遗址",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729544.shtml",
+      "title": "2026澜沧江—湄公河地方政府合作论坛暨历史文化名城对话会在乐山开幕",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729828.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +126,8 @@
       ]
     },
     {
-      "title": "（第九届进博会）学者阐释进博会溢出效应释放路径 望上海形成“买全球、卖全球”双向能力",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729547.shtml",
+      "title": "韩国拟扩大派驻亚丁湾部队任务区域",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729850.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +136,108 @@
       ]
     },
     {
-      "title": "粤港澳三地海关就知识产权执法合作达成多项共识",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729549.shtml",
+      "title": "中国深部岩芯钻探最大深度提升至7000米级",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729849.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河北邯郸：废弃锅炉房变身公共文化空间",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729811.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "深圳福田红树林成候鸟越冬地 黑脸琵鹭等陆续抵达",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729813.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "浙江义乌：“双十一”前夕直播忙",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729824.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "深圳APEC主题灯光秀吸引游客",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210504.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国首个实现沙漠化逆转的省区，如何做到？宁夏官员向世界分享生态保护经验",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729844.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国国民党举办孙中山先生诞辰纪念座谈会",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729840.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上海文艺创作成果“绽放”艺术节",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729837.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国地矿领域首台全自动化钻机在川西高原投用",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729835.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国海警局南海分局集中打击走私查办案件21起",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729833.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王毅同法国外长巴罗通电话",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729838.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
