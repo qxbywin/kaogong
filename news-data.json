@@ -1,23 +1,13 @@
 {
   "date": "2026-11-10",
-  "time": "01:38",
-  "generatedAt": "2026-11-10T01:38:43.272Z",
+  "time": "10:01",
+  "generatedAt": "2026-11-10T10:01:43.907Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "教育部、公安部、农业农村部部署实施服务乡村振兴高校招生专项计划",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729219.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北海海关业务网新版门户网站开发建设服务项目协商谈判采购公告",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729220.shtml",
+      "title": "司法部、民政部就《基金会管理条例》修订答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729602.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -26,48 +16,18 @@
       ]
     },
     {
-      "title": "东兴海关罗浮缉私基地食堂劳务服务采购项目竞争性协商公告",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729217.shtml",
+      "title": "划定四大方面 卫星导航定位基准站网强制性国标出台",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729601.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "龙邦海关关于发布2026年11月份 “关领导接待日”的公告",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729210.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "平孟海关关于2026年11月份“关领导接待日”的公告",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729208.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "学习贯彻党的二十届五中全会精神中央宣讲团在军委机关宣讲",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729176.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中东部回暖将持续至13日 西南地区今明天多阴雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729198.shtml",
+      "title": "中国牵头制定的光栅扫描激光显示国际标准发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729550.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -76,18 +36,8 @@
       ]
     },
     {
-      "title": "中央气象台：云南等地多阴雨 新疆等地多雨雪 东部和南部海域有大风天气",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729187.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“消费入座”，如何让商家不必两难？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729193.shtml",
+      "title": "甘肃民勤：沙乡产业“微工厂”成农民就业“容纳器”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729552.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -96,59 +46,9 @@
       ]
     },
     {
-      "title": "“消费审批”类小程序走红 隐私与内容治理考验平台能走多远",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729190.shtml",
+      "title": "广西南宁至越南海防国际客运航线复航",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729568.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "八部门联合印发通知支持实体书店服务全民阅读",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729185.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一批违法违规涉军自媒体被通报",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E6%B6%89%E5%86%9B%E8%87%AA%E5%AA%92%E4%BD%93%E8%A2%AB%E9%80%9A%E6%8A%A5",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "桂林通报“天桥扶梯建而不用问题”",
-      "url": "https://www.baidu.com/s?wd=%E6%A1%82%E6%9E%97%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A4%A9%E6%A1%A5%E6%89%B6%E6%A2%AF%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8%E9%97%AE%E9%A2%98%E2%80%9D",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "6人餐消费51万？饭店称小票系伪造",
-      "url": "https://www.baidu.com/s?wd=6%E4%BA%BA%E9%A4%90%E6%B6%88%E8%B4%B951%E4%B8%87%EF%BC%9F%E9%A5%AD%E5%BA%97%E7%A7%B0%E5%B0%8F%E7%A5%A8%E7%B3%BB%E4%BC%AA%E9%80%A0",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普质疑美国中期选举结果",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A8%E7%96%91%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C",
-      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -156,8 +56,58 @@
       ]
     },
     {
-      "title": "加油新规推行 消费者加油有何新变化",
-      "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%84%E6%8E%A8%E8%A1%8C+%E6%B6%88%E8%B4%B9%E8%80%85%E5%8A%A0%E6%B2%B9%E6%9C%89%E4%BD%95%E6%96%B0%E5%8F%98%E5%8C%96",
+      "title": "急难愁盼现场处置 沈阳“科长值班窗口”兜底解决办事难题",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729555.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "湖北出土音乐文物在美国展出 再现中华礼乐文明",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729556.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中新健康｜业内人士：影像AI需不只会“找病灶”，还要会“写报告”",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-10/10729594.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "幼儿园、小学、初中学龄人口已经达峰",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E3%80%81%E5%B0%8F%E5%AD%A6%E3%80%81%E5%88%9D%E4%B8%AD%E5%AD%A6%E9%BE%84%E4%BA%BA%E5%8F%A3%E5%B7%B2%E7%BB%8F%E8%BE%BE%E5%B3%B0",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "发改委：照顾老人孩子压力实实在在",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E7%85%A7%E9%A1%BE%E8%80%81%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%8E%8B%E5%8A%9B%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "A股收盘：全市场近百股涨停",
+      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%91%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -166,8 +116,18 @@
       ]
     },
     {
-      "title": "寒潮影响已近尾声 云南贵州新疆等地多降水",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729214.shtml",
+      "title": "国产AI短剧火到海外",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "1688元的快乐，8元搞定！这份东北冬日文旅体验值得“全款拿下”",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729604.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "打好扫黑除恶的“新战役”（人民时评）",
-      "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729218.shtml",
+      "title": "点外卖、网约车真实手机号将隐藏 首批700专用码号服务业务试点获批",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729606.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "湖南省体育局党组成员、副局长陈彬接受审查调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729209.shtml",
+      "title": "药房联手MCN私域“坑老”被曝光 长沙三部门连夜取证查处",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-10/10729605.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "太空算力成全球竞争新方向 我国“星云星座计划”亮相",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729206.shtml",
+      "title": "上海迪士尼第三座主题酒店即将开门迎客",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729535.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,18 @@
       ]
     },
     {
-      "title": "（寻味中华｜艺林）黄山脚下遇知音 三百年徽剧走向世界舞台",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729201.shtml",
+      "title": "事关民法典继承编的解释 最高法向社会公开征求意见",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-10/10729597.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "微短剧《侨批生命线》广西东兴开机 再现东兴汇路烽火往事",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729546.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +186,8 @@
       ]
     },
     {
-      "title": "“取消外卖关闭直播”实为精心策划的“表演” 情绪对立如何变现为流量生意？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729204.shtml",
+      "title": "直播海报：致敬人民空军成立77周年 体验飞行员的一天",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729598.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +196,8 @@
       ]
     },
     {
-      "title": "中国国家博物馆为“顶流”凤冠单独开展",
-      "url": "http://www.chinanews.com.cn/cul/shipin/cns-d/2026/11-10/news1074378.shtml",
+      "title": "展示电影资源与成果 金鸡百花电影节专场推介福建电影",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729551.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +206,38 @@
       ]
     },
     {
-      "title": "【第九届进博会】进博会搭起双向桥：外资加码在华布局 中国品牌借展出海",
-      "url": "http://www.chinanews.com.cn/cj/shipin/cns/2026/11-10/news1074376.shtml",
+      "title": "苏州境内外上市公司总数达300家",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729534.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "陕西榆林新发现秦代行宫遗址",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729544.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（第九届进博会）学者阐释进博会溢出效应释放路径 望上海形成“买全球、卖全球”双向能力",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729547.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "粤港澳三地海关就知识产权执法合作达成多项共识",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729549.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
