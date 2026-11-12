@@ -1,13 +1,23 @@
 {
   "date": "2026-11-12",
-  "time": "03:55",
-  "generatedAt": "2026-11-12T03:55:00.789Z",
+  "time": "12:56",
+  "generatedAt": "2026-11-12T12:56:25.098Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "收紧管控边界 新修正《陕西省秦始皇陵保护条例》施行",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730726.shtml",
+      "title": "湖南省(国际)创新创业大赛总决赛开赛 54支海内外团队“顶峰相见”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731124.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "超大城市如何更具安全韧性 杭州市政协专题协商建言",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731121.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -16,8 +26,8 @@
       ]
     },
     {
-      "title": "MCN机构如何织起“买号—洗稿—刷量”的黑灰产业链？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730723.shtml",
+      "title": "上期所：强化会员风控水平 保障市场稳健运行",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731130.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -26,8 +36,28 @@
       ]
     },
     {
-      "title": "美国费城交响乐团2026年中国巡演海南首站启幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730700.shtml",
+      "title": "银川阅海湾科创港两大创新载体启用 打通成果转化与超级个体创业通道",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731126.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "宁夏中宁大战场农民合唱团案例入选全国基层思政工作创新案例",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731127.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "何立峰会见美国景顺集团总裁兼首席执行官施洛斯伯格",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731132.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,8 +66,8 @@
       ]
     },
     {
-      "title": "“文明互鉴国际论坛二〇二六”在澳门举办 以文化为桥 跨山海对话",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730707.shtml",
+      "title": "宁夏生态环境治理故事亮相联合国COP31大会",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731128.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,38 +76,18 @@
       ]
     },
     {
-      "title": "上海气质 国际风范——在进博会感受有序与活力",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml",
+      "title": "横琴再添一家上市企业 一微科技在港交所主板敲钟",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731116.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "国际人士热切期待APEC“深圳时间”",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730703.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄外交部：日本应放弃推进再军事化",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730695.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "Anthropic披露AI仅用3天适配AMD芯片",
-      "url": "https://www.baidu.com/s?wd=Anthropic%E6%8A%AB%E9%9C%B2AI%E4%BB%85%E7%94%A83%E5%A4%A9%E9%80%82%E9%85%8DAMD%E8%8A%AF%E7%89%87",
+      "title": "红楼梦AI短剧侵害17位演员肖像权",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%A5%BC%E6%A2%A6AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E5%AE%B317%E4%BD%8D%E6%BC%94%E5%91%98%E8%82%96%E5%83%8F%E6%9D%83",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -86,8 +96,8 @@
       ]
     },
     {
-      "title": "俄罗斯驻美大使达尔奇耶夫去世",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%BE%BE%E5%B0%94%E5%A5%87%E8%80%B6%E5%A4%AB%E5%8E%BB%E4%B8%96",
+      "title": "因安全担忧 美国男足宣布退赛",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7+%E7%BE%8E%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%AE%A3%E5%B8%83%E9%80%80%E8%B5%9B",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -96,8 +106,8 @@
       ]
     },
     {
-      "title": "女子书店买书后坐咖啡区被要求消费",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%A6%E5%BA%97%E4%B9%B0%E4%B9%A6%E5%90%8E%E5%9D%90%E5%92%96%E5%95%A1%E5%8C%BA%E8%A2%AB%E8%A6%81%E6%B1%82%E6%B6%88%E8%B4%B9",
+      "title": "双11消费逻辑正在重写",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%8C11%E6%B6%88%E8%B4%B9%E9%80%BB%E8%BE%91%E6%AD%A3%E5%9C%A8%E9%87%8D%E5%86%99",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -106,8 +116,18 @@
       ]
     },
     {
-      "title": "A股午评：近3000只个股飘绿，三大指数集体收涨",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730728.shtml",
+      "title": "外交部回应七国集团涉台相关声明",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E6%B6%89%E5%8F%B0%E7%9B%B8%E5%85%B3%E5%A3%B0%E6%98%8E",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026泉州南少林功夫精英赛开幕 逾千名海内外选手参赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731137.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +136,8 @@
       ]
     },
     {
-      "title": "探访盐城鹤行书局：方寸书香点亮一座城",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730725.shtml",
+      "title": "黑龙江民营企业家参加“龙商铸魂·北大荒精神行”研学活动",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731122.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +146,8 @@
       ]
     },
     {
-      "title": "男子醉驾后伪造“送孕妻就医”记录 缘何被从重处罚→",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730727.shtml",
+      "title": "湖北多措并举推进质量强省建设",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731107.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +156,8 @@
       ]
     },
     {
-      "title": "外媒：马克龙迎接斯洛伐克总统 仪仗队队员当场晕倒",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730718.shtml",
+      "title": "民歌大观走进“极边第一城”云南腾冲 田埂“民”星唱响边关薪火",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10731129.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +166,8 @@
       ]
     },
     {
-      "title": "（长征胜利90周年）红军烈士后代广西兴安界首渡口祭英烈：湘江没有忘记你",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730711.shtml",
+      "title": "亚洲仅设两站——2026世界网球大师赛MT1000首次落户中国温州",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731111.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "早期像感冒、严重可致命！很多人分不清",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730716.shtml",
+      "title": "速度滑冰世界杯北京站将启 冬奥冠军宁忠岩、高亭宇新周期轻松上阵",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731131.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "青春华章·我们的新长征丨走进百年南开中学，从一面镜子开始",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730636.shtml",
+      "title": "2027赛季“东北超”参赛队伍增至12支",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731125.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
+      "title": "亚洲青年科学家基金已资助48位学者 首批获资助者成果斐然",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731104.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "中国海油在渤海中部海域取得超深层油气勘探重大突破",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730704.shtml",
+      "title": "“未央遗珍——古陶文明博物馆藏西汉骨签展”在杭州开展",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10731120.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "柬埔寨风情汇聚昆明 上演异域文化盛宴",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730698.shtml",
+      "title": "大湾区电商班列跑出“空铁联运”新速度",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731109.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "广西龙胜：培训技艺传非遗",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730694.shtml",
+      "title": "青海推出首部“听声识鸟”科普手册",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731123.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730688.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一批侵华日军细菌战化学战新罪证集中发布",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730697.shtml",
+      "title": "天津市委连续8年委托民主党派、无党派人士开展重点考察调研 市工商联今年首次参与",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731118.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
