@@ -1,133 +1,13 @@
 {
-  "date": "2026-11-11",
-  "time": "22:49",
-  "generatedAt": "2026-11-11T22:49:13.100Z",
+  "date": "2026-11-12",
+  "time": "03:55",
+  "generatedAt": "2026-11-12T03:55:00.789Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730549.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "河南省直住房公积金政策调整",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%9C%81%E7%9B%B4%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄外交部：将持续致力于揭露日本军国主义罪行",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730575.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "伊朗议长：美国必须满足伊方提出的七项条件",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730573.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄外交部：俄驻美大使达尔奇耶夫猝然去世",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730572.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "集安组织峰会通过宣言 取消亚美尼亚投票权",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730570.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "报告显示多重挑战下在德中资企业短期投资意愿保持谨慎",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730568.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "德权威机构大幅上调2026年德国经济增长预期",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“熊猫杯”国际足球锦标赛中国U19男足首站告捷",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年中国国际拳击公开赛收官 中国选手9金领跑",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730565.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王毅同美国国务卿鲁比奥通电话",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730564.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（深圳APEC）2026年APEC领导人会议周新闻中心启用",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730556.shtml",
+      "title": "收紧管控边界 新修正《陕西省秦始皇陵保护条例》施行",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730726.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -136,18 +16,8 @@
       ]
     },
     {
-      "title": "俄美乌三方会谈结束 俄乌就大规模换俘达成一致",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730554.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "报告显示：中国旅游市场人气旺盛 “流量转化”考题待解",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730553.shtml",
+      "title": "MCN机构如何织起“买号—洗稿—刷量”的黑灰产业链？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730723.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -156,9 +26,59 @@
       ]
     },
     {
-      "title": "中国发射探源计划探路者卫星",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730548.shtml",
+      "title": "美国费城交响乐团2026年中国巡演海南首站启幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730700.shtml",
       "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“文明互鉴国际论坛二〇二六”在澳门举办 以文化为桥 跨山海对话",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730707.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上海气质 国际风范——在进博会感受有序与活力",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国际人士热切期待APEC“深圳时间”",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730703.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄外交部：日本应放弃推进再军事化",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730695.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "Anthropic披露AI仅用3天适配AMD芯片",
+      "url": "https://www.baidu.com/s?wd=Anthropic%E6%8A%AB%E9%9C%B2AI%E4%BB%85%E7%94%A83%E5%A4%A9%E9%80%82%E9%85%8DAMD%E8%8A%AF%E7%89%87",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -166,9 +86,19 @@
       ]
     },
     {
-      "title": "中国（内蒙古）自由贸易试验区法治研究中心揭牌",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730546.shtml",
-      "source": "中国新闻网",
+      "title": "俄罗斯驻美大使达尔奇耶夫去世",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%BE%BE%E5%B0%94%E5%A5%87%E8%80%B6%E5%A4%AB%E5%8E%BB%E4%B8%96",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "女子书店买书后坐咖啡区被要求消费",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%A6%E5%BA%97%E4%B9%B0%E4%B9%A6%E5%90%8E%E5%9D%90%E5%92%96%E5%95%A1%E5%8C%BA%E8%A2%AB%E8%A6%81%E6%B1%82%E6%B6%88%E8%B4%B9",
+      "source": "百度热搜",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -176,71 +106,141 @@
       ]
     },
     {
-      "title": "山西老年人口突破800万  围绕五大重点谋划“十五五”老龄工作布局",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730545.shtml",
+      "title": "A股午评：近3000只个股飘绿，三大指数集体收涨",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730728.shtml",
       "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "山西民政收官“十四五”惠及184万民众  五大方向布局“十五五”民生工作",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730543.shtml",
+      "title": "探访盐城鹤行书局：方寸书香点亮一座城",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730725.shtml",
       "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "学习贯彻党的二十届五中全会精神中央宣讲团在中宣部宣讲",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730538.shtml",
+      "title": "男子醉驾后伪造“送孕妻就医”记录 缘何被从重处罚→",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730727.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "Anthropic世纪IPO恐成AI行情高点",
-      "url": "https://www.baidu.com/s?wd=Anthropic%E4%B8%96%E7%BA%AAIPO%E6%81%90%E6%88%90AI%E8%A1%8C%E6%83%85%E9%AB%98%E7%82%B9",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "外媒：马克龙迎接斯洛伐克总统 仪仗队队员当场晕倒",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730718.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "男子滥用AI恶搞红军形象被行拘",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%BB%A5%E7%94%A8AI%E6%81%B6%E6%90%9E%E7%BA%A2%E5%86%9B%E5%BD%A2%E8%B1%A1%E8%A2%AB%E8%A1%8C%E6%8B%98",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
+      "title": "（长征胜利90周年）红军烈士后代广西兴安界首渡口祭英烈：湘江没有忘记你",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730711.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "俄传奇飞行员向中国空军发来祝贺",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%BC%A0%E5%A5%87%E9%A3%9E%E8%A1%8C%E5%91%98%E5%90%91%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%8F%91%E6%9D%A5%E7%A5%9D%E8%B4%BA",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "早期像感冒、严重可致命！很多人分不清",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730716.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "申花浙江U20比赛爆发冲突",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B3%E8%8A%B1%E6%B5%99%E6%B1%9FU20%E6%AF%94%E8%B5%9B%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
+      "title": "青春华章·我们的新长征丨走进百年南开中学，从一面镜子开始",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730636.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国海油在渤海中部海域取得超深层油气勘探重大突破",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730704.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "柬埔寨风情汇聚昆明 上演异域文化盛宴",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730698.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西龙胜：培训技艺传非遗",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730694.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730688.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "一批侵华日军细菌战化学战新罪证集中发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730697.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
