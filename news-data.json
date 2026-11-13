@@ -1,23 +1,93 @@
 {
-  "date": "2026-11-12",
-  "time": "20:56",
-  "generatedAt": "2026-11-12T20:56:11.128Z",
+  "date": "2026-11-13",
+  "time": "01:56",
+  "generatedAt": "2026-11-13T01:56:54.655Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "成渝三地联合进京推介文旅 西部国际AI漫剧产业园亮相",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731214.shtml",
+      "title": "AI的冲击变成现实！全球就业格局加快重塑",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731289.shtml",
       "source": "中国新闻网",
-      "cat": "international",
-      "score": 3,
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "虚拟雪道衔接真雪场：吉林培育冰雪全产业链人才",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731283.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西三江：丹青绘侗韵 技艺惠民生",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731281.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI让论文更好写，学术诚信如何“不掉链子”",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731294.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "词元摆上双11货架 折射数字消费新变迁",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731290.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "政策发力显效 我国多项先行指标持续改善",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731284.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "《技能人才评价条例》今起征求意见 “山寨证书”怎么治？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731277.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731274.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
       "title": "美国华盛顿枪击事件致1亡4伤 嫌疑人自杀",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731239.shtml",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-13/1210679.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -26,50 +96,20 @@
       ]
     },
     {
-      "title": "英国三季度经济延续复苏态势",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731238.shtml",
+      "title": "854.5亿美元背后 中国交通正驶向“无限可能”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731268.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "society",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "黄仁勋辞职后英伟达股价震荡 分析称做空该公司的投资者获利丰厚",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731232.shtml",
+      "title": "创新药进医院，如何不再难？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731264.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中新社“新闻会客厅”在土耳其迎来首批国际客人",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国华盛顿特区发生多起枪击事件 4人中枪",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731229.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "平陆运河重塑开放格局 南宁打造面向东盟国际物流枢纽",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731218.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
@@ -86,28 +126,8 @@
       ]
     },
     {
-      "title": "特朗普称美国不需要与伊朗达成协议",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国白宫附近街区发生枪击 5人中弹",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E9%99%84%E8%BF%91%E8%A1%97%E5%8C%BA%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB+5%E4%BA%BA%E4%B8%AD%E5%BC%B9",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "OpenAI称被恶作剧者骗了",
-      "url": "https://www.baidu.com/s?wd=OpenAI%E7%A7%B0%E8%A2%AB%E6%81%B6%E4%BD%9C%E5%89%A7%E8%80%85%E9%AA%97%E4%BA%86",
+      "title": "外国人唱中文歌视频可能是AI改编的",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%94%B1%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A7%86%E9%A2%91%E5%8F%AF%E8%83%BD%E6%98%AFAI%E6%94%B9%E7%BC%96%E7%9A%84",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -116,8 +136,8 @@
       ]
     },
     {
-      "title": "菲律宾多个政府部门遭网络攻击 总统府称已做好应对准备",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731240.shtml",
+      "title": "哈尔滨大雾 市民称“像走在人间仙境”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731301.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +146,8 @@
       ]
     },
     {
-      "title": "泰国借世界园艺博览会推旅游新线路",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731237.shtml",
+      "title": "哈尔滨发布大雾橙色预警",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731302.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +156,8 @@
       ]
     },
     {
-      "title": "普京会见美特使：提议康斯坦丁诺夫卡人道行动",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731236.shtml",
+      "title": "“日新万象”展览在港开幕　逾80件文物呈现孙中山多重形象",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731280.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +166,8 @@
       ]
     },
     {
-      "title": "英伟达宣布黄仁勋辞职 将遴选新CEO",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731235.shtml",
+      "title": "广西南宁市集中开展高层建筑灭火救援实战演练",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731279.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +176,8 @@
       ]
     },
     {
-      "title": "马斯克：招揽黄仁勋将是我的荣幸",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731234.shtml",
+      "title": "骑手自行理赔反被索万元违约金，法院驳回律所诉求",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731299.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +186,8 @@
       ]
     },
     {
-      "title": "特朗普：建议库克接替黄仁勋担任英伟达CEO",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731233.shtml",
+      "title": "民众漫步烟雨永泉小镇 沉浸式体验民俗乡土风情",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731285.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +196,8 @@
       ]
     },
     {
-      "title": "英伟达股价开盘暴跌13% 或创2025年以来最大单日跌幅",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731230.shtml",
+      "title": "超龄受伤不算工伤？银发务工群体工伤难题有了新解",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731297.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +206,8 @@
       ]
     },
     {
-      "title": "菲律宾马尼拉街头发生警匪交火 致两死一伤",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731227.shtml",
+      "title": "11月13日央行开展3640亿元隔夜逆回购操作",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731291.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +216,8 @@
       ]
     },
     {
-      "title": "北京将推进第四使馆区重点项目建设",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731226.shtml",
+      "title": "【潮起南天】晚年重返港大演讲，孙中山为何感言此行是“游子归家”？",
+      "url": "http://www.chinanews.com.cn/ga/shipin/cns/2026/11-13/news1074746.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +226,8 @@
       ]
     },
     {
-      "title": "澳门特区政府举办纪念孙中山先生诞辰160周年图片展",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731224.shtml",
+      "title": "吃了这么多年的胡萝卜 第一步竟错了？",
+      "url": "https://www.chinanews.com.cn/life/2026/11-13/10731288.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,28 +236,8 @@
       ]
     },
     {
-      "title": "英伟达宣布黄仁勋临时接任人：2013年加入该公司的女高管",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731225.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "百余名中外专家昆明共议东南亚地中海贫血防控合作",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731219.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731223.shtml",
+      "title": "11月13日人民币对美元中间价报6.7152 上调22个基点",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731286.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
