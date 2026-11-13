@@ -1,10 +1,40 @@
 {
   "date": "2026-11-13",
-  "time": "17:52",
-  "generatedAt": "2026-11-13T17:52:31.308Z",
+  "time": "23:41",
+  "generatedAt": "2026-11-13T23:41:30.064Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
+    {
+      "title": "“美国茅台”再创新高",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%9B%BD%E8%8C%85%E5%8F%B0%E2%80%9D%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美国联邦航空管理局发布全国范围地面停飞指令",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731872.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
     {
       "title": "“投资中国”比荷卢企业圆桌会在布鲁塞尔举行",
       "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml",
@@ -116,26 +146,6 @@
       ]
     },
     {
-      "title": "中国博物馆协会理事长：数智浪潮重塑行业 拥抱AI须把握“价值边界”",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731832.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "引来全国新材料创新资源 广东茂名首届新材料创新创业大赛落幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731834.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "带你探访全国首家科技成果超市",
       "url": "https://www.baidu.com/s?wd=%E5%B8%A6%E4%BD%A0%E6%8E%A2%E8%AE%BF%E5%85%A8%E5%9B%BD%E9%A6%96%E5%AE%B6%E7%A7%91%E6%8A%80%E6%88%90%E6%9E%9C%E8%B6%85%E5%B8%82",
       "source": "百度热搜",
@@ -146,8 +156,18 @@
       ]
     },
     {
-      "title": "奔驰暂停在德所有投资 考虑关停工厂",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E6%9A%82%E5%81%9C%E5%9C%A8%E5%BE%B7%E6%89%80%E6%9C%89%E6%8A%95%E8%B5%84+%E8%80%83%E8%99%91%E5%85%B3%E5%81%9C%E5%B7%A5%E5%8E%82",
+      "title": "美国所有航班暂停起飞",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%80%E6%9C%89%E8%88%AA%E7%8F%AD%E6%9A%82%E5%81%9C%E8%B5%B7%E9%A3%9E",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "杭州老板帮老外脱毛 年收入超7亿",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%80%81%E6%9D%BF%E5%B8%AE%E8%80%81%E5%A4%96%E8%84%B1%E6%AF%9B+%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%857%E4%BA%BF",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -166,11 +186,31 @@
       ]
     },
     {
-      "title": "谷歌开源WeatherNext3气象数据集",
-      "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90WeatherNext3%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE%E9%9B%86",
+      "title": "奔驰暂停在德所有投资 考虑关停工厂",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E6%9A%82%E5%81%9C%E5%9C%A8%E5%BE%B7%E6%89%80%E6%9C%89%E6%8A%95%E8%B5%84+%E8%80%83%E8%99%91%E5%85%B3%E5%81%9C%E5%B7%A5%E5%8E%82",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "11月14日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-14/10731874.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "《惊天魔盗团·魔幻现场秀》登陆纽约百老汇",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-14/10731871.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -198,46 +238,6 @@
     {
       "title": "湄南河灯光节展现泰国历史文化魅力",
       "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731867.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731865.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "厉娜带火的鸭舌，十根有四根来自温州！",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731864.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王毅同韩国外长赵显会谈",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731860.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "在槟城百年机器行追寻南侨机工来时路",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-13/10731845.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
