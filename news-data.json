@@ -1,43 +1,23 @@
 {
   "date": "2026-11-14",
-  "time": "06:43",
-  "generatedAt": "2026-11-14T06:43:31.693Z",
+  "time": "14:17",
+  "generatedAt": "2026-11-14T14:17:54.945Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "AI短剧《持械入宋》火到台湾，台湾网友自嘲怕在古代活不过一集",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731992.shtml",
+      "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
+      "cat": "economy",
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "管好血糖，最该做的是“早行动” | 联合国糖尿病日",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731981.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "济可舒进医保：一剂对抗甲流乙流，创新药惠及普通家庭",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731967.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "汕头对低效闲置用地实施改造 盐碱滩蝶变“城市中央田园”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731949.shtml",
+      "title": "（深圳APEC）2026年亚太经合组织工商咨询理事会第四次会议开幕式在深圳举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732178.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -46,28 +26,8 @@
       ]
     },
     {
-      "title": "福建省第十八届运动会在三明开幕 首用林业碳票实现赛事碳中和",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731961.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "顺着汽车产业链“长”出机器人 重庆探路“车—机同源”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731960.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "即将进入中国空间站的首位外籍航天员曾在孔子学院学习中文",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731952.shtml",
+      "title": "从实验室到手术室——中国眼谷技术创新背后的生态涵养",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732172.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -76,58 +36,28 @@
       ]
     },
     {
-      "title": "openEuler发布面向Agentic Infra的操作系统，全球协同共建AI生态",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731945.shtml",
+      "title": "熊猫杯成都国际青年足球锦标赛：越南U-19男足1比2负于韩国U-19男足",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732150.shtml",
       "source": "中国新闻网",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "一组数据读懂APEC“中国年”新机遇",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E6%96%B0%E6%9C%BA%E9%81%87",
+      "title": "国足马来西亚爆发大规模冲突",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%B2%E7%AA%81",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "你的旧手机号可能被别人用来消费",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%88%AB%E4%BA%BA%E7%94%A8%E6%9D%A5%E6%B6%88%E8%B4%B9",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "吴清最新发声：防范市场异常波动",
-      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E6%B8%85%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%EF%BC%9A%E9%98%B2%E8%8C%83%E5%B8%82%E5%9C%BA%E5%BC%82%E5%B8%B8%E6%B3%A2%E5%8A%A8",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "Anthropic CEO称不在乎市场条件",
-      "url": "https://www.baidu.com/s?wd=Anthropic+CEO%E7%A7%B0%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%B8%82%E5%9C%BA%E6%9D%A1%E4%BB%B6",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "公益慢火车4元票价收7元 官方通报",
-      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%9B%8A%E6%85%A2%E7%81%AB%E8%BD%A64%E5%85%83%E7%A5%A8%E4%BB%B7%E6%94%B67%E5%85%83+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+      "title": "中纪委罕见通报高官一把手职权腐败",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5",
       "source": "百度热搜",
       "cat": "hot",
       "score": 1,
@@ -136,18 +66,8 @@
       ]
     },
     {
-      "title": "吴清：进一步深化市场微观结构研究",
-      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E6%B8%85%EF%BC%9A%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%B7%B1%E5%8C%96%E5%B8%82%E5%9C%BA%E5%BE%AE%E8%A7%82%E7%BB%93%E6%9E%84%E7%A0%94%E7%A9%B6",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "把孩子塞后备箱被查家长说送给交警",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E5%AD%A9%E5%AD%90%E5%A1%9E%E5%90%8E%E5%A4%87%E7%AE%B1%E8%A2%AB%E6%9F%A5%E5%AE%B6%E9%95%BF%E8%AF%B4%E9%80%81%E7%BB%99%E4%BA%A4%E8%AD%A6",
+      "title": "应急管理部通报：举报人获奖金30万",
+      "url": "https://www.baidu.com/s?wd=%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E9%80%9A%E6%8A%A5%EF%BC%9A%E4%B8%BE%E6%8A%A5%E4%BA%BA%E8%8E%B7%E5%A5%96%E9%87%9130%E4%B8%87",
       "source": "百度热搜",
       "cat": "hot",
       "score": 1,
@@ -156,8 +76,8 @@
       ]
     },
     {
-      "title": "日本未来五年防卫预算或增至60万亿日元",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731994.shtml",
+      "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +86,8 @@
       ]
     },
     {
-      "title": "面孔丨此心归处是湟源",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731993.shtml",
+      "title": "从承诺到行动：COP31上的中国答卷",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +96,8 @@
       ]
     },
     {
-      "title": "“南京—东南亚”滚装外贸新通道开通",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731985.shtml",
+      "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,18 +106,8 @@
       ]
     },
     {
-      "title": "今年前10个月社会融资规模新增28.61万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731982.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "江苏推出“跟着赛事去旅行”新玩法",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731976.shtml",
+      "title": "数说APEC丨中国生态治理经验 如何为亚太增“绿”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +116,8 @@
       ]
     },
     {
-      "title": "从卖产品到卖解决方案 机器人成湖南外贸的“新名片”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731975.shtml",
+      "title": "深圳通江达海的物流网如何昼夜运转？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +126,8 @@
       ]
     },
     {
-      "title": "青春华章·我们的新长征 | 实验室助力天津成“信创第一城”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731977.shtml",
+      "title": "两岸网友共创视频｜我们的城市有条中山路",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +136,8 @@
       ]
     },
     {
-      "title": "今冬供暖季能源供应总体能够满足需求——“群众温暖过冬有保障”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731972.shtml",
+      "title": "习近平主席引领亚太大家庭扬帆前行",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +146,98 @@
       ]
     },
     {
-      "title": "深圳准备就绪 以高水平服务保障APEC盛会",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731971.shtml",
+      "title": "文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "专家学者厦门共话中国—东盟旅游安全治理",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732187.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "逾300部（卷）藏传佛教宁玛派古籍文献整理出版",
+      "url": "https://www.chinanews.com.cn/zj/2026/11-14/10732189.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "荷兰学者奥雷·伯曼：万里归来，“东游”未止",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中越边境互联互通“国门大动脉”将于本月通车",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732185.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "山西公安公布一批涉嫌新型黑恶违法犯罪典型案例 22人落网",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732161.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国—东盟旅游安全学术研讨会在厦门举行",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732183.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "第三届中国呼吸健康大会开幕 钟南山发布年度十大进展",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732182.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "河北故城贡面大赛：匠人同台“拉”出细密银丝",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732174.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "侨博会点燃文旅热 侨乡浙江青田如何“接招”",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-14/10732176.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
