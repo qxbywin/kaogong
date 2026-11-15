@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
-  "time": "17:50",
-  "generatedAt": "2026-11-15T17:50:43.318Z",
+  "time": "22:58",
+  "generatedAt": "2026-11-15T22:58:11.947Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -31,6 +31,16 @@
       "source": "百度热搜",
       "cat": "policy",
       "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美“火神”火箭未能将亚马逊卫星送入预定轨道",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732531.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -136,6 +146,26 @@
       ]
     },
     {
+      "title": "11月16日早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732533.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "法国周末示威活动中超过400人被拘捕",
       "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
       "source": "中国新闻网",
@@ -208,36 +238,6 @@
     {
       "title": "云南镇康：雨林深处种出富民“金豆子”",
       "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732494.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "上海：多方携手成立关爱自闭症儿童公益联合体",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732495.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "旱情叠加超强厄尔尼诺 云南提前启动2027年度森林草原防火期",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732497.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "辽宁女足夺得2026赛季中国女超冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732491.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
