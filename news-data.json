@@ -1,23 +1,33 @@
 {
-  "date": "2026-11-14",
-  "time": "23:05",
-  "generatedAt": "2026-11-14T23:05:50.627Z",
+  "date": "2026-11-15",
+  "time": "02:49",
+  "generatedAt": "2026-11-15T02:49:31.441Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
+      "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732254.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "2026伦敦金融城市长巡游举行 “你好！中国”主题花车亮相",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732212.shtml",
+      "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732253.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "部分电动自行车3C认证卡壳 消费者上牌遇阻",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732245.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -26,8 +36,18 @@
       ]
     },
     {
-      "title": "解锁多样化主题乐园IP密码 把“看热闹”一次性消费拉长为复合消费",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml",
+      "title": "“AI漫剧”成健康科普新形式，如何避免“伪科普”陷阱？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732243.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "金融机构外汇存款准备金率今起提高至6%",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,18 +56,28 @@
       ]
     },
     {
-      "title": "（深圳APEC）2026年亚太经合组织工商咨询理事会第四次会议开幕式在深圳举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732178.shtml",
+      "title": "中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732220.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "两球零封马来西亚 中国男足终结三连败",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732211.shtml",
+      "title": "95岁美国老人一口青海话",
+      "url": "https://www.baidu.com/s?wd=95%E5%B2%81%E7%BE%8E%E5%9B%BD%E8%80%81%E4%BA%BA%E4%B8%80%E5%8F%A3%E9%9D%92%E6%B5%B7%E8%AF%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "学习新语｜亚太是我们的共同家园",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732246.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -56,8 +86,8 @@
       ]
     },
     {
-      "title": "在柬埔寨金边“法语国家文化村”感受多元文化魅力",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml",
+      "title": "速度滑冰世界杯北京站：中国选手廉子文获男子500米金牌",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210810.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -66,8 +96,8 @@
       ]
     },
     {
-      "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
+      "title": "李强会见泰国国王哇集拉隆功",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732251.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -76,8 +106,8 @@
       ]
     },
     {
-      "title": "速度滑冰世界杯北京站第二日 中国队收获2金2铜",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732205.shtml",
+      "title": "聚焦深化全民阅读  “十五五·同心聚力自贸港”七期沙龙举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732248.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -86,8 +116,8 @@
       ]
     },
     {
-      "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
+      "title": "刺绣高技能人才集群培养计划在湘启动 产教联动共育非遗绣才",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732249.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -96,8 +126,8 @@
       ]
     },
     {
-      "title": "APEC朋友圈丨中国无人机如何改变智利农田",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
+      "title": "直播海报：2026年APEC工商界活动专题新闻发布会",
+      "url": "https://www.chinanews.com.cn/kong/2026/11-15/10732252.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -106,8 +136,8 @@
       ]
     },
     {
-      "title": "期待！总台《非遗里的中国》特展即将亮相深圳",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml",
+      "title": "职场年轻人谨防胃肠“亮红灯” 专家：条件允许尽量自制餐食",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732247.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +146,8 @@
       ]
     },
     {
-      "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
+      "title": "千亿产值之后 云南文山绿色铝求解“精深”之问",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732244.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +156,8 @@
       ]
     },
     {
-      "title": "从承诺到行动：COP31上的中国答卷",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
+      "title": "《手捧繁星》亮相广州推介会：在低谷中寻光，于助人中成长",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732242.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +166,8 @@
       ]
     },
     {
-      "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
+      "title": "（寻味中华｜风俗）蟳埔女习俗：从渔村日常到花漾美学",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732241.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +176,8 @@
       ]
     },
     {
-      "title": "数说APEC丨中国生态治理经验 如何为亚太增“绿”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
+      "title": "高过姚明的章丘大葱 凭什么撑起35亿元产值？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732239.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +186,8 @@
       ]
     },
     {
-      "title": "深圳通江达海的物流网如何昼夜运转？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml",
+      "title": "第三届成都天问华语科幻文学大赛八大奖项揭晓",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732238.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +196,8 @@
       ]
     },
     {
-      "title": "两岸网友共创视频｜我们的城市有条中山路",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
+      "title": "一道寿州城墙守护一城烟火",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732234.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +206,8 @@
       ]
     },
     {
-      "title": "习近平主席引领亚太大家庭扬帆前行",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml",
+      "title": "一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732232.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +216,8 @@
       ]
     },
     {
-      "title": "文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml",
+      "title": "澳门开展同善堂历史人物研究 弘扬慈善传统",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732231.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +226,8 @@
       ]
     },
     {
-      "title": "专家学者厦门共话中国—东盟旅游安全治理",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732187.shtml",
+      "title": "秦海翔当选福州市委书记",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732223.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,38 +236,8 @@
       ]
     },
     {
-      "title": "逾300部（卷）藏传佛教宁玛派古籍文献整理出版",
-      "url": "https://www.chinanews.com.cn/zj/2026/11-14/10732189.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "荷兰学者奥雷·伯曼：万里归来，“东游”未止",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中越边境互联互通“国门大动脉”将于本月通车",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732185.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "山西公安公布一批涉嫌新型黑恶违法犯罪典型案例 22人落网",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732161.shtml",
+      "title": "第2届中国高校校友网球公开赛在郑州开赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732237.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
