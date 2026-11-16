@@ -1,14 +1,14 @@
 {
   "date": "2026-11-16",
-  "time": "02:51",
-  "generatedAt": "2026-11-16T02:51:41.296Z",
+  "time": "11:44",
+  "generatedAt": "2026-11-16T11:44:29.672Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "创新是亚太经济腾飞的翅膀",
-      "url": "https://www.baidu.com/s?wd=%E5%88%9B%E6%96%B0%E6%98%AF%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%E8%85%BE%E9%A3%9E%E7%9A%84%E7%BF%85%E8%86%80",
-      "source": "百度热搜",
+      "title": "市场监管总局通报41批次食品抽检不合格情况",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732989.shtml",
+      "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
       "exams": [
@@ -16,78 +16,38 @@
       ]
     },
     {
-      "title": "直播：国新办就2026年10月份国民经济运行情况举行新闻发布会",
-      "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732638.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732626.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "10月国民经济运行总体平稳、向新向优",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732619.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "孔泉阐述帮助理解中国对外政策的“四个关键词”",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732609.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（深圳APEC）习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732602.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第二十五届中国上海国际艺术节闭幕",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732607.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI来到教学一线，如何帮助教师轻装上阵？",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-16/10732614.shtml",
+      "title": "从文化传承到科技赋能 海外华文教育探索新路径",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-16/10732957.shtml",
       "source": "中国新闻网",
       "cat": "tech",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（机遇香港）港交所推出“点心债”指数　离岸人民币市场生态更丰富",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10732984.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "西部教师教育高质量发展论坛落地宁夏师范大学 探寻区域育人新路径",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732605.shtml",
+      "title": "第十四届中国中部投资贸易博览会将在郑州举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732972.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "忙于“甩锅”？美交通部长拒绝为全美航班停飞事件道歉",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732977.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -96,8 +56,28 @@
       ]
     },
     {
-      "title": "农银债市宝 让投资债券触手可及",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732598.shtml",
+      "title": "（深圳APEC）2026年亚太经合组织工商咨询理事会第四次会议闭幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732966.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从“抢救保护”迈向“活态新生” 江苏扬州立法护航百年扬剧",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732964.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重庆沙坪坝区将构建具有辨识度的现代化产业体系",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732962.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -106,19 +86,69 @@
       ]
     },
     {
-      "title": "官方通报“湘超”球迷拉侮辱性横幅：2人被行拘",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732584.shtml",
+      "title": "中俄美元首将举行历史性会晤 专家：重在加强大国战略沟通",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732950.shtml",
       "source": "中国新闻网",
-      "cat": "hot",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "2026青年企业家创新发展大会在北京召开",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732580.shtml",
-      "source": "中国新闻网",
+      "title": "中俄美三国元首历史首次面对面会晤",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄美元首即将会晤 释放强烈信号",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%B3%E5%B0%86%E4%BC%9A%E6%99%A4+%E9%87%8A%E6%94%BE%E5%BC%BA%E7%83%88%E4%BF%A1%E5%8F%B7",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“沈阳中考英语听力口语改革”不实",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B2%88%E9%98%B3%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E5%8F%A3%E8%AF%AD%E6%94%B9%E9%9D%A9%E2%80%9D%E4%B8%8D%E5%AE%9E",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "华晨宇演唱会拉动4亿消费",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8B%89%E5%8A%A84%E4%BA%BF%E6%B6%88%E8%B4%B9",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "俄媒记者在APEC被“包围”",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%AA%92%E8%AE%B0%E8%80%85%E5%9C%A8APEC%E8%A2%AB%E2%80%9C%E5%8C%85%E5%9B%B4%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "叶璇：大部分真人演员还不如AI",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B6%E7%92%87%EF%BC%9A%E5%A4%A7%E9%83%A8%E5%88%86%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E8%BF%98%E4%B8%8D%E5%A6%82AI",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -126,28 +156,8 @@
       ]
     },
     {
-      "title": "华东师大首颗低轨高光谱卫星“华师-科达星”揭牌 “量天星座”计划同步启动",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732578.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "AI时代的饭碗要怎么端",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732595.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "研究表明：吃对碳水的人不易胖",
-      "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%EF%BC%9A%E5%90%83%E5%AF%B9%E7%A2%B3%E6%B0%B4%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%98%93%E8%83%96",
+      "title": "吃对碳水的人炎症水平更低还不易胖",
+      "url": "https://www.baidu.com/s?wd=%E5%90%83%E5%AF%B9%E7%A2%B3%E6%B0%B4%E7%9A%84%E4%BA%BA%E7%82%8E%E7%97%87%E6%B0%B4%E5%B9%B3%E6%9B%B4%E4%BD%8E%E8%BF%98%E4%B8%8D%E6%98%93%E8%83%96",
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
@@ -166,8 +176,8 @@
       ]
     },
     {
-      "title": "国产芯片融资潮来势凶猛",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87%E8%9E%8D%E8%B5%84%E6%BD%AE%E6%9D%A5%E5%8A%BF%E5%87%B6%E7%8C%9B",
+      "title": "AI演员方桃子代言美瞳广告被罚",
+      "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%96%B9%E6%A1%83%E5%AD%90%E4%BB%A3%E8%A8%80%E7%BE%8E%E7%9E%B3%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -176,38 +186,8 @@
       ]
     },
     {
-      "title": "美军在中东再成三航母之势",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%86%8D%E6%88%90%E4%B8%89%E8%88%AA%E6%AF%8D%E4%B9%8B%E5%8A%BF",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国空管缝缝补补又三年 终于补崩了",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A9%BA%E7%AE%A1%E7%BC%9D%E7%BC%9D%E8%A1%A5%E8%A1%A5%E5%8F%88%E4%B8%89%E5%B9%B4+%E7%BB%88%E4%BA%8E%E8%A1%A5%E5%B4%A9%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "南北方大片地区气温将创新低",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%8C%97%E6%96%B9%E5%A4%A7%E7%89%87%E5%9C%B0%E5%8C%BA%E6%B0%94%E6%B8%A9%E5%B0%86%E5%88%9B%E6%96%B0%E4%BD%8E",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多国人士：中国促进亚太和全球合作发展",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732658.shtml",
+      "title": "直播：共赴深圳之约——APEC“中国年”全媒体特别节目",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732988.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +196,8 @@
       ]
     },
     {
-      "title": "国家统计局：2026年10月份规模以上工业增加值增长4.8%",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732640.shtml",
+      "title": "西安发现葬式较特殊北宋多人合葬墓 当与漏泽园制度有关",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732980.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +206,8 @@
       ]
     },
     {
-      "title": "民心如镜长相映（金台随笔）",
-      "url": "https://www.chinanews.com.cn/ll/2026/11-16/10732653.shtml",
+      "title": "宁夏青铜峡市为濒危古树设立“病历档案”和“治疗方案”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732976.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +216,28 @@
       ]
     },
     {
-      "title": "《丁未年》特种邮票图稿发布",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732650.shtml",
+      "title": "东西问｜柏大卫的湟源情缘：民间相知何以成为中美关系的“毛细血管”？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/11-16/10732973.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "宁夏银川：沙地山药采收忙",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732975.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“镌史绘风”古籍版画展登陆上海",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732985.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
