@@ -1,36 +1,36 @@
 {
   "date": "2026-11-17",
-  "time": "14:39",
-  "generatedAt": "2026-11-17T14:39:47.850Z",
+  "time": "22:59",
+  "generatedAt": "2026-11-17T22:59:02.022Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "欧盟称今年前三季度经济增长好于预期",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733772.shtml",
+      "title": "聚焦APEC｜俄罗斯总统普京抵达深圳 蔡奇前往机场迎接",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733815.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "重庆荣昌：打造具有国际影响力的畜牧科技策源地需干好“四件事”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733762.shtml",
+      "title": "大国外交进行时丨俄罗斯总统普京抵达深圳",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733813.shtml",
       "source": "中国新闻网",
       "cat": "international",
-      "score": 2,
+      "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "京东三季度服务收入占比提升至24.7% 家装、家政、医疗等服务同比三位数增长",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733751.shtml",
+      "title": "文莱苏丹哈桑纳尔抵达深圳 将出席APEC领导人非正式会议",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733801.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
+      "cat": "policy",
+      "score": 1,
       "exams": [
         "申论素材"
       ]
@@ -66,16 +66,6 @@
       ]
     },
     {
-      "title": "全国扫黑除恶斗争领导小组部署开展深化扫黑除恶专项斗争督导 陈文清出席行前培训并讲话",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733764.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "APEC工商领导人峰会聚焦哪些议题",
       "url": "https://www.baidu.com/s?wd=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98",
       "source": "百度热搜",
@@ -86,11 +76,151 @@
       ]
     },
     {
-      "title": "俄罗斯记者惊呼在深圳谁还用现金",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%B0%E8%80%85%E6%83%8A%E5%91%BC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B0%81%E8%BF%98%E7%94%A8%E7%8E%B0%E9%87%91",
+      "title": "OpenAI推出最强模型GPT-6.2 Astra",
+      "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BA%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8BGPT-6.2+Astra",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英伟达财报带动美股AI硬件盘后走高",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E5%B8%A6%E5%8A%A8%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E7%9B%98%E5%90%8E%E8%B5%B0%E9%AB%98",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "方桃子被罚 AI代言不能啥都敢说",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B9%E6%A1%83%E5%AD%90%E8%A2%AB%E7%BD%9A+AI%E4%BB%A3%E8%A8%80%E4%B8%8D%E8%83%BD%E5%95%A5%E9%83%BD%E6%95%A2%E8%AF%B4",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "以色列议会选举马坦·卡哈纳担任新任议长",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733823.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733822.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "以色列议会选举马坦·卡哈纳为新任议长",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733821.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国U19击败韩国U19 夺得熊猫杯冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733819.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "聚焦APEC｜韩国总统李在明抵达深圳",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733805.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "聚焦APEC｜马来西亚总理安瓦尔抵达深圳",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733804.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "聚焦APEC｜文莱苏丹哈桑纳尔抵达深圳",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733803.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "韩国高考防作弊“升级” 李在明称作弊行为是严重犯罪",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733799.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本“隼鸟2”号小行星探测器因发动机故障变更探测目标",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733796.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（深圳APEC）1500把椅子的“亚太时刻”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733795.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王毅会见加拿大外长阿南德",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733794.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -108,136 +238,6 @@
     {
       "title": "绿电点亮APEC会场 在深圳看见中国式现代化城市样本",
       "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733788.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "全国花滑少年逐梦长春 长春大冬会同步测试赛场",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733782.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国贡献为亚太发展注入新动能",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733786.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "深圳，见证高光时刻！",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733785.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "德勤：中国企业出海从拼产品转向拼能力",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733784.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "事业单位"
-      ]
-    },
-    {
-      "title": "特朗普最新表态：我期待访问中国",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733780.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "新书《APEC作家湾区手记》正式与读者见面",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733779.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "21条硬核措施 云南省七部门联合推进“电动云南”建设",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733778.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "港教大嘉许亚运会得奖运动员 橄榄球冠军李卡度盼深耕青少年体育",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733774.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平会见智利总统卡斯特",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211042.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "赞歌故里迎远客 歌声为桥叙友谊",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211038.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "云南侦办首例替来他明电子烟案",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733771.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（长征胜利90周年）广西桂林老兵永安关下重走长征路",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733770.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "巴西累西腓华侨华人协会拜会中国驻累总领馆",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733769.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
