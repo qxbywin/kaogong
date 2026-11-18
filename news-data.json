@@ -1,13 +1,23 @@
 {
-  "date": "2026-11-17",
-  "time": "22:59",
-  "generatedAt": "2026-11-17T22:59:02.022Z",
+  "date": "2026-11-18",
+  "time": "04:33",
+  "generatedAt": "2026-11-18T04:33:10.500Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "聚焦APEC｜俄罗斯总统普京抵达深圳 蔡奇前往机场迎接",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733815.shtml",
+      "title": "“投资中国 对话山西”中法产业合作圆桌会议在太原举办",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733927.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平会见俄罗斯总统普京",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733979.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -16,8 +26,18 @@
       ]
     },
     {
-      "title": "大国外交进行时丨俄罗斯总统普京抵达深圳",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733813.shtml",
+      "title": "东西问丨世界聚焦深圳：邂逅一座没有“科技焦虑”的未来之城",
+      "url": "https://www.chinanews.com.cn/dxw/2026/11-18/10733957.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733955.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -26,9 +46,29 @@
       ]
     },
     {
-      "title": "文莱苏丹哈桑纳尔抵达深圳 将出席APEC领导人非正式会议",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733801.shtml",
+      "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733950.shtml",
       "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "元首外交“深圳时间”开启",
+      "url": "https://www.baidu.com/s?wd=%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E2%80%9C%E6%B7%B1%E5%9C%B3%E6%97%B6%E9%97%B4%E2%80%9D%E5%BC%80%E5%90%AF",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "APEC会议近700辆红旗车全流程接待",
+      "url": "https://www.baidu.com/s?wd=APEC%E4%BC%9A%E8%AE%AE%E8%BF%91700%E8%BE%86%E7%BA%A2%E6%97%97%E8%BD%A6%E5%85%A8%E6%B5%81%E7%A8%8B%E6%8E%A5%E5%BE%85",
+      "source": "百度热搜",
       "cat": "policy",
       "score": 1,
       "exams": [
@@ -36,48 +76,8 @@
       ]
     },
     {
-      "title": "APEC工商领导人峰会聚焦区域合作 共绘亚太发展蓝图",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733790.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "APEC与会各经济体领导人将共商亚太发展大计",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733787.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "外交部驻港公署举办中国共产党二十届五中全会专题宣介会",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733767.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "APEC工商领导人峰会聚焦哪些议题",
-      "url": "https://www.baidu.com/s?wd=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "OpenAI推出最强模型GPT-6.2 Astra",
-      "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BA%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8BGPT-6.2+Astra",
+      "title": "深圳公交全是新能源车 嘉宾很震撼",
+      "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%85%AC%E4%BA%A4%E5%85%A8%E6%98%AF%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E5%98%89%E5%AE%BE%E5%BE%88%E9%9C%87%E6%92%BC",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -86,8 +86,18 @@
       ]
     },
     {
-      "title": "英伟达财报带动美股AI硬件盘后走高",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E5%B8%A6%E5%8A%A8%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E7%9B%98%E5%90%8E%E8%B5%B0%E9%AB%98",
+      "title": "中足联重罚中青赛冲突",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%B6%B3%E8%81%94%E9%87%8D%E7%BD%9A%E4%B8%AD%E9%9D%92%E8%B5%9B%E5%86%B2%E7%AA%81",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "雷军：未来三四年AI会有颠覆性时刻",
+      "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%9B%9B%E5%B9%B4AI%E4%BC%9A%E6%9C%89%E9%A2%A0%E8%A6%86%E6%80%A7%E6%97%B6%E5%88%BB",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -96,18 +106,8 @@
       ]
     },
     {
-      "title": "方桃子被罚 AI代言不能啥都敢说",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B9%E6%A1%83%E5%AD%90%E8%A2%AB%E7%BD%9A+AI%E4%BB%A3%E8%A8%80%E4%B8%8D%E8%83%BD%E5%95%A5%E9%83%BD%E6%95%A2%E8%AF%B4",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "以色列议会选举马坦·卡哈纳担任新任议长",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733823.shtml",
+      "title": "A股午评：超4500只个股飘绿，三大指数集体收跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733986.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -116,8 +116,8 @@
       ]
     },
     {
-      "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733822.shtml",
+      "title": "聚焦APEC｜印度尼西亚总统普拉博沃抵达深圳",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733981.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -126,8 +126,8 @@
       ]
     },
     {
-      "title": "以色列议会选举马坦·卡哈纳为新任议长",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733821.shtml",
+      "title": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733971.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +136,8 @@
       ]
     },
     {
-      "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
+      "title": "福建三明“以侨为桥”聚侨力促发展",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733967.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +146,8 @@
       ]
     },
     {
-      "title": "中国U19击败韩国U19 夺得熊猫杯冠军",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733819.shtml",
+      "title": "大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733962.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "title": "聚焦APEC｜韩国总统李在明抵达深圳",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733805.shtml",
+      "title": "湖北神农架守护金丝猴平安越冬",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733961.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "title": "聚焦APEC｜马来西亚总理安瓦尔抵达深圳",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733804.shtml",
+      "title": "载重5吨全球最大、可从北京直飞新疆，两款“空中卡车”试飞成功",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733956.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "title": "聚焦APEC｜文莱苏丹哈桑纳尔抵达深圳",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733803.shtml",
+      "title": "大连市上线统一战线特色宣传阵地电子地图",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-18/10733947.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "title": "韩国高考防作弊“升级” 李在明称作弊行为是严重犯罪",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733799.shtml",
+      "title": "云岭动态第四十三期",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-18/10733946.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "日本“隼鸟2”号小行星探测器因发动机故障变更探测目标",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733796.shtml",
+      "title": "（乡村行·看振兴）山西襄垣“四季生金”记：鹌鹑住上“智能房” 虾蟹搬入“暖棚里”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733932.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "（深圳APEC）1500把椅子的“亚太时刻”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733795.shtml",
+      "title": "（深圳APEC）王毅会见加拿大外长阿南德",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733867.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "王毅会见加拿大外长阿南德",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733794.shtml",
+      "title": "马来西亚华人张慧清一家重返昆明 与南侨机工外公跨时空“重逢”",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733928.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "一组数字，看深圳与APEC“双向奔赴”",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733789.shtml",
+      "title": "云南抚仙湖发现川蜷属三新种 近30年“失踪”瘤川蜷同步重现",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-18/10733926.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "绿电点亮APEC会场 在深圳看见中国式现代化城市样本",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733788.shtml",
+      "title": "国台办：台湾岛内议统望统热度不断升高",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733977.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
