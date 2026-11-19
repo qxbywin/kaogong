@@ -1,23 +1,13 @@
 {
-  "date": "2026-11-18",
-  "time": "22:07",
-  "generatedAt": "2026-11-18T22:07:33.150Z",
+  "date": "2026-11-19",
+  "time": "03:40",
+  "generatedAt": "2026-11-19T03:40:07.687Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "中外企业奏响产业创新协奏曲",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734399.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211155.shtml",
+      "title": "辽宁省算力券政策正式落地实施",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734549.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -26,8 +16,8 @@
       ]
     },
     {
-      "title": "英国10月通胀率升至一年来新高",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734425.shtml",
+      "title": "云南西双版纳举办边境贸易旅游交易会 架起澜湄经贸桥",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734551.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -36,8 +26,28 @@
       ]
     },
     {
-      "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734424.shtml",
+      "title": "汇聚海内外客商 江苏江阴以链聚势打造产业新增长极",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734554.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734531.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“来了就是深圳人！”美国网红博主晨跑深圳街头点赞城市魅力",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734529.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,8 +56,28 @@
       ]
     },
     {
-      "title": "（深圳APEC）详讯：习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734415.shtml",
+      "title": "中国成功发射实践二十四号卫星",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734524.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "床位总量下行，养老院还进得去吗",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734527.shtml",
+      "source": "中国新闻网",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734521.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -56,19 +86,29 @@
       ]
     },
     {
-      "title": "（深圳APEC）中国为何支持成立世界湾区经济合作联盟？",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734416.shtml",
+      "title": "联合国前副秘书长索尔海姆：中国清洁能源发展让各国走向繁荣与绿色",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734517.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "新华图讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734405.shtml",
+      "title": "第二届空间科学青年科学家国际论坛在塞浦路斯举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734516.shtml",
       "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平主持APEC领导人非正式会议",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%8C%81APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE",
+      "source": "百度热搜",
       "cat": "policy",
       "score": 1,
       "exams": [
@@ -76,19 +116,9 @@
       ]
     },
     {
-      "title": "马来西亚2026年第三季度GDP同比增长5.5%",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734414.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（深圳APEC）俄罗斯总统普京到访深圳北理莫斯科大学",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734413.shtml",
-      "source": "中国新闻网",
+      "title": "中俄美元首会晤是真正的历史性事件",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E4%BA%8B%E4%BB%B6",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -96,19 +126,9 @@
       ]
     },
     {
-      "title": "数智赋能 浙江云和木玩产业加速“闯”世界",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734396.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西打造面向东盟开放的国际化法治化营商环境",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734401.shtml",
-      "source": "中国新闻网",
+      "title": "白宫发布特朗普访华视频",
+      "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%8F%91%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E8%A7%86%E9%A2%91",
+      "source": "百度热搜",
       "cat": "international",
       "score": 1,
       "exams": [
@@ -116,10 +136,10 @@
       ]
     },
     {
-      "title": "“中国发展论坛·2026”聚焦现代化产业体系",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734397.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
+      "title": "这支“外交跑腿天团”就是中国排面",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%94%AF%E2%80%9C%E5%A4%96%E4%BA%A4%E8%B7%91%E8%85%BF%E5%A4%A9%E5%9B%A2%E2%80%9D%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
@@ -136,18 +156,8 @@
       ]
     },
     {
-      "title": "APEC工商领导人峰会什么话题最热",
-      "url": "https://www.baidu.com/s?wd=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%80%E4%B9%88%E8%AF%9D%E9%A2%98%E6%9C%80%E7%83%AD",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国台办回应“两岸2032年统一货币”",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%A4%E5%B2%B82032%E5%B9%B4%E7%BB%9F%E4%B8%80%E8%B4%A7%E5%B8%81%E2%80%9D",
+      "title": "经济日报：稳资本市场意义重大",
+      "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E6%97%A5%E6%8A%A5%EF%BC%9A%E7%A8%B3%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -156,28 +166,18 @@
       ]
     },
     {
-      "title": "“养老保险缴15年就能退休”系谣言",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B415%E5%B9%B4%E5%B0%B1%E8%83%BD%E9%80%80%E4%BC%91%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "title": "新一轮国资国企改革全面实施",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E5%9B%BD%E8%B5%84%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9%E5%85%A8%E9%9D%A2%E5%AE%9E%E6%96%BD",
       "source": "百度热搜",
-      "cat": "society",
+      "cat": "policy",
       "score": 1,
       "exams": [
-        "申论素材"
+        "事业单位"
       ]
     },
     {
-      "title": "美国悬赏千万征集缅甸电诈洗钱线索",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%82%AC%E8%B5%8F%E5%8D%83%E4%B8%87%E5%BE%81%E9%9B%86%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E6%B4%97%E9%92%B1%E7%BA%BF%E7%B4%A2",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄美专机在中国机场同框",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E4%B8%93%E6%9C%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%9C%BA%E5%90%8C%E6%A1%86",
+      "title": "美国博主深圳晨跑点赞城市标语",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8D%9A%E4%B8%BB%E6%B7%B1%E5%9C%B3%E6%99%A8%E8%B7%91%E7%82%B9%E8%B5%9E%E5%9F%8E%E5%B8%82%E6%A0%87%E8%AF%AD",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -186,8 +186,18 @@
       ]
     },
     {
-      "title": "中国广西新发现直立人化石 将助力破解古人类演化关键谜题",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734432.shtml",
+      "title": "南北方多地气温将陆续触底创新低",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E5%B0%86%E9%99%86%E7%BB%AD%E8%A7%A6%E5%BA%95%E5%88%9B%E6%96%B0%E4%BD%8E",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "江苏扬州发布涉企网络服务清单 五类16项举措护航企业“网事”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734550.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +206,8 @@
       ]
     },
     {
-      "title": "到大学演讲、给车厘子“带货”、打卡家乡菜……各国领导人在深圳忙不停",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734423.shtml",
+      "title": "三峡枢纽新通道首条500千伏线路完成迁改",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734552.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +216,8 @@
       ]
     },
     {
-      "title": "“国常会上有人表态不会再频繁救市了”系谣言",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734213.shtml",
+      "title": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734553.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +226,8 @@
       ]
     },
     {
-      "title": "从墨累河畔到苍山洱海：一封越洋贺信里的大理开放故事",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734419.shtml",
+      "title": "我国新增34家领航级智能工厂",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734548.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,18 +236,8 @@
       ]
     },
     {
-      "title": "习近平：看五十年的中国就来深圳",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734411.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从“买卖全球”到共创共享 浙江诠释对外开放新内涵",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734418.shtml",
+      "title": "（深圳APEC）深圳之约，美企缘何“用脚投票”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734545.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
