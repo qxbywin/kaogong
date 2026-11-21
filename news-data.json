@@ -1,13 +1,23 @@
 {
   "date": "2026-11-21",
-  "time": "02:30",
-  "generatedAt": "2026-11-21T02:30:57.245Z",
+  "time": "11:25",
+  "generatedAt": "2026-11-21T11:25:07.001Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "第二届文化养老产业交流会在厦门举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735630.shtml",
+      "title": "全国300余位专家学者齐聚长春 共议教师教育改革",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735818.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国历史经典产业借新科技实现“当代表达”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735831.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -16,38 +26,18 @@
       ]
     },
     {
-      "title": "“我们把彼此视为重要合作伙伴”——访墨西哥外贸、投资和技术委员会墨中分委会主席巴尔德斯",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735658.shtml",
+      "title": "宁夏银川非遗创新设计大赛收官 36件作品让老手艺走进日常生活",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735821.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "稳中有进有底气！10月我国经济向新向优发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735656.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "英国推进移民制度改革 持续关停庇护安置酒店",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735614.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普：中俄美元首会晤具有重大历史意义",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735613.shtml",
+      "title": "昆仑山下的国际陆港：连藏通疆 冬日繁忙",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735822.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,8 +46,28 @@
       ]
     },
     {
-      "title": "前10个月邮政行业寄递量稳步增长 “小包裹”激活消费“新引擎”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735644.shtml",
+      "title": "重庆国际人才交流大会开幕",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735825.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄青少年选手齐聚中国北疆 以冰球为媒促交流",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735807.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "智造打造光储充一体化解决方案 助力数字能源产业高质量发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735806.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -66,29 +76,19 @@
       ]
     },
     {
-      "title": "新产业催生更多新岗位 @高校毕业生，你准备好了吗？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735642.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
+      "title": "特朗普回应“普京是否为美国朋友”",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E2%80%9C%E6%99%AE%E4%BA%AC%E6%98%AF%E5%90%A6%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%9C%8B%E5%8F%8B%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "international",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "不要小看中国经济“稳”的分量",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735641.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "重庆统战教育高地建设积厚成势 五方面成果集中显现",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735629.shtml",
-      "source": "中国新闻网",
+      "title": "亲妈不让女儿上学 自称示范在家教育",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%B2%E5%A6%88%E4%B8%8D%E8%AE%A9%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%AD%A6+%E8%87%AA%E7%A7%B0%E7%A4%BA%E8%8C%83%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2",
+      "source": "百度热搜",
       "cat": "society",
       "score": 1,
       "exams": [
@@ -96,38 +96,8 @@
       ]
     },
     {
-      "title": "中国科技馆“北辰对话”推出特别节目《雨林的“创”生》",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735631.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“BBNJ协定秘书处落户的形势与展望”国际研讨会在海口举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735633.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国成功发射卫星互联网低轨30组卫星",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211333.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "科技新国货成“深圳特产”",
-      "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E6%96%B0%E5%9B%BD%E8%B4%A7%E6%88%90%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%89%B9%E4%BA%A7%E2%80%9D",
+      "title": "马斯克回应上海工厂跳舞片段：不是AI",
+      "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%B7%A5%E5%8E%82%E8%B7%B3%E8%88%9E%E7%89%87%E6%AE%B5%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -136,28 +106,8 @@
       ]
     },
     {
-      "title": "AI疑证明黎曼猜想 数学家高兴不起来",
-      "url": "https://www.baidu.com/s?wd=AI%E7%96%91%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3+%E6%95%B0%E5%AD%A6%E5%AE%B6%E9%AB%98%E5%85%B4%E4%B8%8D%E8%B5%B7%E6%9D%A5",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黎曼猜想被AI证明？多位数学家回应",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%A2%ABAI%E8%AF%81%E6%98%8E%EF%BC%9F%E5%A4%9A%E4%BD%8D%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%9B%9E%E5%BA%94",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普：中俄美元首会晤意义重大",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7",
+      "title": "郎平谈执教美国女排",
+      "url": "https://www.baidu.com/s?wd=%E9%83%8E%E5%B9%B3%E8%B0%88%E6%89%A7%E6%95%99%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -166,8 +116,18 @@
       ]
     },
     {
-      "title": "又到三峡满山红叶时 重庆巫山举行系列活动",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735650.shtml",
+      "title": "大量跟AI聊天患抑郁可能性高出30%",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8F%E8%B7%9FAI%E8%81%8A%E5%A4%A9%E6%82%A3%E6%8A%91%E9%83%81%E5%8F%AF%E8%83%BD%E6%80%A7%E9%AB%98%E5%87%BA30%25",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "青海海西州德令哈市发生5.6级地震 震源深度10千米",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735833.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +136,8 @@
       ]
     },
     {
-      "title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735659.shtml",
+      "title": "浙江：上山国家考古遗址公园暨上山博物馆正式开放",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735830.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +146,8 @@
       ]
     },
     {
-      "title": "这杯“调解茶”：茶馆坐得下，云端连得上",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735657.shtml",
+      "title": "松原首批氢能试点超亿元奖励资金拨付到企",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735829.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +156,8 @@
       ]
     },
     {
-      "title": "U17世界杯：中国队首战0:5不敌西班牙队",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735654.shtml",
+      "title": "2026文化抗战学术研讨会在桂林召开",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735828.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +166,8 @@
       ]
     },
     {
-      "title": "明日小雪，请查收这三道节气食养方",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-21/10735651.shtml",
+      "title": "第五届长江大保护司法论坛在武汉开幕",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735827.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +176,8 @@
       ]
     },
     {
-      "title": "“讲中国故事”暨印尼摄影家赴福建采风成果展在雅加达举行",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735636.shtml",
+      "title": "2026年侨海（客家）青年发展大会在海口举行",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735824.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "贵州毕节聚焦群众急难愁盼，完善支持保障机制 温暖193万人的外出务工路",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735645.shtml",
+      "title": "2026年以来昆明市检察机关办理涉外因素案件210件",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735823.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "南非7月至9月发生5590起谋杀案 超半数案发公共场所",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735612.shtml",
+      "title": "2026年世界泳联中国游泳日首次落地哈尔滨 44支队伍逐浪",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735820.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上千家企业齐聚南宁 广西林产品展亮出“绿色家底”",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735808.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "拉萨市城关区精准监督 破解小区治理难题",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735819.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "特朗普、普京、李在明等APEC与会领导人感谢中国，点赞深圳：“这是历史性的一页”",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735832.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "东西问｜从能源学家到墨西哥首位女总统，辛鲍姆的别样人生",
+      "url": "https://www.chinanews.com.cn/dxw/2026/11-21/10735789.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
