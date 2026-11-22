@@ -1,33 +1,23 @@
 {
   "date": "2026-11-22",
-  "time": "08:10",
-  "generatedAt": "2026-11-22T08:10:26.510Z",
+  "time": "16:26",
+  "generatedAt": "2026-11-22T16:26:00.907Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "新华时评丨大力发展银发经济，更好满足“活力”需求",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736081.shtml",
+      "title": "重大工程有序推进 助力经济民生发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736202.shtml",
       "source": "中国新闻网",
       "cat": "economy",
-      "score": 1,
+      "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "扬州红雕漆对瓶亮相深圳APEC会议 “锦绣万年”传和合",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736076.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "瑞士联邦副主席兼外长卡西斯将访华",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736077.shtml",
+      "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,8 +26,8 @@
       ]
     },
     {
-      "title": "2026年广西林木展吸引国际头部企业及境外采购商",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736079.shtml",
+      "title": "联合国气候变化安塔利亚大会闭幕",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -46,18 +36,8 @@
       ]
     },
     {
-      "title": "2026脑机接口大会创新成果展吸引参观者",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-22/1211400.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "（走进中国乡村）湖南安化茶企抱团出海  “黑茶之乡”加速拓展全球市场",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736071.shtml",
+      "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736203.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -66,28 +46,8 @@
       ]
     },
     {
-      "title": "4000元、96集、一个人  AI短剧《重生螳螂》的爆款样本",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736070.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国超大规模“试验场” 助全球技术迭代 创新优势赋能亚太共同发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736072.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“中国服务”迈上新台阶——中国经济三季报亮点解析",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736066.shtml",
+      "title": "西藏扎囊拓宽农牧民淡季增收路 提供770个就业岗位",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -96,28 +56,8 @@
       ]
     },
     {
-      "title": "15个创业项目登台“找市场” 东南大学举行OPC学生路演专场",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736058.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "苏州“同心合锦”围巾登上国际舞台受热捧",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736062.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "五年覆盖全国近30城，百事集团净滩环保行动步履不停",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736057.shtml",
+      "title": "中国援赤几医疗队发起“云端”交流 分享妇产科诊疗经验",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736187.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -126,18 +66,8 @@
       ]
     },
     {
-      "title": "中国排球名宿郎平获颁国际排联最高荣誉“排球勋章”",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736051.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "10月份工业经济总体平稳",
-      "url": "https://www.baidu.com/s?wd=10%E6%9C%88%E4%BB%BD%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3",
+      "title": "亚洲市场集体打响保卫战",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -146,28 +76,8 @@
       ]
     },
     {
-      "title": "菲总统：APEC会议中国接待非常好",
-      "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%80%BB%E7%BB%9F%EF%BC%9AAPEC%E4%BC%9A%E8%AE%AE%E4%B8%AD%E5%9B%BD%E6%8E%A5%E5%BE%85%E9%9D%9E%E5%B8%B8%E5%A5%BD",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "家门口的养老院正在消失",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%97%A8%E5%8F%A3%E7%9A%84%E5%85%BB%E8%80%81%E9%99%A2%E6%AD%A3%E5%9C%A8%E6%B6%88%E5%A4%B1",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "牛仔裤水洗后轻戳就破 消费者索赔",
-      "url": "https://www.baidu.com/s?wd=%E7%89%9B%E4%BB%94%E8%A3%A4%E6%B0%B4%E6%B4%97%E5%90%8E%E8%BD%BB%E6%88%B3%E5%B0%B1%E7%A0%B4+%E6%B6%88%E8%B4%B9%E8%80%85%E7%B4%A2%E8%B5%94",
+      "title": "智能穿戴打开消费新空间",
+      "url": "https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -176,8 +86,8 @@
       ]
     },
     {
-      "title": "俄直升机涉嫌侵入芬兰领空4.1公里",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%9B%B4%E5%8D%87%E6%9C%BA%E6%B6%89%E5%AB%8C%E4%BE%B5%E5%85%A5%E8%8A%AC%E5%85%B0%E9%A2%86%E7%A9%BA4.1%E5%85%AC%E9%87%8C",
+      "title": "联合国会否诞生史上首位女掌门",
+      "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E5%90%A6%E8%AF%9E%E7%94%9F%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%BD%8D%E5%A5%B3%E6%8E%8C%E9%97%A8",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -186,18 +96,38 @@
       ]
     },
     {
-      "title": "美国死刑执行又出意外",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%BB%E5%88%91%E6%89%A7%E8%A1%8C%E5%8F%88%E5%87%BA%E6%84%8F%E5%A4%96",
+      "title": "AI攻克黎曼猜想给人类好几个想不到",
+      "url": "https://www.baidu.com/s?wd=AI%E6%94%BB%E5%85%8B%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%BB%99%E4%BA%BA%E7%B1%BB%E5%A5%BD%E5%87%A0%E4%B8%AA%E6%83%B3%E4%B8%8D%E5%88%B0",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "宁夏闽宁镇：游客周末打卡闽宁戏剧村落",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736074.shtml",
+      "title": "黎曼猜想真的被AI证明了吗",
+      "url": "https://www.baidu.com/s?wd=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%9C%9F%E7%9A%84%E8%A2%ABAI%E8%AF%81%E6%98%8E%E4%BA%86%E5%90%97",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "AI25万页证明“作者栏”该写谁",
+      "url": "https://www.baidu.com/s?wd=AI25%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E2%80%9C%E4%BD%9C%E8%80%85%E6%A0%8F%E2%80%9D%E8%AF%A5%E5%86%99%E8%B0%81",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "李家超致贺香港特区选委会当选委员 冀秉持“爱国者治港”原则履职尽责",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +136,8 @@
       ]
     },
     {
-      "title": "把脉问诊“圈粉”东盟嘉宾 重庆深化与东盟卫生健康合作",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736078.shtml",
+      "title": "香港特区选委会界别分组一般选举结果揭晓 全部选委顺利产生",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736217.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +146,8 @@
       ]
     },
     {
-      "title": "同样是跑步，有人养心肺有人伤关节，差别就在这里",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736080.shtml",
+      "title": "2026中国壁球公开赛落幕 埃及和马来西亚选手分获男、女单打冠军",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736216.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +156,8 @@
       ]
     },
     {
-      "title": "马来西亚华团携南侨机工后人重走滇缅公路：“我的根在中国”",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736073.shtml",
+      "title": "青海德令哈5.6级地震经三轮排查无人员伤亡",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +166,78 @@
       ]
     },
     {
-      "title": "黑龙江漠河迎来寒地试车黄金季",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736068.shtml",
+      "title": "速度滑冰世界杯日本带广站：中国队2金3银2铜收官",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本文部科学大臣因政治筹款丑闻面临辞职压力",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "（文化新纪行）山东梁山打造分布式流动演出 水浒文脉蕴新活力",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "错峰秋假，让淡季旅游“热”起来",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736205.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多方协同发力 保障冬季“菜篮子”量足价稳",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736204.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "昆明口岸今年以来中泰往来旅客突破百万人次",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736199.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "毕马威发布能源转型新书 助企业明确自身角色",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736198.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "全国大学生文旅与会展竞赛吸引多国学子参赛",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736196.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
