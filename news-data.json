@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-21",
-  "time": "19:29",
-  "generatedAt": "2026-11-21T19:29:09.496Z",
+  "date": "2026-11-22",
+  "time": "00:27",
+  "generatedAt": "2026-11-22T00:27:27.386Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
@@ -10,16 +10,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735892.shtml",
       "source": "中国新闻网",
       "cat": "tech",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "智能网联新能源汽车产业人才发展大会在渝举行 赋能“渝车出海”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735888.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
       "score": 2,
       "exams": [
         "申论素材"
@@ -96,10 +86,10 @@
       ]
     },
     {
-      "title": "为降AI疑似率把论文改到小学作文水平",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E9%99%8DAI%E7%96%91%E4%BC%BC%E7%8E%87%E6%8A%8A%E8%AE%BA%E6%96%87%E6%94%B9%E5%88%B0%E5%B0%8F%E5%AD%A6%E4%BD%9C%E6%96%87%E6%B0%B4%E5%B9%B3",
+      "title": "3.6亿人次参与！万亿元大市场大爆发",
+      "url": "https://www.baidu.com/s?wd=3.6%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%8F%82%E4%B8%8E%EF%BC%81%E4%B8%87%E4%BA%BF%E5%85%83%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%A4%A7%E7%88%86%E5%8F%91",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -116,16 +106,6 @@
       ]
     },
     {
-      "title": "彭昱畅被AI融脸",
-      "url": "https://www.baidu.com/s?wd=%E5%BD%AD%E6%98%B1%E7%95%85%E8%A2%ABAI%E8%9E%8D%E8%84%B8",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
       "title": "长安大学通报14日面试13日出结果",
       "url": "https://www.baidu.com/s?wd=%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A514%E6%97%A5%E9%9D%A2%E8%AF%9513%E6%97%A5%E5%87%BA%E7%BB%93%E6%9E%9C",
       "source": "百度热搜",
@@ -136,31 +116,111 @@
       ]
     },
     {
-      "title": "APEC外交会见厅山水画是什么来头",
-      "url": "https://www.baidu.com/s?wd=APEC%E5%A4%96%E4%BA%A4%E4%BC%9A%E8%A7%81%E5%8E%85%E5%B1%B1%E6%B0%B4%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4",
+      "title": "AI眼镜、翻译耳机、无人机圈粉世界",
+      "url": "https://www.baidu.com/s?wd=AI%E7%9C%BC%E9%95%9C%E3%80%81%E7%BF%BB%E8%AF%91%E8%80%B3%E6%9C%BA%E3%80%81%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%88%E7%B2%89%E4%B8%96%E7%95%8C",
       "source": "百度热搜",
-      "cat": "international",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "央行披露10月金融市场运行情况",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E6%8A%AB%E9%9C%B210%E6%9C%88%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E8%BF%90%E8%A1%8C%E6%83%85%E5%86%B5",
+      "title": "为降AI疑似率把论文改到小学作文水平",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E9%99%8DAI%E7%96%91%E4%BC%BC%E7%8E%87%E6%8A%8A%E8%AE%BA%E6%96%87%E6%94%B9%E5%88%B0%E5%B0%8F%E5%AD%A6%E4%BD%9C%E6%96%87%E6%B0%B4%E5%B9%B3",
       "source": "百度热搜",
-      "cat": "economy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "广东英歌舞快闪到哈尔滨中央大街",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E8%8B%B1%E6%AD%8C%E8%88%9E%E5%BF%AB%E9%97%AA%E5%88%B0%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%AD%E5%A4%AE%E5%A4%A7%E8%A1%97",
-      "source": "百度热搜",
-      "cat": "policy",
-      "score": 1,
+      "title": "小雪节气如何养生？核心是“藏”",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-22/10735940.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "11月22日早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-22/10735939.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国国防大臣访基辅重申长期援乌承诺",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国凯特王妃通过纪录片深度讲述抗癌经历",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735937.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "墨西哥抓获大毒枭“矮子伊西德罗”",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735936.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "今日开启商业首航！“爱达·花城号”最新乘船攻略来了",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735935.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735934.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "正值流感季 今年毒株有何特点？能自行服用抗生素吗？",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-22/10735933.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "空手道世界杯：中国两支女队首次跻身四强 将争铜牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10735932.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
       "exams": [
         "申论素材"
       ]
@@ -183,66 +243,6 @@
       "score": 0,
       "exams": [
         "申论素材"
-      ]
-    },
-    {
-      "title": "2026文化抗战学术研讨会在桂林举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735926.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第十八届傅雷翻译出版奖获奖者名单在江苏南京揭晓",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735921.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "第七届世界海洋生物多样性大会在比利时举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735916.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "2026年林木业大会在南宁举行 现场签约超400亿元",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735919.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211364.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "长安大学回应14号面试13号出结果",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735917.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "国考"
       ]
     }
   ]
