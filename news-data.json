@@ -1,23 +1,13 @@
 {
   "date": "2026-11-24",
-  "time": "12:41",
-  "generatedAt": "2026-11-24T12:41:20.818Z",
+  "time": "23:05",
+  "generatedAt": "2026-11-24T23:05:55.401Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "波士顿咨询报告：中国是亚太地区AI应用最广泛的市场之一",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737195.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国牵头推动全球首个生成式人工智能治理国际标准提案",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737165.shtml",
+      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737255.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -26,28 +16,8 @@
       ]
     },
     {
-      "title": "广西南宁织密医疗保障防护网 长护险惠及1.95万失能民众",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737190.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广东部署七个方面重点任务 推动知识产权强省建设",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737193.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "一枚航天冰箱贴延伸电影《登月》的文化长尾",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737172.shtml",
+      "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737283.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -56,8 +26,18 @@
       ]
     },
     {
-      "title": "腾冲科学家论坛推动澜湄科技人文交流合作向机制共建升级",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737173.shtml",
+      "title": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737281.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "英国2026年夏季高温致死人数创新高",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737280.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -66,8 +46,98 @@
       ]
     },
     {
-      "title": "山区养老有“巧方” 湖南溆浦织密分散供养特困老人“守护网”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737174.shtml",
+      "title": "俄“进步MS-36”货运飞船发射升空前往国际空间站",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737279.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "马来西亚拟加强AI陪伴类应用监管",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737278.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "普京：乌方袭击俄能源设施必招致俄方回应",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737277.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "神舟二十四号航天员汤洪波、武毅、穆罕默德·齐尚·阿里领命出征",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737276.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737275.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "直播：神舟二十四号出征太空 “天宫”将迎首位外籍航天员",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737274.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从“流量依赖”到“内容回归”：AI给影视行业上了一课",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737271.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王毅同英国外交大臣米利班德通电话",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737270.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "神舟二十四号载人飞行任务航天员与记者见面",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211565.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日本今年1至9月出生人口同比减少0.3%",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737230.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -76,18 +146,18 @@
       ]
     },
     {
-      "title": "因地制宜推广三明医改经验 四川以改革探索增进群众就医满意度、便利度",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737169.shtml",
+      "title": "首飞太空，武毅与外籍航天员化友谊为志同道合",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737259.shtml",
       "source": "中国新闻网",
-      "cat": "policy",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "传统遇见前沿科技 岭南非遗在深圳对话世界",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737175.shtml",
+      "title": "洗脚盆上车？车企创新别跑偏",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737250.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -106,6 +176,16 @@
       ]
     },
     {
+      "title": "陈吉宁被查 上海表态",
+      "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5+%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
       "title": "外交部回应“黄仁勋重回英伟达”",
       "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E5%9B%9E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E2%80%9D",
       "source": "百度热搜",
@@ -116,8 +196,8 @@
       ]
     },
     {
-      "title": "黄奕用AI视频还原过去三十年人生",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%95%E7%94%A8AI%E8%A7%86%E9%A2%91%E8%BF%98%E5%8E%9F%E8%BF%87%E5%8E%BB%E4%B8%89%E5%8D%81%E5%B9%B4%E4%BA%BA%E7%94%9F",
+      "title": "换脸还没消停 “AI融脸”又来了",
+      "url": "https://www.baidu.com/s?wd=%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E6%B6%88%E5%81%9C+%E2%80%9CAI%E8%9E%8D%E8%84%B8%E2%80%9D%E5%8F%88%E6%9D%A5%E4%BA%86",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -126,28 +206,8 @@
       ]
     },
     {
-      "title": "华为Mate 90 Air售价4999元起",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAMate+90+Air%E5%94%AE%E4%BB%B74999%E5%85%83%E8%B5%B7",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "能不能毕业 要看AI脸色了",
-      "url": "https://www.baidu.com/s?wd=%E8%83%BD%E4%B8%8D%E8%83%BD%E6%AF%95%E4%B8%9A+%E8%A6%81%E7%9C%8BAI%E8%84%B8%E8%89%B2%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "长期左侧卧睡 真的会压迫损伤心脏吗？",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-24/10737212.shtml",
+      "title": "11月25日新闻早报",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737282.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +216,8 @@
       ]
     },
     {
-      "title": "亚洲数学联盟落户港中大 丘成桐担任主席",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10737201.shtml",
+      "title": "“1991年的张大爷”“1988年的张奶奶”刷屏！玩梗之外，别让事实输给流量",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737269.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +226,8 @@
       ]
     },
     {
-      "title": "西藏巴青1495名学生拉萨异地复课 学习生活渐入正轨",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737198.shtml",
+      "title": "哈尔滨市宾县：整合冰雪、温泉、民俗优质资源 培育三大特色冰雪体验",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737264.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,68 +236,8 @@
       ]
     },
     {
-      "title": "（粤港澳大湾区）广东计划2030年率先建成粤港澳世界级港口群",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10737194.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中埃塞妇女代表南宁对话 共探女性领导力赋能与妇女事业发展",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737192.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "今年前十月广州实物商品网上零售额超3100亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737189.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从单品竞技到生态共生 bauma CHINA 2026解锁工程机械新图景",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737187.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "湖南省首单跨市州“区港联动”业务落地常德保税物流中心",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737185.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "冷空气携狂风暴雨影响广东",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737184.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "特朗普：黄仁勋已向妻子道歉，“她是一位非常优秀的女性”",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737183.shtml",
+      "title": "印度阿约提亚至尼泊尔贾纳克布尔新开直达客运列车抵尼",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737211.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
