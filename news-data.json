@@ -1,13 +1,23 @@
 {
-  "date": "2026-11-24",
-  "time": "23:05",
-  "generatedAt": "2026-11-24T23:05:55.401Z",
+  "date": "2026-11-25",
+  "time": "05:29",
+  "generatedAt": "2026-11-25T05:29:46.957Z",
   "source_summary": "中国新闻网(30) · 百度热搜(52)",
   "count": 24,
   "items": [
     {
-      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737255.shtml",
+      "title": "中美贸易理事会项下农业工作组首次会议在京举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737474.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "司法部和联合国毒罪办在北京联合举办刑事法律援助全球会议",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737431.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,8 +26,8 @@
       ]
     },
     {
-      "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737283.shtml",
+      "title": "从定制化训练到中文学习，巴基斯坦航天员的中国“飞天课”",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737476.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,8 +36,18 @@
       ]
     },
     {
-      "title": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737281.shtml",
+      "title": "伪装成科技公司搞舆情敲诈？这个恶势力团伙覆灭了",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737472.shtml",
+      "source": "中国新闻网",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "朝中社：朝鲜驱逐瑞士外交办事处代表 限其48小时内离境",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737460.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,18 +56,8 @@
       ]
     },
     {
-      "title": "英国2026年夏季高温致死人数创新高",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737280.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "俄“进步MS-36”货运飞船发射升空前往国际空间站",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737279.shtml",
+      "title": "国台办回应特朗普表示美国不支持“台独”",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737459.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -56,88 +66,8 @@
       ]
     },
     {
-      "title": "马来西亚拟加强AI陪伴类应用监管",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737278.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "普京：乌方袭击俄能源设施必招致俄方回应",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737277.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "神舟二十四号航天员汤洪波、武毅、穆罕默德·齐尚·阿里领命出征",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737276.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737275.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "直播：神舟二十四号出征太空 “天宫”将迎首位外籍航天员",
-      "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737274.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从“流量依赖”到“内容回归”：AI给影视行业上了一课",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737271.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "王毅同英国外交大臣米利班德通电话",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737270.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "神舟二十四号载人飞行任务航天员与记者见面",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211565.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "日本今年1至9月出生人口同比减少0.3%",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737230.shtml",
+      "title": "大连民族大学铸牢中华民族共同体意识教育基地入选市委党校（市社会主义学院）现场教学基地",
+      "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737423.shtml",
       "source": "中国新闻网",
       "cat": "society",
       "score": 1,
@@ -146,9 +76,29 @@
       ]
     },
     {
-      "title": "首飞太空，武毅与外籍航天员化友谊为志同道合",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737259.shtml",
+      "title": "《加强海洋开发利用保护推动海洋经济高质量发展典型案例（第一批）》发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737438.shtml",
       "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "湖南长沙县探索基层治理新路径  新就业群体变身社区治理“合伙人”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737433.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "习近平总书记深情寄语航天工作者",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%B7%B1%E6%83%85%E5%AF%84%E8%AF%AD%E8%88%AA%E5%A4%A9%E5%B7%A5%E4%BD%9C%E8%80%85",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -156,9 +106,9 @@
       ]
     },
     {
-      "title": "洗脚盆上车？车企创新别跑偏",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737250.shtml",
-      "source": "中国新闻网",
+      "title": "巴基斯坦航天界全程观看直播",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E7%95%8C%E5%85%A8%E7%A8%8B%E8%A7%82%E7%9C%8B%E7%9B%B4%E6%92%AD",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -166,28 +116,88 @@
       ]
     },
     {
-      "title": "上海市委书记陈吉宁被查",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5",
+      "title": "义乌老板用AI接下不敢接的单",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%80%81%E6%9D%BF%E7%94%A8AI%E6%8E%A5%E4%B8%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E7%9A%84%E5%8D%95",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "陈吉宁被查 上海表态",
-      "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5+%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81",
+      "title": "巴基斯坦航天员舱内笔下不停",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%88%B1%E5%86%85%E7%AC%94%E4%B8%8B%E4%B8%8D%E5%81%9C",
       "source": "百度热搜",
-      "cat": "hot",
+      "cat": "tech",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "外交部回应“黄仁勋重回英伟达”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E5%9B%9E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E2%80%9D",
+      "title": "05后女孩把AI当搞钱搭子日入4千元",
+      "url": "https://www.baidu.com/s?wd=05%E5%90%8E%E5%A5%B3%E5%AD%A9%E6%8A%8AAI%E5%BD%93%E6%90%9E%E9%92%B1%E6%90%AD%E5%AD%90%E6%97%A5%E5%85%A54%E5%8D%83%E5%85%83",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中国航天“神图”有了",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E2%80%9C%E7%A5%9E%E5%9B%BE%E2%80%9D%E6%9C%89%E4%BA%86",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "借房地产唱衰中国经济 错在哪",
+      "url": "https://www.baidu.com/s?wd=%E5%80%9F%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%94%B1%E8%A1%B0%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E+%E9%94%99%E5%9C%A8%E5%93%AA",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "巴航天官员：感谢中国提供宝贵机会",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%88%AA%E5%A4%A9%E5%AE%98%E5%91%98%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%AE%9D%E8%B4%B5%E6%9C%BA%E4%BC%9A",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "个人养老金“开户热缴存冷”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E2%80%9C%E5%BC%80%E6%88%B7%E7%83%AD%E7%BC%B4%E5%AD%98%E5%86%B7%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "巴基斯坦航天员手指国旗向镜头敬礼",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%89%8B%E6%8C%87%E5%9B%BD%E6%97%97%E5%90%91%E9%95%9C%E5%A4%B4%E6%95%AC%E7%A4%BC",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "朝鲜驱逐瑞士外交办事处代表",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E9%A9%B1%E9%80%90%E7%91%9E%E5%A3%AB%E5%A4%96%E4%BA%A4%E5%8A%9E%E4%BA%8B%E5%A4%84%E4%BB%A3%E8%A1%A8",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -196,18 +206,8 @@
       ]
     },
     {
-      "title": "换脸还没消停 “AI融脸”又来了",
-      "url": "https://www.baidu.com/s?wd=%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E6%B6%88%E5%81%9C+%E2%80%9CAI%E8%9E%8D%E8%84%B8%E2%80%9D%E5%8F%88%E6%9D%A5%E4%BA%86",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "11月25日新闻早报",
-      "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737282.shtml",
+      "title": "开窗通风仍中毒，两人深夜送医！近期千万警惕",
+      "url": "https://www.chinanews.com.cn/life/2026/11-25/10737471.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "“1991年的张大爷”“1988年的张奶奶”刷屏！玩梗之外，别让事实输给流量",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737269.shtml",
+      "title": "台媒关注张凌赫田曦薇网络直播 国台办回应",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737469.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "哈尔滨市宾县：整合冰雪、温泉、民俗优质资源 培育三大特色冰雪体验",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737264.shtml",
+      "title": "花10万“免试拿硕士学位”？法官判定：合同无效",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737465.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "印度阿约提亚至尼泊尔贾纳克布尔新开直达客运列车抵尼",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737211.shtml",
+      "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
