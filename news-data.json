@@ -1,13 +1,13 @@
 {
   "date": "2026-11-26",
-  "time": "11:05",
-  "generatedAt": "2026-11-26T11:05:31.772Z",
+  "time": "20:16",
+  "generatedAt": "2026-11-26T20:16:47.908Z",
   "source_summary": "中国新闻网(30) · 百度热搜(56)",
   "count": 24,
   "items": [
     {
-      "title": "“AI原生”重塑竞争新优势 湖南工程机械拓展全球市场新空间",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738281.shtml",
+      "title": "水务黑科技亮相第三届节水产业创新发展成果展",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738447.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -16,48 +16,8 @@
       ]
     },
     {
-      "title": "商务部：坚决反对美国对中国等经济体加征301关税",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738278.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "哈尔滨音乐长廊网红大雪人正式开启造雪 整体高度将创新高",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738301.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "呼和浩特盛乐国际机场正式投运",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738246.shtml",
-      "source": "中国新闻网",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "山东政协委员建言加快推动大运河国家文化公园（山东段）建设",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738285.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "广西以“产业兴边”绘就富民新路径",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738269.shtml",
+      "title": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738467.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -66,8 +26,8 @@
       ]
     },
     {
-      "title": "辽宁鞍山宠物经济出海“忙”",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738265.shtml",
+      "title": "报告指今年中国3D打印产业规模料达约860亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738463.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -76,8 +36,18 @@
       ]
     },
     {
-      "title": "陕西省西安市人大常委会原主任韩松一审获刑13年",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738276.shtml",
+      "title": "多人违规携无人机进京被查处 北京警方发布重要提示",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738464.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "黑龙江省工商联十二届八次常委会议召开",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738459.shtml",
       "source": "中国新闻网",
       "cat": "policy",
       "score": 1,
@@ -86,9 +56,19 @@
       ]
     },
     {
-      "title": "网友用AI手搓《爱情公寓》大结局",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8AI%E6%89%8B%E6%90%93%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80",
-      "source": "百度热搜",
+      "title": "青皮竹里长出新赛道：广东肇庆广宁竹产业逐步向高附加值跃升",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738454.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "北京支持创新医药发展 医企合作持续深化",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738448.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -96,9 +76,9 @@
       ]
     },
     {
-      "title": "红果上的AI演员 变成“偶像练习生”",
-      "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E4%B8%8A%E7%9A%84AI%E6%BC%94%E5%91%98+%E5%8F%98%E6%88%90%E2%80%9C%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F%E2%80%9D",
-      "source": "百度热搜",
+      "title": "京津冀首个卫星AIT共享中心投运 雄安可“共享”造星",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738458.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -106,10 +86,130 @@
       ]
     },
     {
-      "title": "迷信AI的当事人 逼疯律师",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1AI%E7%9A%84%E5%BD%93%E4%BA%8B%E4%BA%BA+%E9%80%BC%E7%96%AF%E5%BE%8B%E5%B8%88",
-      "source": "百度热搜",
+      "title": "台积电拟扩大在美投资 舆论忧先进制程加速外移",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738444.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "用电量背后的产业升级逻辑（经济时评）",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738445.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "3人自驾前往可可西里失联 青海警方通报：人已找到，身体状况良好",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738443.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "京津冀首个卫星AIT共享中心落地雄安",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738422.shtml",
+      "source": "中国新闻网",
       "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中俄两军举行战略磋商",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738424.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "从世界经济版图看中国经济之韧",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%89%88%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%8B%E9%9F%A7",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "上海百亿养老集资诈骗案开庭",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%99%BE%E4%BA%BF%E5%85%BB%E8%80%81%E9%9B%86%E8%B5%84%E8%AF%88%E9%AA%97%E6%A1%88%E5%BC%80%E5%BA%AD",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "警方通报3人可可西里失联被找到",
+      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A53%E4%BA%BA%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "王虹再获国际大奖",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%99%B9%E5%86%8D%E8%8E%B7%E5%9B%BD%E9%99%85%E5%A4%A7%E5%A5%96",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "官方通报“86页PDF举报女教授”",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C86%E9%A1%B5PDF%E4%B8%BE%E6%8A%A5%E5%A5%B3%E6%95%99%E6%8E%88%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "武大通报：教师曾某某被免职",
+      "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%EF%BC%9A%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E5%85%8D%E8%81%8C",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "多国抗议美国拟再挥关税大棒",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E6%8A%97%E8%AE%AE%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%86%8D%E6%8C%A5%E5%85%B3%E7%A8%8E%E5%A4%A7%E6%A3%92",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "赞比亚财政主任盛赞新疆文化传承",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%9E%E6%AF%94%E4%BA%9A%E8%B4%A2%E6%94%BF%E4%B8%BB%E4%BB%BB%E7%9B%9B%E8%B5%9E%E6%96%B0%E7%96%86%E6%96%87%E5%8C%96%E4%BC%A0%E6%89%BF",
+      "source": "百度热搜",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
@@ -126,8 +226,8 @@
       ]
     },
     {
-      "title": "今年以来，上海已建成4700余个“三所联动”纠纷调解站点",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738287.shtml",
+      "title": "英国伦敦地铁司机开启冬季罢工",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738473.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,108 +236,8 @@
       ]
     },
     {
-      "title": "龙江森工林区今秋“护飞”112种保护鸟类",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738288.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国国防部介绍董军访意、英：深化双方战略互信的实际举措",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738277.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "“可口可乐不再标生产日期”引热议，你怎么看？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738293.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "辽宁各港口多措并举保障“北煤南运”黄金通道",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738280.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "内蒙古呼和浩特盛乐机场通航 满足全球最大机型起降需求",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738275.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "民政部：推进全国殡葬服务热线12353建设",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738296.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "以小城烟火铸治愈良方 电视剧《小城良方》研讨会举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738268.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "东风着陆场准备就绪 迎接神舟二十三号飞船“回家”",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738292.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "大风蓝色预警：京津冀等17省区市部分地区阵风可达7至9级",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738290.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "突破千度高温考验 四足消防侦察狗在苏州完成实战演练",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738286.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "副热带高压出现罕见反季节增强，这些地方短袖或“限时”返场",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738289.shtml",
+      "title": "英国斥资80亿英镑提升核潜艇战备水平",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738472.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
