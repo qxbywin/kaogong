@@ -1,13 +1,23 @@
 {
   "date": "2026-11-26",
-  "time": "01:50",
-  "generatedAt": "2026-11-26T01:50:42.195Z",
-  "source_summary": "中国新闻网(30) · 百度热搜(52)",
+  "time": "11:05",
+  "generatedAt": "2026-11-26T11:05:31.772Z",
+  "source_summary": "中国新闻网(30) · 百度热搜(56)",
   "count": 24,
   "items": [
     {
-      "title": "美国第三季度经济增长率上修至4.3% 好于市场预期",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml",
+      "title": "“AI原生”重塑竞争新优势 湖南工程机械拓展全球市场新空间",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738281.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "商务部：坚决反对美国对中国等经济体加征301关税",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738278.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 2,
@@ -16,8 +26,8 @@
       ]
     },
     {
-      "title": "取证难、界定难，AI融脸该守住怎样的边界？",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737917.shtml",
+      "title": "哈尔滨音乐长廊网红大雪人正式开启造雪 整体高度将创新高",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738301.shtml",
       "source": "中国新闻网",
       "cat": "tech",
       "score": 1,
@@ -26,8 +36,8 @@
       ]
     },
     {
-      "title": "美国艾奥瓦州引爆近5吨含铅爆炸物 引发健康风险担忧",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737886.shtml",
+      "title": "呼和浩特盛乐国际机场正式投运",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738246.shtml",
       "source": "中国新闻网",
       "cat": "international",
       "score": 1,
@@ -36,8 +46,18 @@
       ]
     },
     {
-      "title": "开台球馆、特种兵式带货……水果新势力“改造”批发市场",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737910.shtml",
+      "title": "山东政协委员建言加快推动大运河国家文化公园（山东段）建设",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738285.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西以“产业兴边”绘就富民新路径",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738269.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,28 +66,28 @@
       ]
     },
     {
-      "title": "国际冰雪赛事，接连选择中国",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-26/10737893.shtml",
+      "title": "辽宁鞍山宠物经济出海“忙”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738265.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "美国陆军引爆近5吨含铅爆炸物 白色烟柱直冲天空",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737878.shtml",
+      "title": "陕西省西安市人大常委会原主任韩松一审获刑13年",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738276.shtml",
       "source": "中国新闻网",
-      "cat": "international",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "中外航天员在中国空间站合影",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1",
+      "title": "网友用AI手搓《爱情公寓》大结局",
+      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%94%A8AI%E6%89%8B%E6%90%93%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -76,8 +96,8 @@
       ]
     },
     {
-      "title": "航天员武毅初中常考满分钢琴十级",
-      "url": "https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%91%98%E6%AD%A6%E6%AF%85%E5%88%9D%E4%B8%AD%E5%B8%B8%E8%80%83%E6%BB%A1%E5%88%86%E9%92%A2%E7%90%B4%E5%8D%81%E7%BA%A7",
+      "title": "红果上的AI演员 变成“偶像练习生”",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E4%B8%8A%E7%9A%84AI%E6%BC%94%E5%91%98+%E5%8F%98%E6%88%90%E2%80%9C%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F%E2%80%9D",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -86,8 +106,8 @@
       ]
     },
     {
-      "title": "AI正在帮忙抓贪官",
-      "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98",
+      "title": "迷信AI的当事人 逼疯律师",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%B7%E4%BF%A1AI%E7%9A%84%E5%BD%93%E4%BA%8B%E4%BA%BA+%E9%80%BC%E7%96%AF%E5%BE%8B%E5%B8%88",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -96,18 +116,8 @@
       ]
     },
     {
-      "title": "巴基斯坦航天员抱拳：请不吝赐教",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%8A%B1%E6%8B%B3%EF%BC%9A%E8%AF%B7%E4%B8%8D%E5%90%9D%E8%B5%90%E6%95%99",
-      "source": "百度热搜",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "美国空姐辞职到中国苦练武术",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%A7%90%E8%BE%9E%E8%81%8C%E5%88%B0%E4%B8%AD%E5%9B%BD%E8%8B%A6%E7%BB%83%E6%AD%A6%E6%9C%AF",
+      "title": "外交部：日本船只非法侵闯我钓鱼岛领海挑衅滋事，中方提出严正交涉",
+      "url": "http://baijiahao.baidu.com/s?id=1882904726688137729",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -116,18 +126,8 @@
       ]
     },
     {
-      "title": "波兰总理将访华？中方回应",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%A2%E5%85%B0%E6%80%BB%E7%90%86%E5%B0%86%E8%AE%BF%E5%8D%8E%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "旧家变橙园、新家起车间，重庆奉节安坪镇两度搬迁焕新生",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737918.shtml",
+      "title": "今年以来，上海已建成4700余个“三所联动”纠纷调解站点",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738287.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +136,8 @@
       ]
     },
     {
-      "title": "沈阳市苏家屯区年轻一代企业家商会“光彩爱心食堂”正式揭牌运营",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737916.shtml",
+      "title": "龙江森工林区今秋“护飞”112种保护鸟类",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738288.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +146,8 @@
       ]
     },
     {
-      "title": "消防车赶到之前，电话里的救援已经开始",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737919.shtml",
+      "title": "中国国防部介绍董军访意、英：深化双方战略互信的实际举措",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738277.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "title": "可乐印上“2027年”？食品标签新国标来了 日期标注有大变化",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737923.shtml",
+      "title": "“可口可乐不再标生产日期”引热议，你怎么看？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738293.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "title": "预约已开启！下周三故宫对公安民警免费开放",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10737913.shtml",
+      "title": "辽宁各港口多措并举保障“北煤南运”黄金通道",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738280.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "title": "11月26日央行开展5715亿元隔夜逆回购操作",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737911.shtml",
+      "title": "内蒙古呼和浩特盛乐机场通航 满足全球最大机型起降需求",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738275.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "title": "11月26日人民币对美元中间价报6.7096 下调8个基点",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737909.shtml",
+      "title": "民政部：推进全国殡葬服务热线12353建设",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738296.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "民革沈阳市委会以“融”破题  让中共二十届五中全会精神在履职一线落地生根",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737914.shtml",
+      "title": "以小城烟火铸治愈良方 电视剧《小城良方》研讨会举行",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738268.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -206,8 +206,8 @@
       ]
     },
     {
-      "title": "国家医保局：“连续用药管理”功能上线 用药更安心",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737907.shtml",
+      "title": "东风着陆场准备就绪 迎接神舟二十三号飞船“回家”",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738292.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "title": "中国驻里约热内卢总领馆提醒领区中国公民注意涉水安全",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-26/10737896.shtml",
+      "title": "大风蓝色预警：京津冀等17省区市部分地区阵风可达7至9级",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738290.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +226,8 @@
       ]
     },
     {
-      "title": "A股开盘：超4400只个股飘红，三大指数集体高开",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737915.shtml",
+      "title": "突破千度高温考验 四足消防侦察狗在苏州完成实战演练",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738286.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "title": "云岭动态第四十九期",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737904.shtml",
+      "title": "副热带高压出现罕见反季节增强，这些地方短袖或“限时”返场",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738289.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
