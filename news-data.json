@@ -1,13 +1,23 @@
 {
   "date": "2026-11-27",
-  "time": "02:57",
-  "generatedAt": "2026-11-27T02:57:06.653Z",
+  "time": "12:46",
+  "generatedAt": "2026-11-27T12:46:33.229Z",
   "source_summary": "中国新闻网(30) · 百度热搜(56)",
   "count": 24,
   "items": [
     {
-      "title": "从一颗传感器到整条产业链 高交会解码AI落地深圳答案",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738551.shtml",
+      "title": "北京立法促进民营经济发展壮大",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738995.shtml",
+      "source": "中国新闻网",
+      "cat": "policy",
+      "score": 2,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "美金融基建科技企业在香港设立首个亚太策略平台",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738994.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 2,
@@ -16,49 +26,79 @@
       ]
     },
     {
-      "title": "武汉大学、安徽省教育厅通报“86页PDF举报女教授”：曾某某、付某违规使用科研经费，二人均被免职；“发送文字侮辱付某妻子”等查无实据",
-      "url": "http://baijiahao.baidu.com/s?id=1882921509539758056",
+      "title": "加拿大近30万民众联名请愿要求驱逐美国大使",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738967.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "汕头举行无人驾驶产业场景对接大会 推动智慧运力规模化建设",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738986.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026广州国际音响唱片展启幕 大批“发烧友”前来逛展",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738989.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "国内自主国际会计网络总部在广州揭牌",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738990.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "2026成渝体育产业联盟活动启幕 推动两地体旅协同高质量发展",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738971.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "香港廉署连任国际反贪局联合会主席",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738969.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "证监会严肃查处两起编造传播证券市场误导性信息案件",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738960.shtml",
+      "source": "中国新闻网",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "重磅！人民币存贷款利率管理规定发布",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A%E5%8F%91%E5%B8%83",
       "source": "百度热搜",
-      "cat": "society",
-      "score": 2,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "信息无障碍国家标准修订发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738594.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国家数据局就《关于完善数据规则 赋能人工智能创新发展的若干意见》公开征求意见",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738591.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "我国加速推进“人工智能+制造”专项行动",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738600.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "从世界经济版图看中国经济之韧",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738598.shtml",
-      "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
       "exams": [
@@ -66,9 +106,9 @@
       ]
     },
     {
-      "title": "国产大模型集体进军AI4S：大模型从“会聊天”转向“做科研”？",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738593.shtml",
-      "source": "中国新闻网",
+      "title": "《两京十五日》里的小演员是AI",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%87%8C%E7%9A%84%E5%B0%8F%E6%BC%94%E5%91%98%E6%98%AFAI",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -76,19 +116,9 @@
       ]
     },
     {
-      "title": "应急管理部公布一批安全生产培训考试领域典型案例，严查违法违规行为",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738584.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黑龙江大庆：以数据为新引擎 打造资源型城市数字化转型样板",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738574.shtml",
-      "source": "中国新闻网",
+      "title": "巴基斯坦航天员视频音轨被篡改",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8%E8%A2%AB%E7%AF%A1%E6%94%B9",
+      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -96,48 +126,8 @@
       ]
     },
     {
-      "title": "工信部：前10个月电信业务收入累计完成1.43万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738570.shtml",
-      "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国专家率先用AI解析“最毒乳腺癌”边界生态 探寻转移复发“密码”",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738568.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "大连市召开党外代表人士实践锻炼基地工作会议",
-      "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738560.shtml",
-      "source": "中国新闻网",
-      "cat": "policy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "黑龙江呼玛县：北疆边境暖夕阳 盘活集体资产办好农村养老",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738555.shtml",
-      "source": "中国新闻网",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "高市称和普京聊了30分钟 俄方否认",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E7%A7%B0%E5%92%8C%E6%99%AE%E4%BA%AC%E8%81%8A%E4%BA%8630%E5%88%86%E9%92%9F+%E4%BF%84%E6%96%B9%E5%90%A6%E8%AE%A4",
+      "title": "外交部发言人笑着说祝大家周末愉快",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AC%91%E7%9D%80%E8%AF%B4%E7%A5%9D%E5%A4%A7%E5%AE%B6%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB",
       "source": "百度热搜",
       "cat": "international",
       "score": 1,
@@ -146,8 +136,8 @@
       ]
     },
     {
-      "title": "义乌仿真花开出百亿级大市场",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E4%BB%BF%E7%9C%9F%E8%8A%B1%E5%BC%80%E5%87%BA%E7%99%BE%E4%BA%BF%E7%BA%A7%E5%A4%A7%E5%B8%82%E5%9C%BA",
+      "title": "央行新规 取消贷款罚息利率上下限",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E6%96%B0%E8%A7%84+%E5%8F%96%E6%B6%88%E8%B4%B7%E6%AC%BE%E7%BD%9A%E6%81%AF%E5%88%A9%E7%8E%87%E4%B8%8A%E4%B8%8B%E9%99%90",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -156,8 +146,8 @@
       ]
     },
     {
-      "title": "当地通报路面大量图钉致轮胎受损",
-      "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E8%B7%AF%E9%9D%A2%E5%A4%A7%E9%87%8F%E5%9B%BE%E9%92%89%E8%87%B4%E8%BD%AE%E8%83%8E%E5%8F%97%E6%8D%9F",
+      "title": "医保局主播辱骂咨询者 当地通报",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E4%BF%9D%E5%B1%80%E4%B8%BB%E6%92%AD%E8%BE%B1%E9%AA%82%E5%92%A8%E8%AF%A2%E8%80%85+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
       "source": "百度热搜",
       "cat": "hot",
       "score": 1,
@@ -166,58 +156,28 @@
       ]
     },
     {
-      "title": "航天工作者回应“SpaceX顶中国航天”",
-      "url": "https://www.baidu.com/s?wd=%E8%88%AA%E5%A4%A9%E5%B7%A5%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E2%80%9CSpaceX%E9%A1%B6%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E2%80%9D",
+      "title": "大额存单发行利率以市场化方式确定",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E5%8F%91%E8%A1%8C%E5%88%A9%E7%8E%87%E4%BB%A5%E5%B8%82%E5%9C%BA%E5%8C%96%E6%96%B9%E5%BC%8F%E7%A1%AE%E5%AE%9A",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "economy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "百亿播放量AI漫剧进影院",
-      "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E6%BC%AB%E5%89%A7%E8%BF%9B%E5%BD%B1%E9%99%A2",
+      "title": "证监会：抓紧研究出台相关增量政策",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E6%8A%93%E7%B4%A7%E7%A0%94%E7%A9%B6%E5%87%BA%E5%8F%B0%E7%9B%B8%E5%85%B3%E5%A2%9E%E9%87%8F%E6%94%BF%E7%AD%96",
       "source": "百度热搜",
-      "cat": "tech",
+      "cat": "policy",
       "score": 1,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "普京：必将回应乌对俄能源设施的袭击",
-      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%BF%85%E5%B0%86%E5%9B%9E%E5%BA%94%E4%B9%8C%E5%AF%B9%E4%BF%84%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E7%9A%84%E8%A2%AD%E5%87%BB",
-      "source": "百度热搜",
-      "cat": "international",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "北大教师右眼致残医疗维权11年",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E5%B8%88%E5%8F%B3%E7%9C%BC%E8%87%B4%E6%AE%8B%E5%8C%BB%E7%96%97%E7%BB%B4%E6%9D%8311%E5%B9%B4",
-      "source": "百度热搜",
-      "cat": "society",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "武汉大学通报：教师曾某某违规使用科研经费被免职",
-      "url": "http://baijiahao.baidu.com/s?id=1882920621458815396",
-      "source": "百度热搜",
-      "cat": "hot",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "多方统筹协同联动，严打野生动植物非法交易",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738604.shtml",
+      "title": "齐白石《四季山水图屏》亮相重庆中国三峡博物馆藏条屏书画展",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738958.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -226,8 +186,8 @@
       ]
     },
     {
-      "title": "评论：织密反兴奋剂法网，守护体育纯净天空",
-      "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738596.shtml",
+      "title": "菲律宾副总统莎拉称绝不会因弹劾审判辞职",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738991.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -236,8 +196,48 @@
       ]
     },
     {
-      "title": "日本加码远程打击能力 军工体系加速“平战转换”",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738595.shtml",
+      "title": "偷渡出境搞“裸聊”敲诈 恶势力集团首要分子获刑20年",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738985.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "日媒：涉嫌非法侵入住宅，一名驻日美军人员被捕",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738996.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "广西首支职业女篮队伍将出征中国女子篮球联赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738984.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "“书香阅世界·大使话往来”主题读书分享会在深圳举办",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738983.shtml",
+      "source": "中国新闻网",
+      "cat": "hot",
+      "score": 0,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "一块露天银幕连接中柬两国民众的光影情缘",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738987.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
