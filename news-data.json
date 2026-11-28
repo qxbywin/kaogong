@@ -1,43 +1,23 @@
 {
   "date": "2026-11-28",
-  "time": "03:59",
-  "generatedAt": "2026-11-28T03:59:28.874Z",
-  "source_summary": "中国新闻网(30) · 百度热搜(59)",
+  "time": "13:16",
+  "generatedAt": "2026-11-28T13:16:03.736Z",
+  "source_summary": "中国新闻网(30) · 百度热搜(56)",
   "count": 24,
   "items": [
     {
-      "title": "晶采观察丨需求升级、供给创新 三重变化勾勒消费市场新图景",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739152.shtml",
+      "title": "田间直播AI带货 北京市政协助力“村播”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739396.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
+      "cat": "policy",
       "score": 2,
       "exams": [
         "申论素材"
       ]
     },
     {
-      "title": "聚焦场馆协作与资源共享等方向 现代科技馆体系联合行动交流研讨",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739161.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "中国水协科技委2026年度年会暨技术交流会在深圳举行",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739163.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "稳中有进、持续向优 今年前10个月物流业总收入12.3万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739153.shtml",
+      "title": "（走进中国乡村）湖南千年宁乡栀子“链”出富民产业",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739412.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -46,18 +26,8 @@
       ]
     },
     {
-      "title": "亚太数智赋能创新发展合作平台启动建设",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml",
-      "source": "中国新闻网",
-      "cat": "tech",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "国产大邮轮落子广州 大船经济何以成势",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739137.shtml",
+      "title": "【好评中国】中安时评 | 服务贸易乘风起，擦亮中国新名片",
+      "url": "https://www.chinanews.com.cn/ll/2026/11-28/10739417.shtml",
       "source": "中国新闻网",
       "cat": "economy",
       "score": 1,
@@ -66,19 +36,9 @@
       ]
     },
     {
-      "title": "高铁“上新”带动冬季文旅市场持续升温",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739135.shtml",
+      "title": "以赛促学 2026年哈尔滨市学生科技作品展示大赛开赛",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739400.shtml",
       "source": "中国新闻网",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "李香凝将用AIGC复活李小龙",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%A6%99%E5%87%9D%E5%B0%86%E7%94%A8AIGC%E5%A4%8D%E6%B4%BB%E6%9D%8E%E5%B0%8F%E9%BE%99",
-      "source": "百度热搜",
       "cat": "tech",
       "score": 1,
       "exams": [
@@ -86,8 +46,18 @@
       ]
     },
     {
-      "title": "澳门居民珠海养老 每人每月补助5千元",
-      "url": "https://www.baidu.com/s?wd=%E6%BE%B3%E9%97%A8%E5%B1%85%E6%B0%91%E7%8F%A0%E6%B5%B7%E5%85%BB%E8%80%81+%E6%AF%8F%E4%BA%BA%E6%AF%8F%E6%9C%88%E8%A1%A5%E5%8A%A95%E5%8D%83%E5%85%83",
+      "title": "第五届赣南脐橙国际博览会签订脐橙销售合同11.48万吨",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739394.shtml",
+      "source": "中国新闻网",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "校服袖子一长一短 教育局已介入",
+      "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E6%9C%8D%E8%A2%96%E5%AD%90%E4%B8%80%E9%95%BF%E4%B8%80%E7%9F%AD+%E6%95%99%E8%82%B2%E5%B1%80%E5%B7%B2%E4%BB%8B%E5%85%A5",
       "source": "百度热搜",
       "cat": "society",
       "score": 1,
@@ -96,18 +66,8 @@
       ]
     },
     {
-      "title": "399元羽绒服卖断货是消费降级吗",
-      "url": "https://www.baidu.com/s?wd=399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E6%96%AD%E8%B4%A7%E6%98%AF%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E5%90%97",
-      "source": "百度热搜",
-      "cat": "economy",
-      "score": 1,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "专访巴基斯坦航天员中文老师",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%93%E8%AE%BF%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E4%B8%AD%E6%96%87%E8%80%81%E5%B8%88",
+      "title": "3名航天员回家将带回“神秘礼物”",
+      "url": "https://www.baidu.com/s?wd=3%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%AE%B6%E5%B0%86%E5%B8%A6%E5%9B%9E%E2%80%9C%E7%A5%9E%E7%A7%98%E7%A4%BC%E7%89%A9%E2%80%9D",
       "source": "百度热搜",
       "cat": "tech",
       "score": 1,
@@ -116,8 +76,48 @@
       ]
     },
     {
-      "title": "央行，重磅发布！事关人民币存贷款利率，2027年3月21日起施行",
-      "url": "http://baijiahao.baidu.com/s?id=1883009341648041757",
+      "title": "巴基斯坦将11月25日设为航天纪念日",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B0%8611%E6%9C%8825%E6%97%A5%E8%AE%BE%E4%B8%BA%E8%88%AA%E5%A4%A9%E7%BA%AA%E5%BF%B5%E6%97%A5",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "养老机器人集中亮相",
+      "url": "https://www.baidu.com/s?wd=%E5%85%BB%E8%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9B%86%E4%B8%AD%E4%BA%AE%E7%9B%B8",
+      "source": "百度热搜",
+      "cat": "society",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "官方通报民办小学“卖惨骗捐”",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B0%91%E5%8A%9E%E5%B0%8F%E5%AD%A6%E2%80%9C%E5%8D%96%E6%83%A8%E9%AA%97%E6%8D%90%E2%80%9D",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "交接后航天员飞成一圈对镜头打招呼",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E6%8E%A5%E5%90%8E%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E6%88%90%E4%B8%80%E5%9C%88%E5%AF%B9%E9%95%9C%E5%A4%B4%E6%89%93%E6%8B%9B%E5%91%BC",
+      "source": "百度热搜",
+      "cat": "tech",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "法国已陷入经济衰退",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%B7%B2%E9%99%B7%E5%85%A5%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80",
       "source": "百度热搜",
       "cat": "economy",
       "score": 1,
@@ -126,8 +126,48 @@
       ]
     },
     {
-      "title": "理响津门 城暖万家｜一辆汽车背后的天津答卷",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739168.shtml",
+      "title": "央视曝光低息贷款陷阱",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BD%8E%E6%81%AF%E8%B4%B7%E6%AC%BE%E9%99%B7%E9%98%B1",
+      "source": "百度热搜",
+      "cat": "economy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "证监会出手！“南京路宝宝总”被查处",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%87%BA%E6%89%8B%EF%BC%81%E2%80%9C%E5%8D%97%E4%BA%AC%E8%B7%AF%E5%AE%9D%E5%AE%9D%E6%80%BB%E2%80%9D%E8%A2%AB%E6%9F%A5%E5%A4%84",
+      "source": "百度热搜",
+      "cat": "hot",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "中央纪委国家监委网站：过去一周，5名中管干部被公布接受审查调查或受到处分，要继续保持惩治腐败高压态势，决不让腐败分子有藏身之地",
+      "url": "http://baijiahao.baidu.com/s?id=1883060416848408763",
+      "source": "百度热搜",
+      "cat": "policy",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "乒乓球重磅消息！30岁副队长梁靖崑将要留洋，登陆俄罗斯联赛，国乒已有22人海外征战",
+      "url": "http://baijiahao.baidu.com/s?id=1883073128846464613",
+      "source": "百度热搜",
+      "cat": "international",
+      "score": 1,
+      "exams": [
+        "申论素材"
+      ]
+    },
+    {
+      "title": "期待巴中科研合作结出更多硕果——访巴西科学院院长纳德尔",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739424.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -136,8 +176,8 @@
       ]
     },
     {
-      "title": "商家出餐晚了 配送超时由谁担责？算法协商回应骑手关切→",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739167.shtml",
+      "title": "福建首条直飞非洲客运航线在厦门开通",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739416.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -146,8 +186,8 @@
       ]
     },
     {
-      "title": "天津地铁8号线﻿开通运营",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739165.shtml",
+      "title": "全球媒体聚焦 | 非媒：COP31遇挫 中国的领导作用日显重要",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739422.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -156,8 +196,8 @@
       ]
     },
     {
-      "title": "全国殡葬服务热线“12353”在重庆率先启用",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739159.shtml",
+      "title": "短道速滑世巡赛上海站：中国队收获两枚铜牌",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739415.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -166,8 +206,8 @@
       ]
     },
     {
-      "title": "指数报告指出，长三角41城休闲化整体向好  优质供给成关键",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739164.shtml",
+      "title": "阿富汗东部一学校附近发生爆炸致10死110伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739414.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -176,8 +216,8 @@
       ]
     },
     {
-      "title": "江苏优质网络主播培育成果展演在扬州举行 发布网络直播行业自律倡议书",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739162.shtml",
+      "title": "短道速滑世界巡回赛上海站：中国队获得女子3000米接力赛铜牌",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739404.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -186,8 +226,8 @@
       ]
     },
     {
-      "title": "人民论坛网评 | “快落地”也要有“慢商量”",
-      "url": "https://www.chinanews.com.cn/ll/2026/11-28/10739160.shtml",
+      "title": "四川成都：“珠玑玉佩的时光叙事”特展吸引参观者",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739392.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
@@ -196,48 +236,8 @@
       ]
     },
     {
-      "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739149.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "废旧X光片能炼银？千万别试！不仅危险，还可能违法",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739158.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "社科大刘晓春：未成年用网精细化治理应分阶段实施，强化用户提示和引导",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739142.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "歼-35A飞抵珠海 将首次真机进馆展出",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
-      "source": "中国新闻网",
-      "cat": "hot",
-      "score": 0,
-      "exams": [
-        "申论素材"
-      ]
-    },
-    {
-      "title": "舞剧《天工开物》在海南省歌舞剧院上演",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739150.shtml",
+      "title": "创意视频 | 一地三区，河北亮底牌啦",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739413.shtml",
       "source": "中国新闻网",
       "cat": "hot",
       "score": 0,
